@@ -1,0 +1,201 @@
+#Occupation ICT research consultant
+##Number skills 21
+###Similar occupations:
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>occupation</th>
+      <th>skills in this occupation</th>
+      <th>skills that match ICT research consultant</th>
+      <th>percentage match with ICT research consultant</th>
+      <th>skills not in ICT research consultant</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1375</th>
+      <td>[computer scientist](computer scientist.md)</td>
+      <td>12</td>
+      <td>10</td>
+      <td>0.476190</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>941</th>
+      <td>[ICT research manager](ICT research manager.md)</td>
+      <td>18</td>
+      <td>9</td>
+      <td>0.428571</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <th>747</th>
+      <td>[user experience analyst](user experience analyst.md)</td>
+      <td>17</td>
+      <td>6</td>
+      <td>0.285714</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <th>2687</th>
+      <td>[economist](economist.md)</td>
+      <td>15</td>
+      <td>5</td>
+      <td>0.238095</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>846</th>
+      <td>[statistician](statistician.md)</td>
+      <td>14</td>
+      <td>4</td>
+      <td>0.190476</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>1380</th>
+      <td>[sociologist](sociologist.md)</td>
+      <td>14</td>
+      <td>4</td>
+      <td>0.190476</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>2323</th>
+      <td>[biometrician](biometrician.md)</td>
+      <td>11</td>
+      <td>4</td>
+      <td>0.190476</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <th>1970</th>
+      <td>[librarian](librarian.md)</td>
+      <td>15</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <th>1650</th>
+      <td>[demographer](demographer.md)</td>
+      <td>12</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <th>2059</th>
+      <td>[geology technician](geology technician.md)</td>
+      <td>22</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <th>534</th>
+      <td>[mathematician](mathematician.md)</td>
+      <td>12</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <th>1349</th>
+      <td>[climatologist](climatologist.md)</td>
+      <td>16</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <th>847</th>
+      <td>[statistical assistant](statistical assistant.md)</td>
+      <td>14</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <th>2688</th>
+      <td>[seismologist](seismologist.md)</td>
+      <td>13</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>2683</th>
+      <td>[oceanographer](oceanographer.md)</td>
+      <td>15</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <th>436</th>
+      <td>[business economics researcher](business economics researcher.md)</td>
+      <td>12</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <th>2549</th>
+      <td>[business analyst](business analyst.md)</td>
+      <td>18</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <th>1265</th>
+      <td>[analytical chemist](analytical chemist.md)</td>
+      <td>17</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <th>2619</th>
+      <td>[astronomer](astronomer.md)</td>
+      <td>12</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <th>1279</th>
+      <td>[geologist](geologist.md)</td>
+      <td>20</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>17</td>
+    </tr>
+    <tr>
+      <th>1269</th>
+      <td>[physicist](physicist.md)</td>
+      <td>14</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <th>2231</th>
+      <td>[communication scientist](communication scientist.md)</td>
+      <td>11</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <th>1275</th>
+      <td>[physics technician](physics technician.md)</td>
+      <td>13</td>
+      <td>3</td>
+      <td>0.142857</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>
