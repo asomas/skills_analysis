@@ -1,261 +1,40 @@
 #Occupation derrickhand
 ##Number skills 12
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match derrickhand</th>
-      <th>percentage match with derrickhand</th>
-      <th>skills not in derrickhand</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[oil rig motorhand](oil_rig_motorhand.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>6</td>
-      <td>0.500000</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rigging supervisor](rigging_supervisor.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.333333</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rigger](rigger.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.333333</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tower crane operator](tower_crane_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.250000</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[roughneck](roughneck.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.250000</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pipeline pump operator](pipeline_pump_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mobile crane operator](mobile_crane_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[grader operator](grader_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road roller operator](road_roller_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[concrete pump operator](concrete_pump_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sewer construction supervisor](sewer_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gauger](gauger.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pile driving hammer operator](pile_driving_hammer_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bulldozer operator](bulldozer_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[roustabout](roustabout.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scraper operator](scraper_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rail layer](rail_layer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[demolition supervisor](demolition_supervisor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[demolition worker](demolition_worker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[excavator operator](excavator_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crane crew supervisor](crane_crew_supervisor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sewer construction worker](sewer_construction_worker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[refining machine operator](refining_machine_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tunnel boring machine operator](tunnel_boring_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wind turbine technician](wind_turbine_technician.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lift installation supervisor](lift_installation_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hydrogenation machine operator](hydrogenation_machine_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crane technician](crane_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road construction supervisor](road_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bridge construction supervisor](bridge_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[underground heavy equipment operator](underground_heavy_equipment_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[solar energy technician](solar_energy_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dismantling worker](dismantling_worker.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[surface mine plant operator](surface_mine_plant_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rail construction supervisor](rail_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.166667</td>
-      <td>20</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                      |   skills in this occupation |   skills that match derrickhand |   percentage match with derrickhand |   skills not in derrickhand |
+|:--------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
+| [oil rig motorhand](oil_rig_motorhand.md)                                       |                          13 |                               6 |                            0.5      |                           7 |
+| [rigging supervisor](rigging_supervisor.md)                                     |                          14 |                               4 |                            0.333333 |                          10 |
+| [rigger](rigger.md)                                                             |                          16 |                               4 |                            0.333333 |                          12 |
+| [tower crane operator](tower_crane_operator.md)                                 |                          15 |                               3 |                            0.25     |                          12 |
+| [roughneck](roughneck.md)                                                       |                          12 |                               3 |                            0.25     |                           9 |
+| [pipeline pump operator](pipeline_pump_operator.md)                             |                          18 |                               2 |                            0.166667 |                          16 |
+| [mobile crane operator](mobile_crane_operator.md)                               |                          17 |                               2 |                            0.166667 |                          15 |
+| [grader operator](grader_operator.md)                                           |                          12 |                               2 |                            0.166667 |                          10 |
+| [road roller operator](road_roller_operator.md)                                 |                          15 |                               2 |                            0.166667 |                          13 |
+| [concrete pump operator](concrete_pump_operator.md)                             |                          19 |                               2 |                            0.166667 |                          17 |
+| [sewer construction supervisor](sewer_construction_supervisor.md)               |                          27 |                               2 |                            0.166667 |                          25 |
+| [gauger](gauger.md)                                                             |                          13 |                               2 |                            0.166667 |                          11 |
+| [pile driving hammer operator](pile_driving_hammer_operator.md)                 |                          15 |                               2 |                            0.166667 |                          13 |
+| [bulldozer operator](bulldozer_operator.md)                                     |                          17 |                               2 |                            0.166667 |                          15 |
+| [roustabout](roustabout.md)                                                     |                          16 |                               2 |                            0.166667 |                          14 |
+| [scraper operator](scraper_operator.md)                                         |                          16 |                               2 |                            0.166667 |                          14 |
+| [rail layer](rail_layer.md)                                                     |                          18 |                               2 |                            0.166667 |                          16 |
+| [demolition supervisor](demolition_supervisor.md)                               |                          21 |                               2 |                            0.166667 |                          19 |
+| [demolition worker](demolition_worker.md)                                       |                          16 |                               2 |                            0.166667 |                          14 |
+| [excavator operator](excavator_operator.md)                                     |                          18 |                               2 |                            0.166667 |                          16 |
+| [crane crew supervisor](crane_crew_supervisor.md)                               |                          22 |                               2 |                            0.166667 |                          20 |
+| [sewer construction worker](sewer_construction_worker.md)                       |                          22 |                               2 |                            0.166667 |                          20 |
+| [refining machine operator](refining_machine_operator.md)                       |                          22 |                               2 |                            0.166667 |                          20 |
+| [tunnel boring machine operator](tunnel_boring_machine_operator.md)             |                          14 |                               2 |                            0.166667 |                          12 |
+| [wind turbine technician](wind_turbine_technician.md)                           |                          15 |                               2 |                            0.166667 |                          13 |
+| [lift installation supervisor](lift_installation_supervisor.md)                 |                          26 |                               2 |                            0.166667 |                          24 |
+| [hydrogenation machine operator](hydrogenation_machine_operator.md)             |                          22 |                               2 |                            0.166667 |                          20 |
+| [crane technician](crane_technician.md)                                         |                          14 |                               2 |                            0.166667 |                          12 |
+| [road construction supervisor](road_construction_supervisor.md)                 |                          25 |                               2 |                            0.166667 |                          23 |
+| [bridge construction supervisor](bridge_construction_supervisor.md)             |                          26 |                               2 |                            0.166667 |                          24 |
+| [underground heavy equipment operator](underground_heavy_equipment_operator.md) |                          14 |                               2 |                            0.166667 |                          12 |
+| [solar energy technician](solar_energy_technician.md)                           |                          19 |                               2 |                            0.166667 |                          17 |
+| [dismantling worker](dismantling_worker.md)                                     |                          24 |                               2 |                            0.166667 |                          22 |
+| [surface mine plant operator](surface_mine_plant_operator.md)                   |                          13 |                               2 |                            0.166667 |                          11 |
+| [rail construction supervisor](rail_construction_supervisor.md)                 |                          22 |                               2 |                            0.166667 |                          20 |

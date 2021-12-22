@@ -1,51 +1,10 @@
 #Occupation mover
 ##Number skills 13
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match mover</th>
-      <th>percentage match with mover</th>
-      <th>skills not in mover</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[moving truck driver](moving_truck_driver.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[move coordinator](move_coordinator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bus driver](bus_driver.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[taxi driver](taxi_driver.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[move manager](move_manager.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>18</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                    |   skills in this occupation |   skills that match mover |   percentage match with mover |   skills not in mover |
+|:----------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
+| [moving truck driver](moving_truck_driver.md) |                          21 |                         5 |                      0.384615 |                    16 |
+| [move coordinator](move_coordinator.md)       |                          14 |                         5 |                      0.384615 |                     9 |
+| [bus driver](bus_driver.md)                   |                          33 |                         2 |                      0.153846 |                    31 |
+| [taxi driver](taxi_driver.md)                 |                          20 |                         2 |                      0.153846 |                    18 |
+| [move manager](move_manager.md)               |                          20 |                         2 |                      0.153846 |                    18 |

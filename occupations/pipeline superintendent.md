@@ -1,254 +1,39 @@
 #Occupation pipeline superintendent
 ##Number skills 21
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match pipeline superintendent</th>
-      <th>percentage match with pipeline superintendent</th>
-      <th>skills not in pipeline superintendent</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[pipeline route manager](pipeline_route_manager.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>9</td>
-      <td>0.428571</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pipeline compliance coordinator](pipeline_compliance_coordinator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>7</td>
-      <td>0.333333</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gas transmission system operator](gas_transmission_system_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pipeline environmental project manager](pipeline_environmental_project_manager.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[move manager](move_manager.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gas scheduling representative](gas_scheduling_representative.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gas distribution engineer](gas_distribution_engineer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[warehouse manager](warehouse_manager.md)&lt;/span&gt;</td>
-      <td>41</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>38</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[air traffic instructor](air_traffic_instructor.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[primary school head teacher](primary_school_head_teacher.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[publications coordinator](publications_coordinator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[office manager](office_manager.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[headteacher](headteacher.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[secondary school head teacher](secondary_school_head_teacher.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[installation engineer](installation_engineer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[further education principal](further_education_principal.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[book publisher](book_publisher.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dairy processing technician](dairy_processing_technician.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[secretary general](secretary_general.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental manager](rental_manager.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special educational needs head teacher](special_educational_needs_head_teacher.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[police commissioner](police_commissioner.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ground lighting officer](ground_lighting_officer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sewerage network operative](sewerage_network_operative.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[water engineering technician](water_engineering_technician.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[project manager](project_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gas processing plant operator](gas_processing_plant_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nursery school head teacher](nursery_school_head_teacher.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drainage engineer](drainage_engineer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sales manager](sales_manager.md)&lt;/span&gt;</td>
-      <td>40</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>37</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pipeline engineer](pipeline_engineer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cabin crew instructor](cabin_crew_instructor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ICT project manager](ICT_project_manager.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drain technician](drain_technician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                          |   skills in this occupation |   skills that match pipeline superintendent |   percentage match with pipeline superintendent |   skills not in pipeline superintendent |
+|:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
+| [pipeline route manager](pipeline_route_manager.md)                                 |                          18 |                                           9 |                                        0.428571 |                                       9 |
+| [pipeline compliance coordinator](pipeline_compliance_coordinator.md)               |                          19 |                                           7 |                                        0.333333 |                                      12 |
+| [gas transmission system operator](gas_transmission_system_operator.md)             |                          12 |                                           5 |                                        0.238095 |                                       7 |
+| [pipeline environmental project manager](pipeline_environmental_project_manager.md) |                          16 |                                           5 |                                        0.238095 |                                      11 |
+| [move manager](move_manager.md)                                                     |                          20 |                                           5 |                                        0.238095 |                                      15 |
+| [gas scheduling representative](gas_scheduling_representative.md)                   |                          12 |                                           4 |                                        0.190476 |                                       8 |
+| [gas distribution engineer](gas_distribution_engineer.md)                           |                          21 |                                           4 |                                        0.190476 |                                      17 |
+| [warehouse manager](warehouse_manager.md)                                           |                          41 |                                           3 |                                        0.142857 |                                      38 |
+| [air traffic instructor](air_traffic_instructor.md)                                 |                          29 |                                           3 |                                        0.142857 |                                      26 |
+| [primary school head teacher](primary_school_head_teacher.md)                       |                          24 |                                           3 |                                        0.142857 |                                      21 |
+| [publications coordinator](publications_coordinator.md)                             |                          19 |                                           3 |                                        0.142857 |                                      16 |
+| [office manager](office_manager.md)                                                 |                          17 |                                           3 |                                        0.142857 |                                      14 |
+| [headteacher](headteacher.md)                                                       |                          25 |                                           3 |                                        0.142857 |                                      22 |
+| [secondary school head teacher](secondary_school_head_teacher.md)                   |                          24 |                                           3 |                                        0.142857 |                                      21 |
+| [installation engineer](installation_engineer.md)                                   |                          18 |                                           3 |                                        0.142857 |                                      15 |
+| [further education principal](further_education_principal.md)                       |                          20 |                                           3 |                                        0.142857 |                                      17 |
+| [book publisher](book_publisher.md)                                                 |                          15 |                                           3 |                                        0.142857 |                                      12 |
+| [dairy processing technician](dairy_processing_technician.md)                       |                          27 |                                           3 |                                        0.142857 |                                      24 |
+| [secretary general](secretary_general.md)                                           |                          10 |                                           3 |                                        0.142857 |                                       7 |
+| [rental manager](rental_manager.md)                                                 |                          21 |                                           3 |                                        0.142857 |                                      18 |
+| [special educational needs head teacher](special_educational_needs_head_teacher.md) |                          26 |                                           3 |                                        0.142857 |                                      23 |
+| [police commissioner](police_commissioner.md)                                       |                          18 |                                           3 |                                        0.142857 |                                      15 |
+| [ground lighting officer](ground_lighting_officer.md)                               |                          20 |                                           3 |                                        0.142857 |                                      17 |
+| [sewerage network operative](sewerage_network_operative.md)                         |                          13 |                                           3 |                                        0.142857 |                                      10 |
+| [water engineering technician](water_engineering_technician.md)                     |                          10 |                                           3 |                                        0.142857 |                                       7 |
+| [project manager](project_manager.md)                                               |                          28 |                                           3 |                                        0.142857 |                                      25 |
+| [gas processing plant operator](gas_processing_plant_operator.md)                   |                          15 |                                           3 |                                        0.142857 |                                      12 |
+| [nursery school head teacher](nursery_school_head_teacher.md)                       |                          23 |                                           3 |                                        0.142857 |                                      20 |
+| [drainage engineer](drainage_engineer.md)                                           |                          21 |                                           3 |                                        0.142857 |                                      18 |
+| [sales manager](sales_manager.md)                                                   |                          40 |                                           3 |                                        0.142857 |                                      37 |
+| [pipeline engineer](pipeline_engineer.md)                                           |                          19 |                                           3 |                                        0.142857 |                                      16 |
+| [cabin crew instructor](cabin_crew_instructor.md)                                   |                          17 |                                           3 |                                        0.142857 |                                      14 |
+| [ICT project manager](ICT_project_manager.md)                                       |                          20 |                                           3 |                                        0.142857 |                                      17 |
+| [drain technician](drain_technician.md)                                             |                          12 |                                           3 |                                        0.142857 |                                       9 |

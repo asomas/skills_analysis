@@ -1,555 +1,82 @@
 #Occupation confectioner
 ##Number skills 33
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match confectioner</th>
-      <th>percentage match with confectioner</th>
-      <th>skills not in confectioner</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[baker](baker.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>15</td>
-      <td>0.454545</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pastry maker](pastry_maker.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>13</td>
-      <td>0.393939</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chocolatier](chocolatier.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>12</td>
-      <td>0.363636</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[baking operator](baking_operator.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>11</td>
-      <td>0.333333</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial cook](industrial_cook.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>10</td>
-      <td>0.303030</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pasta maker](pasta_maker.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>9</td>
-      <td>0.272727</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pasta operator](pasta_operator.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>8</td>
-      <td>0.242424</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[butcher](butcher.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>6</td>
-      <td>0.181818</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[meat preparations operator](meat_preparations_operator.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>6</td>
-      <td>0.181818</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[germination operator](germination_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>6</td>
-      <td>0.181818</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[water treatment systems operator](water_treatment_systems_operator.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>6</td>
-      <td>0.181818</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cacao bean roaster](cacao_bean_roaster.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.181818</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[malt kiln operator](malt_kiln_operator.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>6</td>
-      <td>0.181818</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chocolate moulding operator](chocolate_moulding_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>6</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prepared meat operator](prepared_meat_operator.md)&lt;/span&gt;</td>
-      <td>41</td>
-      <td>6</td>
-      <td>0.181818</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[candy machine operator](candy_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.181818</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[master coffee roaster](master_coffee_roaster.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kettle tender](kettle_tender.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cigarette making machine operator](cigarette_making_machine_operator.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>42</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[milk heat treatment process operator](milk_heat_treatment_process_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[liquor grinding mill operator](liquor_grinding_mill_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sugar refinery operator](sugar_refinery_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal feed supervisor](animal_feed_supervisor.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[canning and bottling line operator](canning_and_bottling_line_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oilseed presser](oilseed_presser.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[slaughterer](slaughterer.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[brew house operator](brew_house_operator.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[coffee roaster](coffee_roaster.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chilling operator](chilling_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[halal butcher](halal_butcher.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fish production operator](fish_production_operator.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[distillery worker](distillery_worker.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[centrifuge operator](centrifuge_operator.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wine fermenter](wine_fermenter.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cocoa press operator](cocoa_press_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dryer attendant](dryer_attendant.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[starch converting operator](starch_converting_operator.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[yeast distiller](yeast_distiller.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cellar operator](cellar_operator.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fruit and vegetable canner](fruit_and_vegetable_canner.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[liquor blender](liquor_blender.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[meat cutter](meat_cutter.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[blanching operator](blanching_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oenologist](oenologist.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dairy products manufacturing worker](dairy_products_manufacturing_worker.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>5</td>
-      <td>0.151515</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[coffee grinder](coffee_grinder.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[packaging and filling machine operator](packaging_and_filling_machine_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prepared meals nutritionist](prepared_meals_nutritionist.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dairy processing technician](dairy_processing_technician.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[blender operator](blender_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fruit-press operator](fruit-press_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[distillery miller](distillery_miller.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fruit and vegetable preserver](fruit_and_vegetable_preserver.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[milk reception operator](milk_reception_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cider master](cider_master.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[starch extraction operator](starch_extraction_operator.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fish trimmer](fish_trimmer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[leaf sorter](leaf_sorter.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sauce production operator](sauce_production_operator.md)&lt;/span&gt;</td>
-      <td>7</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dairy processing operator](dairy_processing_operator.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clarifier](clarifier.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[refining machine operator](refining_machine_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[food and beverage packaging technologist](food_and_beverage_packaging_technologist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[extract mixer tester](extract_mixer_tester.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[malt master](malt_master.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fish preparation operator](fish_preparation_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[honey extractor](honey_extractor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vermouth manufacturer](vermouth_manufacturer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flour purifier operator](flour_purifier_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hydrogenation machine operator](hydrogenation_machine_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[food analyst](food_analyst.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[brewmaster](brewmaster.md)&lt;/span&gt;</td>
-      <td>40</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>36</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cocoa mill operator](cocoa_mill_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bulk filler](bulk_filler.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cacao beans cleaner](cacao_beans_cleaner.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kosher slaughterer](kosher_slaughterer.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[halal slaughterer](halal_slaughterer.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>4</td>
-      <td>0.121212</td>
-      <td>29</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                              |   skills in this occupation |   skills that match confectioner |   percentage match with confectioner |   skills not in confectioner |
+|:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
+| [baker](baker.md)                                                                       |                          35 |                               15 |                             0.454545 |                           20 |
+| [pastry maker](pastry_maker.md)                                                         |                          28 |                               13 |                             0.393939 |                           15 |
+| [chocolatier](chocolatier.md)                                                           |                          28 |                               12 |                             0.363636 |                           16 |
+| [baking operator](baking_operator.md)                                                   |                          24 |                               11 |                             0.333333 |                           13 |
+| [industrial cook](industrial_cook.md)                                                   |                          29 |                               10 |                             0.30303  |                           19 |
+| [pasta maker](pasta_maker.md)                                                           |                          21 |                                9 |                             0.272727 |                           12 |
+| [pasta operator](pasta_operator.md)                                                     |                          27 |                                8 |                             0.242424 |                           19 |
+| [butcher](butcher.md)                                                                   |                          36 |                                6 |                             0.181818 |                           30 |
+| [meat preparations operator](meat_preparations_operator.md)                             |                          36 |                                6 |                             0.181818 |                           30 |
+| [germination operator](germination_operator.md)                                         |                          21 |                                6 |                             0.181818 |                           15 |
+| [water treatment systems operator](water_treatment_systems_operator.md)                 |                          29 |                                6 |                             0.181818 |                           23 |
+| [cacao bean roaster](cacao_bean_roaster.md)                                             |                          22 |                                6 |                             0.181818 |                           16 |
+| [malt kiln operator](malt_kiln_operator.md)                                             |                          28 |                                6 |                             0.181818 |                           22 |
+| [chocolate moulding operator](chocolate_moulding_operator.md)                           |                          16 |                                6 |                             0.181818 |                           10 |
+| [prepared meat operator](prepared_meat_operator.md)                                     |                          41 |                                6 |                             0.181818 |                           35 |
+| [candy machine operator](candy_machine_operator.md)                                     |                          18 |                                6 |                             0.181818 |                           12 |
+| [master coffee roaster](master_coffee_roaster.md)                                       |                          22 |                                5 |                             0.151515 |                           17 |
+| [kettle tender](kettle_tender.md)                                                       |                          12 |                                5 |                             0.151515 |                            7 |
+| [cigarette making machine operator](cigarette_making_machine_operator.md)               |                          47 |                                5 |                             0.151515 |                           42 |
+| [milk heat treatment process operator](milk_heat_treatment_process_operator.md)         |                          18 |                                5 |                             0.151515 |                           13 |
+| [liquor grinding mill operator](liquor_grinding_mill_operator.md)                       |                          14 |                                5 |                             0.151515 |                            9 |
+| [sugar refinery operator](sugar_refinery_operator.md)                                   |                          19 |                                5 |                             0.151515 |                           14 |
+| [animal feed supervisor](animal_feed_supervisor.md)                                     |                          29 |                                5 |                             0.151515 |                           24 |
+| [canning and bottling line operator](canning_and_bottling_line_operator.md)             |                          21 |                                5 |                             0.151515 |                           16 |
+| [oilseed presser](oilseed_presser.md)                                                   |                          21 |                                5 |                             0.151515 |                           16 |
+| [slaughterer](slaughterer.md)                                                           |                          36 |                                5 |                             0.151515 |                           31 |
+| [brew house operator](brew_house_operator.md)                                           |                          30 |                                5 |                             0.151515 |                           25 |
+| [coffee roaster](coffee_roaster.md)                                                     |                          18 |                                5 |                             0.151515 |                           13 |
+| [chilling operator](chilling_operator.md)                                               |                          22 |                                5 |                             0.151515 |                           17 |
+| [halal butcher](halal_butcher.md)                                                       |                          30 |                                5 |                             0.151515 |                           25 |
+| [fish production operator](fish_production_operator.md)                                 |                          23 |                                5 |                             0.151515 |                           18 |
+| [distillery worker](distillery_worker.md)                                               |                          17 |                                5 |                             0.151515 |                           12 |
+| [centrifuge operator](centrifuge_operator.md)                                           |                          20 |                                5 |                             0.151515 |                           15 |
+| [wine fermenter](wine_fermenter.md)                                                     |                          17 |                                5 |                             0.151515 |                           12 |
+| [cocoa press operator](cocoa_press_operator.md)                                         |                          19 |                                5 |                             0.151515 |                           14 |
+| [dryer attendant](dryer_attendant.md)                                                   |                          30 |                                5 |                             0.151515 |                           25 |
+| [starch converting operator](starch_converting_operator.md)                             |                          25 |                                5 |                             0.151515 |                           20 |
+| [yeast distiller](yeast_distiller.md)                                                   |                          14 |                                5 |                             0.151515 |                            9 |
+| [cellar operator](cellar_operator.md)                                                   |                          24 |                                5 |                             0.151515 |                           19 |
+| [fruit and vegetable canner](fruit_and_vegetable_canner.md)                             |                          19 |                                5 |                             0.151515 |                           14 |
+| [liquor blender](liquor_blender.md)                                                     |                          21 |                                5 |                             0.151515 |                           16 |
+| [meat cutter](meat_cutter.md)                                                           |                          29 |                                5 |                             0.151515 |                           24 |
+| [blanching operator](blanching_operator.md)                                             |                          22 |                                5 |                             0.151515 |                           17 |
+| [oenologist](oenologist.md)                                                             |                          34 |                                5 |                             0.151515 |                           29 |
+| [dairy products manufacturing worker](dairy_products_manufacturing_worker.md)           |                          27 |                                5 |                             0.151515 |                           22 |
+| [coffee grinder](coffee_grinder.md)                                                     |                          16 |                                4 |                             0.121212 |                           12 |
+| [packaging and filling machine operator](packaging_and_filling_machine_operator.md)     |                          17 |                                4 |                             0.121212 |                           13 |
+| [prepared meals nutritionist](prepared_meals_nutritionist.md)                           |                          23 |                                4 |                             0.121212 |                           19 |
+| [dairy processing technician](dairy_processing_technician.md)                           |                          27 |                                4 |                             0.121212 |                           23 |
+| [blender operator](blender_operator.md)                                                 |                          14 |                                4 |                             0.121212 |                           10 |
+| [fruit-press operator](fruit-press_operator.md)                                         |                          16 |                                4 |                             0.121212 |                           12 |
+| [distillery miller](distillery_miller.md)                                               |                          28 |                                4 |                             0.121212 |                           24 |
+| [fruit and vegetable preserver](fruit_and_vegetable_preserver.md)                       |                          16 |                                4 |                             0.121212 |                           12 |
+| [milk reception operator](milk_reception_operator.md)                                   |                          22 |                                4 |                             0.121212 |                           18 |
+| [cider master](cider_master.md)                                                         |                          36 |                                4 |                             0.121212 |                           32 |
+| [starch extraction operator](starch_extraction_operator.md)                             |                          25 |                                4 |                             0.121212 |                           21 |
+| [fish trimmer](fish_trimmer.md)                                                         |                          16 |                                4 |                             0.121212 |                           12 |
+| [leaf sorter](leaf_sorter.md)                                                           |                          20 |                                4 |                             0.121212 |                           16 |
+| [sauce production operator](sauce_production_operator.md)                               |                           7 |                                4 |                             0.121212 |                            3 |
+| [dairy processing operator](dairy_processing_operator.md)                               |                          27 |                                4 |                             0.121212 |                           23 |
+| [clarifier](clarifier.md)                                                               |                          19 |                                4 |                             0.121212 |                           15 |
+| [refining machine operator](refining_machine_operator.md)                               |                          22 |                                4 |                             0.121212 |                           18 |
+| [food and beverage packaging technologist](food_and_beverage_packaging_technologist.md) |                          19 |                                4 |                             0.121212 |                           15 |
+| [extract mixer tester](extract_mixer_tester.md)                                         |                          13 |                                4 |                             0.121212 |                            9 |
+| [malt master](malt_master.md)                                                           |                          27 |                                4 |                             0.121212 |                           23 |
+| [fish preparation operator](fish_preparation_operator.md)                               |                          21 |                                4 |                             0.121212 |                           17 |
+| [honey extractor](honey_extractor.md)                                                   |                          15 |                                4 |                             0.121212 |                           11 |
+| [vermouth manufacturer](vermouth_manufacturer.md)                                       |                          16 |                                4 |                             0.121212 |                           12 |
+| [flour purifier operator](flour_purifier_operator.md)                                   |                          15 |                                4 |                             0.121212 |                           11 |
+| [hydrogenation machine operator](hydrogenation_machine_operator.md)                     |                          22 |                                4 |                             0.121212 |                           18 |
+| [food analyst](food_analyst.md)                                                         |                          35 |                                4 |                             0.121212 |                           31 |
+| [brewmaster](brewmaster.md)                                                             |                          40 |                                4 |                             0.121212 |                           36 |
+| [cocoa mill operator](cocoa_mill_operator.md)                                           |                          16 |                                4 |                             0.121212 |                           12 |
+| [bulk filler](bulk_filler.md)                                                           |                          14 |                                4 |                             0.121212 |                           10 |
+| [cacao beans cleaner](cacao_beans_cleaner.md)                                           |                          14 |                                4 |                             0.121212 |                           10 |
+| [kosher slaughterer](kosher_slaughterer.md)                                             |                          30 |                                4 |                             0.121212 |                           26 |
+| [halal slaughterer](halal_slaughterer.md)                                               |                          33 |                                4 |                             0.121212 |                           29 |

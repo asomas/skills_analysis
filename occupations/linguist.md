@@ -1,674 +1,99 @@
 #Occupation linguist
 ##Number skills 11
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match linguist</th>
-      <th>percentage match with linguist</th>
-      <th>skills not in linguist</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[literary scholar](literary_scholar.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>6</td>
-      <td>0.545455</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[linguistics lecturer](linguistics_lecturer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>5</td>
-      <td>0.454545</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[palaeontologist](palaeontologist.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oceanographer](oceanographer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[anthropologist](anthropologist.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[historian](historian.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lexicographer](lexicographer.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sign language interpreter](sign_language_interpreter.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geologist](geologist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[thanatology researcher](thanatology_researcher.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[archaeologist](archaeologist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[climatologist](climatologist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[foreign correspondent](foreign_correspondent.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[analytical chemist](analytical_chemist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biology technician](biology_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[botanical technician](botanical_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physiologist](physiologist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kinesiologist](kinesiologist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mineralogist](mineralogist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[demographer](demographer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[translation agency manager](translation_agency_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biochemist](biochemist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[communication scientist](communication_scientist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[media scientist](media_scientist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[interpretation agency manager](interpretation_agency_manager.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[university research assistant](university_research_assistant.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[criminologist](criminologist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biologist](biologist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[microbiologist](microbiologist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geneticist](geneticist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physicist](physicist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hydrologist](hydrologist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geographer](geographer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[economist](economist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[interpreter](interpreter.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[translator](translator.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[foreign language correspondence clerk](foreign_language_correspondence_clerk.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cosmologist](cosmologist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[astronomer](astronomer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[political scientist](political_scientist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[epidemiologist](epidemiologist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metrologist](metrologist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biochemistry technician](biochemistry_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[philosopher](philosopher.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[seismologist](seismologist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[religion scientific researcher](religion_scientific_researcher.md)&lt;/span&gt;</td>
-      <td>7</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zoology technician](zoology_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bacteriology technician](bacteriology_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquaculture biologist](aquaculture_biologist.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[immunologist](immunologist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biomedical engineer](biomedical_engineer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquatic animal health professional](aquatic_animal_health_professional.md)&lt;/span&gt;</td>
-      <td>55</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>52</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sociologist](sociologist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[educational researcher](educational_researcher.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[assistant lecturer](assistant_lecturer.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[toxicologist](toxicologist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biophysicist](biophysicist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[broadcast news editor](broadcast_news_editor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[research engineer](research_engineer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geology technician](geology_technician.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[proofreader](proofreader.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[critic](critic.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[presenter](presenter.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[political journalist](political_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business journalist](business_journalist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crime journalist](crime_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[entertainment journalist](entertainment_journalist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[columnist](columnist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[human rights officer](human_rights_officer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sports journalist](sports_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[journalist](journalist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social work researcher](social_work_researcher.md)&lt;/span&gt;</td>
-      <td>68</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>66</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[photojournalist](photojournalist.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[speechwriter](speechwriter.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[behavioural scientist](behavioural_scientist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biotechnical technician](biotechnical_technician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[copy editor](copy_editor.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[writer](writer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[meteorology technician](meteorology_technician.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[meteorologist](meteorologist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[localiser](localiser.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lawyer linguist](lawyer_linguist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemist](chemist.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[research manager](research_manager.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aerodynamics engineer](aerodynamics_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scopist](scopist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biometrician](biometrician.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bioinformatics scientist](bioinformatics_scientist.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mathematician](mathematician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[speech and language therapist](speech_and_language_therapist.md)&lt;/span&gt;</td>
-      <td>73</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>71</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court reporter](court_reporter.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[statistician](statistician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[news anchor](news_anchor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[subtitler](subtitler.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                        |   skills in this occupation |   skills that match linguist |   percentage match with linguist |   skills not in linguist |
+|:----------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
+| [literary scholar](literary_scholar.md)                                           |                          17 |                            6 |                         0.545455 |                       11 |
+| [linguistics lecturer](linguistics_lecturer.md)                                   |                          22 |                            5 |                         0.454545 |                       17 |
+| [palaeontologist](palaeontologist.md)                                             |                          10 |                            4 |                         0.363636 |                        6 |
+| [oceanographer](oceanographer.md)                                                 |                          15 |                            4 |                         0.363636 |                       11 |
+| [anthropologist](anthropologist.md)                                               |                          10 |                            4 |                         0.363636 |                        6 |
+| [historian](historian.md)                                                         |                          11 |                            4 |                         0.363636 |                        7 |
+| [lexicographer](lexicographer.md)                                                 |                          11 |                            4 |                         0.363636 |                        7 |
+| [sign language interpreter](sign_language_interpreter.md)                         |                          11 |                            4 |                         0.363636 |                        7 |
+| [geologist](geologist.md)                                                         |                          20 |                            4 |                         0.363636 |                       16 |
+| [thanatology researcher](thanatology_researcher.md)                               |                          12 |                            4 |                         0.363636 |                        8 |
+| [archaeologist](archaeologist.md)                                                 |                          11 |                            3 |                         0.272727 |                        8 |
+| [climatologist](climatologist.md)                                                 |                          16 |                            3 |                         0.272727 |                       13 |
+| [foreign correspondent](foreign_correspondent.md)                                 |                          25 |                            3 |                         0.272727 |                       22 |
+| [analytical chemist](analytical_chemist.md)                                       |                          17 |                            3 |                         0.272727 |                       14 |
+| [biology technician](biology_technician.md)                                       |                          17 |                            3 |                         0.272727 |                       14 |
+| [botanical technician](botanical_technician.md)                                   |                          19 |                            3 |                         0.272727 |                       16 |
+| [physiologist](physiologist.md)                                                   |                          13 |                            3 |                         0.272727 |                       10 |
+| [kinesiologist](kinesiologist.md)                                                 |                          18 |                            3 |                         0.272727 |                       15 |
+| [mineralogist](mineralogist.md)                                                   |                          18 |                            3 |                         0.272727 |                       15 |
+| [demographer](demographer.md)                                                     |                          12 |                            3 |                         0.272727 |                        9 |
+| [translation agency manager](translation_agency_manager.md)                       |                          31 |                            3 |                         0.272727 |                       28 |
+| [biochemist](biochemist.md)                                                       |                          19 |                            3 |                         0.272727 |                       16 |
+| [communication scientist](communication_scientist.md)                             |                          11 |                            3 |                         0.272727 |                        8 |
+| [media scientist](media_scientist.md)                                             |                          12 |                            3 |                         0.272727 |                        9 |
+| [interpretation agency manager](interpretation_agency_manager.md)                 |                          25 |                            3 |                         0.272727 |                       22 |
+| [university research assistant](university_research_assistant.md)                 |                          12 |                            3 |                         0.272727 |                        9 |
+| [criminologist](criminologist.md)                                                 |                          15 |                            3 |                         0.272727 |                       12 |
+| [biologist](biologist.md)                                                         |                          14 |                            3 |                         0.272727 |                       11 |
+| [microbiologist](microbiologist.md)                                               |                          19 |                            3 |                         0.272727 |                       16 |
+| [geneticist](geneticist.md)                                                       |                          16 |                            3 |                         0.272727 |                       13 |
+| [physicist](physicist.md)                                                         |                          14 |                            3 |                         0.272727 |                       11 |
+| [hydrologist](hydrologist.md)                                                     |                          12 |                            3 |                         0.272727 |                        9 |
+| [geographer](geographer.md)                                                       |                          12 |                            3 |                         0.272727 |                        9 |
+| [economist](economist.md)                                                         |                          15 |                            3 |                         0.272727 |                       12 |
+| [interpreter](interpreter.md)                                                     |                          20 |                            3 |                         0.272727 |                       17 |
+| [translator](translator.md)                                                       |                          24 |                            3 |                         0.272727 |                       21 |
+| [foreign language correspondence clerk](foreign_language_correspondence_clerk.md) |                          10 |                            3 |                         0.272727 |                        7 |
+| [cosmologist](cosmologist.md)                                                     |                          20 |                            3 |                         0.272727 |                       17 |
+| [astronomer](astronomer.md)                                                       |                          12 |                            3 |                         0.272727 |                        9 |
+| [political scientist](political_scientist.md)                                     |                          11 |                            3 |                         0.272727 |                        8 |
+| [epidemiologist](epidemiologist.md)                                               |                          15 |                            3 |                         0.272727 |                       12 |
+| [metrologist](metrologist.md)                                                     |                          21 |                            3 |                         0.272727 |                       18 |
+| [biochemistry technician](biochemistry_technician.md)                             |                          19 |                            3 |                         0.272727 |                       16 |
+| [philosopher](philosopher.md)                                                     |                          12 |                            3 |                         0.272727 |                        9 |
+| [seismologist](seismologist.md)                                                   |                          13 |                            3 |                         0.272727 |                       10 |
+| [religion scientific researcher](religion_scientific_researcher.md)               |                           7 |                            3 |                         0.272727 |                        4 |
+| [zoology technician](zoology_technician.md)                                       |                          19 |                            3 |                         0.272727 |                       16 |
+| [bacteriology technician](bacteriology_technician.md)                             |                          19 |                            3 |                         0.272727 |                       16 |
+| [aquaculture biologist](aquaculture_biologist.md)                                 |                          37 |                            3 |                         0.272727 |                       34 |
+| [immunologist](immunologist.md)                                                   |                          14 |                            3 |                         0.272727 |                       11 |
+| [biomedical engineer](biomedical_engineer.md)                                     |                          17 |                            3 |                         0.272727 |                       14 |
+| [aquatic animal health professional](aquatic_animal_health_professional.md)       |                          55 |                            3 |                         0.272727 |                       52 |
+| [sociologist](sociologist.md)                                                     |                          14 |                            3 |                         0.272727 |                       11 |
+| [educational researcher](educational_researcher.md)                               |                          17 |                            3 |                         0.272727 |                       14 |
+| [assistant lecturer](assistant_lecturer.md)                                       |                          24 |                            3 |                         0.272727 |                       21 |
+| [toxicologist](toxicologist.md)                                                   |                          16 |                            3 |                         0.272727 |                       13 |
+| [biophysicist](biophysicist.md)                                                   |                          12 |                            2 |                         0.181818 |                       10 |
+| [broadcast news editor](broadcast_news_editor.md)                                 |                          19 |                            2 |                         0.181818 |                       17 |
+| [research engineer](research_engineer.md)                                         |                          13 |                            2 |                         0.181818 |                       11 |
+| [geology technician](geology_technician.md)                                       |                          22 |                            2 |                         0.181818 |                       20 |
+| [proofreader](proofreader.md)                                                     |                           8 |                            2 |                         0.181818 |                        6 |
+| [critic](critic.md)                                                               |                          21 |                            2 |                         0.181818 |                       19 |
+| [presenter](presenter.md)                                                         |                          19 |                            2 |                         0.181818 |                       17 |
+| [political journalist](political_journalist.md)                                   |                          22 |                            2 |                         0.181818 |                       20 |
+| [business journalist](business_journalist.md)                                     |                          21 |                            2 |                         0.181818 |                       19 |
+| [crime journalist](crime_journalist.md)                                           |                          22 |                            2 |                         0.181818 |                       20 |
+| [entertainment journalist](entertainment_journalist.md)                           |                          20 |                            2 |                         0.181818 |                       18 |
+| [columnist](columnist.md)                                                         |                          19 |                            2 |                         0.181818 |                       17 |
+| [human rights officer](human_rights_officer.md)                                   |                          12 |                            2 |                         0.181818 |                       10 |
+| [sports journalist](sports_journalist.md)                                         |                          22 |                            2 |                         0.181818 |                       20 |
+| [journalist](journalist.md)                                                       |                          19 |                            2 |                         0.181818 |                       17 |
+| [social work researcher](social_work_researcher.md)                               |                          68 |                            2 |                         0.181818 |                       66 |
+| [photojournalist](photojournalist.md)                                             |                          25 |                            2 |                         0.181818 |                       23 |
+| [speechwriter](speechwriter.md)                                                   |                          12 |                            2 |                         0.181818 |                       10 |
+| [behavioural scientist](behavioural_scientist.md)                                 |                          14 |                            2 |                         0.181818 |                       12 |
+| [biotechnical technician](biotechnical_technician.md)                             |                          12 |                            2 |                         0.181818 |                       10 |
+| [copy editor](copy_editor.md)                                                     |                          12 |                            2 |                         0.181818 |                       10 |
+| [writer](writer.md)                                                               |                          17 |                            2 |                         0.181818 |                       15 |
+| [meteorology technician](meteorology_technician.md)                               |                          23 |                            2 |                         0.181818 |                       21 |
+| [meteorologist](meteorologist.md)                                                 |                          11 |                            2 |                         0.181818 |                        9 |
+| [localiser](localiser.md)                                                         |                          20 |                            2 |                         0.181818 |                       18 |
+| [lawyer linguist](lawyer_linguist.md)                                             |                          14 |                            2 |                         0.181818 |                       12 |
+| [chemist](chemist.md)                                                             |                          23 |                            2 |                         0.181818 |                       21 |
+| [research manager](research_manager.md)                                           |                          16 |                            2 |                         0.181818 |                       14 |
+| [aerodynamics engineer](aerodynamics_engineer.md)                                 |                          25 |                            2 |                         0.181818 |                       23 |
+| [scopist](scopist.md)                                                             |                          13 |                            2 |                         0.181818 |                       11 |
+| [biometrician](biometrician.md)                                                   |                          11 |                            2 |                         0.181818 |                        9 |
+| [bioinformatics scientist](bioinformatics_scientist.md)                           |                          24 |                            2 |                         0.181818 |                       22 |
+| [mathematician](mathematician.md)                                                 |                          12 |                            2 |                         0.181818 |                       10 |
+| [speech and language therapist](speech_and_language_therapist.md)                 |                          73 |                            2 |                         0.181818 |                       71 |
+| [court reporter](court_reporter.md)                                               |                          16 |                            2 |                         0.181818 |                       14 |
+| [statistician](statistician.md)                                                   |                          14 |                            2 |                         0.181818 |                       12 |
+| [news anchor](news_anchor.md)                                                     |                          17 |                            2 |                         0.181818 |                       15 |
+| [subtitler](subtitler.md)                                                         |                          12 |                            2 |                         0.181818 |                       10 |

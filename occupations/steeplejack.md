@@ -1,870 +1,127 @@
 #Occupation steeplejack
 ##Number skills 13
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match steeplejack</th>
-      <th>percentage match with steeplejack</th>
-      <th>skills not in steeplejack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[construction scaffolder](construction_scaffolder.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>8</td>
-      <td>0.615385</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rigger](rigger.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>6</td>
-      <td>0.461538</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rail layer](rail_layer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[structural ironworker](structural_ironworker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[roofer](roofer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction painter](construction_painter.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[staircase installer](staircase_installer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bricklayer](bricklayer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sheet metal worker](sheet_metal_worker.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[insulation worker](insulation_worker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tower crane operator](tower_crane_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[door installer](door_installer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road construction worker](road_construction_worker.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[structural ironwork supervisor](structural_ironwork_supervisor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[carpenter](carpenter.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road marker](road_marker.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[concrete finisher](concrete_finisher.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stonemason](stonemason.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction general supervisor](construction_general_supervisor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sewer construction worker](sewer_construction_worker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lift installation supervisor](lift_installation_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road sign installer](road_sign_installer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[irrigation system installer](irrigation_system_installer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lift engineer](lift_engineer.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plasterer](plasterer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rail construction supervisor](rail_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crane crew supervisor](crane_crew_supervisor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction scaffolding supervisor](construction_scaffolding_supervisor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sewer construction supervisor](sewer_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plumber](plumber.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road construction supervisor](road_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[building electrician](building_electrician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electrical supervisor](electrical_supervisor.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[house builder](house_builder.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dredging supervisor](dredging_supervisor.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kitchen unit installer](kitchen_unit_installer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bathroom fitter](bathroom_fitter.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[water conservation technician supervisor](water_conservation_technician_supervisor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plumbing supervisor](plumbing_supervisor.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tile fitter](tile_fitter.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bridge construction supervisor](bridge_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial electrician](industrial_electrician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction painting supervisor](construction_painting_supervisor.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction quality inspector](construction_quality_inspector.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[carpenter supervisor](carpenter_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[glass installation supervisor](glass_installation_supervisor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plate glass installer](plate_glass_installer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road roller operator](road_roller_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road maintenance worker](road_maintenance_worker.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[civil engineering worker](civil_engineering_worker.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[grader operator](grader_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[roofing supervisor](roofing_supervisor.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction commercial diver](construction_commercial_diver.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ceiling installer](ceiling_installer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[window installer](window_installer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dismantling worker](dismantling_worker.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[water conservation technician](water_conservation_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[building construction worker](building_construction_worker.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[demolition worker](demolition_worker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[underwater construction supervisor](underwater_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[solar energy technician](solar_energy_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scraper operator](scraper_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction quality manager](construction_quality_manager.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[concrete finisher supervisor](concrete_finisher_supervisor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bulldozer operator](bulldozer_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tiling supervisor](tiling_supervisor.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[insulation supervisor](insulation_supervisor.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bricklaying supervisor](bricklaying_supervisor.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road maintenance technician](road_maintenance_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mobile crane operator](mobile_crane_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[civil engineering technician](civil_engineering_technician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[demolition supervisor](demolition_supervisor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sprinkler fitter](sprinkler_fitter.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pile driving hammer operator](pile_driving_hammer_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dredge operator](dredge_operator.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electrician](electrician.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tunnel boring machine operator](tunnel_boring_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[concrete pump operator](concrete_pump_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dismantling supervisor](dismantling_supervisor.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plastering supervisor](plastering_supervisor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paperhanger](paperhanger.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[terrazzo setter](terrazzo_setter.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paperhanger supervisor](paperhanger_supervisor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[terrazzo setter supervisor](terrazzo_setter_supervisor.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[carpet fitter](carpet_fitter.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[security alarm technician](security_alarm_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drainage worker](drainage_worker.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[excavator operator](excavator_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bridge inspector](bridge_inspector.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[resilient floor layer](resilient_floor_layer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rail maintenance technician](rail_maintenance_technician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hardwood floor layer](hardwood_floor_layer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[power lines supervisor](power_lines_supervisor.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[shotfirer](shotfirer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lighting designer](lighting_designer.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stage technician](stage_technician.md)&lt;/span&gt;</td>
-      <td>43</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>41</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[installation engineer](installation_engineer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[domestic electrician](domestic_electrician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[audio production technician](audio_production_technician.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[set builder](set_builder.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stage manager](stage_manager.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[materials handler](materials_handler.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[asphalt laboratory technician](asphalt_laboratory_technician.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pyrotechnician](pyrotechnician.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stagehand](stagehand.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stage machinist](stage_machinist.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[followspot operator](followspot_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tent installer](tent_installer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction safety inspector](construction_safety_inspector.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rigging supervisor](rigging_supervisor.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scenic painter](scenic_painter.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction safety manager](construction_safety_manager.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[high rigger](high_rigger.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flying director](flying_director.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[intelligent lighting engineer](intelligent_lighting_engineer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[waterway construction labourer](waterway_construction_labourer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[video technician](video_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lighting technician](lighting_technician.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[head of workshop](head_of_workshop.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scenery technician](scenery_technician.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[event scaffolder](event_scaffolder.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[overhead line worker](overhead_line_worker.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>11</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                              |   skills in this occupation |   skills that match steeplejack |   percentage match with steeplejack |   skills not in steeplejack |
+|:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
+| [construction scaffolder](construction_scaffolder.md)                                   |                          18 |                               8 |                            0.615385 |                          10 |
+| [rigger](rigger.md)                                                                     |                          16 |                               6 |                            0.461538 |                          10 |
+| [rail layer](rail_layer.md)                                                             |                          18 |                               5 |                            0.384615 |                          13 |
+| [structural ironworker](structural_ironworker.md)                                       |                          22 |                               5 |                            0.384615 |                          17 |
+| [roofer](roofer.md)                                                                     |                          23 |                               5 |                            0.384615 |                          18 |
+| [construction painter](construction_painter.md)                                         |                          21 |                               5 |                            0.384615 |                          16 |
+| [staircase installer](staircase_installer.md)                                           |                          17 |                               5 |                            0.384615 |                          12 |
+| [bricklayer](bricklayer.md)                                                             |                          18 |                               5 |                            0.384615 |                          13 |
+| [sheet metal worker](sheet_metal_worker.md)                                             |                          20 |                               5 |                            0.384615 |                          15 |
+| [insulation worker](insulation_worker.md)                                               |                          18 |                               5 |                            0.384615 |                          13 |
+| [tower crane operator](tower_crane_operator.md)                                         |                          15 |                               5 |                            0.384615 |                          10 |
+| [door installer](door_installer.md)                                                     |                          14 |                               4 |                            0.307692 |                          10 |
+| [road construction worker](road_construction_worker.md)                                 |                          15 |                               4 |                            0.307692 |                          11 |
+| [structural ironwork supervisor](structural_ironwork_supervisor.md)                     |                          25 |                               4 |                            0.307692 |                          21 |
+| [carpenter](carpenter.md)                                                               |                          24 |                               4 |                            0.307692 |                          20 |
+| [road marker](road_marker.md)                                                           |                          14 |                               4 |                            0.307692 |                          10 |
+| [concrete finisher](concrete_finisher.md)                                               |                          18 |                               4 |                            0.307692 |                          14 |
+| [stonemason](stonemason.md)                                                             |                          20 |                               4 |                            0.307692 |                          16 |
+| [construction general supervisor](construction_general_supervisor.md)                   |                          19 |                               4 |                            0.307692 |                          15 |
+| [sewer construction worker](sewer_construction_worker.md)                               |                          22 |                               4 |                            0.307692 |                          18 |
+| [lift installation supervisor](lift_installation_supervisor.md)                         |                          26 |                               4 |                            0.307692 |                          22 |
+| [road sign installer](road_sign_installer.md)                                           |                          13 |                               4 |                            0.307692 |                           9 |
+| [irrigation system installer](irrigation_system_installer.md)                           |                          15 |                               4 |                            0.307692 |                          11 |
+| [lift engineer](lift_engineer.md)                                                       |                          31 |                               4 |                            0.307692 |                          27 |
+| [plasterer](plasterer.md)                                                               |                          16 |                               4 |                            0.307692 |                          12 |
+| [rail construction supervisor](rail_construction_supervisor.md)                         |                          22 |                               4 |                            0.307692 |                          18 |
+| [crane crew supervisor](crane_crew_supervisor.md)                                       |                          22 |                               4 |                            0.307692 |                          18 |
+| [construction scaffolding supervisor](construction_scaffolding_supervisor.md)           |                          25 |                               4 |                            0.307692 |                          21 |
+| [sewer construction supervisor](sewer_construction_supervisor.md)                       |                          27 |                               4 |                            0.307692 |                          23 |
+| [plumber](plumber.md)                                                                   |                          21 |                               4 |                            0.307692 |                          17 |
+| [road construction supervisor](road_construction_supervisor.md)                         |                          25 |                               4 |                            0.307692 |                          21 |
+| [building electrician](building_electrician.md)                                         |                          18 |                               4 |                            0.307692 |                          14 |
+| [electrical supervisor](electrical_supervisor.md)                                       |                          27 |                               4 |                            0.307692 |                          23 |
+| [house builder](house_builder.md)                                                       |                          23 |                               4 |                            0.307692 |                          19 |
+| [dredging supervisor](dredging_supervisor.md)                                           |                          23 |                               4 |                            0.307692 |                          19 |
+| [kitchen unit installer](kitchen_unit_installer.md)                                     |                          21 |                               4 |                            0.307692 |                          17 |
+| [bathroom fitter](bathroom_fitter.md)                                                   |                          23 |                               4 |                            0.307692 |                          19 |
+| [water conservation technician supervisor](water_conservation_technician_supervisor.md) |                          21 |                               4 |                            0.307692 |                          17 |
+| [plumbing supervisor](plumbing_supervisor.md)                                           |                          23 |                               4 |                            0.307692 |                          19 |
+| [tile fitter](tile_fitter.md)                                                           |                          17 |                               4 |                            0.307692 |                          13 |
+| [bridge construction supervisor](bridge_construction_supervisor.md)                     |                          26 |                               4 |                            0.307692 |                          22 |
+| [industrial electrician](industrial_electrician.md)                                     |                          17 |                               4 |                            0.307692 |                          13 |
+| [construction painting supervisor](construction_painting_supervisor.md)                 |                          23 |                               4 |                            0.307692 |                          19 |
+| [construction quality inspector](construction_quality_inspector.md)                     |                          18 |                               4 |                            0.307692 |                          14 |
+| [carpenter supervisor](carpenter_supervisor.md)                                         |                          26 |                               4 |                            0.307692 |                          22 |
+| [glass installation supervisor](glass_installation_supervisor.md)                       |                          22 |                               4 |                            0.307692 |                          18 |
+| [plate glass installer](plate_glass_installer.md)                                       |                          21 |                               4 |                            0.307692 |                          17 |
+| [road roller operator](road_roller_operator.md)                                         |                          15 |                               4 |                            0.307692 |                          11 |
+| [road maintenance worker](road_maintenance_worker.md)                                   |                          15 |                               4 |                            0.307692 |                          11 |
+| [civil engineering worker](civil_engineering_worker.md)                                 |                          27 |                               4 |                            0.307692 |                          23 |
+| [grader operator](grader_operator.md)                                                   |                          12 |                               4 |                            0.307692 |                           8 |
+| [roofing supervisor](roofing_supervisor.md)                                             |                          24 |                               4 |                            0.307692 |                          20 |
+| [construction commercial diver](construction_commercial_diver.md)                       |                          18 |                               4 |                            0.307692 |                          14 |
+| [ceiling installer](ceiling_installer.md)                                               |                          15 |                               4 |                            0.307692 |                          11 |
+| [window installer](window_installer.md)                                                 |                          15 |                               4 |                            0.307692 |                          11 |
+| [dismantling worker](dismantling_worker.md)                                             |                          24 |                               4 |                            0.307692 |                          20 |
+| [water conservation technician](water_conservation_technician.md)                       |                          17 |                               4 |                            0.307692 |                          13 |
+| [building construction worker](building_construction_worker.md)                         |                          19 |                               4 |                            0.307692 |                          15 |
+| [demolition worker](demolition_worker.md)                                               |                          16 |                               4 |                            0.307692 |                          12 |
+| [underwater construction supervisor](underwater_construction_supervisor.md)             |                          28 |                               4 |                            0.307692 |                          24 |
+| [solar energy technician](solar_energy_technician.md)                                   |                          19 |                               4 |                            0.307692 |                          15 |
+| [scraper operator](scraper_operator.md)                                                 |                          16 |                               4 |                            0.307692 |                          12 |
+| [construction quality manager](construction_quality_manager.md)                         |                          17 |                               4 |                            0.307692 |                          13 |
+| [concrete finisher supervisor](concrete_finisher_supervisor.md)                         |                          25 |                               4 |                            0.307692 |                          21 |
+| [bulldozer operator](bulldozer_operator.md)                                             |                          17 |                               4 |                            0.307692 |                          13 |
+| [tiling supervisor](tiling_supervisor.md)                                               |                          24 |                               4 |                            0.307692 |                          20 |
+| [insulation supervisor](insulation_supervisor.md)                                       |                          23 |                               4 |                            0.307692 |                          19 |
+| [bricklaying supervisor](bricklaying_supervisor.md)                                     |                          24 |                               4 |                            0.307692 |                          20 |
+| [road maintenance technician](road_maintenance_technician.md)                           |                          17 |                               3 |                            0.230769 |                          14 |
+| [mobile crane operator](mobile_crane_operator.md)                                       |                          17 |                               3 |                            0.230769 |                          14 |
+| [civil engineering technician](civil_engineering_technician.md)                         |                          18 |                               3 |                            0.230769 |                          15 |
+| [demolition supervisor](demolition_supervisor.md)                                       |                          21 |                               3 |                            0.230769 |                          18 |
+| [sprinkler fitter](sprinkler_fitter.md)                                                 |                          16 |                               3 |                            0.230769 |                          13 |
+| [pile driving hammer operator](pile_driving_hammer_operator.md)                         |                          15 |                               3 |                            0.230769 |                          12 |
+| [dredge operator](dredge_operator.md)                                                   |                          11 |                               3 |                            0.230769 |                           8 |
+| [electrician](electrician.md)                                                           |                          21 |                               3 |                            0.230769 |                          18 |
+| [tunnel boring machine operator](tunnel_boring_machine_operator.md)                     |                          14 |                               3 |                            0.230769 |                          11 |
+| [concrete pump operator](concrete_pump_operator.md)                                     |                          19 |                               3 |                            0.230769 |                          16 |
+| [dismantling supervisor](dismantling_supervisor.md)                                     |                          20 |                               3 |                            0.230769 |                          17 |
+| [plastering supervisor](plastering_supervisor.md)                                       |                          19 |                               3 |                            0.230769 |                          16 |
+| [paperhanger](paperhanger.md)                                                           |                          13 |                               3 |                            0.230769 |                          10 |
+| [terrazzo setter](terrazzo_setter.md)                                                   |                          15 |                               3 |                            0.230769 |                          12 |
+| [paperhanger supervisor](paperhanger_supervisor.md)                                     |                          19 |                               3 |                            0.230769 |                          16 |
+| [terrazzo setter supervisor](terrazzo_setter_supervisor.md)                             |                          18 |                               3 |                            0.230769 |                          15 |
+| [carpet fitter](carpet_fitter.md)                                                       |                          15 |                               3 |                            0.230769 |                          12 |
+| [security alarm technician](security_alarm_technician.md)                               |                          19 |                               3 |                            0.230769 |                          16 |
+| [drainage worker](drainage_worker.md)                                                   |                          19 |                               3 |                            0.230769 |                          16 |
+| [excavator operator](excavator_operator.md)                                             |                          18 |                               3 |                            0.230769 |                          15 |
+| [bridge inspector](bridge_inspector.md)                                                 |                          14 |                               3 |                            0.230769 |                          11 |
+| [resilient floor layer](resilient_floor_layer.md)                                       |                          15 |                               3 |                            0.230769 |                          12 |
+| [rail maintenance technician](rail_maintenance_technician.md)                           |                          18 |                               3 |                            0.230769 |                          15 |
+| [hardwood floor layer](hardwood_floor_layer.md)                                         |                          22 |                               3 |                            0.230769 |                          19 |
+| [power lines supervisor](power_lines_supervisor.md)                                     |                          23 |                               3 |                            0.230769 |                          20 |
+| [shotfirer](shotfirer.md)                                                               |                          15 |                               2 |                            0.153846 |                          13 |
+| [lighting designer](lighting_designer.md)                                               |                          30 |                               2 |                            0.153846 |                          28 |
+| [stage technician](stage_technician.md)                                                 |                          43 |                               2 |                            0.153846 |                          41 |
+| [installation engineer](installation_engineer.md)                                       |                          18 |                               2 |                            0.153846 |                          16 |
+| [domestic electrician](domestic_electrician.md)                                         |                          19 |                               2 |                            0.153846 |                          17 |
+| [audio production technician](audio_production_technician.md)                           |                          25 |                               2 |                            0.153846 |                          23 |
+| [set builder](set_builder.md)                                                           |                          22 |                               2 |                            0.153846 |                          20 |
+| [stage manager](stage_manager.md)                                                       |                          27 |                               2 |                            0.153846 |                          25 |
+| [materials handler](materials_handler.md)                                               |                          22 |                               2 |                            0.153846 |                          20 |
+| [asphalt laboratory technician](asphalt_laboratory_technician.md)                       |                          11 |                               2 |                            0.153846 |                           9 |
+| [pyrotechnician](pyrotechnician.md)                                                     |                          23 |                               2 |                            0.153846 |                          21 |
+| [stagehand](stagehand.md)                                                               |                          13 |                               2 |                            0.153846 |                          11 |
+| [stage machinist](stage_machinist.md)                                                   |                          32 |                               2 |                            0.153846 |                          30 |
+| [followspot operator](followspot_operator.md)                                           |                          18 |                               2 |                            0.153846 |                          16 |
+| [tent installer](tent_installer.md)                                                     |                          13 |                               2 |                            0.153846 |                          11 |
+| [construction safety inspector](construction_safety_inspector.md)                       |                          11 |                               2 |                            0.153846 |                           9 |
+| [rigging supervisor](rigging_supervisor.md)                                             |                          14 |                               2 |                            0.153846 |                          12 |
+| [scenic painter](scenic_painter.md)                                                     |                          22 |                               2 |                            0.153846 |                          20 |
+| [construction safety manager](construction_safety_manager.md)                           |                          12 |                               2 |                            0.153846 |                          10 |
+| [high rigger](high_rigger.md)                                                           |                          22 |                               2 |                            0.153846 |                          20 |
+| [flying director](flying_director.md)                                                   |                          17 |                               2 |                            0.153846 |                          15 |
+| [intelligent lighting engineer](intelligent_lighting_engineer.md)                       |                          19 |                               2 |                            0.153846 |                          17 |
+| [waterway construction labourer](waterway_construction_labourer.md)                     |                          23 |                               2 |                            0.153846 |                          21 |
+| [video technician](video_technician.md)                                                 |                          17 |                               2 |                            0.153846 |                          15 |
+| [lighting technician](lighting_technician.md)                                           |                          27 |                               2 |                            0.153846 |                          25 |
+| [head of workshop](head_of_workshop.md)                                                 |                          28 |                               2 |                            0.153846 |                          26 |
+| [scenery technician](scenery_technician.md)                                             |                          20 |                               2 |                            0.153846 |                          18 |
+| [event scaffolder](event_scaffolder.md)                                                 |                          15 |                               2 |                            0.153846 |                          13 |
+| [overhead line worker](overhead_line_worker.md)                                         |                          13 |                               2 |                            0.153846 |                          11 |

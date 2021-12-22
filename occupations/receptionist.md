@@ -1,744 +1,109 @@
 #Occupation receptionist
 ##Number skills 13
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match receptionist</th>
-      <th>percentage match with receptionist</th>
-      <th>skills not in receptionist</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[office clerk](office_clerk.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[secretary](secretary.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.384615</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[administrative assistant](administrative_assistant.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.307692</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[foster care support worker](foster_care_support_worker.md)&lt;/span&gt;</td>
-      <td>72</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>69</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[residential care home worker](residential_care_home_worker.md)&lt;/span&gt;</td>
-      <td>63</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>60</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[family support worker](family_support_worker.md)&lt;/span&gt;</td>
-      <td>64</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>61</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[residential childcare worker](residential_childcare_worker.md)&lt;/span&gt;</td>
-      <td>67</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[housing support worker](housing_support_worker.md)&lt;/span&gt;</td>
-      <td>63</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>60</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[residential home older adult care worker](residential_home_older_adult_care_worker.md)&lt;/span&gt;</td>
-      <td>63</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>60</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mental health support worker](mental_health_support_worker.md)&lt;/span&gt;</td>
-      <td>66</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>63</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[residential home young people care worker](residential_home_young_people_care_worker.md)&lt;/span&gt;</td>
-      <td>66</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>63</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[residential home adult care worker](residential_home_adult_care_worker.md)&lt;/span&gt;</td>
-      <td>62</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>59</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social care worker](social_care_worker.md)&lt;/span&gt;</td>
-      <td>61</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>58</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[disability support worker](disability_support_worker.md)&lt;/span&gt;</td>
-      <td>65</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>62</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[adult community care worker](adult_community_care_worker.md)&lt;/span&gt;</td>
-      <td>63</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>60</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[management assistant](management_assistant.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[care at home worker](care_at_home_worker.md)&lt;/span&gt;</td>
-      <td>64</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>61</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crisis helpline operator](crisis_helpline_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmacy assistant](pharmacy_assistant.md)&lt;/span&gt;</td>
-      <td>42</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>39</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[property assistant](property_assistant.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmacy technician](pharmacy_technician.md)&lt;/span&gt;</td>
-      <td>38</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[child welfare worker](child_welfare_worker.md)&lt;/span&gt;</td>
-      <td>73</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>70</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[child day care worker](child_day_care_worker.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>71</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[customer contact centre information clerk](customer_contact_centre_information_clerk.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[front line medical receptionist](front_line_medical_receptionist.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[child day care centre manager](child_day_care_centre_manager.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>71</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[elderly home manager](elderly_home_manager.md)&lt;/span&gt;</td>
-      <td>68</td>
-      <td>3</td>
-      <td>0.230769</td>
-      <td>65</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beauty salon attendant](beauty_salon_attendant.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[domestic butler](domestic_butler.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[recruitment consultant](recruitment_consultant.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spa manager](spa_manager.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>45</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[youth centre manager](youth_centre_manager.md)&lt;/span&gt;</td>
-      <td>71</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>69</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in machinery, equipment and tangible goods](rental_service_representative_in_machinery,_equipment_and_tangible_goods.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[post office counter clerk](post_office_counter_clerk.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[funeral services director](funeral_services_director.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rescue centre manager](rescue_centre_manager.md)&lt;/span&gt;</td>
-      <td>76</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>74</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[parking valet](parking_valet.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[emergency medical dispatcher](emergency_medical_dispatcher.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in recreational and sports goods](rental_service_representative_in_recreational_and_sports_goods.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in construction and civil engineering machinery](rental_service_representative_in_construction_and_civil_engineering_machinery.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[after-sales service technician](after-sales_service_technician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in cars and light motor vehicles](rental_service_representative_in_cars_and_light_motor_vehicles.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[print studio supervisor](print_studio_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social services manager](social_services_manager.md)&lt;/span&gt;</td>
-      <td>63</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>61</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[public housing manager](public_housing_manager.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in video tapes and disks](rental_service_representative_in_video_tapes_and_disks.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[customer service representative](customer_service_representative.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[human resources assistant](human_resources_assistant.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in water transport equipment](rental_service_representative_in_water_transport_equipment.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative](rental_service_representative.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[car leasing agent](car_leasing_agent.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ship steward/ship stewardess](ship_steward-ship_stewardess.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flight attendant](flight_attendant.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[investment clerk](investment_clerk.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in personal and household goods](rental_service_representative_in_personal_and_household_goods.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[typist](typist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in office machinery and equipment](rental_service_representative_in_office_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sales account manager](sales_account_manager.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bed and breakfast operator](bed_and_breakfast_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in agricultural machinery and equipment](rental_service_representative_in_agricultural_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[garage manager](garage_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in air transport equipment](rental_service_representative_in_air_transport_equipment.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[taxi controller](taxi_controller.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmacist](pharmacist.md)&lt;/span&gt;</td>
-      <td>75</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>73</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[palliative care social worker](palliative_care_social_worker.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[community care case worker](community_care_case_worker.md)&lt;/span&gt;</td>
-      <td>66</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[substance misuse worker](substance_misuse_worker.md)&lt;/span&gt;</td>
-      <td>73</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>71</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[community social worker](community_social_worker.md)&lt;/span&gt;</td>
-      <td>71</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>69</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[employment support worker](employment_support_worker.md)&lt;/span&gt;</td>
-      <td>71</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>69</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[youth worker](youth_worker.md)&lt;/span&gt;</td>
-      <td>73</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>71</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social work supervisor](social_work_supervisor.md)&lt;/span&gt;</td>
-      <td>66</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[enterprise development worker](enterprise_development_worker.md)&lt;/span&gt;</td>
-      <td>66</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[migrant social worker](migrant_social_worker.md)&lt;/span&gt;</td>
-      <td>73</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>71</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mental health social worker](mental_health_social_worker.md)&lt;/span&gt;</td>
-      <td>77</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>75</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[criminal justice social worker](criminal_justice_social_worker.md)&lt;/span&gt;</td>
-      <td>69</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>67</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[military welfare worker](military_welfare_worker.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[family social worker](family_social_worker.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social work lecturer](social_work_lecturer.md)&lt;/span&gt;</td>
-      <td>82</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>80</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[victim support officer](victim_support_officer.md)&lt;/span&gt;</td>
-      <td>68</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>66</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crisis situation social worker](crisis_situation_social_worker.md)&lt;/span&gt;</td>
-      <td>65</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>63</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[community development social worker](community_development_social_worker.md)&lt;/span&gt;</td>
-      <td>67</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>65</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hospital social worker](hospital_social_worker.md)&lt;/span&gt;</td>
-      <td>71</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>69</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[homelessness worker](homelessness_worker.md)&lt;/span&gt;</td>
-      <td>68</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>66</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clinical social worker](clinical_social_worker.md)&lt;/span&gt;</td>
-      <td>71</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>69</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[benefits advice worker](benefits_advice_worker.md)&lt;/span&gt;</td>
-      <td>69</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>67</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[youth offending team worker](youth_offending_team_worker.md)&lt;/span&gt;</td>
-      <td>75</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>73</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social worker](social_worker.md)&lt;/span&gt;</td>
-      <td>64</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>62</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gerontology social worker](gerontology_social_worker.md)&lt;/span&gt;</td>
-      <td>68</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>66</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social work researcher](social_work_researcher.md)&lt;/span&gt;</td>
-      <td>68</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>66</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social work practice educator](social_work_practice_educator.md)&lt;/span&gt;</td>
-      <td>71</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>69</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[education welfare officer](education_welfare_officer.md)&lt;/span&gt;</td>
-      <td>79</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>77</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[consultant social worker](consultant_social_worker.md)&lt;/span&gt;</td>
-      <td>75</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>73</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[child care social worker](child_care_social_worker.md)&lt;/span&gt;</td>
-      <td>70</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>68</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical application specialist](chemical_application_specialist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rehabilitation support worker](rehabilitation_support_worker.md)&lt;/span&gt;</td>
-      <td>70</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>68</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in trucks](rental_service_representative_in_trucks.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bank teller](bank_teller.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veterinary receptionist](veterinary_receptionist.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gaming inspector](gaming_inspector.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[consumer rights advisor](consumer_rights_advisor.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cloak room attendant](cloak_room_attendant.md)&lt;/span&gt;</td>
-      <td>7</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[education administrator](education_administrator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[executive assistant](executive_assistant.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[usher](usher.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.153846</td>
-      <td>7</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                                                                                        |   skills in this occupation |   skills that match receptionist |   percentage match with receptionist |   skills not in receptionist |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
+| [office clerk](office_clerk.md)                                                                                                                                   |                          24 |                                5 |                             0.384615 |                           19 |
+| [secretary](secretary.md)                                                                                                                                         |                          18 |                                5 |                             0.384615 |                           13 |
+| [administrative assistant](administrative_assistant.md)                                                                                                           |                          17 |                                4 |                             0.307692 |                           13 |
+| [foster care support worker](foster_care_support_worker.md)                                                                                                       |                          72 |                                3 |                             0.230769 |                           69 |
+| [residential care home worker](residential_care_home_worker.md)                                                                                                   |                          63 |                                3 |                             0.230769 |                           60 |
+| [family support worker](family_support_worker.md)                                                                                                                 |                          64 |                                3 |                             0.230769 |                           61 |
+| [residential childcare worker](residential_childcare_worker.md)                                                                                                   |                          67 |                                3 |                             0.230769 |                           64 |
+| [housing support worker](housing_support_worker.md)                                                                                                               |                          63 |                                3 |                             0.230769 |                           60 |
+| [residential home older adult care worker](residential_home_older_adult_care_worker.md)                                                                           |                          63 |                                3 |                             0.230769 |                           60 |
+| [mental health support worker](mental_health_support_worker.md)                                                                                                   |                          66 |                                3 |                             0.230769 |                           63 |
+| [residential home young people care worker](residential_home_young_people_care_worker.md)                                                                         |                          66 |                                3 |                             0.230769 |                           63 |
+| [residential home adult care worker](residential_home_adult_care_worker.md)                                                                                       |                          62 |                                3 |                             0.230769 |                           59 |
+| [social care worker](social_care_worker.md)                                                                                                                       |                          61 |                                3 |                             0.230769 |                           58 |
+| [disability support worker](disability_support_worker.md)                                                                                                         |                          65 |                                3 |                             0.230769 |                           62 |
+| [adult community care worker](adult_community_care_worker.md)                                                                                                     |                          63 |                                3 |                             0.230769 |                           60 |
+| [management assistant](management_assistant.md)                                                                                                                   |                          17 |                                3 |                             0.230769 |                           14 |
+| [care at home worker](care_at_home_worker.md)                                                                                                                     |                          64 |                                3 |                             0.230769 |                           61 |
+| [crisis helpline operator](crisis_helpline_operator.md)                                                                                                           |                          22 |                                3 |                             0.230769 |                           19 |
+| [pharmacy assistant](pharmacy_assistant.md)                                                                                                                       |                          42 |                                3 |                             0.230769 |                           39 |
+| [property assistant](property_assistant.md)                                                                                                                       |                          19 |                                3 |                             0.230769 |                           16 |
+| [pharmacy technician](pharmacy_technician.md)                                                                                                                     |                          38 |                                3 |                             0.230769 |                           35 |
+| [child welfare worker](child_welfare_worker.md)                                                                                                                   |                          73 |                                3 |                             0.230769 |                           70 |
+| [child day care worker](child_day_care_worker.md)                                                                                                                 |                          74 |                                3 |                             0.230769 |                           71 |
+| [customer contact centre information clerk](customer_contact_centre_information_clerk.md)                                                                         |                          13 |                                3 |                             0.230769 |                           10 |
+| [front line medical receptionist](front_line_medical_receptionist.md)                                                                                             |                          24 |                                3 |                             0.230769 |                           21 |
+| [child day care centre manager](child_day_care_centre_manager.md)                                                                                                 |                          74 |                                3 |                             0.230769 |                           71 |
+| [elderly home manager](elderly_home_manager.md)                                                                                                                   |                          68 |                                3 |                             0.230769 |                           65 |
+| [beauty salon attendant](beauty_salon_attendant.md)                                                                                                               |                          16 |                                2 |                             0.153846 |                           14 |
+| [domestic butler](domestic_butler.md)                                                                                                                             |                          16 |                                2 |                             0.153846 |                           14 |
+| [recruitment consultant](recruitment_consultant.md)                                                                                                               |                          20 |                                2 |                             0.153846 |                           18 |
+| [spa manager](spa_manager.md)                                                                                                                                     |                          47 |                                2 |                             0.153846 |                           45 |
+| [youth centre manager](youth_centre_manager.md)                                                                                                                   |                          71 |                                2 |                             0.153846 |                           69 |
+| [rental service representative in machinery, equipment and tangible goods](rental_service_representative_in_machinery,_equipment_and_tangible_goods.md)           |                          22 |                                2 |                             0.153846 |                           20 |
+| [post office counter clerk](post_office_counter_clerk.md)                                                                                                         |                          11 |                                2 |                             0.153846 |                            9 |
+| [funeral services director](funeral_services_director.md)                                                                                                         |                          19 |                                2 |                             0.153846 |                           17 |
+| [rescue centre manager](rescue_centre_manager.md)                                                                                                                 |                          76 |                                2 |                             0.153846 |                           74 |
+| [parking valet](parking_valet.md)                                                                                                                                 |                          14 |                                2 |                             0.153846 |                           12 |
+| [emergency medical dispatcher](emergency_medical_dispatcher.md)                                                                                                   |                          18 |                                2 |                             0.153846 |                           16 |
+| [rental service representative in recreational and sports goods](rental_service_representative_in_recreational_and_sports_goods.md)                               |                          22 |                                2 |                             0.153846 |                           20 |
+| [rental service representative in construction and civil engineering machinery](rental_service_representative_in_construction_and_civil_engineering_machinery.md) |                          23 |                                2 |                             0.153846 |                           21 |
+| [after-sales service technician](after-sales_service_technician.md)                                                                                               |                          16 |                                2 |                             0.153846 |                           14 |
+| [rental service representative in cars and light motor vehicles](rental_service_representative_in_cars_and_light_motor_vehicles.md)                               |                          22 |                                2 |                             0.153846 |                           20 |
+| [print studio supervisor](print_studio_supervisor.md)                                                                                                             |                          26 |                                2 |                             0.153846 |                           24 |
+| [social services manager](social_services_manager.md)                                                                                                             |                          63 |                                2 |                             0.153846 |                           61 |
+| [public housing manager](public_housing_manager.md)                                                                                                               |                          74 |                                2 |                             0.153846 |                           72 |
+| [rental service representative in video tapes and disks](rental_service_representative_in_video_tapes_and_disks.md)                                               |                          22 |                                2 |                             0.153846 |                           20 |
+| [customer service representative](customer_service_representative.md)                                                                                             |                          22 |                                2 |                             0.153846 |                           20 |
+| [human resources assistant](human_resources_assistant.md)                                                                                                         |                          16 |                                2 |                             0.153846 |                           14 |
+| [rental service representative in water transport equipment](rental_service_representative_in_water_transport_equipment.md)                                       |                          26 |                                2 |                             0.153846 |                           24 |
+| [rental service representative](rental_service_representative.md)                                                                                                 |                          22 |                                2 |                             0.153846 |                           20 |
+| [car leasing agent](car_leasing_agent.md)                                                                                                                         |                          28 |                                2 |                             0.153846 |                           26 |
+| [ship steward/ship stewardess](ship_steward-ship_stewardess.md)                                                                                                   |                          21 |                                2 |                             0.153846 |                           19 |
+| [flight attendant](flight_attendant.md)                                                                                                                           |                          30 |                                2 |                             0.153846 |                           28 |
+| [investment clerk](investment_clerk.md)                                                                                                                           |                          19 |                                2 |                             0.153846 |                           17 |
+| [rental service representative in personal and household goods](rental_service_representative_in_personal_and_household_goods.md)                                 |                          22 |                                2 |                             0.153846 |                           20 |
+| [typist](typist.md)                                                                                                                                               |                          12 |                                2 |                             0.153846 |                           10 |
+| [rental service representative in office machinery and equipment](rental_service_representative_in_office_machinery_and_equipment.md)                             |                          23 |                                2 |                             0.153846 |                           21 |
+| [sales account manager](sales_account_manager.md)                                                                                                                 |                          21 |                                2 |                             0.153846 |                           19 |
+| [bed and breakfast operator](bed_and_breakfast_operator.md)                                                                                                       |                          14 |                                2 |                             0.153846 |                           12 |
+| [rental service representative in agricultural machinery and equipment](rental_service_representative_in_agricultural_machinery_and_equipment.md)                 |                          23 |                                2 |                             0.153846 |                           21 |
+| [garage manager](garage_manager.md)                                                                                                                               |                          26 |                                2 |                             0.153846 |                           24 |
+| [rental service representative in air transport equipment](rental_service_representative_in_air_transport_equipment.md)                                           |                          26 |                                2 |                             0.153846 |                           24 |
+| [taxi controller](taxi_controller.md)                                                                                                                             |                          18 |                                2 |                             0.153846 |                           16 |
+| [pharmacist](pharmacist.md)                                                                                                                                       |                          75 |                                2 |                             0.153846 |                           73 |
+| [palliative care social worker](palliative_care_social_worker.md)                                                                                                 |                          74 |                                2 |                             0.153846 |                           72 |
+| [community care case worker](community_care_case_worker.md)                                                                                                       |                          66 |                                2 |                             0.153846 |                           64 |
+| [substance misuse worker](substance_misuse_worker.md)                                                                                                             |                          73 |                                2 |                             0.153846 |                           71 |
+| [community social worker](community_social_worker.md)                                                                                                             |                          71 |                                2 |                             0.153846 |                           69 |
+| [employment support worker](employment_support_worker.md)                                                                                                         |                          71 |                                2 |                             0.153846 |                           69 |
+| [youth worker](youth_worker.md)                                                                                                                                   |                          73 |                                2 |                             0.153846 |                           71 |
+| [social work supervisor](social_work_supervisor.md)                                                                                                               |                          66 |                                2 |                             0.153846 |                           64 |
+| [enterprise development worker](enterprise_development_worker.md)                                                                                                 |                          66 |                                2 |                             0.153846 |                           64 |
+| [migrant social worker](migrant_social_worker.md)                                                                                                                 |                          73 |                                2 |                             0.153846 |                           71 |
+| [mental health social worker](mental_health_social_worker.md)                                                                                                     |                          77 |                                2 |                             0.153846 |                           75 |
+| [criminal justice social worker](criminal_justice_social_worker.md)                                                                                               |                          69 |                                2 |                             0.153846 |                           67 |
+| [military welfare worker](military_welfare_worker.md)                                                                                                             |                          74 |                                2 |                             0.153846 |                           72 |
+| [family social worker](family_social_worker.md)                                                                                                                   |                          74 |                                2 |                             0.153846 |                           72 |
+| [social work lecturer](social_work_lecturer.md)                                                                                                                   |                          82 |                                2 |                             0.153846 |                           80 |
+| [victim support officer](victim_support_officer.md)                                                                                                               |                          68 |                                2 |                             0.153846 |                           66 |
+| [crisis situation social worker](crisis_situation_social_worker.md)                                                                                               |                          65 |                                2 |                             0.153846 |                           63 |
+| [community development social worker](community_development_social_worker.md)                                                                                     |                          67 |                                2 |                             0.153846 |                           65 |
+| [hospital social worker](hospital_social_worker.md)                                                                                                               |                          71 |                                2 |                             0.153846 |                           69 |
+| [homelessness worker](homelessness_worker.md)                                                                                                                     |                          68 |                                2 |                             0.153846 |                           66 |
+| [clinical social worker](clinical_social_worker.md)                                                                                                               |                          71 |                                2 |                             0.153846 |                           69 |
+| [benefits advice worker](benefits_advice_worker.md)                                                                                                               |                          69 |                                2 |                             0.153846 |                           67 |
+| [youth offending team worker](youth_offending_team_worker.md)                                                                                                     |                          75 |                                2 |                             0.153846 |                           73 |
+| [social worker](social_worker.md)                                                                                                                                 |                          64 |                                2 |                             0.153846 |                           62 |
+| [gerontology social worker](gerontology_social_worker.md)                                                                                                         |                          68 |                                2 |                             0.153846 |                           66 |
+| [social work researcher](social_work_researcher.md)                                                                                                               |                          68 |                                2 |                             0.153846 |                           66 |
+| [social work practice educator](social_work_practice_educator.md)                                                                                                 |                          71 |                                2 |                             0.153846 |                           69 |
+| [education welfare officer](education_welfare_officer.md)                                                                                                         |                          79 |                                2 |                             0.153846 |                           77 |
+| [consultant social worker](consultant_social_worker.md)                                                                                                           |                          75 |                                2 |                             0.153846 |                           73 |
+| [child care social worker](child_care_social_worker.md)                                                                                                           |                          70 |                                2 |                             0.153846 |                           68 |
+| [chemical application specialist](chemical_application_specialist.md)                                                                                             |                          13 |                                2 |                             0.153846 |                           11 |
+| [rehabilitation support worker](rehabilitation_support_worker.md)                                                                                                 |                          70 |                                2 |                             0.153846 |                           68 |
+| [rental service representative in trucks](rental_service_representative_in_trucks.md)                                                                             |                          22 |                                2 |                             0.153846 |                           20 |
+| [bank teller](bank_teller.md)                                                                                                                                     |                          13 |                                2 |                             0.153846 |                           11 |
+| [veterinary receptionist](veterinary_receptionist.md)                                                                                                             |                          26 |                                2 |                             0.153846 |                           24 |
+| [gaming inspector](gaming_inspector.md)                                                                                                                           |                          21 |                                2 |                             0.153846 |                           19 |
+| [consumer rights advisor](consumer_rights_advisor.md)                                                                                                             |                          13 |                                2 |                             0.153846 |                           11 |
+| [cloak room attendant](cloak_room_attendant.md)                                                                                                                   |                           7 |                                2 |                             0.153846 |                            5 |
+| [education administrator](education_administrator.md)                                                                                                             |                          12 |                                2 |                             0.153846 |                           10 |
+| [executive assistant](executive_assistant.md)                                                                                                                     |                          20 |                                2 |                             0.153846 |                           18 |
+| [usher](usher.md)                                                                                                                                                 |                           9 |                                2 |                             0.153846 |                            7 |

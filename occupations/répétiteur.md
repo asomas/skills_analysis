@@ -1,121 +1,20 @@
 #Occupation répétiteur
 ##Number skills 23
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match répétiteur</th>
-      <th>percentage match with répétiteur</th>
-      <th>skills not in répétiteur</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[dance répétiteur](dance_répétiteur.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>11</td>
-      <td>0.478261</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dancer](dancer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>8</td>
-      <td>0.347826</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[choreographer](choreographer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>7</td>
-      <td>0.304348</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[musical conductor](musical_conductor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>6</td>
-      <td>0.260870</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[choreologist](choreologist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>6</td>
-      <td>0.260870</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[artistic coach](artistic_coach.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>5</td>
-      <td>0.217391</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fight director](fight_director.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>5</td>
-      <td>0.217391</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[community artist](community_artist.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>5</td>
-      <td>0.217391</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music arranger](music_arranger.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>4</td>
-      <td>0.173913</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[composer](composer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.173913</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music teacher](music_teacher.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.173913</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music instructor](music_instructor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.173913</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lyricist](lyricist.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.130435</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[choirmaster/choirmistress](choirmaster-choirmistress.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.130435</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[performance artist](performance_artist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.130435</td>
-      <td>12</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                |   skills in this occupation |   skills that match répétiteur |   percentage match with répétiteur |   skills not in répétiteur |
+|:----------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
+| [dance répétiteur](dance_répétiteur.md)                   |                          21 |                             11 |                           0.478261 |                         10 |
+| [dancer](dancer.md)                                       |                          20 |                              8 |                           0.347826 |                         12 |
+| [choreographer](choreographer.md)                         |                          19 |                              7 |                           0.304348 |                         12 |
+| [musical conductor](musical_conductor.md)                 |                          25 |                              6 |                           0.26087  |                         19 |
+| [choreologist](choreologist.md)                           |                          15 |                              6 |                           0.26087  |                          9 |
+| [artistic coach](artistic_coach.md)                       |                          11 |                              5 |                           0.217391 |                          6 |
+| [fight director](fight_director.md)                       |                          16 |                              5 |                           0.217391 |                         11 |
+| [community artist](community_artist.md)                   |                          25 |                              5 |                           0.217391 |                         20 |
+| [music arranger](music_arranger.md)                       |                          10 |                              4 |                           0.173913 |                          6 |
+| [composer](composer.md)                                   |                          13 |                              4 |                           0.173913 |                          9 |
+| [music teacher](music_teacher.md)                         |                          23 |                              4 |                           0.173913 |                         19 |
+| [music instructor](music_instructor.md)                   |                          25 |                              4 |                           0.173913 |                         21 |
+| [lyricist](lyricist.md)                                   |                          10 |                              3 |                           0.130435 |                          7 |
+| [choirmaster/choirmistress](choirmaster-choirmistress.md) |                          22 |                              3 |                           0.130435 |                         19 |
+| [performance artist](performance_artist.md)               |                          15 |                              3 |                           0.130435 |                         12 |

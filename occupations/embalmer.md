@@ -1,72 +1,13 @@
 #Occupation embalmer
 ##Number skills 11
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match embalmer</th>
-      <th>percentage match with embalmer</th>
-      <th>skills not in embalmer</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[funeral services director](funeral_services_director.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cemetery attendant](cemetery_attendant.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical engineer](chemical_engineer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[funeral attendant](funeral_attendant.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmaceutical engineer](pharmaceutical_engineer.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[materials engineer](materials_engineer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nanoengineer](nanoengineer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[surface treatment operator](surface_treatment_operator.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>6</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                  |   skills in this occupation |   skills that match embalmer |   percentage match with embalmer |   skills not in embalmer |
+|:------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
+| [funeral services director](funeral_services_director.md)   |                          19 |                            3 |                         0.272727 |                       16 |
+| [cemetery attendant](cemetery_attendant.md)                 |                           9 |                            3 |                         0.272727 |                        6 |
+| [chemical engineer](chemical_engineer.md)                   |                          13 |                            2 |                         0.181818 |                       11 |
+| [funeral attendant](funeral_attendant.md)                   |                           8 |                            2 |                         0.181818 |                        6 |
+| [pharmaceutical engineer](pharmaceutical_engineer.md)       |                          28 |                            2 |                         0.181818 |                       26 |
+| [materials engineer](materials_engineer.md)                 |                          23 |                            2 |                         0.181818 |                       21 |
+| [nanoengineer](nanoengineer.md)                             |                          17 |                            2 |                         0.181818 |                       15 |
+| [surface treatment operator](surface_treatment_operator.md) |                           8 |                            2 |                         0.181818 |                        6 |

@@ -1,198 +1,31 @@
 #Occupation colonel
 ##Number skills 10
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match colonel</th>
-      <th>percentage match with colonel</th>
-      <th>skills not in colonel</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[special forces officer](special_forces_officer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.6</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[brigadier](brigadier.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.5</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[warfare specialist](warfare_specialist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.5</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army captain](army_captain.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.5</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lieutenant](lieutenant.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.5</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[armed forces officer](armed_forces_officer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>5</td>
-      <td>0.5</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fleet commander](fleet_commander.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.4</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army major](army_major.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.4</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sergeant](sergeant.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.4</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[armed forces training and education officer](armed_forces_training_and_education_officer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.4</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[police commissioner](police_commissioner.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army corporal](army_corporal.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[remote sensing technician](remote_sensing_technician.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army general](army_general.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court administrator](court_administrator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[air force officer](air_force_officer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geographer](geographer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[palaeontologist](palaeontologist.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[navy officer](navy_officer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cartographer](cartographer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[artillery officer](artillery_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[defence administration officer](defence_administration_officer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[military engineer](military_engineer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geographic information systems specialist](geographic_information_systems_specialist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[intelligence communications interceptor](intelligence_communications_interceptor.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cadastral technician](cadastral_technician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>10</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                    |   skills in this occupation |   skills that match colonel |   percentage match with colonel |   skills not in colonel |
+|:----------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
+| [special forces officer](special_forces_officer.md)                                           |                          22 |                           6 |                             0.6 |                      16 |
+| [brigadier](brigadier.md)                                                                     |                          14 |                           5 |                             0.5 |                       9 |
+| [warfare specialist](warfare_specialist.md)                                                   |                          14 |                           5 |                             0.5 |                       9 |
+| [army captain](army_captain.md)                                                               |                          12 |                           5 |                             0.5 |                       7 |
+| [lieutenant](lieutenant.md)                                                                   |                          14 |                           5 |                             0.5 |                       9 |
+| [armed forces officer](armed_forces_officer.md)                                               |                          21 |                           5 |                             0.5 |                      16 |
+| [fleet commander](fleet_commander.md)                                                         |                          11 |                           4 |                             0.4 |                       7 |
+| [army major](army_major.md)                                                                   |                          11 |                           4 |                             0.4 |                       7 |
+| [sergeant](sergeant.md)                                                                       |                          13 |                           4 |                             0.4 |                       9 |
+| [armed forces training and education officer](armed_forces_training_and_education_officer.md) |                          20 |                           4 |                             0.4 |                      16 |
+| [police commissioner](police_commissioner.md)                                                 |                          18 |                           3 |                             0.3 |                      15 |
+| [army corporal](army_corporal.md)                                                             |                          11 |                           3 |                             0.3 |                       8 |
+| [remote sensing technician](remote_sensing_technician.md)                                     |                          15 |                           2 |                             0.2 |                      13 |
+| [army general](army_general.md)                                                               |                          12 |                           2 |                             0.2 |                      10 |
+| [court administrator](court_administrator.md)                                                 |                          10 |                           2 |                             0.2 |                       8 |
+| [air force officer](air_force_officer.md)                                                     |                          21 |                           2 |                             0.2 |                      19 |
+| [geographer](geographer.md)                                                                   |                          12 |                           2 |                             0.2 |                      10 |
+| [palaeontologist](palaeontologist.md)                                                         |                          10 |                           2 |                             0.2 |                       8 |
+| [navy officer](navy_officer.md)                                                               |                          21 |                           2 |                             0.2 |                      19 |
+| [cartographer](cartographer.md)                                                               |                          16 |                           2 |                             0.2 |                      14 |
+| [artillery officer](artillery_officer.md)                                                     |                          15 |                           2 |                             0.2 |                      13 |
+| [defence administration officer](defence_administration_officer.md)                           |                          12 |                           2 |                             0.2 |                      10 |
+| [military engineer](military_engineer.md)                                                     |                          14 |                           2 |                             0.2 |                      12 |
+| [geographic information systems specialist](geographic_information_systems_specialist.md)     |                          18 |                           2 |                             0.2 |                      16 |
+| [intelligence communications interceptor](intelligence_communications_interceptor.md)         |                          18 |                           2 |                             0.2 |                      16 |
+| [cadastral technician](cadastral_technician.md)                                               |                          12 |                           2 |                             0.2 |                      10 |

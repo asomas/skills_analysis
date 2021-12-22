@@ -1,856 +1,125 @@
 #Occupation geophysicist
 ##Number skills 9
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match geophysicist</th>
-      <th>percentage match with geophysicist</th>
-      <th>skills not in geophysicist</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[geotechnician](geotechnician.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine health and safety engineer](mine_health_and_safety_engineer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drilling engineer](drilling_engineer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mineral processing engineer](mineral_processing_engineer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geochemist](geochemist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine mechanical engineer](mine_mechanical_engineer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[petroleum engineer](petroleum_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine planning engineer](mine_planning_engineer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mining geotechnical engineer](mining_geotechnical_engineer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine electrical engineer](mine_electrical_engineer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[explosives engineer](explosives_engineer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[environmental mining engineer](environmental_mining_engineer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[quarry engineer](quarry_engineer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive engineering technician](automotive_engineering_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine surveyor](mine_surveyor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lumber grader](lumber_grader.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tooling engineer](tooling_engineer.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine engineering technician](marine_engineering_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aerospace engineering technician](aerospace_engineering_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine development engineer](mine_development_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pulp grader](pulp_grader.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aerodynamics engineer](aerodynamics_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[material stress analyst](material_stress_analyst.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oil and gas production manager](oil_and_gas_production_manager.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine ventilation engineer](mine_ventilation_engineer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rolling stock engineering technician](rolling_stock_engineering_technician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive designer](automotive_designer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal product quality control inspector](metal_product_quality_control_inspector.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hydrogeologist](hydrogeologist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[product grader](product_grader.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemist](chemist.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mud logger](mud_logger.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[engineered wood board grader](engineered_wood_board_grader.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine geologist](mine_geologist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oceanographer](oceanographer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[liquid fuel engineer](liquid_fuel_engineer.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine manager](mine_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oil refinery control room operator](oil_refinery_control_room_operator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine shift manager](mine_shift_manager.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[instrumentation engineer](instrumentation_engineer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bioinformatics scientist](bioinformatics_scientist.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optical engineer](optical_engineer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metallurgist](metallurgist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[petroleum pump system operator](petroleum_pump_system_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[palaeontologist](palaeontologist.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[space science lecturer](space_science_lecturer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[corrosion technician](corrosion_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[earth science lecturer](earth_science_lecturer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[robotics engineering technician](robotics_engineering_technician.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[astronomer](astronomer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[science teacher secondary school](science_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optomechanical engineer](optomechanical_engineer.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[distillation operator](distillation_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[product quality inspector](product_quality_inspector.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[coking furnace operator](coking_furnace_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cosmologist](cosmologist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physics teacher secondary school](physics_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[astronaut](astronaut.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[demographer](demographer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[air pollution analyst](air_pollution_analyst.md)&lt;/span&gt;</td>
-      <td>7</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[forestry adviser](forestry_adviser.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[welding inspector](welding_inspector.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine production manager](mine_production_manager.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veneer grader](veneer_grader.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[corporate trainer](corporate_trainer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mechanical engineering technician](mechanical_engineering_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine control room operator](mine_control_room_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[microelectronics engineer](microelectronics_engineer.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[refinery shift manager](refinery_shift_manager.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dredging supervisor](dredging_supervisor.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[numerical tool and process control programmer](numerical_tool_and_process_control_programmer.md)&lt;/span&gt;</td>
-      <td>52</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>51</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[architecture lecturer](architecture_lecturer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gas processing plant control room operator](gas_processing_plant_control_room_operator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automated optical inspection operator](automated_optical_inspection_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electromagnetic engineer](electromagnetic_engineer.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optoelectronic engineer](optoelectronic_engineer.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sensor engineer](sensor_engineer.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[photonics engineer](photonics_engineer.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[microsystem engineer](microsystem_engineer.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile, leather and footwear researcher](textile,_leather_and_footwear_researcher.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medical device engineer](medical_device_engineer.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geology technician](geology_technician.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rotating equipment engineer](rotating_equipment_engineer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[container equipment design engineer](container_equipment_design_engineer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[specialist pharmacist](specialist_pharmacist.md)&lt;/span&gt;</td>
-      <td>48</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>47</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[butcher](butcher.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[diesel engine mechanic](diesel_engine_mechanic.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physics technician](physics_technician.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[specialist biomedical scientist](specialist_biomedical_scientist.md)&lt;/span&gt;</td>
-      <td>39</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>38</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biophysicist](biophysicist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[soil surveying technician](soil_surveying_technician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[exploration geologist](exploration_geologist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physicist](physicist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[soil scientist](soil_scientist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmacist](pharmacist.md)&lt;/span&gt;</td>
-      <td>75</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>74</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[environmental scientist](environmental_scientist.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical plant control room operator](chemical_plant_control_room_operator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[packing machinery engineer](packing_machinery_engineer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[meteorology technician](meteorology_technician.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical metallurgist](chemical_metallurgist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fluid power engineer](fluid_power_engineer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agricultural equipment design engineer](agricultural_equipment_design_engineer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[process metallurgist](process_metallurgist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plodder operator](plodder_operator.md)&lt;/span&gt;</td>
-      <td>7</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automation engineer](automation_engineer.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mechatronics engineer](mechatronics_engineer.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electronics engineer](electronics_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electromechanical engineer](electromechanical_engineer.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial pharmacist](industrial_pharmacist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmaceutical engineer](pharmaceutical_engineer.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mechatronics engineering technician](mechatronics_engineering_technician.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[seismologist](seismologist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ICT presales engineer](ICT_presales_engineer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geologist](geologist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physics lecturer](physics_lecturer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geological engineer](geological_engineer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[heat treatment furnace operator](heat_treatment_furnace_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical tester](chemical_tester.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physiotherapist](physiotherapist.md)&lt;/span&gt;</td>
-      <td>90</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>89</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[interior architect](interior_architect.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>26</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                        |   skills in this occupation |   skills that match geophysicist |   percentage match with geophysicist |   skills not in geophysicist |
+|:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
+| [geotechnician](geotechnician.md)                                                                 |                          10 |                                3 |                             0.333333 |                            7 |
+| [mine health and safety engineer](mine_health_and_safety_engineer.md)                             |                          14 |                                3 |                             0.333333 |                           11 |
+| [drilling engineer](drilling_engineer.md)                                                         |                          22 |                                3 |                             0.333333 |                           19 |
+| [mineral processing engineer](mineral_processing_engineer.md)                                     |                          13 |                                3 |                             0.333333 |                           10 |
+| [geochemist](geochemist.md)                                                                       |                          14 |                                3 |                             0.333333 |                           11 |
+| [mine mechanical engineer](mine_mechanical_engineer.md)                                           |                          20 |                                3 |                             0.333333 |                           17 |
+| [petroleum engineer](petroleum_engineer.md)                                                       |                          25 |                                3 |                             0.333333 |                           22 |
+| [mine planning engineer](mine_planning_engineer.md)                                               |                          14 |                                3 |                             0.333333 |                           11 |
+| [mining geotechnical engineer](mining_geotechnical_engineer.md)                                   |                          12 |                                3 |                             0.333333 |                            9 |
+| [mine electrical engineer](mine_electrical_engineer.md)                                           |                          20 |                                3 |                             0.333333 |                           17 |
+| [explosives engineer](explosives_engineer.md)                                                     |                          16 |                                2 |                             0.222222 |                           14 |
+| [environmental mining engineer](environmental_mining_engineer.md)                                 |                          23 |                                2 |                             0.222222 |                           21 |
+| [quarry engineer](quarry_engineer.md)                                                             |                          15 |                                2 |                             0.222222 |                           13 |
+| [automotive engineering technician](automotive_engineering_technician.md)                         |                          19 |                                2 |                             0.222222 |                           17 |
+| [mine surveyor](mine_surveyor.md)                                                                 |                          17 |                                2 |                             0.222222 |                           15 |
+| [lumber grader](lumber_grader.md)                                                                 |                          34 |                                2 |                             0.222222 |                           32 |
+| [tooling engineer](tooling_engineer.md)                                                           |                          29 |                                2 |                             0.222222 |                           27 |
+| [marine engineering technician](marine_engineering_technician.md)                                 |                          17 |                                2 |                             0.222222 |                           15 |
+| [aerospace engineering technician](aerospace_engineering_technician.md)                           |                          19 |                                2 |                             0.222222 |                           17 |
+| [mine development engineer](mine_development_engineer.md)                                         |                          25 |                                2 |                             0.222222 |                           23 |
+| [pulp grader](pulp_grader.md)                                                                     |                          29 |                                2 |                             0.222222 |                           27 |
+| [aerodynamics engineer](aerodynamics_engineer.md)                                                 |                          25 |                                2 |                             0.222222 |                           23 |
+| [material stress analyst](material_stress_analyst.md)                                             |                          21 |                                2 |                             0.222222 |                           19 |
+| [oil and gas production manager](oil_and_gas_production_manager.md)                               |                          22 |                                2 |                             0.222222 |                           20 |
+| [mine ventilation engineer](mine_ventilation_engineer.md)                                         |                          13 |                                2 |                             0.222222 |                           11 |
+| [rolling stock engineering technician](rolling_stock_engineering_technician.md)                   |                          16 |                                2 |                             0.222222 |                           14 |
+| [automotive designer](automotive_designer.md)                                                     |                          14 |                                2 |                             0.222222 |                           12 |
+| [metal product quality control inspector](metal_product_quality_control_inspector.md)             |                          28 |                                2 |                             0.222222 |                           26 |
+| [hydrogeologist](hydrogeologist.md)                                                               |                          14 |                                2 |                             0.222222 |                           12 |
+| [product grader](product_grader.md)                                                               |                          16 |                                2 |                             0.222222 |                           14 |
+| [chemist](chemist.md)                                                                             |                          23 |                                2 |                             0.222222 |                           21 |
+| [mud logger](mud_logger.md)                                                                       |                          17 |                                2 |                             0.222222 |                           15 |
+| [engineered wood board grader](engineered_wood_board_grader.md)                                   |                          25 |                                2 |                             0.222222 |                           23 |
+| [mine geologist](mine_geologist.md)                                                               |                          14 |                                2 |                             0.222222 |                           12 |
+| [oceanographer](oceanographer.md)                                                                 |                          15 |                                2 |                             0.222222 |                           13 |
+| [liquid fuel engineer](liquid_fuel_engineer.md)                                                   |                          28 |                                2 |                             0.222222 |                           26 |
+| [mine manager](mine_manager.md)                                                                   |                          28 |                                1 |                             0.111111 |                           27 |
+| [oil refinery control room operator](oil_refinery_control_room_operator.md)                       |                          10 |                                1 |                             0.111111 |                            9 |
+| [mine shift manager](mine_shift_manager.md)                                                       |                          14 |                                1 |                             0.111111 |                           13 |
+| [instrumentation engineer](instrumentation_engineer.md)                                           |                          19 |                                1 |                             0.111111 |                           18 |
+| [bioinformatics scientist](bioinformatics_scientist.md)                                           |                          24 |                                1 |                             0.111111 |                           23 |
+| [optical engineer](optical_engineer.md)                                                           |                          26 |                                1 |                             0.111111 |                           25 |
+| [metallurgist](metallurgist.md)                                                                   |                          14 |                                1 |                             0.111111 |                           13 |
+| [petroleum pump system operator](petroleum_pump_system_operator.md)                               |                          15 |                                1 |                             0.111111 |                           14 |
+| [palaeontologist](palaeontologist.md)                                                             |                          10 |                                1 |                             0.111111 |                            9 |
+| [space science lecturer](space_science_lecturer.md)                                               |                          21 |                                1 |                             0.111111 |                           20 |
+| [corrosion technician](corrosion_technician.md)                                                   |                          19 |                                1 |                             0.111111 |                           18 |
+| [earth science lecturer](earth_science_lecturer.md)                                               |                          22 |                                1 |                             0.111111 |                           21 |
+| [robotics engineering technician](robotics_engineering_technician.md)                             |                          27 |                                1 |                             0.111111 |                           26 |
+| [astronomer](astronomer.md)                                                                       |                          12 |                                1 |                             0.111111 |                           11 |
+| [science teacher secondary school](science_teacher_secondary_school.md)                           |                          28 |                                1 |                             0.111111 |                           27 |
+| [optomechanical engineer](optomechanical_engineer.md)                                             |                          33 |                                1 |                             0.111111 |                           32 |
+| [distillation operator](distillation_operator.md)                                                 |                          14 |                                1 |                             0.111111 |                           13 |
+| [product quality inspector](product_quality_inspector.md)                                         |                          22 |                                1 |                             0.111111 |                           21 |
+| [coking furnace operator](coking_furnace_operator.md)                                             |                          13 |                                1 |                             0.111111 |                           12 |
+| [cosmologist](cosmologist.md)                                                                     |                          20 |                                1 |                             0.111111 |                           19 |
+| [physics teacher secondary school](physics_teacher_secondary_school.md)                           |                          26 |                                1 |                             0.111111 |                           25 |
+| [astronaut](astronaut.md)                                                                         |                          18 |                                1 |                             0.111111 |                           17 |
+| [demographer](demographer.md)                                                                     |                          12 |                                1 |                             0.111111 |                           11 |
+| [air pollution analyst](air_pollution_analyst.md)                                                 |                           7 |                                1 |                             0.111111 |                            6 |
+| [forestry adviser](forestry_adviser.md)                                                           |                          22 |                                1 |                             0.111111 |                           21 |
+| [welding inspector](welding_inspector.md)                                                         |                          31 |                                1 |                             0.111111 |                           30 |
+| [mine production manager](mine_production_manager.md)                                             |                          23 |                                1 |                             0.111111 |                           22 |
+| [veneer grader](veneer_grader.md)                                                                 |                          14 |                                1 |                             0.111111 |                           13 |
+| [corporate trainer](corporate_trainer.md)                                                         |                          16 |                                1 |                             0.111111 |                           15 |
+| [mechanical engineering technician](mechanical_engineering_technician.md)                         |                          14 |                                1 |                             0.111111 |                           13 |
+| [mine control room operator](mine_control_room_operator.md)                                       |                          12 |                                1 |                             0.111111 |                           11 |
+| [microelectronics engineer](microelectronics_engineer.md)                                         |                          36 |                                1 |                             0.111111 |                           35 |
+| [refinery shift manager](refinery_shift_manager.md)                                               |                          15 |                                1 |                             0.111111 |                           14 |
+| [dredging supervisor](dredging_supervisor.md)                                                     |                          23 |                                1 |                             0.111111 |                           22 |
+| [numerical tool and process control programmer](numerical_tool_and_process_control_programmer.md) |                          52 |                                1 |                             0.111111 |                           51 |
+| [architecture lecturer](architecture_lecturer.md)                                                 |                          23 |                                1 |                             0.111111 |                           22 |
+| [gas processing plant control room operator](gas_processing_plant_control_room_operator.md)       |                          10 |                                1 |                             0.111111 |                            9 |
+| [automated optical inspection operator](automated_optical_inspection_operator.md)                 |                          17 |                                1 |                             0.111111 |                           16 |
+| [electromagnetic engineer](electromagnetic_engineer.md)                                           |                          35 |                                1 |                             0.111111 |                           34 |
+| [optoelectronic engineer](optoelectronic_engineer.md)                                             |                          36 |                                1 |                             0.111111 |                           35 |
+| [sensor engineer](sensor_engineer.md)                                                             |                          33 |                                1 |                             0.111111 |                           32 |
+| [photonics engineer](photonics_engineer.md)                                                       |                          32 |                                1 |                             0.111111 |                           31 |
+| [microsystem engineer](microsystem_engineer.md)                                                   |                          32 |                                1 |                             0.111111 |                           31 |
+| [textile, leather and footwear researcher](textile,_leather_and_footwear_researcher.md)           |                          20 |                                1 |                             0.111111 |                           19 |
+| [medical device engineer](medical_device_engineer.md)                                             |                          33 |                                1 |                             0.111111 |                           32 |
+| [geology technician](geology_technician.md)                                                       |                          22 |                                1 |                             0.111111 |                           21 |
+| [rotating equipment engineer](rotating_equipment_engineer.md)                                     |                          26 |                                1 |                             0.111111 |                           25 |
+| [container equipment design engineer](container_equipment_design_engineer.md)                     |                          23 |                                1 |                             0.111111 |                           22 |
+| [specialist pharmacist](specialist_pharmacist.md)                                                 |                          48 |                                1 |                             0.111111 |                           47 |
+| [butcher](butcher.md)                                                                             |                          36 |                                1 |                             0.111111 |                           35 |
+| [diesel engine mechanic](diesel_engine_mechanic.md)                                               |                          21 |                                1 |                             0.111111 |                           20 |
+| [physics technician](physics_technician.md)                                                       |                          13 |                                1 |                             0.111111 |                           12 |
+| [specialist biomedical scientist](specialist_biomedical_scientist.md)                             |                          39 |                                1 |                             0.111111 |                           38 |
+| [biophysicist](biophysicist.md)                                                                   |                          12 |                                1 |                             0.111111 |                           11 |
+| [soil surveying technician](soil_surveying_technician.md)                                         |                          18 |                                1 |                             0.111111 |                           17 |
+| [exploration geologist](exploration_geologist.md)                                                 |                          19 |                                1 |                             0.111111 |                           18 |
+| [physicist](physicist.md)                                                                         |                          14 |                                1 |                             0.111111 |                           13 |
+| [soil scientist](soil_scientist.md)                                                               |                          13 |                                1 |                             0.111111 |                           12 |
+| [pharmacist](pharmacist.md)                                                                       |                          75 |                                1 |                             0.111111 |                           74 |
+| [environmental scientist](environmental_scientist.md)                                             |                          26 |                                1 |                             0.111111 |                           25 |
+| [chemical plant control room operator](chemical_plant_control_room_operator.md)                   |                          10 |                                1 |                             0.111111 |                            9 |
+| [packing machinery engineer](packing_machinery_engineer.md)                                       |                          23 |                                1 |                             0.111111 |                           22 |
+| [meteorology technician](meteorology_technician.md)                                               |                          23 |                                1 |                             0.111111 |                           22 |
+| [chemical metallurgist](chemical_metallurgist.md)                                                 |                          22 |                                1 |                             0.111111 |                           21 |
+| [fluid power engineer](fluid_power_engineer.md)                                                   |                          22 |                                1 |                             0.111111 |                           21 |
+| [agricultural equipment design engineer](agricultural_equipment_design_engineer.md)               |                          26 |                                1 |                             0.111111 |                           25 |
+| [process metallurgist](process_metallurgist.md)                                                   |                          20 |                                1 |                             0.111111 |                           19 |
+| [plodder operator](plodder_operator.md)                                                           |                           7 |                                1 |                             0.111111 |                            6 |
+| [automation engineer](automation_engineer.md)                                                     |                          33 |                                1 |                             0.111111 |                           32 |
+| [mechatronics engineer](mechatronics_engineer.md)                                                 |                          35 |                                1 |                             0.111111 |                           34 |
+| [electronics engineer](electronics_engineer.md)                                                   |                          25 |                                1 |                             0.111111 |                           24 |
+| [electromechanical engineer](electromechanical_engineer.md)                                       |                          33 |                                1 |                             0.111111 |                           32 |
+| [industrial pharmacist](industrial_pharmacist.md)                                                 |                          17 |                                1 |                             0.111111 |                           16 |
+| [pharmaceutical engineer](pharmaceutical_engineer.md)                                             |                          28 |                                1 |                             0.111111 |                           27 |
+| [mechatronics engineering technician](mechatronics_engineering_technician.md)                     |                          28 |                                1 |                             0.111111 |                           27 |
+| [seismologist](seismologist.md)                                                                   |                          13 |                                1 |                             0.111111 |                           12 |
+| [ICT presales engineer](ICT_presales_engineer.md)                                                 |                          12 |                                1 |                             0.111111 |                           11 |
+| [geologist](geologist.md)                                                                         |                          20 |                                1 |                             0.111111 |                           19 |
+| [physics lecturer](physics_lecturer.md)                                                           |                          18 |                                1 |                             0.111111 |                           17 |
+| [geological engineer](geological_engineer.md)                                                     |                          18 |                                1 |                             0.111111 |                           17 |
+| [heat treatment furnace operator](heat_treatment_furnace_operator.md)                             |                          14 |                                1 |                             0.111111 |                           13 |
+| [chemical tester](chemical_tester.md)                                                             |                          11 |                                1 |                             0.111111 |                           10 |
+| [physiotherapist](physiotherapist.md)                                                             |                          90 |                                1 |                             0.111111 |                           89 |
+| [interior architect](interior_architect.md)                                                       |                          27 |                                1 |                             0.111111 |                           26 |

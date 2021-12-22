@@ -1,268 +1,41 @@
 #Occupation coppersmith
 ##Number skills 25
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match coppersmith</th>
-      <th>percentage match with coppersmith</th>
-      <th>skills not in coppersmith</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[metallurgist](metallurgist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>6</td>
-      <td>0.24</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ornamental metal worker](ornamental_metal_worker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.24</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical metallurgist](chemical_metallurgist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.24</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[process metallurgist](process_metallurgist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>6</td>
-      <td>0.24</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[boilermaker](boilermaker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.24</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[blacksmith](blacksmith.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.20</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[welder](welder.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>5</td>
-      <td>0.20</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tool and die maker](tool_and_die_maker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>5</td>
-      <td>0.20</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spot welder](spot_welder.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[surface grinding machine operator](surface_grinding_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[upsetting machine operator](upsetting_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laser marking machine operator](laser_marking_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mechanical forging press worker](mechanical_forging_press_worker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[brazier](brazier.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drop forging hammer worker](drop_forging_hammer_worker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laser beam welder](laser_beam_welder.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cylindrical grinder operator](cylindrical_grinder_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hydraulic forging press worker](hydraulic_forging_press_worker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electron beam welder](electron_beam_welder.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[solderer](solderer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.16</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal rolling mill operator](metal_rolling_mill_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal engraver](metal_engraver.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tumbling machine operator](tumbling_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fitter and turner](fitter_and_turner.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tool grinder](tool_grinder.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plasma cutting machine operator](plasma_cutting_machine_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[engraving machine operator](engraving_machine_operator.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[water jet cutter operator](water_jet_cutter_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal sawing machine operator](metal_sawing_machine_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oxy fuel burning machine operator](oxy_fuel_burning_machine_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal product quality control inspector](metal_product_quality_control_inspector.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[casting machine operator](casting_machine_operator.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drill press operator](drill_press_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rustproofer](rustproofer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[surgical instrument maker](surgical_instrument_maker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laser cutting machine operator](laser_cutting_machine_operator.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>3</td>
-      <td>0.12</td>
-      <td>23</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                            |   skills in this occupation |   skills that match coppersmith |   percentage match with coppersmith |   skills not in coppersmith |
+|:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
+| [metallurgist](metallurgist.md)                                                       |                          14 |                               6 |                                0.24 |                           8 |
+| [ornamental metal worker](ornamental_metal_worker.md)                                 |                          18 |                               6 |                                0.24 |                          12 |
+| [chemical metallurgist](chemical_metallurgist.md)                                     |                          22 |                               6 |                                0.24 |                          16 |
+| [process metallurgist](process_metallurgist.md)                                       |                          20 |                               6 |                                0.24 |                          14 |
+| [boilermaker](boilermaker.md)                                                         |                          22 |                               6 |                                0.24 |                          16 |
+| [blacksmith](blacksmith.md)                                                           |                          19 |                               5 |                                0.2  |                          14 |
+| [welder](welder.md)                                                                   |                          31 |                               5 |                                0.2  |                          26 |
+| [tool and die maker](tool_and_die_maker.md)                                           |                          22 |                               5 |                                0.2  |                          17 |
+| [spot welder](spot_welder.md)                                                         |                          18 |                               4 |                                0.16 |                          14 |
+| [surface grinding machine operator](surface_grinding_machine_operator.md)             |                          18 |                               4 |                                0.16 |                          14 |
+| [upsetting machine operator](upsetting_machine_operator.md)                           |                          16 |                               4 |                                0.16 |                          12 |
+| [laser marking machine operator](laser_marking_machine_operator.md)                   |                          18 |                               4 |                                0.16 |                          14 |
+| [mechanical forging press worker](mechanical_forging_press_worker.md)                 |                          16 |                               4 |                                0.16 |                          12 |
+| [brazier](brazier.md)                                                                 |                          17 |                               4 |                                0.16 |                          13 |
+| [drop forging hammer worker](drop_forging_hammer_worker.md)                           |                          18 |                               4 |                                0.16 |                          14 |
+| [laser beam welder](laser_beam_welder.md)                                             |                          25 |                               4 |                                0.16 |                          21 |
+| [cylindrical grinder operator](cylindrical_grinder_operator.md)                       |                          17 |                               4 |                                0.16 |                          13 |
+| [hydraulic forging press worker](hydraulic_forging_press_worker.md)                   |                          18 |                               4 |                                0.16 |                          14 |
+| [electron beam welder](electron_beam_welder.md)                                       |                          25 |                               4 |                                0.16 |                          21 |
+| [solderer](solderer.md)                                                               |                          17 |                               4 |                                0.16 |                          13 |
+| [metal rolling mill operator](metal_rolling_mill_operator.md)                         |                          15 |                               3 |                                0.12 |                          12 |
+| [metal engraver](metal_engraver.md)                                                   |                          13 |                               3 |                                0.12 |                          10 |
+| [tumbling machine operator](tumbling_machine_operator.md)                             |                          16 |                               3 |                                0.12 |                          13 |
+| [fitter and turner](fitter_and_turner.md)                                             |                          12 |                               3 |                                0.12 |                           9 |
+| [tool grinder](tool_grinder.md)                                                       |                          14 |                               3 |                                0.12 |                          11 |
+| [plasma cutting machine operator](plasma_cutting_machine_operator.md)                 |                          17 |                               3 |                                0.12 |                          14 |
+| [engraving machine operator](engraving_machine_operator.md)                           |                          29 |                               3 |                                0.12 |                          26 |
+| [water jet cutter operator](water_jet_cutter_operator.md)                             |                          21 |                               3 |                                0.12 |                          18 |
+| [metal sawing machine operator](metal_sawing_machine_operator.md)                     |                          22 |                               3 |                                0.12 |                          19 |
+| [oxy fuel burning machine operator](oxy_fuel_burning_machine_operator.md)             |                          19 |                               3 |                                0.12 |                          16 |
+| [metal product quality control inspector](metal_product_quality_control_inspector.md) |                          28 |                               3 |                                0.12 |                          25 |
+| [casting machine operator](casting_machine_operator.md)                               |                          24 |                               3 |                                0.12 |                          21 |
+| [drill press operator](drill_press_operator.md)                                       |                          16 |                               3 |                                0.12 |                          13 |
+| [rustproofer](rustproofer.md)                                                         |                          15 |                               3 |                                0.12 |                          12 |
+| [surgical instrument maker](surgical_instrument_maker.md)                             |                          18 |                               3 |                                0.12 |                          15 |
+| [laser cutting machine operator](laser_cutting_machine_operator.md)                   |                          26 |                               3 |                                0.12 |                          23 |

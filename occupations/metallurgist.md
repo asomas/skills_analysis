@@ -1,170 +1,27 @@
 #Occupation metallurgist
 ##Number skills 14
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match metallurgist</th>
-      <th>percentage match with metallurgist</th>
-      <th>skills not in metallurgist</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[process metallurgist](process_metallurgist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>13</td>
-      <td>0.928571</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical metallurgist](chemical_metallurgist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>13</td>
-      <td>0.928571</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[coppersmith](coppersmith.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>6</td>
-      <td>0.428571</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metallurgical technician](metallurgical_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>6</td>
-      <td>0.428571</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[casting machine operator](casting_machine_operator.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fitter and turner](fitter_and_turner.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal products assembler](metal_products_assembler.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal product quality control inspector](metal_product_quality_control_inspector.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal furniture machine operator](metal_furniture_machine_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[jewellery mounter](jewellery_mounter.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal production manager](metal_production_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[blacksmith](blacksmith.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[welder](welder.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical tester](chemical_tester.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[welding inspector](welding_inspector.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[thread rolling machine operator](thread_rolling_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[organ builder](organ_builder.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal production supervisor](metal_production_supervisor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tool and die maker](tool_and_die_maker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[assayer](assayer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stamping press operator](stamping_press_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[straightening machine operator](straightening_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>12</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                            |   skills in this occupation |   skills that match metallurgist |   percentage match with metallurgist |   skills not in metallurgist |
+|:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
+| [process metallurgist](process_metallurgist.md)                                       |                          20 |                               13 |                             0.928571 |                            7 |
+| [chemical metallurgist](chemical_metallurgist.md)                                     |                          22 |                               13 |                             0.928571 |                            9 |
+| [coppersmith](coppersmith.md)                                                         |                          25 |                                6 |                             0.428571 |                           19 |
+| [metallurgical technician](metallurgical_technician.md)                               |                          17 |                                6 |                             0.428571 |                           11 |
+| [casting machine operator](casting_machine_operator.md)                               |                          24 |                                4 |                             0.285714 |                           20 |
+| [fitter and turner](fitter_and_turner.md)                                             |                          12 |                                3 |                             0.214286 |                            9 |
+| [metal products assembler](metal_products_assembler.md)                               |                          13 |                                3 |                             0.214286 |                           10 |
+| [metal product quality control inspector](metal_product_quality_control_inspector.md) |                          28 |                                3 |                             0.214286 |                           25 |
+| [metal furniture machine operator](metal_furniture_machine_operator.md)               |                          19 |                                2 |                             0.142857 |                           17 |
+| [jewellery mounter](jewellery_mounter.md)                                             |                          12 |                                2 |                             0.142857 |                           10 |
+| [metal production manager](metal_production_manager.md)                               |                          26 |                                2 |                             0.142857 |                           24 |
+| [blacksmith](blacksmith.md)                                                           |                          19 |                                2 |                             0.142857 |                           17 |
+| [welder](welder.md)                                                                   |                          31 |                                2 |                             0.142857 |                           29 |
+| [chemical tester](chemical_tester.md)                                                 |                          11 |                                2 |                             0.142857 |                            9 |
+| [welding inspector](welding_inspector.md)                                             |                          31 |                                2 |                             0.142857 |                           29 |
+| [thread rolling machine operator](thread_rolling_machine_operator.md)                 |                          16 |                                2 |                             0.142857 |                           14 |
+| [organ builder](organ_builder.md)                                                     |                          20 |                                2 |                             0.142857 |                           18 |
+| [metal production supervisor](metal_production_supervisor.md)                         |                          22 |                                2 |                             0.142857 |                           20 |
+| [tool and die maker](tool_and_die_maker.md)                                           |                          22 |                                2 |                             0.142857 |                           20 |
+| [assayer](assayer.md)                                                                 |                          17 |                                2 |                             0.142857 |                           15 |
+| [stamping press operator](stamping_press_operator.md)                                 |                          16 |                                2 |                             0.142857 |                           14 |
+| [straightening machine operator](straightening_machine_operator.md)                   |                          14 |                                2 |                             0.142857 |                           12 |

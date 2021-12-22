@@ -1,275 +1,42 @@
 #Occupation agronomist
 ##Number skills 31
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match agronomist</th>
-      <th>percentage match with agronomist</th>
-      <th>skills not in agronomist</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[horticulture production manager](horticulture_production_manager.md)&lt;/span&gt;</td>
-      <td>43</td>
-      <td>10</td>
-      <td>0.322581</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[horticulture production team leader](horticulture_production_team_leader.md)&lt;/span&gt;</td>
-      <td>42</td>
-      <td>9</td>
-      <td>0.290323</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fruit production team leader](fruit_production_team_leader.md)&lt;/span&gt;</td>
-      <td>42</td>
-      <td>8</td>
-      <td>0.258065</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agronomic crop production team leader](agronomic_crop_production_team_leader.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agricultural technician](agricultural_technician.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physics technician](physics_technician.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crop production manager](crop_production_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[livestock advisor](livestock_advisor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[soil scientist](soil_scientist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[soil surveying technician](soil_surveying_technician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biology technician](biology_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquatic animal health professional](aquatic_animal_health_professional.md)&lt;/span&gt;</td>
-      <td>55</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>50</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biotechnical technician](biotechnical_technician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[botanical technician](botanical_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physiologist](physiologist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[toxicologist](toxicologist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[analytical chemist](analytical_chemist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physicist](physicist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kinesiologist](kinesiologist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biochemist](biochemist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bacteriology technician](bacteriology_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[immunologist](immunologist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zoology technician](zoology_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vineyard supervisor](vineyard_supervisor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biochemistry technician](biochemistry_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemistry technician](chemistry_technician.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medical laboratory assistant](medical_laboratory_assistant.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[landscape gardener](landscape_gardener.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geologist](geologist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scientific laboratory technician](scientific_laboratory_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquaculture biologist](aquaculture_biologist.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[viticulture adviser](viticulture_adviser.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[equine yard manager](equine_yard_manager.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[forester](forester.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical engineering technician](chemical_engineering_technician.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmacologist](pharmacologist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[groundsman/groundswoman](groundsman-groundswoman.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>28</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                        |   skills in this occupation |   skills that match agronomist |   percentage match with agronomist |   skills not in agronomist |
+|:----------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
+| [horticulture production manager](horticulture_production_manager.md)             |                          43 |                             10 |                           0.322581 |                         33 |
+| [horticulture production team leader](horticulture_production_team_leader.md)     |                          42 |                              9 |                           0.290323 |                         33 |
+| [fruit production team leader](fruit_production_team_leader.md)                   |                          42 |                              8 |                           0.258065 |                         34 |
+| [agronomic crop production team leader](agronomic_crop_production_team_leader.md) |                          33 |                              7 |                           0.225806 |                         26 |
+| [agricultural technician](agricultural_technician.md)                             |                          10 |                              6 |                           0.193548 |                          4 |
+| [physics technician](physics_technician.md)                                       |                          13 |                              6 |                           0.193548 |                          7 |
+| [crop production manager](crop_production_manager.md)                             |                          26 |                              6 |                           0.193548 |                         20 |
+| [livestock advisor](livestock_advisor.md)                                         |                          25 |                              6 |                           0.193548 |                         19 |
+| [soil scientist](soil_scientist.md)                                               |                          13 |                              6 |                           0.193548 |                          7 |
+| [soil surveying technician](soil_surveying_technician.md)                         |                          18 |                              6 |                           0.193548 |                         12 |
+| [biology technician](biology_technician.md)                                       |                          17 |                              5 |                           0.16129  |                         12 |
+| [aquatic animal health professional](aquatic_animal_health_professional.md)       |                          55 |                              5 |                           0.16129  |                         50 |
+| [biotechnical technician](biotechnical_technician.md)                             |                          12 |                              5 |                           0.16129  |                          7 |
+| [botanical technician](botanical_technician.md)                                   |                          19 |                              5 |                           0.16129  |                         14 |
+| [physiologist](physiologist.md)                                                   |                          13 |                              5 |                           0.16129  |                          8 |
+| [toxicologist](toxicologist.md)                                                   |                          16 |                              5 |                           0.16129  |                         11 |
+| [analytical chemist](analytical_chemist.md)                                       |                          17 |                              5 |                           0.16129  |                         12 |
+| [physicist](physicist.md)                                                         |                          14 |                              5 |                           0.16129  |                          9 |
+| [kinesiologist](kinesiologist.md)                                                 |                          18 |                              5 |                           0.16129  |                         13 |
+| [biochemist](biochemist.md)                                                       |                          19 |                              5 |                           0.16129  |                         14 |
+| [bacteriology technician](bacteriology_technician.md)                             |                          19 |                              5 |                           0.16129  |                         14 |
+| [immunologist](immunologist.md)                                                   |                          14 |                              5 |                           0.16129  |                          9 |
+| [zoology technician](zoology_technician.md)                                       |                          19 |                              5 |                           0.16129  |                         14 |
+| [vineyard supervisor](vineyard_supervisor.md)                                     |                          22 |                              5 |                           0.16129  |                         17 |
+| [biochemistry technician](biochemistry_technician.md)                             |                          19 |                              5 |                           0.16129  |                         14 |
+| [chemistry technician](chemistry_technician.md)                                   |                          26 |                              5 |                           0.16129  |                         21 |
+| [medical laboratory assistant](medical_laboratory_assistant.md)                   |                          27 |                              4 |                           0.129032 |                         23 |
+| [landscape gardener](landscape_gardener.md)                                       |                          33 |                              4 |                           0.129032 |                         29 |
+| [geologist](geologist.md)                                                         |                          20 |                              4 |                           0.129032 |                         16 |
+| [scientific laboratory technician](scientific_laboratory_technician.md)           |                          14 |                              4 |                           0.129032 |                         10 |
+| [aquaculture biologist](aquaculture_biologist.md)                                 |                          37 |                              4 |                           0.129032 |                         33 |
+| [viticulture adviser](viticulture_adviser.md)                                     |                          16 |                              4 |                           0.129032 |                         12 |
+| [equine yard manager](equine_yard_manager.md)                                     |                          16 |                              4 |                           0.129032 |                         12 |
+| [forester](forester.md)                                                           |                          17 |                              4 |                           0.129032 |                         13 |
+| [chemical engineering technician](chemical_engineering_technician.md)             |                          22 |                              4 |                           0.129032 |                         18 |
+| [pharmacologist](pharmacologist.md)                                               |                          21 |                              4 |                           0.129032 |                         17 |
+| [groundsman/groundswoman](groundsman-groundswoman.md)                             |                          32 |                              4 |                           0.129032 |                         28 |

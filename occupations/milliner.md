@@ -1,366 +1,55 @@
 #Occupation milliner
 ##Number skills 7
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match milliner</th>
-      <th>percentage match with milliner</th>
-      <th>skills not in milliner</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[tailor](tailor.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>6</td>
-      <td>0.857143</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sewing machinist](sewing_machinist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.714286</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[glove maker](glove_maker.md)&lt;/span&gt;</td>
-      <td>5</td>
-      <td>5</td>
-      <td>0.714286</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sewing machine operator](sewing_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.714286</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing alteration machinist](clothing_alteration_machinist.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>5</td>
-      <td>0.714286</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing sample machinist](clothing_sample_machinist.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.571429</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[protective clothing apparel manufacturer](protective_clothing_apparel_manufacturer.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>4</td>
-      <td>0.571429</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wearing apparel patternmaker](wearing_apparel_patternmaker.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.571429</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing technologist](clothing_technologist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.571429</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dressmaker](dressmaker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.571429</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing product grader](clothing_product_grader.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.428571</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing development manager](clothing_development_manager.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.428571</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing process control technician](clothing_process_control_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.428571</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wearing apparel presser](wearing_apparel_presser.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.428571</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing quality inspector](clothing_quality_inspector.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.428571</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile quality inspector](textile_quality_inspector.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile technologist](textile_technologist.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile, leather and footwear researcher](textile,_leather_and_footwear_researcher.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile product developer](textile_product_developer.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile operations manager](textile_operations_manager.md)&lt;/span&gt;</td>
-      <td>4</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile sourcing merchandiser](textile_sourcing_merchandiser.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[weaving textile technician](weaving_textile_technician.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nonwoven  textile technician](nonwoven__textile_technician.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[made-up textile articles manufacturer](made-up_textile_articles_manufacturer.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[embroiderer](embroiderer.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing cutter](clothing_cutter.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[costume maker](costume_maker.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[leather goods production manager](leather_goods_production_manager.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[leather goods product development manager](leather_goods_product_development_manager.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laundry ironer](laundry_ironer.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[braiding textile technician](braiding_textile_technician.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[leather goods product developer](leather_goods_product_developer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[embroidery machine operator](embroidery_machine_operator.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[footwear product developer](footwear_product_developer.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[knitting textile technician](knitting_textile_technician.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[furniture upholsterer](furniture_upholsterer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mattress maker](mattress_maker.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[footwear product development manager](footwear_product_development_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile designer](textile_designer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile quality technician](textile_quality_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile chemical quality technician](textile_chemical_quality_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laundry worker](laundry_worker.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.285714</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing CAD technician](clothing_CAD_technician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.142857</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[costume designer](costume_designer.md)&lt;/span&gt;</td>
-      <td>41</td>
-      <td>1</td>
-      <td>0.142857</td>
-      <td>40</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[leather goods artisanal worker](leather_goods_artisanal_worker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.142857</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing fashion designer](clothing_fashion_designer.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>1</td>
-      <td>0.142857</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mattress making machine operator](mattress_making_machine_operator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.142857</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing finisher](clothing_finisher.md)&lt;/span&gt;</td>
-      <td>7</td>
-      <td>1</td>
-      <td>0.142857</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fashion designer](fashion_designer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.142857</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[upholsterer](upholsterer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.142857</td>
-      <td>11</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                |   skills in this occupation |   skills that match milliner |   percentage match with milliner |   skills not in milliner |
+|:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
+| [tailor](tailor.md)                                                                       |                          28 |                            6 |                         0.857143 |                       22 |
+| [sewing machinist](sewing_machinist.md)                                                   |                          12 |                            5 |                         0.714286 |                        7 |
+| [glove maker](glove_maker.md)                                                             |                           5 |                            5 |                         0.714286 |                        0 |
+| [sewing machine operator](sewing_machine_operator.md)                                     |                          14 |                            5 |                         0.714286 |                        9 |
+| [clothing alteration machinist](clothing_alteration_machinist.md)                         |                          26 |                            5 |                         0.714286 |                       21 |
+| [clothing sample machinist](clothing_sample_machinist.md)                                 |                          24 |                            4 |                         0.571429 |                       20 |
+| [protective clothing apparel manufacturer](protective_clothing_apparel_manufacturer.md)   |                          10 |                            4 |                         0.571429 |                        6 |
+| [wearing apparel patternmaker](wearing_apparel_patternmaker.md)                           |                          21 |                            4 |                         0.571429 |                       17 |
+| [clothing technologist](clothing_technologist.md)                                         |                          21 |                            4 |                         0.571429 |                       17 |
+| [dressmaker](dressmaker.md)                                                               |                          16 |                            4 |                         0.571429 |                       12 |
+| [clothing product grader](clothing_product_grader.md)                                     |                          18 |                            3 |                         0.428571 |                       15 |
+| [clothing development manager](clothing_development_manager.md)                           |                          14 |                            3 |                         0.428571 |                       11 |
+| [clothing process control technician](clothing_process_control_technician.md)             |                          14 |                            3 |                         0.428571 |                       11 |
+| [wearing apparel presser](wearing_apparel_presser.md)                                     |                          10 |                            3 |                         0.428571 |                        7 |
+| [clothing quality inspector](clothing_quality_inspector.md)                               |                          17 |                            3 |                         0.428571 |                       14 |
+| [textile quality inspector](textile_quality_inspector.md)                                 |                          19 |                            2 |                         0.285714 |                       17 |
+| [textile technologist](textile_technologist.md)                                           |                          29 |                            2 |                         0.285714 |                       27 |
+| [textile, leather and footwear researcher](textile,_leather_and_footwear_researcher.md)   |                          20 |                            2 |                         0.285714 |                       18 |
+| [textile product developer](textile_product_developer.md)                                 |                          24 |                            2 |                         0.285714 |                       22 |
+| [textile operations manager](textile_operations_manager.md)                               |                           4 |                            2 |                         0.285714 |                        2 |
+| [textile sourcing merchandiser](textile_sourcing_merchandiser.md)                         |                           9 |                            2 |                         0.285714 |                        7 |
+| [weaving textile technician](weaving_textile_technician.md)                               |                           8 |                            2 |                         0.285714 |                        6 |
+| [nonwoven  textile technician](nonwoven__textile_technician.md)                           |                           8 |                            2 |                         0.285714 |                        6 |
+| [made-up textile articles manufacturer](made-up_textile_articles_manufacturer.md)         |                          10 |                            2 |                         0.285714 |                        8 |
+| [embroiderer](embroiderer.md)                                                             |                           8 |                            2 |                         0.285714 |                        6 |
+| [clothing cutter](clothing_cutter.md)                                                     |                          12 |                            2 |                         0.285714 |                       10 |
+| [costume maker](costume_maker.md)                                                         |                          28 |                            2 |                         0.285714 |                       26 |
+| [leather goods production manager](leather_goods_production_manager.md)                   |                          20 |                            2 |                         0.285714 |                       18 |
+| [leather goods product development manager](leather_goods_product_development_manager.md) |                          24 |                            2 |                         0.285714 |                       22 |
+| [laundry ironer](laundry_ironer.md)                                                       |                          11 |                            2 |                         0.285714 |                        9 |
+| [braiding textile technician](braiding_textile_technician.md)                             |                           8 |                            2 |                         0.285714 |                        6 |
+| [leather goods product developer](leather_goods_product_developer.md)                     |                          21 |                            2 |                         0.285714 |                       19 |
+| [embroidery machine operator](embroidery_machine_operator.md)                             |                           8 |                            2 |                         0.285714 |                        6 |
+| [footwear product developer](footwear_product_developer.md)                               |                          32 |                            2 |                         0.285714 |                       30 |
+| [knitting textile technician](knitting_textile_technician.md)                             |                          11 |                            2 |                         0.285714 |                        9 |
+| [furniture upholsterer](furniture_upholsterer.md)                                         |                          16 |                            2 |                         0.285714 |                       14 |
+| [mattress maker](mattress_maker.md)                                                       |                           9 |                            2 |                         0.285714 |                        7 |
+| [footwear product development manager](footwear_product_development_manager.md)           |                          28 |                            2 |                         0.285714 |                       26 |
+| [textile designer](textile_designer.md)                                                   |                          18 |                            2 |                         0.285714 |                       16 |
+| [textile quality technician](textile_quality_technician.md)                               |                          14 |                            2 |                         0.285714 |                       12 |
+| [textile chemical quality technician](textile_chemical_quality_technician.md)             |                          14 |                            2 |                         0.285714 |                       12 |
+| [laundry worker](laundry_worker.md)                                                       |                          20 |                            2 |                         0.285714 |                       18 |
+| [clothing CAD technician](clothing_CAD_technician.md)                                     |                          16 |                            1 |                         0.142857 |                       15 |
+| [costume designer](costume_designer.md)                                                   |                          41 |                            1 |                         0.142857 |                       40 |
+| [leather goods artisanal worker](leather_goods_artisanal_worker.md)                       |                          16 |                            1 |                         0.142857 |                       15 |
+| [clothing fashion designer](clothing_fashion_designer.md)                                 |                           8 |                            1 |                         0.142857 |                        7 |
+| [mattress making machine operator](mattress_making_machine_operator.md)                   |                          10 |                            1 |                         0.142857 |                        9 |
+| [clothing finisher](clothing_finisher.md)                                                 |                           7 |                            1 |                         0.142857 |                        6 |
+| [fashion designer](fashion_designer.md)                                                   |                          18 |                            1 |                         0.142857 |                       17 |
+| [upholsterer](upholsterer.md)                                                             |                          12 |                            1 |                         0.142857 |                       11 |

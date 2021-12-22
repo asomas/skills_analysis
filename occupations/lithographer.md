@@ -1,114 +1,19 @@
 #Occupation lithographer
 ##Number skills 21
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match lithographer</th>
-      <th>percentage match with lithographer</th>
-      <th>skills not in lithographer</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[prepress technician](prepress_technician.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>7</td>
-      <td>0.333333</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[screen printer](screen_printer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>6</td>
-      <td>0.285714</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flexographic press operator](flexographic_press_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.285714</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[offset printer](offset_printer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.285714</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gravure press operator](gravure_press_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[imagesetter](imagesetter.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prepress operator](prepress_operator.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[digital printer](digital_printer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hot foil operator](hot_foil_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scanning operator](scanning_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper embosing press operator](paper_embosing_press_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bindery operator](bindery_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[print folding operator](print_folding_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[reprographics technician](reprographics_technician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>13</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                        |   skills in this occupation |   skills that match lithographer |   percentage match with lithographer |   skills not in lithographer |
+|:------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
+| [prepress technician](prepress_technician.md)                     |                          28 |                                7 |                             0.333333 |                           21 |
+| [screen printer](screen_printer.md)                               |                          19 |                                6 |                             0.285714 |                           13 |
+| [flexographic press operator](flexographic_press_operator.md)     |                          18 |                                6 |                             0.285714 |                           12 |
+| [offset printer](offset_printer.md)                               |                          18 |                                6 |                             0.285714 |                           12 |
+| [gravure press operator](gravure_press_operator.md)               |                          18 |                                5 |                             0.238095 |                           13 |
+| [imagesetter](imagesetter.md)                                     |                          28 |                                5 |                             0.238095 |                           23 |
+| [prepress operator](prepress_operator.md)                         |                          23 |                                4 |                             0.190476 |                           19 |
+| [digital printer](digital_printer.md)                             |                          18 |                                4 |                             0.190476 |                           14 |
+| [hot foil operator](hot_foil_operator.md)                         |                          14 |                                4 |                             0.190476 |                           10 |
+| [scanning operator](scanning_operator.md)                         |                          14 |                                3 |                             0.142857 |                           11 |
+| [paper embosing press operator](paper_embosing_press_operator.md) |                          13 |                                3 |                             0.142857 |                           10 |
+| [bindery operator](bindery_operator.md)                           |                          15 |                                3 |                             0.142857 |                           12 |
+| [print folding operator](print_folding_operator.md)               |                          15 |                                3 |                             0.142857 |                           12 |
+| [reprographics technician](reprographics_technician.md)           |                          16 |                                3 |                             0.142857 |                           13 |

@@ -1,163 +1,26 @@
 #Occupation accountant
 ##Number skills 26
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match accountant</th>
-      <th>percentage match with accountant</th>
-      <th>skills not in accountant</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[accounting manager](accounting_manager.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>15</td>
-      <td>0.576923</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bookkeeper](bookkeeper.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>14</td>
-      <td>0.538462</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[accounting assistant](accounting_assistant.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>11</td>
-      <td>0.423077</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[financial controller](financial_controller.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>10</td>
-      <td>0.384615</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[accounting analyst](accounting_analyst.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>10</td>
-      <td>0.384615</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tax clerk](tax_clerk.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>7</td>
-      <td>0.269231</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[budget manager](budget_manager.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>6</td>
-      <td>0.230769</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[financial auditor](financial_auditor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.230769</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tax inspector](tax_inspector.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.192308</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tax advisor](tax_advisor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.192308</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[audit supervisor](audit_supervisor.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.153846</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bank treasurer](bank_treasurer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.153846</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bank manager](bank_manager.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>4</td>
-      <td>0.153846</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[corporate treasurer](corporate_treasurer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.153846</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[financial fraud examiner](financial_fraud_examiner.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.153846</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[insurance agency manager](insurance_agency_manager.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>4</td>
-      <td>0.153846</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[risk manager](risk_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>4</td>
-      <td>0.153846</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business valuer](business_valuer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.115385</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[economist](economist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.115385</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chief executive officer](chief_executive_officer.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.115385</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[investment manager](investment_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.115385</td>
-      <td>25</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                              |   skills in this occupation |   skills that match accountant |   percentage match with accountant |   skills not in accountant |
+|:--------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
+| [accounting manager](accounting_manager.md)             |                          33 |                             15 |                           0.576923 |                         18 |
+| [bookkeeper](bookkeeper.md)                             |                          18 |                             14 |                           0.538462 |                          4 |
+| [accounting assistant](accounting_assistant.md)         |                          20 |                             11 |                           0.423077 |                          9 |
+| [financial controller](financial_controller.md)         |                          17 |                             10 |                           0.384615 |                          7 |
+| [accounting analyst](accounting_analyst.md)             |                          17 |                             10 |                           0.384615 |                          7 |
+| [tax clerk](tax_clerk.md)                               |                          12 |                              7 |                           0.269231 |                          5 |
+| [budget manager](budget_manager.md)                     |                          29 |                              6 |                           0.230769 |                         23 |
+| [financial auditor](financial_auditor.md)               |                          22 |                              6 |                           0.230769 |                         16 |
+| [tax inspector](tax_inspector.md)                       |                          12 |                              5 |                           0.192308 |                          7 |
+| [tax advisor](tax_advisor.md)                           |                          17 |                              5 |                           0.192308 |                         12 |
+| [audit supervisor](audit_supervisor.md)                 |                          18 |                              4 |                           0.153846 |                         14 |
+| [bank treasurer](bank_treasurer.md)                     |                          25 |                              4 |                           0.153846 |                         21 |
+| [bank manager](bank_manager.md)                         |                          33 |                              4 |                           0.153846 |                         29 |
+| [corporate treasurer](corporate_treasurer.md)           |                          15 |                              4 |                           0.153846 |                         11 |
+| [financial fraud examiner](financial_fraud_examiner.md) |                          14 |                              4 |                           0.153846 |                         10 |
+| [insurance agency manager](insurance_agency_manager.md) |                          37 |                              4 |                           0.153846 |                         33 |
+| [risk manager](risk_manager.md)                         |                          28 |                              4 |                           0.153846 |                         24 |
+| [business valuer](business_valuer.md)                   |                          17 |                              3 |                           0.115385 |                         14 |
+| [economist](economist.md)                               |                          15 |                              3 |                           0.115385 |                         12 |
+| [chief executive officer](chief_executive_officer.md)   |                          30 |                              3 |                           0.115385 |                         27 |
+| [investment manager](investment_manager.md)             |                          28 |                              3 |                           0.115385 |                         25 |

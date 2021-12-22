@@ -1,394 +1,59 @@
 #Occupation brigadier
 ##Number skills 14
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match brigadier</th>
-      <th>percentage match with brigadier</th>
-      <th>skills not in brigadier</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[army general](army_general.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>9</td>
-      <td>0.642857</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[armed forces officer](armed_forces_officer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>7</td>
-      <td>0.500000</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rescue centre manager](rescue_centre_manager.md)&lt;/span&gt;</td>
-      <td>76</td>
-      <td>5</td>
-      <td>0.357143</td>
-      <td>71</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court administrator](court_administrator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>5</td>
-      <td>0.357143</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lieutenant](lieutenant.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.357143</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fleet commander](fleet_commander.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>5</td>
-      <td>0.357143</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[colonel](colonel.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>5</td>
-      <td>0.357143</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army captain](army_captain.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.357143</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[police commissioner](police_commissioner.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special forces officer](special_forces_officer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[navy officer](navy_officer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[armed forces training and education officer](armed_forces_training_and_education_officer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sergeant](sergeant.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[air force officer](air_force_officer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army major](army_major.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[defence administration officer](defence_administration_officer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[warfare specialist](warfare_specialist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army corporal](army_corporal.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chief fire officer](chief_fire_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[office manager](office_manager.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[correctional services manager](correctional_services_manager.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[artillery officer](artillery_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[youth centre manager](youth_centre_manager.md)&lt;/span&gt;</td>
-      <td>71</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>68</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[production supervisor](production_supervisor.md)&lt;/span&gt;</td>
-      <td>39</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>37</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[embassy counsellor](embassy_counsellor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[secretary general](secretary_general.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft cargo operations coordinator](aircraft_cargo_operations_coordinator.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[airport director](airport_director.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[editor-in-chief](editor-in-chief.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spa manager](spa_manager.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>45</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[broadcasting programme director](broadcasting_programme_director.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bank manager](bank_manager.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beauty salon manager](beauty_salon_manager.md)&lt;/span&gt;</td>
-      <td>44</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>42</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[elderly home manager](elderly_home_manager.md)&lt;/span&gt;</td>
-      <td>68</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>66</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[contact centre supervisor](contact_centre_supervisor.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social security administrator](social_security_administrator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[waste management supervisor](waste_management_supervisor.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laundry and dry cleaning manager](laundry_and_dry_cleaning_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[child day care centre manager](child_day_care_centre_manager.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[broadcast news editor](broadcast_news_editor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[magazine editor](magazine_editor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[performance production manager](performance_production_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ICT project manager](ICT_project_manager.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[squadron leader](squadron_leader.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zoo curator](zoo_curator.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>45</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[botanist](botanist.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[artistic director](artistic_director.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cultural centre director](cultural_centre_director.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[programme manager](programme_manager.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[project manager](project_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[branch manager](branch_manager.md)&lt;/span&gt;</td>
-      <td>48</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>46</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood factory manager](wood_factory_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[port coordinator](port_coordinator.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ship captain](ship_captain.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>30</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                    |   skills in this occupation |   skills that match brigadier |   percentage match with brigadier |   skills not in brigadier |
+|:----------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
+| [army general](army_general.md)                                                               |                          12 |                             9 |                          0.642857 |                         3 |
+| [armed forces officer](armed_forces_officer.md)                                               |                          21 |                             7 |                          0.5      |                        14 |
+| [rescue centre manager](rescue_centre_manager.md)                                             |                          76 |                             5 |                          0.357143 |                        71 |
+| [court administrator](court_administrator.md)                                                 |                          10 |                             5 |                          0.357143 |                         5 |
+| [lieutenant](lieutenant.md)                                                                   |                          14 |                             5 |                          0.357143 |                         9 |
+| [fleet commander](fleet_commander.md)                                                         |                          11 |                             5 |                          0.357143 |                         6 |
+| [colonel](colonel.md)                                                                         |                          10 |                             5 |                          0.357143 |                         5 |
+| [army captain](army_captain.md)                                                               |                          12 |                             5 |                          0.357143 |                         7 |
+| [police commissioner](police_commissioner.md)                                                 |                          18 |                             4 |                          0.285714 |                        14 |
+| [special forces officer](special_forces_officer.md)                                           |                          22 |                             4 |                          0.285714 |                        18 |
+| [navy officer](navy_officer.md)                                                               |                          21 |                             4 |                          0.285714 |                        17 |
+| [armed forces training and education officer](armed_forces_training_and_education_officer.md) |                          20 |                             4 |                          0.285714 |                        16 |
+| [sergeant](sergeant.md)                                                                       |                          13 |                             4 |                          0.285714 |                         9 |
+| [air force officer](air_force_officer.md)                                                     |                          21 |                             4 |                          0.285714 |                        17 |
+| [army major](army_major.md)                                                                   |                          11 |                             4 |                          0.285714 |                         7 |
+| [defence administration officer](defence_administration_officer.md)                           |                          12 |                             4 |                          0.285714 |                         8 |
+| [warfare specialist](warfare_specialist.md)                                                   |                          14 |                             3 |                          0.214286 |                        11 |
+| [army corporal](army_corporal.md)                                                             |                          11 |                             3 |                          0.214286 |                         8 |
+| [chief fire officer](chief_fire_officer.md)                                                   |                          15 |                             3 |                          0.214286 |                        12 |
+| [office manager](office_manager.md)                                                           |                          17 |                             3 |                          0.214286 |                        14 |
+| [correctional services manager](correctional_services_manager.md)                             |                          13 |                             3 |                          0.214286 |                        10 |
+| [artillery officer](artillery_officer.md)                                                     |                          15 |                             3 |                          0.214286 |                        12 |
+| [youth centre manager](youth_centre_manager.md)                                               |                          71 |                             3 |                          0.214286 |                        68 |
+| [production supervisor](production_supervisor.md)                                             |                          39 |                             2 |                          0.142857 |                        37 |
+| [embassy counsellor](embassy_counsellor.md)                                                   |                          15 |                             2 |                          0.142857 |                        13 |
+| [secretary general](secretary_general.md)                                                     |                          10 |                             2 |                          0.142857 |                         8 |
+| [aircraft cargo operations coordinator](aircraft_cargo_operations_coordinator.md)             |                          24 |                             2 |                          0.142857 |                        22 |
+| [airport director](airport_director.md)                                                       |                          23 |                             2 |                          0.142857 |                        21 |
+| [editor-in-chief](editor-in-chief.md)                                                         |                          20 |                             2 |                          0.142857 |                        18 |
+| [spa manager](spa_manager.md)                                                                 |                          47 |                             2 |                          0.142857 |                        45 |
+| [broadcasting programme director](broadcasting_programme_director.md)                         |                          15 |                             2 |                          0.142857 |                        13 |
+| [bank manager](bank_manager.md)                                                               |                          33 |                             2 |                          0.142857 |                        31 |
+| [beauty salon manager](beauty_salon_manager.md)                                               |                          44 |                             2 |                          0.142857 |                        42 |
+| [elderly home manager](elderly_home_manager.md)                                               |                          68 |                             2 |                          0.142857 |                        66 |
+| [contact centre supervisor](contact_centre_supervisor.md)                                     |                          18 |                             2 |                          0.142857 |                        16 |
+| [social security administrator](social_security_administrator.md)                             |                          14 |                             2 |                          0.142857 |                        12 |
+| [waste management supervisor](waste_management_supervisor.md)                                 |                          14 |                             2 |                          0.142857 |                        12 |
+| [laundry and dry cleaning manager](laundry_and_dry_cleaning_manager.md)                       |                          28 |                             2 |                          0.142857 |                        26 |
+| [child day care centre manager](child_day_care_centre_manager.md)                             |                          74 |                             2 |                          0.142857 |                        72 |
+| [broadcast news editor](broadcast_news_editor.md)                                             |                          19 |                             2 |                          0.142857 |                        17 |
+| [magazine editor](magazine_editor.md)                                                         |                          15 |                             2 |                          0.142857 |                        13 |
+| [performance production manager](performance_production_manager.md)                           |                          34 |                             2 |                          0.142857 |                        32 |
+| [ICT project manager](ICT_project_manager.md)                                                 |                          20 |                             2 |                          0.142857 |                        18 |
+| [squadron leader](squadron_leader.md)                                                         |                          10 |                             2 |                          0.142857 |                         8 |
+| [zoo curator](zoo_curator.md)                                                                 |                          47 |                             2 |                          0.142857 |                        45 |
+| [botanist](botanist.md)                                                                       |                          27 |                             2 |                          0.142857 |                        25 |
+| [artistic director](artistic_director.md)                                                     |                          36 |                             2 |                          0.142857 |                        34 |
+| [cultural centre director](cultural_centre_director.md)                                       |                          31 |                             2 |                          0.142857 |                        29 |
+| [programme manager](programme_manager.md)                                                     |                          23 |                             2 |                          0.142857 |                        21 |
+| [project manager](project_manager.md)                                                         |                          28 |                             2 |                          0.142857 |                        26 |
+| [branch manager](branch_manager.md)                                                           |                          48 |                             2 |                          0.142857 |                        46 |
+| [wood factory manager](wood_factory_manager.md)                                               |                          28 |                             2 |                          0.142857 |                        26 |
+| [port coordinator](port_coordinator.md)                                                       |                          30 |                             2 |                          0.142857 |                        28 |
+| [ship captain](ship_captain.md)                                                               |                          32 |                             2 |                          0.142857 |                        30 |

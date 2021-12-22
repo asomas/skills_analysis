@@ -1,212 +1,33 @@
 #Occupation astronaut
 ##Number skills 18
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match astronaut</th>
-      <th>percentage match with astronaut</th>
-      <th>skills not in astronaut</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[satellite engineer](satellite_engineer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>4</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[air traffic instructor](air_traffic_instructor.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>3</td>
-      <td>0.166667</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[intelligence communications interceptor](intelligence_communications_interceptor.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.166667</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[trolley bus driver](trolley_bus_driver.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.166667</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[remote sensing technician](remote_sensing_technician.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.166667</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ship planner](ship_planner.md)&lt;/span&gt;</td>
-      <td>51</td>
-      <td>3</td>
-      <td>0.166667</td>
-      <td>48</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[air traffic controller](air_traffic_controller.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oceanographer](oceanographer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[helicopter pilot](helicopter_pilot.md)&lt;/span&gt;</td>
-      <td>39</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>37</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cargo vehicle driver](cargo_vehicle_driver.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cosmologist](cosmologist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dangerous goods driver](dangerous_goods_driver.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[co-pilot](co-pilot.md)&lt;/span&gt;</td>
-      <td>43</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>41</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[warfare specialist](warfare_specialist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physicist](physicist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aviation surveillance and code coordination manager](aviation_surveillance_and_code_coordination_manager.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physics technician](physics_technician.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[airspace manager](airspace_manager.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[astronomer](astronomer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biophysicist](biophysicist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physiotherapist](physiotherapist.md)&lt;/span&gt;</td>
-      <td>90</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>88</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special forces officer](special_forces_officer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tram driver](tram_driver.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bus driver](bus_driver.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[moving truck driver](moving_truck_driver.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aviation ground systems engineer](aviation_ground_systems_engineer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geographer](geographer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[taxi driver](taxi_driver.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                                    |   skills in this occupation |   skills that match astronaut |   percentage match with astronaut |   skills not in astronaut |
+|:--------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
+| [satellite engineer](satellite_engineer.md)                                                                   |                          19 |                             4 |                          0.222222 |                        15 |
+| [air traffic instructor](air_traffic_instructor.md)                                                           |                          29 |                             3 |                          0.166667 |                        26 |
+| [intelligence communications interceptor](intelligence_communications_interceptor.md)                         |                          18 |                             3 |                          0.166667 |                        15 |
+| [trolley bus driver](trolley_bus_driver.md)                                                                   |                          31 |                             3 |                          0.166667 |                        28 |
+| [remote sensing technician](remote_sensing_technician.md)                                                     |                          15 |                             3 |                          0.166667 |                        12 |
+| [ship planner](ship_planner.md)                                                                               |                          51 |                             3 |                          0.166667 |                        48 |
+| [air traffic controller](air_traffic_controller.md)                                                           |                          33 |                             2 |                          0.111111 |                        31 |
+| [oceanographer](oceanographer.md)                                                                             |                          15 |                             2 |                          0.111111 |                        13 |
+| [helicopter pilot](helicopter_pilot.md)                                                                       |                          39 |                             2 |                          0.111111 |                        37 |
+| [cargo vehicle driver](cargo_vehicle_driver.md)                                                               |                          19 |                             2 |                          0.111111 |                        17 |
+| [cosmologist](cosmologist.md)                                                                                 |                          20 |                             2 |                          0.111111 |                        18 |
+| [dangerous goods driver](dangerous_goods_driver.md)                                                           |                          21 |                             2 |                          0.111111 |                        19 |
+| [co-pilot](co-pilot.md)                                                                                       |                          43 |                             2 |                          0.111111 |                        41 |
+| [warfare specialist](warfare_specialist.md)                                                                   |                          14 |                             2 |                          0.111111 |                        12 |
+| [physicist](physicist.md)                                                                                     |                          14 |                             2 |                          0.111111 |                        12 |
+| [aviation surveillance and code coordination manager](aviation_surveillance_and_code_coordination_manager.md) |                          14 |                             2 |                          0.111111 |                        12 |
+| [physics technician](physics_technician.md)                                                                   |                          13 |                             2 |                          0.111111 |                        11 |
+| [airspace manager](airspace_manager.md)                                                                       |                          17 |                             2 |                          0.111111 |                        15 |
+| [astronomer](astronomer.md)                                                                                   |                          12 |                             2 |                          0.111111 |                        10 |
+| [biophysicist](biophysicist.md)                                                                               |                          12 |                             2 |                          0.111111 |                        10 |
+| [physiotherapist](physiotherapist.md)                                                                         |                          90 |                             2 |                          0.111111 |                        88 |
+| [special forces officer](special_forces_officer.md)                                                           |                          22 |                             2 |                          0.111111 |                        20 |
+| [tram driver](tram_driver.md)                                                                                 |                          34 |                             2 |                          0.111111 |                        32 |
+| [bus driver](bus_driver.md)                                                                                   |                          33 |                             2 |                          0.111111 |                        31 |
+| [moving truck driver](moving_truck_driver.md)                                                                 |                          21 |                             2 |                          0.111111 |                        19 |
+| [aviation ground systems engineer](aviation_ground_systems_engineer.md)                                       |                          16 |                             2 |                          0.111111 |                        14 |
+| [geographer](geographer.md)                                                                                   |                          12 |                             2 |                          0.111111 |                        10 |
+| [taxi driver](taxi_driver.md)                                                                                 |                          20 |                             2 |                          0.111111 |                        18 |

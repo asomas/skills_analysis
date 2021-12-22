@@ -1,331 +1,50 @@
 #Occupation pharmacologist
 ##Number skills 21
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match pharmacologist</th>
-      <th>percentage match with pharmacologist</th>
-      <th>skills not in pharmacologist</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[medical laboratory assistant](medical_laboratory_assistant.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>9</td>
-      <td>0.428571</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biochemist](biochemist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>9</td>
-      <td>0.428571</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[toxicologist](toxicologist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>8</td>
-      <td>0.380952</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scientific laboratory technician](scientific_laboratory_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>8</td>
-      <td>0.380952</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmacist](pharmacist.md)&lt;/span&gt;</td>
-      <td>75</td>
-      <td>7</td>
-      <td>0.333333</td>
-      <td>68</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biochemistry technician](biochemistry_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>6</td>
-      <td>0.285714</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bacteriology technician](bacteriology_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>6</td>
-      <td>0.285714</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[specialist pharmacist](specialist_pharmacist.md)&lt;/span&gt;</td>
-      <td>48</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>43</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemistry technician](chemistry_technician.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[immunologist](immunologist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical engineering technician](chemical_engineering_technician.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biology technician](biology_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[botanical technician](botanical_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biotechnical technician](biotechnical_technician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physiologist](physiologist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmaceutical quality specialist](pharmaceutical_quality_specialist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zoology technician](zoology_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.238095</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geologist](geologist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[analytical chemist](analytical_chemist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chromatographer](chromatographer.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquatic animal health professional](aquatic_animal_health_professional.md)&lt;/span&gt;</td>
-      <td>55</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>51</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physics technician](physics_technician.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geneticist](geneticist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical manufacturing quality technician](chemical_manufacturing_quality_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquaculture biologist](aquaculture_biologist.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biomedical scientist](biomedical_scientist.md)&lt;/span&gt;</td>
-      <td>90</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>86</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agronomist](agronomist.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial pharmacist](industrial_pharmacist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biochemical engineer](biochemical_engineer.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[material testing technician](material_testing_technician.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kinesiologist](kinesiologist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.190476</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biologist](biologist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fire safety tester](fire_safety_tester.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemist](chemist.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metallurgical technician](metallurgical_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[assayer](assayer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[soil surveying technician](soil_surveying_technician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mineralogist](mineralogist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physicist](physicist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[groundwater monitoring technician](groundwater_monitoring_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood treater](wood_treater.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agricultural technician](agricultural_technician.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[water quality analyst](water_quality_analyst.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmaceutical engineer](pharmaceutical_engineer.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hospital pharmacist](hospital_pharmacist.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.142857</td>
-      <td>25</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                |   skills in this occupation |   skills that match pharmacologist |   percentage match with pharmacologist |   skills not in pharmacologist |
+|:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
+| [medical laboratory assistant](medical_laboratory_assistant.md)                           |                          27 |                                  9 |                               0.428571 |                             18 |
+| [biochemist](biochemist.md)                                                               |                          19 |                                  9 |                               0.428571 |                             10 |
+| [toxicologist](toxicologist.md)                                                           |                          16 |                                  8 |                               0.380952 |                              8 |
+| [scientific laboratory technician](scientific_laboratory_technician.md)                   |                          14 |                                  8 |                               0.380952 |                              6 |
+| [pharmacist](pharmacist.md)                                                               |                          75 |                                  7 |                               0.333333 |                             68 |
+| [biochemistry technician](biochemistry_technician.md)                                     |                          19 |                                  6 |                               0.285714 |                             13 |
+| [bacteriology technician](bacteriology_technician.md)                                     |                          19 |                                  6 |                               0.285714 |                             13 |
+| [specialist pharmacist](specialist_pharmacist.md)                                         |                          48 |                                  5 |                               0.238095 |                             43 |
+| [chemistry technician](chemistry_technician.md)                                           |                          26 |                                  5 |                               0.238095 |                             21 |
+| [immunologist](immunologist.md)                                                           |                          14 |                                  5 |                               0.238095 |                              9 |
+| [chemical engineering technician](chemical_engineering_technician.md)                     |                          22 |                                  5 |                               0.238095 |                             17 |
+| [biology technician](biology_technician.md)                                               |                          17 |                                  5 |                               0.238095 |                             12 |
+| [botanical technician](botanical_technician.md)                                           |                          19 |                                  5 |                               0.238095 |                             14 |
+| [biotechnical technician](biotechnical_technician.md)                                     |                          12 |                                  5 |                               0.238095 |                              7 |
+| [physiologist](physiologist.md)                                                           |                          13 |                                  5 |                               0.238095 |                              8 |
+| [pharmaceutical quality specialist](pharmaceutical_quality_specialist.md)                 |                          13 |                                  5 |                               0.238095 |                              8 |
+| [zoology technician](zoology_technician.md)                                               |                          19 |                                  5 |                               0.238095 |                             14 |
+| [geologist](geologist.md)                                                                 |                          20 |                                  4 |                               0.190476 |                             16 |
+| [analytical chemist](analytical_chemist.md)                                               |                          17 |                                  4 |                               0.190476 |                             13 |
+| [chromatographer](chromatographer.md)                                                     |                          31 |                                  4 |                               0.190476 |                             27 |
+| [aquatic animal health professional](aquatic_animal_health_professional.md)               |                          55 |                                  4 |                               0.190476 |                             51 |
+| [physics technician](physics_technician.md)                                               |                          13 |                                  4 |                               0.190476 |                              9 |
+| [geneticist](geneticist.md)                                                               |                          16 |                                  4 |                               0.190476 |                             12 |
+| [chemical manufacturing quality technician](chemical_manufacturing_quality_technician.md) |                          19 |                                  4 |                               0.190476 |                             15 |
+| [aquaculture biologist](aquaculture_biologist.md)                                         |                          37 |                                  4 |                               0.190476 |                             33 |
+| [biomedical scientist](biomedical_scientist.md)                                           |                          90 |                                  4 |                               0.190476 |                             86 |
+| [agronomist](agronomist.md)                                                               |                          31 |                                  4 |                               0.190476 |                             27 |
+| [industrial pharmacist](industrial_pharmacist.md)                                         |                          17 |                                  4 |                               0.190476 |                             13 |
+| [biochemical engineer](biochemical_engineer.md)                                           |                          31 |                                  4 |                               0.190476 |                             27 |
+| [material testing technician](material_testing_technician.md)                             |                          10 |                                  4 |                               0.190476 |                              6 |
+| [kinesiologist](kinesiologist.md)                                                         |                          18 |                                  4 |                               0.190476 |                             14 |
+| [biologist](biologist.md)                                                                 |                          14 |                                  3 |                               0.142857 |                             11 |
+| [fire safety tester](fire_safety_tester.md)                                               |                          13 |                                  3 |                               0.142857 |                             10 |
+| [chemist](chemist.md)                                                                     |                          23 |                                  3 |                               0.142857 |                             20 |
+| [metallurgical technician](metallurgical_technician.md)                                   |                          17 |                                  3 |                               0.142857 |                             14 |
+| [assayer](assayer.md)                                                                     |                          17 |                                  3 |                               0.142857 |                             14 |
+| [soil surveying technician](soil_surveying_technician.md)                                 |                          18 |                                  3 |                               0.142857 |                             15 |
+| [mineralogist](mineralogist.md)                                                           |                          18 |                                  3 |                               0.142857 |                             15 |
+| [physicist](physicist.md)                                                                 |                          14 |                                  3 |                               0.142857 |                             11 |
+| [groundwater monitoring technician](groundwater_monitoring_technician.md)                 |                          17 |                                  3 |                               0.142857 |                             14 |
+| [wood treater](wood_treater.md)                                                           |                          15 |                                  3 |                               0.142857 |                             12 |
+| [agricultural technician](agricultural_technician.md)                                     |                          10 |                                  3 |                               0.142857 |                              7 |
+| [water quality analyst](water_quality_analyst.md)                                         |                          13 |                                  3 |                               0.142857 |                             10 |
+| [pharmaceutical engineer](pharmaceutical_engineer.md)                                     |                          28 |                                  3 |                               0.142857 |                             25 |
+| [hospital pharmacist](hospital_pharmacist.md)                                             |                          28 |                                  3 |                               0.142857 |                             25 |

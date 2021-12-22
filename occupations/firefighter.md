@@ -1,261 +1,40 @@
 #Occupation firefighter
 ##Number skills 16
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match firefighter</th>
-      <th>percentage match with firefighter</th>
-      <th>skills not in firefighter</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[industrial firefighter](industrial_firefighter.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>16</td>
-      <td>1.0000</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine firefighter](marine_firefighter.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>16</td>
-      <td>1.0000</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fire service vehicle operator](fire_service_vehicle_operator.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>15</td>
-      <td>0.9375</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pump operator](pump_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>11</td>
-      <td>0.6875</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[firefighter instructor](firefighter_instructor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>9</td>
-      <td>0.5625</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chief fire officer](chief_fire_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>9</td>
-      <td>0.5625</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hospital porter](hospital_porter.md)&lt;/span&gt;</td>
-      <td>38</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fire protection technician](fire_protection_technician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fire safety tester](fire_safety_tester.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paramedic in emergency responses](paramedic_in_emergency_responses.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>70</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rescue diver](rescue_diver.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fire commissioner](fire_commissioner.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fire prevention and protection engineer](fire_prevention_and_protection_engineer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fisheries boatman](fisheries_boatman.md)&lt;/span&gt;</td>
-      <td>44</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>41</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fisheries deckhand](fisheries_deckhand.md)&lt;/span&gt;</td>
-      <td>38</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fire inspector](fire_inspector.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sailor](sailor.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquaculture harvesting technician](aquaculture_harvesting_technician.md)&lt;/span&gt;</td>
-      <td>39</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>37</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[land-based machinery technician](land-based_machinery_technician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crowd controller](crowd_controller.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[door supervisor](door_supervisor.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquaculture recirculation manager](aquaculture_recirculation_manager.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bodyguard](bodyguard.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[malt kiln operator](malt_kiln_operator.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lifeguard instructor](lifeguard_instructor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[legal guardian](legal_guardian.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gate guard](gate_guard.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[forestry technician](forestry_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chimney sweep supervisor](chimney_sweep_supervisor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fisheries boatmaster](fisheries_boatmaster.md)&lt;/span&gt;</td>
-      <td>45</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>43</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[emergency response worker](emergency_response_worker.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fisheries master](fisheries_master.md)&lt;/span&gt;</td>
-      <td>43</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>41</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[matrose](matrose.md)&lt;/span&gt;</td>
-      <td>60</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>58</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[emergency ambulance driver](emergency_ambulance_driver.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[life guard](life_guard.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>13</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                            |   skills in this occupation |   skills that match firefighter |   percentage match with firefighter |   skills not in firefighter |
+|:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
+| [industrial firefighter](industrial_firefighter.md)                                   |                          29 |                              16 |                              1      |                          13 |
+| [marine firefighter](marine_firefighter.md)                                           |                          22 |                              16 |                              1      |                           6 |
+| [fire service vehicle operator](fire_service_vehicle_operator.md)                     |                          23 |                              15 |                              0.9375 |                           8 |
+| [pump operator](pump_operator.md)                                                     |                          19 |                              11 |                              0.6875 |                           8 |
+| [firefighter instructor](firefighter_instructor.md)                                   |                          19 |                               9 |                              0.5625 |                          10 |
+| [chief fire officer](chief_fire_officer.md)                                           |                          15 |                               9 |                              0.5625 |                           6 |
+| [hospital porter](hospital_porter.md)                                                 |                          38 |                               4 |                              0.25   |                          34 |
+| [fire protection technician](fire_protection_technician.md)                           |                          12 |                               4 |                              0.25   |                           8 |
+| [fire safety tester](fire_safety_tester.md)                                           |                          13 |                               4 |                              0.25   |                           9 |
+| [paramedic in emergency responses](paramedic_in_emergency_responses.md)               |                          74 |                               4 |                              0.25   |                          70 |
+| [rescue diver](rescue_diver.md)                                                       |                          25 |                               3 |                              0.1875 |                          22 |
+| [fire commissioner](fire_commissioner.md)                                             |                          15 |                               3 |                              0.1875 |                          12 |
+| [fire prevention and protection engineer](fire_prevention_and_protection_engineer.md) |                          13 |                               3 |                              0.1875 |                          10 |
+| [fisheries boatman](fisheries_boatman.md)                                             |                          44 |                               3 |                              0.1875 |                          41 |
+| [fisheries deckhand](fisheries_deckhand.md)                                           |                          38 |                               3 |                              0.1875 |                          35 |
+| [fire inspector](fire_inspector.md)                                                   |                          13 |                               3 |                              0.1875 |                          10 |
+| [sailor](sailor.md)                                                                   |                          24 |                               2 |                              0.125  |                          22 |
+| [aquaculture harvesting technician](aquaculture_harvesting_technician.md)             |                          39 |                               2 |                              0.125  |                          37 |
+| [land-based machinery technician](land-based_machinery_technician.md)                 |                          12 |                               2 |                              0.125  |                          10 |
+| [crowd controller](crowd_controller.md)                                               |                          20 |                               2 |                              0.125  |                          18 |
+| [door supervisor](door_supervisor.md)                                                 |                          16 |                               2 |                              0.125  |                          14 |
+| [aquaculture recirculation manager](aquaculture_recirculation_manager.md)             |                          33 |                               2 |                              0.125  |                          31 |
+| [bodyguard](bodyguard.md)                                                             |                          24 |                               2 |                              0.125  |                          22 |
+| [malt kiln operator](malt_kiln_operator.md)                                           |                          28 |                               2 |                              0.125  |                          26 |
+| [lifeguard instructor](lifeguard_instructor.md)                                       |                          21 |                               2 |                              0.125  |                          19 |
+| [legal guardian](legal_guardian.md)                                                   |                          12 |                               2 |                              0.125  |                          10 |
+| [gate guard](gate_guard.md)                                                           |                          15 |                               2 |                              0.125  |                          13 |
+| [forestry technician](forestry_technician.md)                                         |                          19 |                               2 |                              0.125  |                          17 |
+| [chimney sweep supervisor](chimney_sweep_supervisor.md)                               |                          15 |                               2 |                              0.125  |                          13 |
+| [fisheries boatmaster](fisheries_boatmaster.md)                                       |                          45 |                               2 |                              0.125  |                          43 |
+| [emergency response worker](emergency_response_worker.md)                             |                          14 |                               2 |                              0.125  |                          12 |
+| [fisheries master](fisheries_master.md)                                               |                          43 |                               2 |                              0.125  |                          41 |
+| [matrose](matrose.md)                                                                 |                          60 |                               2 |                              0.125  |                          58 |
+| [emergency ambulance driver](emergency_ambulance_driver.md)                           |                          33 |                               2 |                              0.125  |                          31 |
+| [life guard](life_guard.md)                                                           |                          15 |                               2 |                              0.125  |                          13 |

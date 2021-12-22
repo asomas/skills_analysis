@@ -1,93 +1,16 @@
 #Occupation stevedore
 ##Number skills 37
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match stevedore</th>
-      <th>percentage match with stevedore</th>
-      <th>skills not in stevedore</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[rail intermodal equipment operator](rail_intermodal_equipment_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>15</td>
-      <td>0.405405</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[warehouse order picker](warehouse_order_picker.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>5</td>
-      <td>0.135135</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[skipper](skipper.md)&lt;/span&gt;</td>
-      <td>51</td>
-      <td>4</td>
-      <td>0.108108</td>
-      <td>47</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[forklift operator](forklift_operator.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.108108</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[helmsman](helmsman.md)&lt;/span&gt;</td>
-      <td>51</td>
-      <td>4</td>
-      <td>0.108108</td>
-      <td>47</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[trolley bus driver](trolley_bus_driver.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.108108</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tram driver](tram_driver.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>4</td>
-      <td>0.108108</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bus driver](bus_driver.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>4</td>
-      <td>0.108108</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[logistics and distribution manager](logistics_and_distribution_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.108108</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[matrose](matrose.md)&lt;/span&gt;</td>
-      <td>60</td>
-      <td>4</td>
-      <td>0.108108</td>
-      <td>56</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[moving truck driver](moving_truck_driver.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.108108</td>
-      <td>17</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                  |   skills in this occupation |   skills that match stevedore |   percentage match with stevedore |   skills not in stevedore |
+|:----------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
+| [rail intermodal equipment operator](rail_intermodal_equipment_operator.md) |                          17 |                            15 |                          0.405405 |                         2 |
+| [warehouse order picker](warehouse_order_picker.md)                         |                          24 |                             5 |                          0.135135 |                        19 |
+| [skipper](skipper.md)                                                       |                          51 |                             4 |                          0.108108 |                        47 |
+| [forklift operator](forklift_operator.md)                                   |                          32 |                             4 |                          0.108108 |                        28 |
+| [helmsman](helmsman.md)                                                     |                          51 |                             4 |                          0.108108 |                        47 |
+| [trolley bus driver](trolley_bus_driver.md)                                 |                          31 |                             4 |                          0.108108 |                        27 |
+| [tram driver](tram_driver.md)                                               |                          34 |                             4 |                          0.108108 |                        30 |
+| [bus driver](bus_driver.md)                                                 |                          33 |                             4 |                          0.108108 |                        29 |
+| [logistics and distribution manager](logistics_and_distribution_manager.md) |                          32 |                             4 |                          0.108108 |                        28 |
+| [matrose](matrose.md)                                                       |                          60 |                             4 |                          0.108108 |                        56 |
+| [moving truck driver](moving_truck_driver.md)                               |                          21 |                             4 |                          0.108108 |                        17 |

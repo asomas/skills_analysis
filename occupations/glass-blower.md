@@ -1,247 +1,38 @@
 #Occupation glass-blower
 ##Number skills 15
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match glass-blower</th>
-      <th>percentage match with glass-blower</th>
-      <th>skills not in glass-blower</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[sculptor](sculptor.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>9</td>
-      <td>0.600000</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[street artist](street_artist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>7</td>
-      <td>0.466667</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[conceptual artist](conceptual_artist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>7</td>
-      <td>0.466667</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[artistic painter](artistic_painter.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>7</td>
-      <td>0.466667</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[decorative painter](decorative_painter.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>6</td>
-      <td>0.400000</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ceramicist](ceramicist.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>5</td>
-      <td>0.333333</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[glass artist](glass_artist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.266667</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[porcelain painter](porcelain_painter.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.266667</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood painter](wood_painter.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.266667</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[glass painter](glass_painter.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.266667</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fight director](fight_director.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.200000</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[choreologist](choreologist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.200000</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drawing artist](drawing_artist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.200000</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[performance artist](performance_artist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.200000</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[choreographer](choreographer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.200000</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ceramic painter](ceramic_painter.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.200000</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[video artist](video_artist.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[digital artist](digital_artist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optical instrument repairer](optical_instrument_repairer.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[visual arts teacher](visual_arts_teacher.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drawing kiln operator](drawing_kiln_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[interior designer](interior_designer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[glass beveller](glass_beveller.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dance répétiteur](dance_répétiteur.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[frame maker](frame_maker.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[illustrator](illustrator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dancer](dancer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[community artist](community_artist.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sound artist](sound_artist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[répétiteur](répétiteur.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optical instrument assembler](optical_instrument_assembler.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plate glass installer](plate_glass_installer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[photographic equipment assembler](photographic_equipment_assembler.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.133333</td>
-      <td>29</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                              |   skills in this occupation |   skills that match glass-blower |   percentage match with glass-blower |   skills not in glass-blower |
+|:------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
+| [sculptor](sculptor.md)                                                 |                          12 |                                9 |                             0.6      |                            3 |
+| [street artist](street_artist.md)                                       |                          18 |                                7 |                             0.466667 |                           11 |
+| [conceptual artist](conceptual_artist.md)                               |                          15 |                                7 |                             0.466667 |                            8 |
+| [artistic painter](artistic_painter.md)                                 |                          18 |                                7 |                             0.466667 |                           11 |
+| [decorative painter](decorative_painter.md)                             |                          20 |                                6 |                             0.4      |                           14 |
+| [ceramicist](ceramicist.md)                                             |                          23 |                                5 |                             0.333333 |                           18 |
+| [glass artist](glass_artist.md)                                         |                          16 |                                4 |                             0.266667 |                           12 |
+| [porcelain painter](porcelain_painter.md)                               |                          15 |                                4 |                             0.266667 |                           11 |
+| [wood painter](wood_painter.md)                                         |                          14 |                                4 |                             0.266667 |                           10 |
+| [glass painter](glass_painter.md)                                       |                          15 |                                4 |                             0.266667 |                           11 |
+| [fight director](fight_director.md)                                     |                          16 |                                3 |                             0.2      |                           13 |
+| [choreologist](choreologist.md)                                         |                          15 |                                3 |                             0.2      |                           12 |
+| [drawing artist](drawing_artist.md)                                     |                          16 |                                3 |                             0.2      |                           13 |
+| [performance artist](performance_artist.md)                             |                          15 |                                3 |                             0.2      |                           12 |
+| [choreographer](choreographer.md)                                       |                          19 |                                3 |                             0.2      |                           16 |
+| [ceramic painter](ceramic_painter.md)                                   |                          17 |                                3 |                             0.2      |                           14 |
+| [video artist](video_artist.md)                                         |                          23 |                                2 |                             0.133333 |                           21 |
+| [digital artist](digital_artist.md)                                     |                          15 |                                2 |                             0.133333 |                           13 |
+| [optical instrument repairer](optical_instrument_repairer.md)           |                          24 |                                2 |                             0.133333 |                           22 |
+| [visual arts teacher](visual_arts_teacher.md)                           |                          23 |                                2 |                             0.133333 |                           21 |
+| [drawing kiln operator](drawing_kiln_operator.md)                       |                          15 |                                2 |                             0.133333 |                           13 |
+| [interior designer](interior_designer.md)                               |                          20 |                                2 |                             0.133333 |                           18 |
+| [glass beveller](glass_beveller.md)                                     |                          15 |                                2 |                             0.133333 |                           13 |
+| [dance répétiteur](dance_répétiteur.md)                                 |                          21 |                                2 |                             0.133333 |                           19 |
+| [frame maker](frame_maker.md)                                           |                          13 |                                2 |                             0.133333 |                           11 |
+| [illustrator](illustrator.md)                                           |                          16 |                                2 |                             0.133333 |                           14 |
+| [dancer](dancer.md)                                                     |                          20 |                                2 |                             0.133333 |                           18 |
+| [community artist](community_artist.md)                                 |                          25 |                                2 |                             0.133333 |                           23 |
+| [sound artist](sound_artist.md)                                         |                          21 |                                2 |                             0.133333 |                           19 |
+| [répétiteur](répétiteur.md)                                             |                          23 |                                2 |                             0.133333 |                           21 |
+| [optical instrument assembler](optical_instrument_assembler.md)         |                          28 |                                2 |                             0.133333 |                           26 |
+| [plate glass installer](plate_glass_installer.md)                       |                          21 |                                2 |                             0.133333 |                           19 |
+| [photographic equipment assembler](photographic_equipment_assembler.md) |                          31 |                                2 |                             0.133333 |                           29 |

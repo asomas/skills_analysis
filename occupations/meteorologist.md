@@ -1,856 +1,125 @@
 #Occupation meteorologist
 ##Number skills 11
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match meteorologist</th>
-      <th>percentage match with meteorologist</th>
-      <th>skills not in meteorologist</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[meteorology technician](meteorology_technician.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>11</td>
-      <td>1.000000</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[climatologist](climatologist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>8</td>
-      <td>0.727273</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physicist](physicist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.454545</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[economist](economist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.454545</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geologist](geologist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.454545</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[astronomer](astronomer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.454545</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[demographer](demographer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.454545</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[analytical chemist](analytical_chemist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.454545</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[seismologist](seismologist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>5</td>
-      <td>0.454545</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oceanographer](oceanographer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.454545</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[weather forecaster](weather_forecaster.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[statistical assistant](statistical_assistant.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[statistician](statistician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biomedical engineer](biomedical_engineer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[criminologist](criminologist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aviation meteorologist](aviation_meteorologist.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geology technician](geology_technician.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biometrician](biometrician.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hydrologist](hydrologist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geographer](geographer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[design engineer](design_engineer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[component engineer](component_engineer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[epidemiologist](epidemiologist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[logistics engineer](logistics_engineer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[political scientist](political_scientist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine engineer](marine_engineer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mineralogist](mineralogist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[surface engineer](surface_engineer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bioinformatics scientist](bioinformatics_scientist.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sociologist](sociologist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[equipment engineer](equipment_engineer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[behavioural scientist](behavioural_scientist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mathematician](mathematician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fisheries refrigeration engineer](fisheries_refrigeration_engineer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business economics researcher](business_economics_researcher.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[transport engineer](transport_engineer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geographic information systems specialist](geographic_information_systems_specialist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aerodynamics engineer](aerodynamics_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tooling engineer](tooling_engineer.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cosmologist](cosmologist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer scientist](computer_scientist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[palaeontologist](palaeontologist.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cartographer](cartographer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[data analyst](data_analyst.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agricultural equipment design engineer](agricultural_equipment_design_engineer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wind energy engineer](wind_energy_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[thanatology researcher](thanatology_researcher.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive designer](automotive_designer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rolling stock engineering technician](rolling_stock_engineering_technician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[language engineer](language_engineer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[communication scientist](communication_scientist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive engineering technician](automotive_engineering_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[instrumentation engineer](instrumentation_engineer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[educational researcher](educational_researcher.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fluid power engineer](fluid_power_engineer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ICT research consultant](ICT_research_consultant.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[packing machinery engineer](packing_machinery_engineer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rotating equipment engineer](rotating_equipment_engineer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[container equipment design engineer](container_equipment_design_engineer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[material stress analyst](material_stress_analyst.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[assistant lecturer](assistant_lecturer.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[philosopher](philosopher.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial tool design engineer](industrial_tool_design_engineer.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[historian](historian.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optomechanical engineer](optomechanical_engineer.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[remote sensing technician](remote_sensing_technician.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mechatronics engineer](mechatronics_engineer.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zoology technician](zoology_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bacteriology technician](bacteriology_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automation engineer](automation_engineer.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biotechnical technician](biotechnical_technician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agronomist](agronomist.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[immunologist](immunologist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physics technician](physics_technician.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optical engineer](optical_engineer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biochemistry technician](biochemistry_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kinesiologist](kinesiologist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biochemist](biochemist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physiologist](physiologist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geneticist](geneticist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biology technician](biology_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[botanical technician](botanical_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electromechanical engineer](electromechanical_engineer.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[religion scientific researcher](religion_scientific_researcher.md)&lt;/span&gt;</td>
-      <td>7</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[archaeologist](archaeologist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metrologist](metrologist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer hardware engineer](computer_hardware_engineer.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[microelectronics engineer](microelectronics_engineer.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[microsystem engineer](microsystem_engineer.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[photonics engineer](photonics_engineer.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sensor engineer](sensor_engineer.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optoelectronic engineer](optoelectronic_engineer.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electromagnetic engineer](electromagnetic_engineer.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine engineering technician](marine_engineering_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[printed circuit board designer](printed_circuit_board_designer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[naval architect](naval_architect.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rolling stock engineering drafter](rolling_stock_engineering_drafter.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive engineering drafter](automotive_engineering_drafter.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine engineering drafter](marine_engineering_drafter.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[manufacturing cost estimator](manufacturing_cost_estimator.md)&lt;/span&gt;</td>
-      <td>6</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aerospace engineering drafter](aerospace_engineering_drafter.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aerospace engineering technician](aerospace_engineering_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[architectural drafter](architectural_drafter.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[microbiologist](microbiologist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biologist](biologist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[literary scholar](literary_scholar.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[toxicologist](toxicologist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biochemical engineer](biochemical_engineer.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[anthropologist](anthropologist.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medical device engineer](medical_device_engineer.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquatic animal health professional](aquatic_animal_health_professional.md)&lt;/span&gt;</td>
-      <td>55</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>53</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquaculture biologist](aquaculture_biologist.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[land surveyor](land_surveyor.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mathematics teacher secondary school](mathematics_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mathematics lecturer](mathematics_lecturer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[media scientist](media_scientist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[linguist](linguist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electronics engineer](electronics_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[corrosion technician](corrosion_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[surveying technician](surveying_technician.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>21</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                |   skills in this occupation |   skills that match meteorologist |   percentage match with meteorologist |   skills not in meteorologist |
+|:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
+| [meteorology technician](meteorology_technician.md)                                       |                          23 |                                11 |                              1        |                            12 |
+| [climatologist](climatologist.md)                                                         |                          16 |                                 8 |                              0.727273 |                             8 |
+| [physicist](physicist.md)                                                                 |                          14 |                                 5 |                              0.454545 |                             9 |
+| [economist](economist.md)                                                                 |                          15 |                                 5 |                              0.454545 |                            10 |
+| [geologist](geologist.md)                                                                 |                          20 |                                 5 |                              0.454545 |                            15 |
+| [astronomer](astronomer.md)                                                               |                          12 |                                 5 |                              0.454545 |                             7 |
+| [demographer](demographer.md)                                                             |                          12 |                                 5 |                              0.454545 |                             7 |
+| [analytical chemist](analytical_chemist.md)                                               |                          17 |                                 5 |                              0.454545 |                            12 |
+| [seismologist](seismologist.md)                                                           |                          13 |                                 5 |                              0.454545 |                             8 |
+| [oceanographer](oceanographer.md)                                                         |                          15 |                                 5 |                              0.454545 |                            10 |
+| [weather forecaster](weather_forecaster.md)                                               |                          11 |                                 4 |                              0.363636 |                             7 |
+| [statistical assistant](statistical_assistant.md)                                         |                          14 |                                 4 |                              0.363636 |                            10 |
+| [statistician](statistician.md)                                                           |                          14 |                                 4 |                              0.363636 |                            10 |
+| [biomedical engineer](biomedical_engineer.md)                                             |                          17 |                                 4 |                              0.363636 |                            13 |
+| [criminologist](criminologist.md)                                                         |                          15 |                                 4 |                              0.363636 |                            11 |
+| [aviation meteorologist](aviation_meteorologist.md)                                       |                          23 |                                 4 |                              0.363636 |                            19 |
+| [geology technician](geology_technician.md)                                               |                          22 |                                 4 |                              0.363636 |                            18 |
+| [biometrician](biometrician.md)                                                           |                          11 |                                 4 |                              0.363636 |                             7 |
+| [hydrologist](hydrologist.md)                                                             |                          12 |                                 3 |                              0.272727 |                             9 |
+| [geographer](geographer.md)                                                               |                          12 |                                 3 |                              0.272727 |                             9 |
+| [design engineer](design_engineer.md)                                                     |                          16 |                                 3 |                              0.272727 |                            13 |
+| [component engineer](component_engineer.md)                                               |                          15 |                                 3 |                              0.272727 |                            12 |
+| [epidemiologist](epidemiologist.md)                                                       |                          15 |                                 3 |                              0.272727 |                            12 |
+| [logistics engineer](logistics_engineer.md)                                               |                          14 |                                 3 |                              0.272727 |                            11 |
+| [political scientist](political_scientist.md)                                             |                          11 |                                 3 |                              0.272727 |                             8 |
+| [marine engineer](marine_engineer.md)                                                     |                          13 |                                 3 |                              0.272727 |                            10 |
+| [mineralogist](mineralogist.md)                                                           |                          18 |                                 3 |                              0.272727 |                            15 |
+| [surface engineer](surface_engineer.md)                                                   |                          14 |                                 3 |                              0.272727 |                            11 |
+| [bioinformatics scientist](bioinformatics_scientist.md)                                   |                          24 |                                 3 |                              0.272727 |                            21 |
+| [sociologist](sociologist.md)                                                             |                          14 |                                 3 |                              0.272727 |                            11 |
+| [equipment engineer](equipment_engineer.md)                                               |                          15 |                                 3 |                              0.272727 |                            12 |
+| [behavioural scientist](behavioural_scientist.md)                                         |                          14 |                                 3 |                              0.272727 |                            11 |
+| [mathematician](mathematician.md)                                                         |                          12 |                                 3 |                              0.272727 |                             9 |
+| [fisheries refrigeration engineer](fisheries_refrigeration_engineer.md)                   |                          22 |                                 3 |                              0.272727 |                            19 |
+| [business economics researcher](business_economics_researcher.md)                         |                          12 |                                 3 |                              0.272727 |                             9 |
+| [transport engineer](transport_engineer.md)                                               |                          22 |                                 3 |                              0.272727 |                            19 |
+| [geographic information systems specialist](geographic_information_systems_specialist.md) |                          18 |                                 3 |                              0.272727 |                            15 |
+| [aerodynamics engineer](aerodynamics_engineer.md)                                         |                          25 |                                 3 |                              0.272727 |                            22 |
+| [tooling engineer](tooling_engineer.md)                                                   |                          29 |                                 3 |                              0.272727 |                            26 |
+| [cosmologist](cosmologist.md)                                                             |                          20 |                                 3 |                              0.272727 |                            17 |
+| [computer scientist](computer_scientist.md)                                               |                          12 |                                 2 |                              0.181818 |                            10 |
+| [palaeontologist](palaeontologist.md)                                                     |                          10 |                                 2 |                              0.181818 |                             8 |
+| [cartographer](cartographer.md)                                                           |                          16 |                                 2 |                              0.181818 |                            14 |
+| [data analyst](data_analyst.md)                                                           |                          28 |                                 2 |                              0.181818 |                            26 |
+| [agricultural equipment design engineer](agricultural_equipment_design_engineer.md)       |                          26 |                                 2 |                              0.181818 |                            24 |
+| [wind energy engineer](wind_energy_engineer.md)                                           |                          25 |                                 2 |                              0.181818 |                            23 |
+| [thanatology researcher](thanatology_researcher.md)                                       |                          12 |                                 2 |                              0.181818 |                            10 |
+| [automotive designer](automotive_designer.md)                                             |                          14 |                                 2 |                              0.181818 |                            12 |
+| [rolling stock engineering technician](rolling_stock_engineering_technician.md)           |                          16 |                                 2 |                              0.181818 |                            14 |
+| [language engineer](language_engineer.md)                                                 |                          21 |                                 2 |                              0.181818 |                            19 |
+| [communication scientist](communication_scientist.md)                                     |                          11 |                                 2 |                              0.181818 |                             9 |
+| [automotive engineering technician](automotive_engineering_technician.md)                 |                          19 |                                 2 |                              0.181818 |                            17 |
+| [instrumentation engineer](instrumentation_engineer.md)                                   |                          19 |                                 2 |                              0.181818 |                            17 |
+| [educational researcher](educational_researcher.md)                                       |                          17 |                                 2 |                              0.181818 |                            15 |
+| [fluid power engineer](fluid_power_engineer.md)                                           |                          22 |                                 2 |                              0.181818 |                            20 |
+| [ICT research consultant](ICT_research_consultant.md)                                     |                          21 |                                 2 |                              0.181818 |                            19 |
+| [packing machinery engineer](packing_machinery_engineer.md)                               |                          23 |                                 2 |                              0.181818 |                            21 |
+| [rotating equipment engineer](rotating_equipment_engineer.md)                             |                          26 |                                 2 |                              0.181818 |                            24 |
+| [container equipment design engineer](container_equipment_design_engineer.md)             |                          23 |                                 2 |                              0.181818 |                            21 |
+| [material stress analyst](material_stress_analyst.md)                                     |                          21 |                                 2 |                              0.181818 |                            19 |
+| [assistant lecturer](assistant_lecturer.md)                                               |                          24 |                                 2 |                              0.181818 |                            22 |
+| [philosopher](philosopher.md)                                                             |                          12 |                                 2 |                              0.181818 |                            10 |
+| [industrial tool design engineer](industrial_tool_design_engineer.md)                     |                          24 |                                 2 |                              0.181818 |                            22 |
+| [historian](historian.md)                                                                 |                          11 |                                 2 |                              0.181818 |                             9 |
+| [optomechanical engineer](optomechanical_engineer.md)                                     |                          33 |                                 2 |                              0.181818 |                            31 |
+| [remote sensing technician](remote_sensing_technician.md)                                 |                          15 |                                 2 |                              0.181818 |                            13 |
+| [mechatronics engineer](mechatronics_engineer.md)                                         |                          35 |                                 2 |                              0.181818 |                            33 |
+| [zoology technician](zoology_technician.md)                                               |                          19 |                                 2 |                              0.181818 |                            17 |
+| [bacteriology technician](bacteriology_technician.md)                                     |                          19 |                                 2 |                              0.181818 |                            17 |
+| [automation engineer](automation_engineer.md)                                             |                          33 |                                 2 |                              0.181818 |                            31 |
+| [biotechnical technician](biotechnical_technician.md)                                     |                          12 |                                 2 |                              0.181818 |                            10 |
+| [agronomist](agronomist.md)                                                               |                          31 |                                 2 |                              0.181818 |                            29 |
+| [immunologist](immunologist.md)                                                           |                          14 |                                 2 |                              0.181818 |                            12 |
+| [physics technician](physics_technician.md)                                               |                          13 |                                 2 |                              0.181818 |                            11 |
+| [optical engineer](optical_engineer.md)                                                   |                          26 |                                 2 |                              0.181818 |                            24 |
+| [biochemistry technician](biochemistry_technician.md)                                     |                          19 |                                 2 |                              0.181818 |                            17 |
+| [kinesiologist](kinesiologist.md)                                                         |                          18 |                                 2 |                              0.181818 |                            16 |
+| [biochemist](biochemist.md)                                                               |                          19 |                                 2 |                              0.181818 |                            17 |
+| [physiologist](physiologist.md)                                                           |                          13 |                                 2 |                              0.181818 |                            11 |
+| [geneticist](geneticist.md)                                                               |                          16 |                                 2 |                              0.181818 |                            14 |
+| [biology technician](biology_technician.md)                                               |                          17 |                                 2 |                              0.181818 |                            15 |
+| [botanical technician](botanical_technician.md)                                           |                          19 |                                 2 |                              0.181818 |                            17 |
+| [electromechanical engineer](electromechanical_engineer.md)                               |                          33 |                                 2 |                              0.181818 |                            31 |
+| [religion scientific researcher](religion_scientific_researcher.md)                       |                           7 |                                 2 |                              0.181818 |                             5 |
+| [archaeologist](archaeologist.md)                                                         |                          11 |                                 2 |                              0.181818 |                             9 |
+| [metrologist](metrologist.md)                                                             |                          21 |                                 2 |                              0.181818 |                            19 |
+| [computer hardware engineer](computer_hardware_engineer.md)                               |                          34 |                                 2 |                              0.181818 |                            32 |
+| [microelectronics engineer](microelectronics_engineer.md)                                 |                          36 |                                 2 |                              0.181818 |                            34 |
+| [microsystem engineer](microsystem_engineer.md)                                           |                          32 |                                 2 |                              0.181818 |                            30 |
+| [photonics engineer](photonics_engineer.md)                                               |                          32 |                                 2 |                              0.181818 |                            30 |
+| [sensor engineer](sensor_engineer.md)                                                     |                          33 |                                 2 |                              0.181818 |                            31 |
+| [optoelectronic engineer](optoelectronic_engineer.md)                                     |                          36 |                                 2 |                              0.181818 |                            34 |
+| [electromagnetic engineer](electromagnetic_engineer.md)                                   |                          35 |                                 2 |                              0.181818 |                            33 |
+| [marine engineering technician](marine_engineering_technician.md)                         |                          17 |                                 2 |                              0.181818 |                            15 |
+| [printed circuit board designer](printed_circuit_board_designer.md)                       |                          14 |                                 2 |                              0.181818 |                            12 |
+| [naval architect](naval_architect.md)                                                     |                          10 |                                 2 |                              0.181818 |                             8 |
+| [rolling stock engineering drafter](rolling_stock_engineering_drafter.md)                 |                          16 |                                 2 |                              0.181818 |                            14 |
+| [automotive engineering drafter](automotive_engineering_drafter.md)                       |                          17 |                                 2 |                              0.181818 |                            15 |
+| [marine engineering drafter](marine_engineering_drafter.md)                               |                          17 |                                 2 |                              0.181818 |                            15 |
+| [manufacturing cost estimator](manufacturing_cost_estimator.md)                           |                           6 |                                 2 |                              0.181818 |                             4 |
+| [aerospace engineering drafter](aerospace_engineering_drafter.md)                         |                          18 |                                 2 |                              0.181818 |                            16 |
+| [aerospace engineering technician](aerospace_engineering_technician.md)                   |                          19 |                                 2 |                              0.181818 |                            17 |
+| [architectural drafter](architectural_drafter.md)                                         |                          20 |                                 2 |                              0.181818 |                            18 |
+| [microbiologist](microbiologist.md)                                                       |                          19 |                                 2 |                              0.181818 |                            17 |
+| [biologist](biologist.md)                                                                 |                          14 |                                 2 |                              0.181818 |                            12 |
+| [literary scholar](literary_scholar.md)                                                   |                          17 |                                 2 |                              0.181818 |                            15 |
+| [toxicologist](toxicologist.md)                                                           |                          16 |                                 2 |                              0.181818 |                            14 |
+| [biochemical engineer](biochemical_engineer.md)                                           |                          31 |                                 2 |                              0.181818 |                            29 |
+| [anthropologist](anthropologist.md)                                                       |                          10 |                                 2 |                              0.181818 |                             8 |
+| [medical device engineer](medical_device_engineer.md)                                     |                          33 |                                 2 |                              0.181818 |                            31 |
+| [aquatic animal health professional](aquatic_animal_health_professional.md)               |                          55 |                                 2 |                              0.181818 |                            53 |
+| [aquaculture biologist](aquaculture_biologist.md)                                         |                          37 |                                 2 |                              0.181818 |                            35 |
+| [land surveyor](land_surveyor.md)                                                         |                          27 |                                 2 |                              0.181818 |                            25 |
+| [mathematics teacher secondary school](mathematics_teacher_secondary_school.md)           |                          27 |                                 2 |                              0.181818 |                            25 |
+| [mathematics lecturer](mathematics_lecturer.md)                                           |                          18 |                                 2 |                              0.181818 |                            16 |
+| [media scientist](media_scientist.md)                                                     |                          12 |                                 2 |                              0.181818 |                            10 |
+| [linguist](linguist.md)                                                                   |                          11 |                                 2 |                              0.181818 |                             9 |
+| [electronics engineer](electronics_engineer.md)                                           |                          25 |                                 2 |                              0.181818 |                            23 |
+| [corrosion technician](corrosion_technician.md)                                           |                          19 |                                 2 |                              0.181818 |                            17 |
+| [surveying technician](surveying_technician.md)                                           |                          23 |                                 2 |                              0.181818 |                            21 |

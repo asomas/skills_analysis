@@ -1,366 +1,55 @@
 #Occupation animator
 ##Number skills 16
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match animator</th>
-      <th>percentage match with animator</th>
-      <th>skills not in animator</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[special effects artist](special_effects_artist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>15</td>
-      <td>0.9375</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animation layout artist](animation_layout_artist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>10</td>
-      <td>0.6250</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animation director](animation_director.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>9</td>
-      <td>0.5625</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[desktop publisher](desktop_publisher.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>7</td>
-      <td>0.4375</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stop-motion animator](stop-motion_animator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>7</td>
-      <td>0.4375</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[video and motion picture editor](video_and_motion_picture_editor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>7</td>
-      <td>0.4375</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cartoonist](cartoonist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>7</td>
-      <td>0.4375</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[graphic designer](graphic_designer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[video artist](video_artist.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[video and motion picture director](video_and_motion_picture_director.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[storyboard artist](storyboard_artist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[director of photography](director_of_photography.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[camera operator](camera_operator.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stand-in](stand-in.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[illustrator](illustrator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[voice-over artist](voice-over_artist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[boom operator](boom_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[picture editor](picture_editor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sound editor](sound_editor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[miniature set designer](miniature_set_designer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stunt performer](stunt_performer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[make-up artist](make-up_artist.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in computers, peripheral equipment and software](import_export_specialist_in_computers,_peripheral_equipment_and_software.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hair stylist](hair_stylist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[subtitler](subtitler.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aerodynamics engineer](aerodynamics_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prop maker](prop_maker.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer software and multimedia shop manager](computer_software_and_multimedia_shop_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer games, multimedia and software specialised seller](computer_games,_multimedia_and_software_specialised_seller.md)&lt;/span&gt;</td>
-      <td>38</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>36</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[performance rental technician](performance_rental_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lighting director](lighting_director.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[script writer](script_writer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine engineering technician](marine_engineering_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aerospace engineering technician](aerospace_engineering_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[digital media designer](digital_media_designer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rolling stock engineering technician](rolling_stock_engineering_technician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[art director](art_director.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive engineering technician](automotive_engineering_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aerospace engineering drafter](aerospace_engineering_drafter.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer shop manager](computer_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tooling engineer](tooling_engineer.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[costume maker](costume_maker.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[location manager](location_manager.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[material stress analyst](material_stress_analyst.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[publishing rights manager](publishing_rights_manager.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[costume attendant](costume_attendant.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical communicator](technical_communicator.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[puppet designer](puppet_designer.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[set builder](set_builder.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[copy editor](copy_editor.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>10</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                                                                              |   skills in this occupation |   skills that match animator |   percentage match with animator |   skills not in animator |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
+| [special effects artist](special_effects_artist.md)                                                                                                     |                          16 |                           15 |                           0.9375 |                        1 |
+| [animation layout artist](animation_layout_artist.md)                                                                                                   |                          17 |                           10 |                           0.625  |                        7 |
+| [animation director](animation_director.md)                                                                                                             |                          15 |                            9 |                           0.5625 |                        6 |
+| [desktop publisher](desktop_publisher.md)                                                                                                               |                          17 |                            7 |                           0.4375 |                       10 |
+| [stop-motion animator](stop-motion_animator.md)                                                                                                         |                          10 |                            7 |                           0.4375 |                        3 |
+| [video and motion picture editor](video_and_motion_picture_editor.md)                                                                                   |                          19 |                            7 |                           0.4375 |                       12 |
+| [cartoonist](cartoonist.md)                                                                                                                             |                          17 |                            7 |                           0.4375 |                       10 |
+| [graphic designer](graphic_designer.md)                                                                                                                 |                          15 |                            5 |                           0.3125 |                       10 |
+| [video artist](video_artist.md)                                                                                                                         |                          23 |                            5 |                           0.3125 |                       18 |
+| [video and motion picture director](video_and_motion_picture_director.md)                                                                               |                          20 |                            5 |                           0.3125 |                       15 |
+| [storyboard artist](storyboard_artist.md)                                                                                                               |                          15 |                            5 |                           0.3125 |                       10 |
+| [director of photography](director_of_photography.md)                                                                                                   |                          20 |                            5 |                           0.3125 |                       15 |
+| [camera operator](camera_operator.md)                                                                                                                   |                          23 |                            5 |                           0.3125 |                       18 |
+| [stand-in](stand-in.md)                                                                                                                                 |                          12 |                            4 |                           0.25   |                        8 |
+| [illustrator](illustrator.md)                                                                                                                           |                          16 |                            4 |                           0.25   |                       12 |
+| [voice-over artist](voice-over_artist.md)                                                                                                               |                          15 |                            4 |                           0.25   |                       11 |
+| [boom operator](boom_operator.md)                                                                                                                       |                          16 |                            4 |                           0.25   |                       12 |
+| [picture editor](picture_editor.md)                                                                                                                     |                          22 |                            4 |                           0.25   |                       18 |
+| [sound editor](sound_editor.md)                                                                                                                         |                          17 |                            3 |                           0.1875 |                       14 |
+| [miniature set designer](miniature_set_designer.md)                                                                                                     |                          17 |                            3 |                           0.1875 |                       14 |
+| [stunt performer](stunt_performer.md)                                                                                                                   |                          12 |                            3 |                           0.1875 |                        9 |
+| [make-up artist](make-up_artist.md)                                                                                                                     |                          27 |                            3 |                           0.1875 |                       24 |
+| [import export specialist in computers, peripheral equipment and software](import_export_specialist_in_computers,_peripheral_equipment_and_software.md) |                          23 |                            3 |                           0.1875 |                       20 |
+| [hair stylist](hair_stylist.md)                                                                                                                         |                          16 |                            3 |                           0.1875 |                       13 |
+| [subtitler](subtitler.md)                                                                                                                               |                          12 |                            3 |                           0.1875 |                        9 |
+| [aerodynamics engineer](aerodynamics_engineer.md)                                                                                                       |                          25 |                            2 |                           0.125  |                       23 |
+| [prop maker](prop_maker.md)                                                                                                                             |                          24 |                            2 |                           0.125  |                       22 |
+| [computer software and multimedia shop manager](computer_software_and_multimedia_shop_manager.md)                                                       |                          34 |                            2 |                           0.125  |                       32 |
+| [computer games, multimedia and software specialised seller](computer_games,_multimedia_and_software_specialised_seller.md)                             |                          38 |                            2 |                           0.125  |                       36 |
+| [performance rental technician](performance_rental_technician.md)                                                                                       |                          19 |                            2 |                           0.125  |                       17 |
+| [lighting director](lighting_director.md)                                                                                                               |                          18 |                            2 |                           0.125  |                       16 |
+| [script writer](script_writer.md)                                                                                                                       |                          21 |                            2 |                           0.125  |                       19 |
+| [marine engineering technician](marine_engineering_technician.md)                                                                                       |                          17 |                            2 |                           0.125  |                       15 |
+| [aerospace engineering technician](aerospace_engineering_technician.md)                                                                                 |                          19 |                            2 |                           0.125  |                       17 |
+| [digital media designer](digital_media_designer.md)                                                                                                     |                          16 |                            2 |                           0.125  |                       14 |
+| [rolling stock engineering technician](rolling_stock_engineering_technician.md)                                                                         |                          16 |                            2 |                           0.125  |                       14 |
+| [art director](art_director.md)                                                                                                                         |                          23 |                            2 |                           0.125  |                       21 |
+| [automotive engineering technician](automotive_engineering_technician.md)                                                                               |                          19 |                            2 |                           0.125  |                       17 |
+| [aerospace engineering drafter](aerospace_engineering_drafter.md)                                                                                       |                          18 |                            2 |                           0.125  |                       16 |
+| [computer shop manager](computer_shop_manager.md)                                                                                                       |                          32 |                            2 |                           0.125  |                       30 |
+| [tooling engineer](tooling_engineer.md)                                                                                                                 |                          29 |                            2 |                           0.125  |                       27 |
+| [costume maker](costume_maker.md)                                                                                                                       |                          28 |                            2 |                           0.125  |                       26 |
+| [location manager](location_manager.md)                                                                                                                 |                          15 |                            2 |                           0.125  |                       13 |
+| [material stress analyst](material_stress_analyst.md)                                                                                                   |                          21 |                            2 |                           0.125  |                       19 |
+| [publishing rights manager](publishing_rights_manager.md)                                                                                               |                           9 |                            2 |                           0.125  |                        7 |
+| [costume attendant](costume_attendant.md)                                                                                                               |                          11 |                            2 |                           0.125  |                        9 |
+| [technical communicator](technical_communicator.md)                                                                                                     |                          23 |                            2 |                           0.125  |                       21 |
+| [puppet designer](puppet_designer.md)                                                                                                                   |                          28 |                            2 |                           0.125  |                       26 |
+| [set builder](set_builder.md)                                                                                                                           |                          22 |                            2 |                           0.125  |                       20 |
+| [copy editor](copy_editor.md)                                                                                                                           |                          12 |                            2 |                           0.125  |                       10 |

@@ -1,254 +1,39 @@
 #Occupation cooper
 ##Number skills 14
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match cooper</th>
-      <th>percentage match with cooper</th>
-      <th>skills not in cooper</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[woodcarver](woodcarver.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>6</td>
-      <td>0.428571</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[guitar maker](guitar_maker.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[manufactured wooden building assembler](manufactured_wooden_building_assembler.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sawmill operator](sawmill_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood sander](wood_sander.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[band saw operator](band_saw_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood router operator](wood_router_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood treater](wood_treater.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood technology engineer](wood_technology_engineer.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[woodturner](woodturner.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[table saw operator](table_saw_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[carpenter](carpenter.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[violin maker](violin_maker.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood products assembler](wood_products_assembler.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[planer thicknesser operator](planer_thicknesser_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cabinet maker](cabinet_maker.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[frame maker](frame_maker.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[carpenter supervisor](carpenter_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hardwood floor layer](hardwood_floor_layer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[antique furniture reproducer](antique_furniture_reproducer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[harpsichord maker](harpsichord_maker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[organ builder](organ_builder.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[brush maker](brush_maker.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[harp maker](harp_maker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[piano maker](piano_maker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[debarker operator](debarker_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood drying kiln operator](wood_drying_kiln_operator.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crosscut saw operator](crosscut_saw_operator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[basketmaker](basketmaker.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[staircase installer](staircase_installer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[furniture restorer](furniture_restorer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veneer slicer operator](veneer_slicer_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood boring machine operator](wood_boring_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[furniture finisher](furniture_finisher.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>14</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                          |   skills in this occupation |   skills that match cooper |   percentage match with cooper |   skills not in cooper |
+|:------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
+| [woodcarver](woodcarver.md)                                                         |                          17 |                          6 |                       0.428571 |                     11 |
+| [guitar maker](guitar_maker.md)                                                     |                          20 |                          4 |                       0.285714 |                     16 |
+| [manufactured wooden building assembler](manufactured_wooden_building_assembler.md) |                          14 |                          4 |                       0.285714 |                     10 |
+| [sawmill operator](sawmill_operator.md)                                             |                          22 |                          4 |                       0.285714 |                     18 |
+| [wood sander](wood_sander.md)                                                       |                          14 |                          4 |                       0.285714 |                     10 |
+| [band saw operator](band_saw_operator.md)                                           |                          22 |                          4 |                       0.285714 |                     18 |
+| [wood router operator](wood_router_operator.md)                                     |                          21 |                          4 |                       0.285714 |                     17 |
+| [wood treater](wood_treater.md)                                                     |                          15 |                          4 |                       0.285714 |                     11 |
+| [wood technology engineer](wood_technology_engineer.md)                             |                          29 |                          4 |                       0.285714 |                     25 |
+| [woodturner](woodturner.md)                                                         |                          17 |                          4 |                       0.285714 |                     13 |
+| [table saw operator](table_saw_operator.md)                                         |                          22 |                          4 |                       0.285714 |                     18 |
+| [carpenter](carpenter.md)                                                           |                          24 |                          4 |                       0.285714 |                     20 |
+| [violin maker](violin_maker.md)                                                     |                          20 |                          3 |                       0.214286 |                     17 |
+| [wood products assembler](wood_products_assembler.md)                               |                          12 |                          3 |                       0.214286 |                      9 |
+| [planer thicknesser operator](planer_thicknesser_operator.md)                       |                          21 |                          3 |                       0.214286 |                     18 |
+| [cabinet maker](cabinet_maker.md)                                                   |                          20 |                          3 |                       0.214286 |                     17 |
+| [frame maker](frame_maker.md)                                                       |                          13 |                          3 |                       0.214286 |                     10 |
+| [carpenter supervisor](carpenter_supervisor.md)                                     |                          26 |                          3 |                       0.214286 |                     23 |
+| [hardwood floor layer](hardwood_floor_layer.md)                                     |                          22 |                          3 |                       0.214286 |                     19 |
+| [antique furniture reproducer](antique_furniture_reproducer.md)                     |                          16 |                          2 |                       0.142857 |                     14 |
+| [harpsichord maker](harpsichord_maker.md)                                           |                          18 |                          2 |                       0.142857 |                     16 |
+| [organ builder](organ_builder.md)                                                   |                          20 |                          2 |                       0.142857 |                     18 |
+| [brush maker](brush_maker.md)                                                       |                          11 |                          2 |                       0.142857 |                      9 |
+| [harp maker](harp_maker.md)                                                         |                          18 |                          2 |                       0.142857 |                     16 |
+| [piano maker](piano_maker.md)                                                       |                          16 |                          2 |                       0.142857 |                     14 |
+| [debarker operator](debarker_operator.md)                                           |                          14 |                          2 |                       0.142857 |                     12 |
+| [wood drying kiln operator](wood_drying_kiln_operator.md)                           |                          20 |                          2 |                       0.142857 |                     18 |
+| [crosscut saw operator](crosscut_saw_operator.md)                                   |                          10 |                          2 |                       0.142857 |                      8 |
+| [basketmaker](basketmaker.md)                                                       |                          11 |                          2 |                       0.142857 |                      9 |
+| [staircase installer](staircase_installer.md)                                       |                          17 |                          2 |                       0.142857 |                     15 |
+| [furniture restorer](furniture_restorer.md)                                         |                          18 |                          2 |                       0.142857 |                     16 |
+| [veneer slicer operator](veneer_slicer_operator.md)                                 |                          17 |                          2 |                       0.142857 |                     15 |
+| [wood boring machine operator](wood_boring_machine_operator.md)                     |                          18 |                          2 |                       0.142857 |                     16 |
+| [furniture finisher](furniture_finisher.md)                                         |                          16 |                          2 |                       0.142857 |                     14 |

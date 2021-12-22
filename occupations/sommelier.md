@@ -1,422 +1,63 @@
 #Occupation sommelier
 ##Number skills 16
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match sommelier</th>
-      <th>percentage match with sommelier</th>
-      <th>skills not in sommelier</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[head sommelier](head_sommelier.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>15</td>
-      <td>0.9375</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[waiter/waitress](waiter-waitress.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[quick service restaurant team leader](quick_service_restaurant_team_leader.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[venue director](venue_director.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[restaurant manager](restaurant_manager.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cocktail bartender](cocktail_bartender.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[head chef](head_chef.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[travel agent](travel_agent.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[barista](barista.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flight attendant](flight_attendant.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gambling manager](gambling_manager.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bartender](bartender.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[restaurant host/restaurant hostess](restaurant_host-restaurant_hostess.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[housekeeping supervisor](housekeeping_supervisor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[betting manager](betting_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[quick service restaurant crew member](quick_service_restaurant_crew_member.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[travel consultant](travel_consultant.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[body artist](body_artist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[personal shopper](personal_shopper.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[doorman/doorwoman](doorman-doorwoman.md)&lt;/span&gt;</td>
-      <td>6</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[night auditor](night_auditor.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[room attendant](room_attendant.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bookmaker](bookmaker.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pastry chef](pastry_chef.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[funeral services director](funeral_services_director.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cook](cook.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[camping ground operative](camping_ground_operative.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bingo caller](bingo_caller.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fish cook](fish_cook.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[customer experience manager](customer_experience_manager.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spa attendant](spa_attendant.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[grill cook](grill_cook.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hospitality establishment receptionist](hospitality_establishment_receptionist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kitchen assistant](kitchen_assistant.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hotel porter](hotel_porter.md)&lt;/span&gt;</td>
-      <td>6</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[head pastry chef](head_pastry_chef.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[train attendant](train_attendant.md)&lt;/span&gt;</td>
-      <td>6</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tourism product manager](tourism_product_manager.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hotel butler](hotel_butler.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[personal stylist](personal_stylist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hospitality entertainment manager](hospitality_entertainment_manager.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[domestic butler](domestic_butler.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tour operators manager](tour_operators_manager.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hotel concierge](hotel_concierge.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tour operator representative](tour_operator_representative.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[head waiter/head waitress](head_waiter-head_waitress.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kennel supervisor](kennel_supervisor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[club host/club hostess](club_host-club_hostess.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ship steward/ship stewardess](ship_steward-ship_stewardess.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ticket sales agent](ticket_sales_agent.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hawker](hawker.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tourist information centre manager](tourist_information_centre_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ticket issuing clerk](ticket_issuing_clerk.md)&lt;/span&gt;</td>
-      <td>42</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>40</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[steward/stewardess](steward-stewardess.md)&lt;/span&gt;</td>
-      <td>6</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rooms division manager](rooms_division_manager.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chef](chef.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laundromat attendant](laundromat_attendant.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tourist information officer](tourist_information_officer.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>22</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                          |   skills in this occupation |   skills that match sommelier |   percentage match with sommelier |   skills not in sommelier |
+|:------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
+| [head sommelier](head_sommelier.md)                                                 |                          25 |                            15 |                            0.9375 |                        10 |
+| [waiter/waitress](waiter-waitress.md)                                               |                          30 |                             5 |                            0.3125 |                        25 |
+| [quick service restaurant team leader](quick_service_restaurant_team_leader.md)     |                          20 |                             4 |                            0.25   |                        16 |
+| [venue director](venue_director.md)                                                 |                          29 |                             4 |                            0.25   |                        25 |
+| [restaurant manager](restaurant_manager.md)                                         |                          29 |                             4 |                            0.25   |                        25 |
+| [cocktail bartender](cocktail_bartender.md)                                         |                          28 |                             4 |                            0.25   |                        24 |
+| [head chef](head_chef.md)                                                           |                          28 |                             3 |                            0.1875 |                        25 |
+| [travel agent](travel_agent.md)                                                     |                          28 |                             3 |                            0.1875 |                        25 |
+| [barista](barista.md)                                                               |                          20 |                             3 |                            0.1875 |                        17 |
+| [flight attendant](flight_attendant.md)                                             |                          30 |                             3 |                            0.1875 |                        27 |
+| [gambling manager](gambling_manager.md)                                             |                          27 |                             3 |                            0.1875 |                        24 |
+| [bartender](bartender.md)                                                           |                          22 |                             3 |                            0.1875 |                        19 |
+| [restaurant host/restaurant hostess](restaurant_host-restaurant_hostess.md)         |                          13 |                             3 |                            0.1875 |                        10 |
+| [housekeeping supervisor](housekeeping_supervisor.md)                               |                          19 |                             3 |                            0.1875 |                        16 |
+| [betting manager](betting_manager.md)                                               |                          32 |                             3 |                            0.1875 |                        29 |
+| [quick service restaurant crew member](quick_service_restaurant_crew_member.md)     |                          17 |                             3 |                            0.1875 |                        14 |
+| [travel consultant](travel_consultant.md)                                           |                          21 |                             2 |                            0.125  |                        19 |
+| [body artist](body_artist.md)                                                       |                          12 |                             2 |                            0.125  |                        10 |
+| [personal shopper](personal_shopper.md)                                             |                          13 |                             2 |                            0.125  |                        11 |
+| [doorman/doorwoman](doorman-doorwoman.md)                                           |                           6 |                             2 |                            0.125  |                         4 |
+| [night auditor](night_auditor.md)                                                   |                          10 |                             2 |                            0.125  |                         8 |
+| [room attendant](room_attendant.md)                                                 |                           9 |                             2 |                            0.125  |                         7 |
+| [bookmaker](bookmaker.md)                                                           |                          13 |                             2 |                            0.125  |                        11 |
+| [pastry chef](pastry_chef.md)                                                       |                          17 |                             2 |                            0.125  |                        15 |
+| [funeral services director](funeral_services_director.md)                           |                          19 |                             2 |                            0.125  |                        17 |
+| [cook](cook.md)                                                                     |                          16 |                             2 |                            0.125  |                        14 |
+| [camping ground operative](camping_ground_operative.md)                             |                          10 |                             2 |                            0.125  |                         8 |
+| [bingo caller](bingo_caller.md)                                                     |                          11 |                             2 |                            0.125  |                         9 |
+| [fish cook](fish_cook.md)                                                           |                          17 |                             2 |                            0.125  |                        15 |
+| [customer experience manager](customer_experience_manager.md)                       |                          18 |                             2 |                            0.125  |                        16 |
+| [spa attendant](spa_attendant.md)                                                   |                          22 |                             2 |                            0.125  |                        20 |
+| [grill cook](grill_cook.md)                                                         |                          15 |                             2 |                            0.125  |                        13 |
+| [hospitality establishment receptionist](hospitality_establishment_receptionist.md) |                          17 |                             2 |                            0.125  |                        15 |
+| [kitchen assistant](kitchen_assistant.md)                                           |                          19 |                             2 |                            0.125  |                        17 |
+| [hotel porter](hotel_porter.md)                                                     |                           6 |                             2 |                            0.125  |                         4 |
+| [head pastry chef](head_pastry_chef.md)                                             |                          31 |                             2 |                            0.125  |                        29 |
+| [train attendant](train_attendant.md)                                               |                           6 |                             2 |                            0.125  |                         4 |
+| [tourism product manager](tourism_product_manager.md)                               |                          29 |                             2 |                            0.125  |                        27 |
+| [hotel butler](hotel_butler.md)                                                     |                           9 |                             2 |                            0.125  |                         7 |
+| [personal stylist](personal_stylist.md)                                             |                          18 |                             2 |                            0.125  |                        16 |
+| [hospitality entertainment manager](hospitality_entertainment_manager.md)           |                          17 |                             2 |                            0.125  |                        15 |
+| [domestic butler](domestic_butler.md)                                               |                          16 |                             2 |                            0.125  |                        14 |
+| [tour operators manager](tour_operators_manager.md)                                 |                          29 |                             2 |                            0.125  |                        27 |
+| [hotel concierge](hotel_concierge.md)                                               |                           8 |                             2 |                            0.125  |                         6 |
+| [tour operator representative](tour_operator_representative.md)                     |                          19 |                             2 |                            0.125  |                        17 |
+| [head waiter/head waitress](head_waiter-head_waitress.md)                           |                          35 |                             2 |                            0.125  |                        33 |
+| [kennel supervisor](kennel_supervisor.md)                                           |                          21 |                             2 |                            0.125  |                        19 |
+| [club host/club hostess](club_host-club_hostess.md)                                 |                          11 |                             2 |                            0.125  |                         9 |
+| [ship steward/ship stewardess](ship_steward-ship_stewardess.md)                     |                          21 |                             2 |                            0.125  |                        19 |
+| [ticket sales agent](ticket_sales_agent.md)                                         |                          16 |                             2 |                            0.125  |                        14 |
+| [hawker](hawker.md)                                                                 |                          19 |                             2 |                            0.125  |                        17 |
+| [tourist information centre manager](tourist_information_centre_manager.md)         |                          31 |                             2 |                            0.125  |                        29 |
+| [ticket issuing clerk](ticket_issuing_clerk.md)                                     |                          42 |                             2 |                            0.125  |                        40 |
+| [steward/stewardess](steward-stewardess.md)                                         |                           6 |                             2 |                            0.125  |                         4 |
+| [rooms division manager](rooms_division_manager.md)                                 |                          20 |                             2 |                            0.125  |                        18 |
+| [chef](chef.md)                                                                     |                          17 |                             2 |                            0.125  |                        15 |
+| [laundromat attendant](laundromat_attendant.md)                                     |                          18 |                             2 |                            0.125  |                        16 |
+| [tourist information officer](tourist_information_officer.md)                       |                          24 |                             2 |                            0.125  |                        22 |

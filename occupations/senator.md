@@ -1,107 +1,18 @@
 #Occupation senator
 ##Number skills 10
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match senator</th>
-      <th>percentage match with senator</th>
-      <th>skills not in senator</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[government minister](government_minister.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>9</td>
-      <td>0.9</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[member of parliament](member_of_parliament.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>9</td>
-      <td>0.9</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[secretary of state](secretary_of_state.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.5</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[provincial governor](provincial_governor.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>4</td>
-      <td>0.4</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[city councillor](city_councillor.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[public affairs consultant](public_affairs_consultant.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[legislative drafter](legislative_drafter.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mayor](mayor.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[consul](consul.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[public administration manager](public_administration_manager.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[housing policy officer](housing_policy_officer.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ambassador](ambassador.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[diplomat](diplomat.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>16</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                        |   skills in this occupation |   skills that match senator |   percentage match with senator |   skills not in senator |
+|:------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
+| [government minister](government_minister.md)                     |                          13 |                           9 |                             0.9 |                       4 |
+| [member of parliament](member_of_parliament.md)                   |                          12 |                           9 |                             0.9 |                       3 |
+| [secretary of state](secretary_of_state.md)                       |                          12 |                           5 |                             0.5 |                       7 |
+| [provincial governor](provincial_governor.md)                     |                          10 |                           4 |                             0.4 |                       6 |
+| [city councillor](city_councillor.md)                             |                           9 |                           3 |                             0.3 |                       6 |
+| [public affairs consultant](public_affairs_consultant.md)         |                          12 |                           3 |                             0.3 |                       9 |
+| [legislative drafter](legislative_drafter.md)                     |                          10 |                           3 |                             0.3 |                       7 |
+| [mayor](mayor.md)                                                 |                           9 |                           2 |                             0.2 |                       7 |
+| [consul](consul.md)                                               |                          14 |                           2 |                             0.2 |                      12 |
+| [public administration manager](public_administration_manager.md) |                          18 |                           2 |                             0.2 |                      16 |
+| [housing policy officer](housing_policy_officer.md)               |                           8 |                           2 |                             0.2 |                       6 |
+| [ambassador](ambassador.md)                                       |                          18 |                           2 |                             0.2 |                      16 |
+| [diplomat](diplomat.md)                                           |                          18 |                           2 |                             0.2 |                      16 |

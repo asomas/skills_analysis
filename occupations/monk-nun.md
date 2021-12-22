@@ -1,415 +1,62 @@
 #Occupation monk/nun
 ##Number skills 8
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match monk/nun</th>
-      <th>percentage match with monk/nun</th>
-      <th>skills not in monk/nun</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[minister of religion](minister_of_religion.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>4</td>
-      <td>0.500</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chaplain](chaplain.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.500</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pastoral worker](pastoral_worker.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>3</td>
-      <td>0.375</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[missionary](missionary.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.375</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ombudsman](ombudsman.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.250</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[religion scientific researcher](religion_scientific_researcher.md)&lt;/span&gt;</td>
-      <td>7</td>
-      <td>2</td>
-      <td>0.250</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prison instructor](prison_instructor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[financial auditor](financial_auditor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tax advisor](tax_advisor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chief executive officer](chief_executive_officer.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[book editor](book_editor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[diplomat](diplomat.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[human rights officer](human_rights_officer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scopist](scopist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[human resources assistant](human_resources_assistant.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[employment and vocational integration consultant](employment_and_vocational_integration_consultant.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[audit supervisor](audit_supervisor.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court administrator](court_administrator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[auditing clerk](auditing_clerk.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chief operating officer](chief_operating_officer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[anatomical pathology technician](anatomical_pathology_technician.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[legal administrative assistant](legal_administrative_assistant.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[interpretation agency manager](interpretation_agency_manager.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[human resources officer](human_resources_officer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court clerk](court_clerk.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[polygraph examiner](polygraph_examiner.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[interpreter](interpreter.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[translator](translator.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[religious education teacher secondary school](religious_education_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[executive assistant](executive_assistant.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[translation agency manager](translation_agency_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lawyer linguist](lawyer_linguist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[corporate lawyer](corporate_lawyer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[case administrator](case_administrator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prosecutor](prosecutor.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court administrative officer](court_administrative_officer.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lawyer](lawyer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court jury coordinator](court_jury_coordinator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[recruitment consultant](recruitment_consultant.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court reporter](court_reporter.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cultural policy officer](cultural_policy_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[youth programme director](youth_programme_director.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[field survey manager](field_survey_manager.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[survey enumerator](survey_enumerator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hospital porter](hospital_porter.md)&lt;/span&gt;</td>
-      <td>38</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>37</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paramedic in emergency responses](paramedic_in_emergency_responses.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>73</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[religious studies lecturer](religious_studies_lecturer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[international relations officer](international_relations_officer.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[trade development officer](trade_development_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[city councillor](city_councillor.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mediator](mediator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[election observer](election_observer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[labour relations officer](labour_relations_officer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[employment agent](employment_agent.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sports programme coordinator](sports_programme_coordinator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[judge](judge.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[supreme court judge](supreme_court_judge.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>15</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                              |   skills in this occupation |   skills that match monk/nun |   percentage match with monk/nun |   skills not in monk/nun |
+|:--------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
+| [minister of religion](minister_of_religion.md)                                                         |                          19 |                            4 |                            0.5   |                       15 |
+| [chaplain](chaplain.md)                                                                                 |                          11 |                            4 |                            0.5   |                        7 |
+| [pastoral worker](pastoral_worker.md)                                                                   |                           9 |                            3 |                            0.375 |                        6 |
+| [missionary](missionary.md)                                                                             |                          14 |                            3 |                            0.375 |                       11 |
+| [ombudsman](ombudsman.md)                                                                               |                          12 |                            2 |                            0.25  |                       10 |
+| [religion scientific researcher](religion_scientific_researcher.md)                                     |                           7 |                            2 |                            0.25  |                        5 |
+| [prison instructor](prison_instructor.md)                                                               |                          21 |                            1 |                            0.125 |                       20 |
+| [financial auditor](financial_auditor.md)                                                               |                          22 |                            1 |                            0.125 |                       21 |
+| [tax advisor](tax_advisor.md)                                                                           |                          17 |                            1 |                            0.125 |                       16 |
+| [chief executive officer](chief_executive_officer.md)                                                   |                          30 |                            1 |                            0.125 |                       29 |
+| [book editor](book_editor.md)                                                                           |                          15 |                            1 |                            0.125 |                       14 |
+| [diplomat](diplomat.md)                                                                                 |                          18 |                            1 |                            0.125 |                       17 |
+| [human rights officer](human_rights_officer.md)                                                         |                          12 |                            1 |                            0.125 |                       11 |
+| [scopist](scopist.md)                                                                                   |                          13 |                            1 |                            0.125 |                       12 |
+| [human resources assistant](human_resources_assistant.md)                                               |                          16 |                            1 |                            0.125 |                       15 |
+| [employment and vocational integration consultant](employment_and_vocational_integration_consultant.md) |                          19 |                            1 |                            0.125 |                       18 |
+| [audit supervisor](audit_supervisor.md)                                                                 |                          18 |                            1 |                            0.125 |                       17 |
+| [court administrator](court_administrator.md)                                                           |                          10 |                            1 |                            0.125 |                        9 |
+| [auditing clerk](auditing_clerk.md)                                                                     |                          17 |                            1 |                            0.125 |                       16 |
+| [chief operating officer](chief_operating_officer.md)                                                   |                          22 |                            1 |                            0.125 |                       21 |
+| [anatomical pathology technician](anatomical_pathology_technician.md)                                   |                          32 |                            1 |                            0.125 |                       31 |
+| [legal administrative assistant](legal_administrative_assistant.md)                                     |                          10 |                            1 |                            0.125 |                        9 |
+| [interpretation agency manager](interpretation_agency_manager.md)                                       |                          25 |                            1 |                            0.125 |                       24 |
+| [human resources officer](human_resources_officer.md)                                                   |                          18 |                            1 |                            0.125 |                       17 |
+| [court clerk](court_clerk.md)                                                                           |                          11 |                            1 |                            0.125 |                       10 |
+| [polygraph examiner](polygraph_examiner.md)                                                             |                          15 |                            1 |                            0.125 |                       14 |
+| [interpreter](interpreter.md)                                                                           |                          20 |                            1 |                            0.125 |                       19 |
+| [translator](translator.md)                                                                             |                          24 |                            1 |                            0.125 |                       23 |
+| [religious education teacher secondary school](religious_education_teacher_secondary_school.md)         |                          27 |                            1 |                            0.125 |                       26 |
+| [executive assistant](executive_assistant.md)                                                           |                          20 |                            1 |                            0.125 |                       19 |
+| [translation agency manager](translation_agency_manager.md)                                             |                          31 |                            1 |                            0.125 |                       30 |
+| [lawyer linguist](lawyer_linguist.md)                                                                   |                          14 |                            1 |                            0.125 |                       13 |
+| [corporate lawyer](corporate_lawyer.md)                                                                 |                          20 |                            1 |                            0.125 |                       19 |
+| [case administrator](case_administrator.md)                                                             |                          12 |                            1 |                            0.125 |                       11 |
+| [prosecutor](prosecutor.md)                                                                             |                          16 |                            1 |                            0.125 |                       15 |
+| [court administrative officer](court_administrative_officer.md)                                         |                          11 |                            1 |                            0.125 |                       10 |
+| [lawyer](lawyer.md)                                                                                     |                          13 |                            1 |                            0.125 |                       12 |
+| [court jury coordinator](court_jury_coordinator.md)                                                     |                          10 |                            1 |                            0.125 |                        9 |
+| [recruitment consultant](recruitment_consultant.md)                                                     |                          20 |                            1 |                            0.125 |                       19 |
+| [court reporter](court_reporter.md)                                                                     |                          16 |                            1 |                            0.125 |                       15 |
+| [cultural policy officer](cultural_policy_officer.md)                                                   |                          15 |                            1 |                            0.125 |                       14 |
+| [youth programme director](youth_programme_director.md)                                                 |                          13 |                            1 |                            0.125 |                       12 |
+| [field survey manager](field_survey_manager.md)                                                         |                          15 |                            1 |                            0.125 |                       14 |
+| [survey enumerator](survey_enumerator.md)                                                               |                          13 |                            1 |                            0.125 |                       12 |
+| [hospital porter](hospital_porter.md)                                                                   |                          38 |                            1 |                            0.125 |                       37 |
+| [paramedic in emergency responses](paramedic_in_emergency_responses.md)                                 |                          74 |                            1 |                            0.125 |                       73 |
+| [religious studies lecturer](religious_studies_lecturer.md)                                             |                          19 |                            1 |                            0.125 |                       18 |
+| [international relations officer](international_relations_officer.md)                                   |                          10 |                            1 |                            0.125 |                        9 |
+| [trade development officer](trade_development_officer.md)                                               |                          15 |                            1 |                            0.125 |                       14 |
+| [city councillor](city_councillor.md)                                                                   |                           9 |                            1 |                            0.125 |                        8 |
+| [mediator](mediator.md)                                                                                 |                          13 |                            1 |                            0.125 |                       12 |
+| [election observer](election_observer.md)                                                               |                          13 |                            1 |                            0.125 |                       12 |
+| [labour relations officer](labour_relations_officer.md)                                                 |                          13 |                            1 |                            0.125 |                       12 |
+| [employment agent](employment_agent.md)                                                                 |                          13 |                            1 |                            0.125 |                       12 |
+| [sports programme coordinator](sports_programme_coordinator.md)                                         |                          14 |                            1 |                            0.125 |                       13 |
+| [judge](judge.md)                                                                                       |                          11 |                            1 |                            0.125 |                       10 |
+| [supreme court judge](supreme_court_judge.md)                                                           |                          16 |                            1 |                            0.125 |                       15 |

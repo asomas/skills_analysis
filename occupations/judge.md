@@ -1,177 +1,28 @@
 #Occupation judge
 ##Number skills 11
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match judge</th>
-      <th>percentage match with judge</th>
-      <th>skills not in judge</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[supreme court judge](supreme_court_judge.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>11</td>
-      <td>1.000000</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[justice of the peace](justice_of_the_peace.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>7</td>
-      <td>0.636364</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[corporate lawyer](corporate_lawyer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prosecutor](prosecutor.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[law lecturer](law_lecturer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.363636</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court reporter](court_reporter.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[case administrator](case_administrator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court administrative officer](court_administrative_officer.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lawyer](lawyer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.272727</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mediator](mediator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[legal assistant](legal_assistant.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[notary](notary.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scopist](scopist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ombudsman](ombudsman.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court bailiff](court_bailiff.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court enforcement officer](court_enforcement_officer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court administrator](court_administrator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court jury coordinator](court_jury_coordinator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court clerk](court_clerk.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[election observer](election_observer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[legal administrative assistant](legal_administrative_assistant.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[legal consultant](legal_consultant.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lawyer linguist](lawyer_linguist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.181818</td>
-      <td>12</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                          |   skills in this occupation |   skills that match judge |   percentage match with judge |   skills not in judge |
+|:--------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
+| [supreme court judge](supreme_court_judge.md)                       |                          16 |                        11 |                      1        |                     5 |
+| [justice of the peace](justice_of_the_peace.md)                     |                          12 |                         7 |                      0.636364 |                     5 |
+| [corporate lawyer](corporate_lawyer.md)                             |                          20 |                         4 |                      0.363636 |                    16 |
+| [prosecutor](prosecutor.md)                                         |                          16 |                         4 |                      0.363636 |                    12 |
+| [law lecturer](law_lecturer.md)                                     |                          21 |                         4 |                      0.363636 |                    17 |
+| [court reporter](court_reporter.md)                                 |                          16 |                         3 |                      0.272727 |                    13 |
+| [case administrator](case_administrator.md)                         |                          12 |                         3 |                      0.272727 |                     9 |
+| [court administrative officer](court_administrative_officer.md)     |                          11 |                         3 |                      0.272727 |                     8 |
+| [lawyer](lawyer.md)                                                 |                          13 |                         3 |                      0.272727 |                    10 |
+| [mediator](mediator.md)                                             |                          13 |                         2 |                      0.181818 |                    11 |
+| [legal assistant](legal_assistant.md)                               |                          13 |                         2 |                      0.181818 |                    11 |
+| [notary](notary.md)                                                 |                          13 |                         2 |                      0.181818 |                    11 |
+| [scopist](scopist.md)                                               |                          13 |                         2 |                      0.181818 |                    11 |
+| [ombudsman](ombudsman.md)                                           |                          12 |                         2 |                      0.181818 |                    10 |
+| [court bailiff](court_bailiff.md)                                   |                          11 |                         2 |                      0.181818 |                     9 |
+| [court enforcement officer](court_enforcement_officer.md)           |                          12 |                         2 |                      0.181818 |                    10 |
+| [court administrator](court_administrator.md)                       |                          10 |                         2 |                      0.181818 |                     8 |
+| [court jury coordinator](court_jury_coordinator.md)                 |                          10 |                         2 |                      0.181818 |                     8 |
+| [court clerk](court_clerk.md)                                       |                          11 |                         2 |                      0.181818 |                     9 |
+| [election observer](election_observer.md)                           |                          13 |                         2 |                      0.181818 |                    11 |
+| [legal administrative assistant](legal_administrative_assistant.md) |                          10 |                         2 |                      0.181818 |                     8 |
+| [legal consultant](legal_consultant.md)                             |                          10 |                         2 |                      0.181818 |                     8 |
+| [lawyer linguist](lawyer_linguist.md)                               |                          14 |                         2 |                      0.181818 |                    12 |

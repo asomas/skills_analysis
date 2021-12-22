@@ -1,1626 +1,235 @@
 #Occupation purchaser
 ##Number skills 19
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match purchaser</th>
-      <th>percentage match with purchaser</th>
-      <th>skills not in purchaser</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[purchase planner](purchase_planner.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>12</td>
-      <td>0.631579</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ICT buyer](ICT_buyer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ICT vendor relationship manager](ICT_vendor_relationship_manager.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[purchasing manager](purchasing_manager.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in office machinery and equipment](import_export_manager_in_office_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in live animals](import_export_manager_in_live_animals.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in fish, crustaceans and molluscs](import_export_manager_in_fish,_crustaceans_and_molluscs.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in household goods](import_export_manager_in_household_goods.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in sugar, chocolate and sugar confectionery](import_export_manager_in_sugar,_chocolate_and_sugar_confectionery.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in furniture, carpets and lighting equipment](import_export_manager_in_furniture,_carpets_and_lighting_equipment.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in beverages](import_export_manager_in_beverages.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in machinery, industrial equipment, ships and aircraft](import_export_manager_in_machinery,_industrial_equipment,_ships_and_aircraft.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in hardware, plumbing and heating equipment and supplies](import_export_manager_in_hardware,_plumbing_and_heating_equipment_and_supplies.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in textile industry machinery](import_export_manager_in_textile_industry_machinery.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in chemical products](import_export_manager_in_chemical_products.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in china and other glassware](import_export_manager_in_china_and_other_glassware.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in electronic and telecommunications equipment and parts](import_export_manager_in_electronic_and_telecommunications_equipment_and_parts.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in flowers and plants](import_export_manager_in_flowers_and_plants.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager](import_export_manager.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in mining, construction and civil engineering machinery](import_export_manager_in_mining,_construction_and_civil_engineering_machinery.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in computers, computer peripheral equipment and software](import_export_manager_in_computers,_computer_peripheral_equipment_and_software.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in textiles and textile semi-finished and raw materials](import_export_manager_in_textiles_and_textile_semi-finished_and_raw_materials.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in dairy products and edible oils](import_export_manager_in_dairy_products_and_edible_oils.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in watches and jewellery](import_export_manager_in_watches_and_jewellery.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in metals and metal ores](import_export_manager_in_metals_and_metal_ores.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in wood and construction materials](import_export_manager_in_wood_and_construction_materials.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in office furniture](import_export_manager_in_office_furniture.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in coffee, tea, cocoa and spices](import_export_manager_in_coffee,_tea,_cocoa_and_spices.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in perfume and cosmetics](import_export_manager_in_perfume_and_cosmetics.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in meat and meat products](import_export_manager_in_meat_and_meat_products.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in agricultural machinery and equipment](import_export_manager_in_agricultural_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in electrical household appliances](import_export_manager_in_electrical_household_appliances.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in tobacco products](import_export_manager_in_tobacco_products.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[resource manager](resource_manager.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in machine tools](import_export_manager_in_machine_tools.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in fruit and vegetables](import_export_manager_in_fruit_and_vegetables.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in agricultural raw materials, seeds and animal feeds](import_export_manager_in_agricultural_raw_materials,_seeds_and_animal_feeds.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in waste and scrap](import_export_manager_in_waste_and_scrap.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in pharmaceutical goods](import_export_manager_in_pharmaceutical_goods.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in clothing and footwear](import_export_manager_in_clothing_and_footwear.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in hides, skins and leather products](import_export_manager_in_hides,_skins_and_leather_products.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[forecast manager](forecast_manager.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[supermarket manager](supermarket_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in wood and construction materials](import_export_specialist_in_wood_and_construction_materials.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fish and seafood shop manager](fish_and_seafood_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[orthopaedic supply shop manager](orthopaedic_supply_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[craft shop manager](craft_shop_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in meat and meat products](import_export_specialist_in_meat_and_meat_products.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle shop manager](motor_vehicle_shop_manager.md)&lt;/span&gt;</td>
-      <td>39</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[delicatessen shop manager](delicatessen_shop_manager.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tobacco shop manager](tobacco_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cosmetics and perfume shop manager](cosmetics_and_perfume_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[shop manager](shop_manager.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer shop manager](computer_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[confectionery shop manager](confectionery_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[supply chain manager](supply_chain_manager.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flower and garden shop manager](flower_and_garden_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[second-hand shop manager](second-hand_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in fruit and vegetables](import_export_specialist_in_fruit_and_vegetables.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist](import_export_specialist.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[trade regional manager](trade_regional_manager.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in hardware, plumbing and heating equipment](import_export_specialist_in_hardware,_plumbing_and_heating_equipment.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in beverages](import_export_specialist_in_beverages.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rail project engineer](rail_project_engineer.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beverages shop manager](beverages_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sporting and outdoor accessories shop manager](sporting_and_outdoor_accessories_shop_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile shop manager](textile_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[press and stationery shop manager](press_and_stationery_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[jewellery and watches shop manager](jewellery_and_watches_shop_manager.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hardware and paint shop manager](hardware_and_paint_shop_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[building materials shop manager](building_materials_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pet and pet food shop manager](pet_and_pet_food_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[toys and games shop manager](toys_and_games_shop_manager.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bakery shop manager](bakery_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medical goods shop manager](medical_goods_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[antique shop manager](antique_shop_manager.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[floor and wall coverings shop manager](floor_and_wall_coverings_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer software and multimedia shop manager](computer_software_and_multimedia_shop_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[photography shop manager](photography_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bicycle shop manager](bicycle_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[furniture shop manager](furniture_shop_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fruit and vegetables shop manager](fruit_and_vegetables_shop_manager.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music and video shop manager](music_and_video_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[domestic appliances shop manager](domestic_appliances_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[telecommunication equipment shop manager](telecommunication_equipment_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kitchen and bathroom shop manager](kitchen_and_bathroom_shop_manager.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[audiology equipment shop manager](audiology_equipment_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ammunition shop manager](ammunition_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[shoe and leather accessories shop manager](shoe_and_leather_accessories_shop_manager.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[audio and video equipment shop manager](audio_and_video_equipment_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bookshop manager](bookshop_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in flowers and plants](import_export_specialist_in_flowers_and_plants.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in agricultural raw materials, seeds and animal feeds](import_export_specialist_in_agricultural_raw_materials,_seeds_and_animal_feeds.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in china and other glassware](import_export_specialist_in_china_and_other_glassware.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in furniture, carpets and lighting equipment](import_export_specialist_in_furniture,_carpets_and_lighting_equipment.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in electrical household appliances](import_export_specialist_in_electrical_household_appliances.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in waste and scrap](import_export_specialist_in_waste_and_scrap.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in office machinery and equipment](import_export_specialist_in_office_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[meat and meat products shop manager](meat_and_meat_products_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in watches and jewellery](import_export_specialist_in_watches_and_jewellery.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in agricultural machinery and equipment](import_export_specialist_in_agricultural_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in pharmaceutical goods](import_export_specialist_in_pharmaceutical_goods.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in machine tools](import_export_specialist_in_machine_tools.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in coffee, tea, cocoa and spices](import_export_specialist_in_coffee,_tea,_cocoa_and_spices.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in perfume and cosmetics](import_export_specialist_in_perfume_and_cosmetics.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in mining, construction, civil engineering machinery](import_export_specialist_in_mining,_construction,_civil_engineering_machinery.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in hides, skins and leather products](import_export_specialist_in_hides,_skins_and_leather_products.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in  fish, crustaceans and molluscs](import_export_specialist_in__fish,_crustaceans_and_molluscs.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in dairy products and edible oils](import_export_specialist_in_dairy_products_and_edible_oils.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in clothing and footwear](import_export_specialist_in_clothing_and_footwear.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in machinery, industrial equipment, ships and aircraft](import_export_specialist_in_machinery,_industrial_equipment,_ships_and_aircraft.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing shop manager](clothing_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in computers, peripheral equipment and software](import_export_specialist_in_computers,_peripheral_equipment_and_software.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in metals and metal ores](import_export_specialist_in_metals_and_metal_ores.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in chemical products](import_export_specialist_in_chemical_products.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[eyewear and optical equipment shop manager](eyewear_and_optical_equipment_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in office furniture](import_export_specialist_in_office_furniture.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in textiles and textile semi-finished and raw materials](import_export_specialist_in_textiles_and_textile_semi-finished_and_raw_materials.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fuel station manager](fuel_station_manager.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in household goods](import_export_specialist_in_household_goods.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in textile industry machinery](import_export_specialist_in_textile_industry_machinery.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in sugar, chocolate and sugar confectionery](import_export_specialist_in_sugar,_chocolate_and_sugar_confectionery.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in tobacco products](import_export_specialist_in_tobacco_products.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in electronic and telecommunications equipment](import_export_specialist_in_electronic_and_telecommunications_equipment.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in live animals](import_export_specialist_in_live_animals.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in pharmaceutical goods](wholesale_merchant_in_pharmaceutical_goods.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in meat and meat products](wholesale_merchant_in_meat_and_meat_products.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant](wholesale_merchant.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in fruit and vegetables](wholesale_merchant_in_fruit_and_vegetables.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in computers, computer peripheral equipment and software](wholesale_merchant_in_computers,_computer_peripheral_equipment_and_software.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[railway station manager](railway_station_manager.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in fish, crustaceans and molluscs](wholesale_merchant_in_fish,_crustaceans_and_molluscs.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in dairy products and edible oils](wholesale_merchant_in_dairy_products_and_edible_oils.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in electronic and telecommunications equipment and parts](wholesale_merchant_in_electronic_and_telecommunications_equipment_and_parts.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in household goods](wholesale_merchant_in_household_goods.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in hides, skins and leather products](wholesale_merchant_in_hides,_skins_and_leather_products.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in waste and scrap](wholesale_merchant_in_waste_and_scrap.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in machinery, industrial equipment, ships and aircraft](wholesale_merchant_in_machinery,_industrial_equipment,_ships_and_aircraft.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in furniture, carpets and lighting equipment](wholesale_merchant_in_furniture,_carpets_and_lighting_equipment.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in beverages](wholesale_merchant_in_beverages.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in live animals](wholesale_merchant_in_live_animals.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in wood and construction materials](wholesale_merchant_in_wood_and_construction_materials.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in clothing and footwear](wholesale_merchant_in_clothing_and_footwear.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in flowers and plants](wholesale_merchant_in_flowers_and_plants.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in tobacco products](wholesale_merchant_in_tobacco_products.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in chemical products](wholesale_merchant_in_chemical_products.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in metals and metal ores](wholesale_merchant_in_metals_and_metal_ores.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in mining, construction and civil engineering machinery](wholesale_merchant_in_mining,_construction_and_civil_engineering_machinery.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in hardware, plumbing and heating equipment and supplies](wholesale_merchant_in_hardware,_plumbing_and_heating_equipment_and_supplies.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in office furniture](wholesale_merchant_in_office_furniture.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in textiles and textile semi-finished and raw materials](wholesale_merchant_in_textiles_and_textile_semi-finished_and_raw_materials.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in electrical household appliances](wholesale_merchant_in_electrical_household_appliances.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in machine tools](wholesale_merchant_in_machine_tools.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in china and other glassware](wholesale_merchant_in_china_and_other_glassware.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in agricultural raw materials, seeds and animal feeds](wholesale_merchant_in_agricultural_raw_materials,_seeds_and_animal_feeds.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in watches and jewellery](wholesale_merchant_in_watches_and_jewellery.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in office machinery and equipment](wholesale_merchant_in_office_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in coffee, tea, cocoa and spices](wholesale_merchant_in_coffee,_tea,_cocoa_and_spices.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in textile industry machinery](wholesale_merchant_in_textile_industry_machinery.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in sugar, chocolate and sugar confectionery](wholesale_merchant_in_sugar,_chocolate_and_sugar_confectionery.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in perfume and cosmetics](wholesale_merchant_in_perfume_and_cosmetics.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[commercial sales representative](commercial_sales_representative.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drugstore manager](drugstore_manager.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[visual merchandiser](visual_merchandiser.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in agricultural machinery and equipment](wholesale_merchant_in_agricultural_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[intermodal logistics manager](intermodal_logistics_manager.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[merchandiser](merchandiser.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[licensing manager](licensing_manager.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[packaging production manager](packaging_production_manager.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[watches and jewellery distribution manager](watches_and_jewellery_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computers, computer peripheral equipment and software distribution manager](computers,_computer_peripheral_equipment_and_software_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmaceutical goods distribution manager](pharmaceutical_goods_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicles parts advisor](motor_vehicles_parts_advisor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[park guide](park_guide.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[live animals distribution manager](live_animals_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fish, crustaceans and molluscs distribution manager](fish,_crustaceans_and_molluscs_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hides, skins and leather products distribution manager](hides,_skins_and_leather_products_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fruit and vegetables distribution manager](fruit_and_vegetables_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electrical household appliances distribution manager](electrical_household_appliances_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[machinery, industrial equipment, ships and aircraft distribution manager](machinery,_industrial_equipment,_ships_and_aircraft_distribution_manager.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[distribution manager](distribution_manager.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing and footwear distribution manager](clothing_and_footwear_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[china and glassware distribution manager](china_and_glassware_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tobacco products distribution manager](tobacco_products_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textiles, textile semi-finished and raw materials distribution manager](textiles,_textile_semi-finished_and_raw_materials_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metals and metal ores distribution manager](metals_and_metal_ores_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood and construction materials distribution manager](wood_and_construction_materials_distribution_manager.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agricultural raw materials, seeds and animal feeds distribution manager](agricultural_raw_materials,_seeds_and_animal_feeds_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical products distribution manager](chemical_products_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile industry machinery distribution manager](textile_industry_machinery_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[travel agent](travel_agent.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tourism contract negotiator](tourism_contract_negotiator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beverages distribution manager](beverages_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[contract engineer](contract_engineer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[specialised goods distribution manager](specialised_goods_distribution_manager.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[product and services manager](product_and_services_manager.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[real estate agent](real_estate_agent.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agricultural machinery and equipment distribution manager](agricultural_machinery_and_equipment_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental manager](rental_manager.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[category manager](category_manager.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>45</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hardware, plumbing and heating equipment and supplies distribution manager](hardware,_plumbing_and_heating_equipment_and_supplies_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[shop assistant](shop_assistant.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dairy products and edible oils distribution manager](dairy_products_and_edible_oils_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[furniture, carpets and lighting equipment distribution manager](furniture,_carpets_and_lighting_equipment_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[perfume and cosmetics distribution manager](perfume_and_cosmetics_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electronic and telecommunications equipment and parts distribution manager](electronic_and_telecommunications_equipment_and_parts_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mining, construction and civil engineering machinery distribution manager](mining,_construction_and_civil_engineering_machinery_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[household goods distribution manager](household_goods_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sugar, chocolate and sugar confectionery distribution manager](sugar,_chocolate_and_sugar_confectionery_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[waste and scrap distribution manager](waste_and_scrap_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[coffee, tea, cocoa and spices distribution manager](coffee,_tea,_cocoa_and_spices_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flowers and plants distribution manager](flowers_and_plants_distribution_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[costume buyer](costume_buyer.md)&lt;/span&gt;</td>
-      <td>7</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in machinery and industrial equipment](technical_sales_representative_in_machinery_and_industrial_equipment.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative](technical_sales_representative.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[call centre agent](call_centre_agent.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ICT account manager](ICT_account_manager.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[airport planning engineer](airport_planning_engineer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in electronic and telecommunications equipment](technical_sales_representative_in_electronic_and_telecommunications_equipment.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in the textile machinery industry](technical_sales_representative_in_the_textile_machinery_industry.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[garage manager](garage_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[meat and meat products distribution manager](meat_and_meat_products_distribution_manager.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in mining and construction machinery](technical_sales_representative_in_mining_and_construction_machinery.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in office machinery and equipment](technical_sales_representative_in_office_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in hardware, plumbing and heating equipment](technical_sales_representative_in_hardware,_plumbing_and_heating_equipment.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sales assistant](sales_assistant.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[set buyer](set_buyer.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[retail entrepreneur](retail_entrepreneur.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in agricultural machinery and equipment](technical_sales_representative_in_agricultural_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in chemical products](technical_sales_representative_in_chemical_products.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>27</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                                                                                              |   skills in this occupation |   skills that match purchaser |   percentage match with purchaser |   skills not in purchaser |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
+| [purchase planner](purchase_planner.md)                                                                                                                                 |                          20 |                            12 |                          0.631579 |                         8 |
+| [ICT buyer](ICT_buyer.md)                                                                                                                                               |                          20 |                             9 |                          0.473684 |                        11 |
+| [ICT vendor relationship manager](ICT_vendor_relationship_manager.md)                                                                                                   |                          19 |                             8 |                          0.421053 |                        11 |
+| [purchasing manager](purchasing_manager.md)                                                                                                                             |                          25 |                             7 |                          0.368421 |                        18 |
+| [import export manager in office machinery and equipment](import_export_manager_in_office_machinery_and_equipment.md)                                                   |                          24 |                             5 |                          0.263158 |                        19 |
+| [import export manager in live animals](import_export_manager_in_live_animals.md)                                                                                       |                          27 |                             5 |                          0.263158 |                        22 |
+| [import export manager in fish, crustaceans and molluscs](import_export_manager_in_fish,_crustaceans_and_molluscs.md)                                                   |                          28 |                             5 |                          0.263158 |                        23 |
+| [import export manager in household goods](import_export_manager_in_household_goods.md)                                                                                 |                          24 |                             5 |                          0.263158 |                        19 |
+| [import export manager in sugar, chocolate and sugar confectionery](import_export_manager_in_sugar,_chocolate_and_sugar_confectionery.md)                               |                          28 |                             5 |                          0.263158 |                        23 |
+| [import export manager in furniture, carpets and lighting equipment](import_export_manager_in_furniture,_carpets_and_lighting_equipment.md)                             |                          25 |                             5 |                          0.263158 |                        20 |
+| [import export manager in beverages](import_export_manager_in_beverages.md)                                                                                             |                          27 |                             5 |                          0.263158 |                        22 |
+| [import export manager in machinery, industrial equipment, ships and aircraft](import_export_manager_in_machinery,_industrial_equipment,_ships_and_aircraft.md)         |                          29 |                             5 |                          0.263158 |                        24 |
+| [import export manager in hardware, plumbing and heating equipment and supplies](import_export_manager_in_hardware,_plumbing_and_heating_equipment_and_supplies.md)     |                          26 |                             5 |                          0.263158 |                        21 |
+| [import export manager in textile industry machinery](import_export_manager_in_textile_industry_machinery.md)                                                           |                          26 |                             5 |                          0.263158 |                        21 |
+| [import export manager in chemical products](import_export_manager_in_chemical_products.md)                                                                             |                          27 |                             5 |                          0.263158 |                        22 |
+| [import export manager in china and other glassware](import_export_manager_in_china_and_other_glassware.md)                                                             |                          24 |                             5 |                          0.263158 |                        19 |
+| [import export manager in electronic and telecommunications equipment and parts](import_export_manager_in_electronic_and_telecommunications_equipment_and_parts.md)     |                          25 |                             5 |                          0.263158 |                        20 |
+| [import export manager in flowers and plants](import_export_manager_in_flowers_and_plants.md)                                                                           |                          27 |                             5 |                          0.263158 |                        22 |
+| [import export manager](import_export_manager.md)                                                                                                                       |                          22 |                             5 |                          0.263158 |                        17 |
+| [import export manager in mining, construction and civil engineering machinery](import_export_manager_in_mining,_construction_and_civil_engineering_machinery.md)       |                          25 |                             5 |                          0.263158 |                        20 |
+| [import export manager in computers, computer peripheral equipment and software](import_export_manager_in_computers,_computer_peripheral_equipment_and_software.md)     |                          24 |                             5 |                          0.263158 |                        19 |
+| [import export manager in textiles and textile semi-finished and raw materials](import_export_manager_in_textiles_and_textile_semi-finished_and_raw_materials.md)       |                          26 |                             5 |                          0.263158 |                        21 |
+| [import export manager in dairy products and edible oils](import_export_manager_in_dairy_products_and_edible_oils.md)                                                   |                          28 |                             5 |                          0.263158 |                        23 |
+| [import export manager in watches and jewellery](import_export_manager_in_watches_and_jewellery.md)                                                                     |                          24 |                             5 |                          0.263158 |                        19 |
+| [import export manager in metals and metal ores](import_export_manager_in_metals_and_metal_ores.md)                                                                     |                          26 |                             5 |                          0.263158 |                        21 |
+| [import export manager in wood and construction materials](import_export_manager_in_wood_and_construction_materials.md)                                                 |                          27 |                             5 |                          0.263158 |                        22 |
+| [import export manager in office furniture](import_export_manager_in_office_furniture.md)                                                                               |                          24 |                             5 |                          0.263158 |                        19 |
+| [import export manager in coffee, tea, cocoa and spices](import_export_manager_in_coffee,_tea,_cocoa_and_spices.md)                                                     |                          28 |                             5 |                          0.263158 |                        23 |
+| [import export manager in perfume and cosmetics](import_export_manager_in_perfume_and_cosmetics.md)                                                                     |                          27 |                             5 |                          0.263158 |                        22 |
+| [import export manager in meat and meat products](import_export_manager_in_meat_and_meat_products.md)                                                                   |                          29 |                             5 |                          0.263158 |                        24 |
+| [import export manager in agricultural machinery and equipment](import_export_manager_in_agricultural_machinery_and_equipment.md)                                       |                          25 |                             5 |                          0.263158 |                        20 |
+| [import export manager in electrical household appliances](import_export_manager_in_electrical_household_appliances.md)                                                 |                          24 |                             5 |                          0.263158 |                        19 |
+| [import export manager in tobacco products](import_export_manager_in_tobacco_products.md)                                                                               |                          26 |                             5 |                          0.263158 |                        21 |
+| [resource manager](resource_manager.md)                                                                                                                                 |                          25 |                             5 |                          0.263158 |                        20 |
+| [import export manager in machine tools](import_export_manager_in_machine_tools.md)                                                                                     |                          26 |                             5 |                          0.263158 |                        21 |
+| [import export manager in fruit and vegetables](import_export_manager_in_fruit_and_vegetables.md)                                                                       |                          28 |                             5 |                          0.263158 |                        23 |
+| [import export manager in agricultural raw materials, seeds and animal feeds](import_export_manager_in_agricultural_raw_materials,_seeds_and_animal_feeds.md)           |                          27 |                             5 |                          0.263158 |                        22 |
+| [import export manager in waste and scrap](import_export_manager_in_waste_and_scrap.md)                                                                                 |                          26 |                             5 |                          0.263158 |                        21 |
+| [import export manager in pharmaceutical goods](import_export_manager_in_pharmaceutical_goods.md)                                                                       |                          27 |                             5 |                          0.263158 |                        22 |
+| [import export manager in clothing and footwear](import_export_manager_in_clothing_and_footwear.md)                                                                     |                          25 |                             5 |                          0.263158 |                        20 |
+| [import export manager in hides, skins and leather products](import_export_manager_in_hides,_skins_and_leather_products.md)                                             |                          25 |                             5 |                          0.263158 |                        20 |
+| [forecast manager](forecast_manager.md)                                                                                                                                 |                          24 |                             5 |                          0.263158 |                        19 |
+| [supermarket manager](supermarket_manager.md)                                                                                                                           |                          26 |                             4 |                          0.210526 |                        22 |
+| [import export specialist in wood and construction materials](import_export_specialist_in_wood_and_construction_materials.md)                                           |                          24 |                             4 |                          0.210526 |                        20 |
+| [fish and seafood shop manager](fish_and_seafood_shop_manager.md)                                                                                                       |                          30 |                             4 |                          0.210526 |                        26 |
+| [orthopaedic supply shop manager](orthopaedic_supply_shop_manager.md)                                                                                                   |                          32 |                             4 |                          0.210526 |                        28 |
+| [craft shop manager](craft_shop_manager.md)                                                                                                                             |                          28 |                             4 |                          0.210526 |                        24 |
+| [import export specialist in meat and meat products](import_export_specialist_in_meat_and_meat_products.md)                                                             |                          26 |                             4 |                          0.210526 |                        22 |
+| [motor vehicle shop manager](motor_vehicle_shop_manager.md)                                                                                                             |                          39 |                             4 |                          0.210526 |                        35 |
+| [delicatessen shop manager](delicatessen_shop_manager.md)                                                                                                               |                          29 |                             4 |                          0.210526 |                        25 |
+| [tobacco shop manager](tobacco_shop_manager.md)                                                                                                                         |                          32 |                             4 |                          0.210526 |                        28 |
+| [cosmetics and perfume shop manager](cosmetics_and_perfume_shop_manager.md)                                                                                             |                          30 |                             4 |                          0.210526 |                        26 |
+| [shop manager](shop_manager.md)                                                                                                                                         |                          27 |                             4 |                          0.210526 |                        23 |
+| [computer shop manager](computer_shop_manager.md)                                                                                                                       |                          32 |                             4 |                          0.210526 |                        28 |
+| [confectionery shop manager](confectionery_shop_manager.md)                                                                                                             |                          30 |                             4 |                          0.210526 |                        26 |
+| [supply chain manager](supply_chain_manager.md)                                                                                                                         |                          17 |                             4 |                          0.210526 |                        13 |
+| [flower and garden shop manager](flower_and_garden_shop_manager.md)                                                                                                     |                          31 |                             4 |                          0.210526 |                        27 |
+| [second-hand shop manager](second-hand_shop_manager.md)                                                                                                                 |                          30 |                             4 |                          0.210526 |                        26 |
+| [import export specialist in fruit and vegetables](import_export_specialist_in_fruit_and_vegetables.md)                                                                 |                          25 |                             4 |                          0.210526 |                        21 |
+| [import export specialist](import_export_specialist.md)                                                                                                                 |                          26 |                             4 |                          0.210526 |                        22 |
+| [trade regional manager](trade_regional_manager.md)                                                                                                                     |                          27 |                             4 |                          0.210526 |                        23 |
+| [import export specialist in hardware, plumbing and heating equipment](import_export_specialist_in_hardware,_plumbing_and_heating_equipment.md)                         |                          23 |                             4 |                          0.210526 |                        19 |
+| [import export specialist in beverages](import_export_specialist_in_beverages.md)                                                                                       |                          25 |                             4 |                          0.210526 |                        21 |
+| [rail project engineer](rail_project_engineer.md)                                                                                                                       |                          30 |                             4 |                          0.210526 |                        26 |
+| [beverages shop manager](beverages_shop_manager.md)                                                                                                                     |                          32 |                             4 |                          0.210526 |                        28 |
+| [sporting and outdoor accessories shop manager](sporting_and_outdoor_accessories_shop_manager.md)                                                                       |                          28 |                             4 |                          0.210526 |                        24 |
+| [textile shop manager](textile_shop_manager.md)                                                                                                                         |                          31 |                             4 |                          0.210526 |                        27 |
+| [press and stationery shop manager](press_and_stationery_shop_manager.md)                                                                                               |                          31 |                             4 |                          0.210526 |                        27 |
+| [jewellery and watches shop manager](jewellery_and_watches_shop_manager.md)                                                                                             |                          37 |                             4 |                          0.210526 |                        33 |
+| [hardware and paint shop manager](hardware_and_paint_shop_manager.md)                                                                                                   |                          28 |                             4 |                          0.210526 |                        24 |
+| [building materials shop manager](building_materials_shop_manager.md)                                                                                                   |                          30 |                             4 |                          0.210526 |                        26 |
+| [pet and pet food shop manager](pet_and_pet_food_shop_manager.md)                                                                                                       |                          30 |                             4 |                          0.210526 |                        26 |
+| [toys and games shop manager](toys_and_games_shop_manager.md)                                                                                                           |                          29 |                             4 |                          0.210526 |                        25 |
+| [bakery shop manager](bakery_shop_manager.md)                                                                                                                           |                          32 |                             4 |                          0.210526 |                        28 |
+| [medical goods shop manager](medical_goods_shop_manager.md)                                                                                                             |                          31 |                             4 |                          0.210526 |                        27 |
+| [antique shop manager](antique_shop_manager.md)                                                                                                                         |                          33 |                             4 |                          0.210526 |                        29 |
+| [floor and wall coverings shop manager](floor_and_wall_coverings_shop_manager.md)                                                                                       |                          30 |                             4 |                          0.210526 |                        26 |
+| [computer software and multimedia shop manager](computer_software_and_multimedia_shop_manager.md)                                                                       |                          34 |                             4 |                          0.210526 |                        30 |
+| [photography shop manager](photography_shop_manager.md)                                                                                                                 |                          30 |                             4 |                          0.210526 |                        26 |
+| [bicycle shop manager](bicycle_shop_manager.md)                                                                                                                         |                          30 |                             4 |                          0.210526 |                        26 |
+| [furniture shop manager](furniture_shop_manager.md)                                                                                                                     |                          34 |                             4 |                          0.210526 |                        30 |
+| [fruit and vegetables shop manager](fruit_and_vegetables_shop_manager.md)                                                                                               |                          33 |                             4 |                          0.210526 |                        29 |
+| [music and video shop manager](music_and_video_shop_manager.md)                                                                                                         |                          30 |                             4 |                          0.210526 |                        26 |
+| [domestic appliances shop manager](domestic_appliances_shop_manager.md)                                                                                                 |                          32 |                             4 |                          0.210526 |                        28 |
+| [telecommunication equipment shop manager](telecommunication_equipment_shop_manager.md)                                                                                 |                          30 |                             4 |                          0.210526 |                        26 |
+| [kitchen and bathroom shop manager](kitchen_and_bathroom_shop_manager.md)                                                                                               |                          27 |                             4 |                          0.210526 |                        23 |
+| [audiology equipment shop manager](audiology_equipment_shop_manager.md)                                                                                                 |                          32 |                             4 |                          0.210526 |                        28 |
+| [ammunition shop manager](ammunition_shop_manager.md)                                                                                                                   |                          31 |                             4 |                          0.210526 |                        27 |
+| [shoe and leather accessories shop manager](shoe_and_leather_accessories_shop_manager.md)                                                                               |                          29 |                             4 |                          0.210526 |                        25 |
+| [audio and video equipment shop manager](audio_and_video_equipment_shop_manager.md)                                                                                     |                          31 |                             4 |                          0.210526 |                        27 |
+| [bookshop manager](bookshop_manager.md)                                                                                                                                 |                          34 |                             4 |                          0.210526 |                        30 |
+| [import export specialist in flowers and plants](import_export_specialist_in_flowers_and_plants.md)                                                                     |                          24 |                             4 |                          0.210526 |                        20 |
+| [import export specialist in agricultural raw materials, seeds and animal feeds](import_export_specialist_in_agricultural_raw_materials,_seeds_and_animal_feeds.md)     |                          24 |                             4 |                          0.210526 |                        20 |
+| [import export specialist in china and other glassware](import_export_specialist_in_china_and_other_glassware.md)                                                       |                          21 |                             4 |                          0.210526 |                        17 |
+| [import export specialist in furniture, carpets and lighting equipment](import_export_specialist_in_furniture,_carpets_and_lighting_equipment.md)                       |                          22 |                             4 |                          0.210526 |                        18 |
+| [import export specialist in electrical household appliances](import_export_specialist_in_electrical_household_appliances.md)                                           |                          21 |                             4 |                          0.210526 |                        17 |
+| [import export specialist in waste and scrap](import_export_specialist_in_waste_and_scrap.md)                                                                           |                          23 |                             4 |                          0.210526 |                        19 |
+| [import export specialist in office machinery and equipment](import_export_specialist_in_office_machinery_and_equipment.md)                                             |                          21 |                             4 |                          0.210526 |                        17 |
+| [meat and meat products shop manager](meat_and_meat_products_shop_manager.md)                                                                                           |                          31 |                             4 |                          0.210526 |                        27 |
+| [import export specialist in watches and jewellery](import_export_specialist_in_watches_and_jewellery.md)                                                               |                          21 |                             4 |                          0.210526 |                        17 |
+| [import export specialist in agricultural machinery and equipment](import_export_specialist_in_agricultural_machinery_and_equipment.md)                                 |                          22 |                             4 |                          0.210526 |                        18 |
+| [import export specialist in pharmaceutical goods](import_export_specialist_in_pharmaceutical_goods.md)                                                                 |                          24 |                             4 |                          0.210526 |                        20 |
+| [import export specialist in machine tools](import_export_specialist_in_machine_tools.md)                                                                               |                          23 |                             4 |                          0.210526 |                        19 |
+| [import export specialist in coffee, tea, cocoa and spices](import_export_specialist_in_coffee,_tea,_cocoa_and_spices.md)                                               |                          26 |                             4 |                          0.210526 |                        22 |
+| [import export specialist in perfume and cosmetics](import_export_specialist_in_perfume_and_cosmetics.md)                                                               |                          24 |                             4 |                          0.210526 |                        20 |
+| [import export specialist in mining, construction, civil engineering machinery](import_export_specialist_in_mining,_construction,_civil_engineering_machinery.md)       |                          22 |                             4 |                          0.210526 |                        18 |
+| [import export specialist in hides, skins and leather products](import_export_specialist_in_hides,_skins_and_leather_products.md)                                       |                          22 |                             4 |                          0.210526 |                        18 |
+| [import export specialist in  fish, crustaceans and molluscs](import_export_specialist_in__fish,_crustaceans_and_molluscs.md)                                           |                          25 |                             4 |                          0.210526 |                        21 |
+| [import export specialist in dairy products and edible oils](import_export_specialist_in_dairy_products_and_edible_oils.md)                                             |                          25 |                             4 |                          0.210526 |                        21 |
+| [import export specialist in clothing and footwear](import_export_specialist_in_clothing_and_footwear.md)                                                               |                          24 |                             4 |                          0.210526 |                        20 |
+| [import export specialist in machinery, industrial equipment, ships and aircraft](import_export_specialist_in_machinery,_industrial_equipment,_ships_and_aircraft.md)   |                          26 |                             4 |                          0.210526 |                        22 |
+| [clothing shop manager](clothing_shop_manager.md)                                                                                                                       |                          32 |                             4 |                          0.210526 |                        28 |
+| [import export specialist in computers, peripheral equipment and software](import_export_specialist_in_computers,_peripheral_equipment_and_software.md)                 |                          23 |                             4 |                          0.210526 |                        19 |
+| [import export specialist in metals and metal ores](import_export_specialist_in_metals_and_metal_ores.md)                                                               |                          23 |                             4 |                          0.210526 |                        19 |
+| [import export specialist in chemical products](import_export_specialist_in_chemical_products.md)                                                                       |                          24 |                             4 |                          0.210526 |                        20 |
+| [eyewear and optical equipment shop manager](eyewear_and_optical_equipment_shop_manager.md)                                                                             |                          31 |                             4 |                          0.210526 |                        27 |
+| [import export specialist in office furniture](import_export_specialist_in_office_furniture.md)                                                                         |                          21 |                             4 |                          0.210526 |                        17 |
+| [import export specialist in textiles and textile semi-finished and raw materials](import_export_specialist_in_textiles_and_textile_semi-finished_and_raw_materials.md) |                          23 |                             4 |                          0.210526 |                        19 |
+| [fuel station manager](fuel_station_manager.md)                                                                                                                         |                          37 |                             4 |                          0.210526 |                        33 |
+| [import export specialist in household goods](import_export_specialist_in_household_goods.md)                                                                           |                          21 |                             4 |                          0.210526 |                        17 |
+| [import export specialist in textile industry machinery](import_export_specialist_in_textile_industry_machinery.md)                                                     |                          23 |                             4 |                          0.210526 |                        19 |
+| [import export specialist in sugar, chocolate and sugar confectionery](import_export_specialist_in_sugar,_chocolate_and_sugar_confectionery.md)                         |                          25 |                             4 |                          0.210526 |                        21 |
+| [import export specialist in tobacco products](import_export_specialist_in_tobacco_products.md)                                                                         |                          23 |                             4 |                          0.210526 |                        19 |
+| [import export specialist in electronic and telecommunications equipment](import_export_specialist_in_electronic_and_telecommunications_equipment.md)                   |                          22 |                             4 |                          0.210526 |                        18 |
+| [import export specialist in live animals](import_export_specialist_in_live_animals.md)                                                                                 |                          24 |                             4 |                          0.210526 |                        20 |
+| [wholesale merchant in pharmaceutical goods](wholesale_merchant_in_pharmaceutical_goods.md)                                                                             |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in meat and meat products](wholesale_merchant_in_meat_and_meat_products.md)                                                                         |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant](wholesale_merchant.md)                                                                                                                             |                          19 |                             3 |                          0.157895 |                        16 |
+| [wholesale merchant in fruit and vegetables](wholesale_merchant_in_fruit_and_vegetables.md)                                                                             |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in computers, computer peripheral equipment and software](wholesale_merchant_in_computers,_computer_peripheral_equipment_and_software.md)           |                          20 |                             3 |                          0.157895 |                        17 |
+| [railway station manager](railway_station_manager.md)                                                                                                                   |                          21 |                             3 |                          0.157895 |                        18 |
+| [wholesale merchant in fish, crustaceans and molluscs](wholesale_merchant_in_fish,_crustaceans_and_molluscs.md)                                                         |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in dairy products and edible oils](wholesale_merchant_in_dairy_products_and_edible_oils.md)                                                         |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in electronic and telecommunications equipment and parts](wholesale_merchant_in_electronic_and_telecommunications_equipment_and_parts.md)           |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in household goods](wholesale_merchant_in_household_goods.md)                                                                                       |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in hides, skins and leather products](wholesale_merchant_in_hides,_skins_and_leather_products.md)                                                   |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in waste and scrap](wholesale_merchant_in_waste_and_scrap.md)                                                                                       |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in machinery, industrial equipment, ships and aircraft](wholesale_merchant_in_machinery,_industrial_equipment,_ships_and_aircraft.md)               |                          23 |                             3 |                          0.157895 |                        20 |
+| [wholesale merchant in furniture, carpets and lighting equipment](wholesale_merchant_in_furniture,_carpets_and_lighting_equipment.md)                                   |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in beverages](wholesale_merchant_in_beverages.md)                                                                                                   |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in live animals](wholesale_merchant_in_live_animals.md)                                                                                             |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in wood and construction materials](wholesale_merchant_in_wood_and_construction_materials.md)                                                       |                          21 |                             3 |                          0.157895 |                        18 |
+| [wholesale merchant in clothing and footwear](wholesale_merchant_in_clothing_and_footwear.md)                                                                           |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in flowers and plants](wholesale_merchant_in_flowers_and_plants.md)                                                                                 |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in tobacco products](wholesale_merchant_in_tobacco_products.md)                                                                                     |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in chemical products](wholesale_merchant_in_chemical_products.md)                                                                                   |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in metals and metal ores](wholesale_merchant_in_metals_and_metal_ores.md)                                                                           |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in mining, construction and civil engineering machinery](wholesale_merchant_in_mining,_construction_and_civil_engineering_machinery.md)             |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in hardware, plumbing and heating equipment and supplies](wholesale_merchant_in_hardware,_plumbing_and_heating_equipment_and_supplies.md)           |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in office furniture](wholesale_merchant_in_office_furniture.md)                                                                                     |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in textiles and textile semi-finished and raw materials](wholesale_merchant_in_textiles_and_textile_semi-finished_and_raw_materials.md)             |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in electrical household appliances](wholesale_merchant_in_electrical_household_appliances.md)                                                       |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in machine tools](wholesale_merchant_in_machine_tools.md)                                                                                           |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in china and other glassware](wholesale_merchant_in_china_and_other_glassware.md)                                                                   |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in agricultural raw materials, seeds and animal feeds](wholesale_merchant_in_agricultural_raw_materials,_seeds_and_animal_feeds.md)                 |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in watches and jewellery](wholesale_merchant_in_watches_and_jewellery.md)                                                                           |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in office machinery and equipment](wholesale_merchant_in_office_machinery_and_equipment.md)                                                         |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in coffee, tea, cocoa and spices](wholesale_merchant_in_coffee,_tea,_cocoa_and_spices.md)                                                           |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in textile industry machinery](wholesale_merchant_in_textile_industry_machinery.md)                                                                 |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in sugar, chocolate and sugar confectionery](wholesale_merchant_in_sugar,_chocolate_and_sugar_confectionery.md)                                     |                          20 |                             3 |                          0.157895 |                        17 |
+| [wholesale merchant in perfume and cosmetics](wholesale_merchant_in_perfume_and_cosmetics.md)                                                                           |                          20 |                             3 |                          0.157895 |                        17 |
+| [commercial sales representative](commercial_sales_representative.md)                                                                                                   |                          30 |                             3 |                          0.157895 |                        27 |
+| [drugstore manager](drugstore_manager.md)                                                                                                                               |                          20 |                             3 |                          0.157895 |                        17 |
+| [visual merchandiser](visual_merchandiser.md)                                                                                                                           |                          14 |                             3 |                          0.157895 |                        11 |
+| [wholesale merchant in agricultural machinery and equipment](wholesale_merchant_in_agricultural_machinery_and_equipment.md)                                             |                          20 |                             3 |                          0.157895 |                        17 |
+| [intermodal logistics manager](intermodal_logistics_manager.md)                                                                                                         |                          21 |                             3 |                          0.157895 |                        18 |
+| [merchandiser](merchandiser.md)                                                                                                                                         |                          27 |                             3 |                          0.157895 |                        24 |
+| [licensing manager](licensing_manager.md)                                                                                                                               |                          24 |                             3 |                          0.157895 |                        21 |
+| [packaging production manager](packaging_production_manager.md)                                                                                                         |                          20 |                             2 |                          0.105263 |                        18 |
+| [watches and jewellery distribution manager](watches_and_jewellery_distribution_manager.md)                                                                             |                          26 |                             2 |                          0.105263 |                        24 |
+| [computers, computer peripheral equipment and software distribution manager](computers,_computer_peripheral_equipment_and_software_distribution_manager.md)             |                          26 |                             2 |                          0.105263 |                        24 |
+| [pharmaceutical goods distribution manager](pharmaceutical_goods_distribution_manager.md)                                                                               |                          26 |                             2 |                          0.105263 |                        24 |
+| [motor vehicles parts advisor](motor_vehicles_parts_advisor.md)                                                                                                         |                          21 |                             2 |                          0.105263 |                        19 |
+| [park guide](park_guide.md)                                                                                                                                             |                          30 |                             2 |                          0.105263 |                        28 |
+| [live animals distribution manager](live_animals_distribution_manager.md)                                                                                               |                          26 |                             2 |                          0.105263 |                        24 |
+| [fish, crustaceans and molluscs distribution manager](fish,_crustaceans_and_molluscs_distribution_manager.md)                                                           |                          26 |                             2 |                          0.105263 |                        24 |
+| [hides, skins and leather products distribution manager](hides,_skins_and_leather_products_distribution_manager.md)                                                     |                          26 |                             2 |                          0.105263 |                        24 |
+| [fruit and vegetables distribution manager](fruit_and_vegetables_distribution_manager.md)                                                                               |                          26 |                             2 |                          0.105263 |                        24 |
+| [electrical household appliances distribution manager](electrical_household_appliances_distribution_manager.md)                                                         |                          26 |                             2 |                          0.105263 |                        24 |
+| [machinery, industrial equipment, ships and aircraft distribution manager](machinery,_industrial_equipment,_ships_and_aircraft_distribution_manager.md)                 |                          27 |                             2 |                          0.105263 |                        25 |
+| [distribution manager](distribution_manager.md)                                                                                                                         |                          25 |                             2 |                          0.105263 |                        23 |
+| [clothing and footwear distribution manager](clothing_and_footwear_distribution_manager.md)                                                                             |                          26 |                             2 |                          0.105263 |                        24 |
+| [china and glassware distribution manager](china_and_glassware_distribution_manager.md)                                                                                 |                          26 |                             2 |                          0.105263 |                        24 |
+| [tobacco products distribution manager](tobacco_products_distribution_manager.md)                                                                                       |                          26 |                             2 |                          0.105263 |                        24 |
+| [textiles, textile semi-finished and raw materials distribution manager](textiles,_textile_semi-finished_and_raw_materials_distribution_manager.md)                     |                          26 |                             2 |                          0.105263 |                        24 |
+| [metals and metal ores distribution manager](metals_and_metal_ores_distribution_manager.md)                                                                             |                          26 |                             2 |                          0.105263 |                        24 |
+| [wood and construction materials distribution manager](wood_and_construction_materials_distribution_manager.md)                                                         |                          27 |                             2 |                          0.105263 |                        25 |
+| [agricultural raw materials, seeds and animal feeds distribution manager](agricultural_raw_materials,_seeds_and_animal_feeds_distribution_manager.md)                   |                          26 |                             2 |                          0.105263 |                        24 |
+| [chemical products distribution manager](chemical_products_distribution_manager.md)                                                                                     |                          26 |                             2 |                          0.105263 |                        24 |
+| [textile industry machinery distribution manager](textile_industry_machinery_distribution_manager.md)                                                                   |                          26 |                             2 |                          0.105263 |                        24 |
+| [travel agent](travel_agent.md)                                                                                                                                         |                          28 |                             2 |                          0.105263 |                        26 |
+| [tourism contract negotiator](tourism_contract_negotiator.md)                                                                                                           |                          21 |                             2 |                          0.105263 |                        19 |
+| [beverages distribution manager](beverages_distribution_manager.md)                                                                                                     |                          26 |                             2 |                          0.105263 |                        24 |
+| [contract engineer](contract_engineer.md)                                                                                                                               |                          15 |                             2 |                          0.105263 |                        13 |
+| [specialised goods distribution manager](specialised_goods_distribution_manager.md)                                                                                     |                          21 |                             2 |                          0.105263 |                        19 |
+| [product and services manager](product_and_services_manager.md)                                                                                                         |                          18 |                             2 |                          0.105263 |                        16 |
+| [real estate agent](real_estate_agent.md)                                                                                                                               |                          20 |                             2 |                          0.105263 |                        18 |
+| [agricultural machinery and equipment distribution manager](agricultural_machinery_and_equipment_distribution_manager.md)                                               |                          26 |                             2 |                          0.105263 |                        24 |
+| [rental manager](rental_manager.md)                                                                                                                                     |                          21 |                             2 |                          0.105263 |                        19 |
+| [category manager](category_manager.md)                                                                                                                                 |                          47 |                             2 |                          0.105263 |                        45 |
+| [hardware, plumbing and heating equipment and supplies distribution manager](hardware,_plumbing_and_heating_equipment_and_supplies_distribution_manager.md)             |                          26 |                             2 |                          0.105263 |                        24 |
+| [shop assistant](shop_assistant.md)                                                                                                                                     |                          22 |                             2 |                          0.105263 |                        20 |
+| [dairy products and edible oils distribution manager](dairy_products_and_edible_oils_distribution_manager.md)                                                           |                          26 |                             2 |                          0.105263 |                        24 |
+| [furniture, carpets and lighting equipment distribution manager](furniture,_carpets_and_lighting_equipment_distribution_manager.md)                                     |                          26 |                             2 |                          0.105263 |                        24 |
+| [perfume and cosmetics distribution manager](perfume_and_cosmetics_distribution_manager.md)                                                                             |                          26 |                             2 |                          0.105263 |                        24 |
+| [electronic and telecommunications equipment and parts distribution manager](electronic_and_telecommunications_equipment_and_parts_distribution_manager.md)             |                          26 |                             2 |                          0.105263 |                        24 |
+| [mining, construction and civil engineering machinery distribution manager](mining,_construction_and_civil_engineering_machinery_distribution_manager.md)               |                          26 |                             2 |                          0.105263 |                        24 |
+| [household goods distribution manager](household_goods_distribution_manager.md)                                                                                         |                          26 |                             2 |                          0.105263 |                        24 |
+| [sugar, chocolate and sugar confectionery distribution manager](sugar,_chocolate_and_sugar_confectionery_distribution_manager.md)                                       |                          26 |                             2 |                          0.105263 |                        24 |
+| [waste and scrap distribution manager](waste_and_scrap_distribution_manager.md)                                                                                         |                          26 |                             2 |                          0.105263 |                        24 |
+| [coffee, tea, cocoa and spices distribution manager](coffee,_tea,_cocoa_and_spices_distribution_manager.md)                                                             |                          26 |                             2 |                          0.105263 |                        24 |
+| [flowers and plants distribution manager](flowers_and_plants_distribution_manager.md)                                                                                   |                          26 |                             2 |                          0.105263 |                        24 |
+| [costume buyer](costume_buyer.md)                                                                                                                                       |                           7 |                             2 |                          0.105263 |                         5 |
+| [technical sales representative in machinery and industrial equipment](technical_sales_representative_in_machinery_and_industrial_equipment.md)                         |                          32 |                             2 |                          0.105263 |                        30 |
+| [technical sales representative](technical_sales_representative.md)                                                                                                     |                          28 |                             2 |                          0.105263 |                        26 |
+| [call centre agent](call_centre_agent.md)                                                                                                                               |                          18 |                             2 |                          0.105263 |                        16 |
+| [ICT account manager](ICT_account_manager.md)                                                                                                                           |                          21 |                             2 |                          0.105263 |                        19 |
+| [airport planning engineer](airport_planning_engineer.md)                                                                                                               |                          19 |                             2 |                          0.105263 |                        17 |
+| [technical sales representative in electronic and telecommunications equipment](technical_sales_representative_in_electronic_and_telecommunications_equipment.md)       |                          29 |                             2 |                          0.105263 |                        27 |
+| [technical sales representative in the textile machinery industry](technical_sales_representative_in_the_textile_machinery_industry.md)                                 |                          29 |                             2 |                          0.105263 |                        27 |
+| [garage manager](garage_manager.md)                                                                                                                                     |                          26 |                             2 |                          0.105263 |                        24 |
+| [meat and meat products distribution manager](meat_and_meat_products_distribution_manager.md)                                                                           |                          27 |                             2 |                          0.105263 |                        25 |
+| [technical sales representative in mining and construction machinery](technical_sales_representative_in_mining_and_construction_machinery.md)                           |                          29 |                             2 |                          0.105263 |                        27 |
+| [technical sales representative in office machinery and equipment](technical_sales_representative_in_office_machinery_and_equipment.md)                                 |                          29 |                             2 |                          0.105263 |                        27 |
+| [technical sales representative in hardware, plumbing and heating equipment](technical_sales_representative_in_hardware,_plumbing_and_heating_equipment.md)             |                          29 |                             2 |                          0.105263 |                        27 |
+| [sales assistant](sales_assistant.md)                                                                                                                                   |                          27 |                             2 |                          0.105263 |                        25 |
+| [set buyer](set_buyer.md)                                                                                                                                               |                           9 |                             2 |                          0.105263 |                         7 |
+| [retail entrepreneur](retail_entrepreneur.md)                                                                                                                           |                          25 |                             2 |                          0.105263 |                        23 |
+| [technical sales representative in agricultural machinery and equipment](technical_sales_representative_in_agricultural_machinery_and_equipment.md)                     |                          29 |                             2 |                          0.105263 |                        27 |
+| [technical sales representative in chemical products](technical_sales_representative_in_chemical_products.md)                                                           |                          29 |                             2 |                          0.105263 |                        27 |

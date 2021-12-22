@@ -1,212 +1,33 @@
 #Occupation farrier
 ##Number skills 8
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match farrier</th>
-      <th>percentage match with farrier</th>
-      <th>skills not in farrier</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[cattle pedicure](cattle_pedicure.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.250</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[horse breeder](horse_breeder.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>2</td>
-      <td>0.250</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kennel worker](kennel_worker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[general veterinarian](general_veterinarian.md)&lt;/span&gt;</td>
-      <td>53</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>52</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal handler](animal_handler.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veterinary nurse](veterinary_nurse.md)&lt;/span&gt;</td>
-      <td>46</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>45</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[alternative animal therapist](alternative_animal_therapist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal groomer](animal_groomer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[live animal transporter](live_animal_transporter.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[catcher](catcher.md)&lt;/span&gt;</td>
-      <td>3</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zoo section leader](zoo_section_leader.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zookeeper](zookeeper.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[groom](groom.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kennel supervisor](kennel_supervisor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dog breeder](dog_breeder.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pig breeder](pig_breeder.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal shelter worker](animal_shelter_worker.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veterinary technician](veterinary_technician.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pet sitter](pet_sitter.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cattle breeder](cattle_breeder.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[equine worker](equine_worker.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[poultry breeder](poultry_breeder.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal behaviourist](animal_behaviourist.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sheep breeder](sheep_breeder.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[guide dog instructor](guide_dog_instructor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal care attendant](animal_care_attendant.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fur animals breeder](fur_animals_breeder.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bee breeder](bee_breeder.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.125</td>
-      <td>26</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                      |   skills in this occupation |   skills that match farrier |   percentage match with farrier |   skills not in farrier |
+|:----------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
+| [cattle pedicure](cattle_pedicure.md)                           |                           8 |                           2 |                           0.25  |                       6 |
+| [horse breeder](horse_breeder.md)                               |                          32 |                           2 |                           0.25  |                      30 |
+| [kennel worker](kennel_worker.md)                               |                          16 |                           1 |                           0.125 |                      15 |
+| [general veterinarian](general_veterinarian.md)                 |                          53 |                           1 |                           0.125 |                      52 |
+| [animal handler](animal_handler.md)                             |                          25 |                           1 |                           0.125 |                      24 |
+| [veterinary nurse](veterinary_nurse.md)                         |                          46 |                           1 |                           0.125 |                      45 |
+| [alternative animal therapist](alternative_animal_therapist.md) |                          22 |                           1 |                           0.125 |                      21 |
+| [animal groomer](animal_groomer.md)                             |                          25 |                           1 |                           0.125 |                      24 |
+| [live animal transporter](live_animal_transporter.md)           |                          25 |                           1 |                           0.125 |                      24 |
+| [catcher](catcher.md)                                           |                           3 |                           1 |                           0.125 |                       2 |
+| [zoo section leader](zoo_section_leader.md)                     |                          34 |                           1 |                           0.125 |                      33 |
+| [zookeeper](zookeeper.md)                                       |                          27 |                           1 |                           0.125 |                      26 |
+| [groom](groom.md)                                               |                          26 |                           1 |                           0.125 |                      25 |
+| [kennel supervisor](kennel_supervisor.md)                       |                          21 |                           1 |                           0.125 |                      20 |
+| [dog breeder](dog_breeder.md)                                   |                          21 |                           1 |                           0.125 |                      20 |
+| [pig breeder](pig_breeder.md)                                   |                          30 |                           1 |                           0.125 |                      29 |
+| [animal shelter worker](animal_shelter_worker.md)               |                          19 |                           1 |                           0.125 |                      18 |
+| [veterinary technician](veterinary_technician.md)               |                          31 |                           1 |                           0.125 |                      30 |
+| [pet sitter](pet_sitter.md)                                     |                          18 |                           1 |                           0.125 |                      17 |
+| [cattle breeder](cattle_breeder.md)                             |                          30 |                           1 |                           0.125 |                      29 |
+| [equine worker](equine_worker.md)                               |                          14 |                           1 |                           0.125 |                      13 |
+| [poultry breeder](poultry_breeder.md)                           |                          24 |                           1 |                           0.125 |                      23 |
+| [animal behaviourist](animal_behaviourist.md)                   |                          36 |                           1 |                           0.125 |                      35 |
+| [sheep breeder](sheep_breeder.md)                               |                          30 |                           1 |                           0.125 |                      29 |
+| [guide dog instructor](guide_dog_instructor.md)                 |                          17 |                           1 |                           0.125 |                      16 |
+| [animal care attendant](animal_care_attendant.md)               |                          27 |                           1 |                           0.125 |                      26 |
+| [fur animals breeder](fur_animals_breeder.md)                   |                          29 |                           1 |                           0.125 |                      28 |
+| [bee breeder](bee_breeder.md)                                   |                          27 |                           1 |                           0.125 |                      26 |

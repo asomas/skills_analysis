@@ -1,436 +1,65 @@
 #Occupation columnist
 ##Number skills 19
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match columnist</th>
-      <th>percentage match with columnist</th>
-      <th>skills not in columnist</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[foreign correspondent](foreign_correspondent.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>18</td>
-      <td>0.947368</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[critic](critic.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>18</td>
-      <td>0.947368</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[entertainment journalist](entertainment_journalist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>18</td>
-      <td>0.947368</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business journalist](business_journalist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>18</td>
-      <td>0.947368</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[political journalist](political_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>18</td>
-      <td>0.947368</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[photojournalist](photojournalist.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>17</td>
-      <td>0.894737</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sports journalist](sports_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>17</td>
-      <td>0.894737</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[journalist](journalist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>17</td>
-      <td>0.894737</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crime journalist](crime_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>17</td>
-      <td>0.894737</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[newspaper editor](newspaper_editor.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>10</td>
-      <td>0.526316</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[broadcast news editor](broadcast_news_editor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>10</td>
-      <td>0.526316</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[blogger](blogger.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[editor-in-chief](editor-in-chief.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[magazine editor](magazine_editor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[writer](writer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[speechwriter](speechwriter.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vlogger](vlogger.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[presenter](presenter.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[news anchor](news_anchor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[picture editor](picture_editor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[copy editor](copy_editor.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[script writer](script_writer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[literary scholar](literary_scholar.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lexicographer](lexicographer.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[localiser](localiser.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[subtitler](subtitler.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[proofreader](proofreader.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[translator](translator.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[translation agency manager](translation_agency_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[communication manager](communication_manager.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[interpretation agency manager](interpretation_agency_manager.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[foreign language correspondence clerk](foreign_language_correspondence_clerk.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court reporter](court_reporter.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[advertising media buyer](advertising_media_buyer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[book editor](book_editor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[book publisher](book_publisher.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scopist](scopist.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[advertising copywriter](advertising_copywriter.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medium](medium.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fact checker](fact_checker.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[advertising specialist](advertising_specialist.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[corporate lawyer](corporate_lawyer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fortune teller](fortune_teller.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[linguistics lecturer](linguistics_lecturer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[publishing rights manager](publishing_rights_manager.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[video and motion picture producer](video_and_motion_picture_producer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[psychic](psychic.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cartoonist](cartoonist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[editorial assistant](editorial_assistant.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[advertising manager](advertising_manager.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[linguist](linguist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special-interest groups' official](special-interest_groups'_official.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[media scientist](media_scientist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[producer](producer.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music producer](music_producer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lyricist](lyricist.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lawyer linguist](lawyer_linguist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[philosopher](philosopher.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medical transcriptionist](medical_transcriptionist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[interpreter](interpreter.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>18</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                        |   skills in this occupation |   skills that match columnist |   percentage match with columnist |   skills not in columnist |
+|:----------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
+| [foreign correspondent](foreign_correspondent.md)                                 |                          25 |                            18 |                          0.947368 |                         7 |
+| [critic](critic.md)                                                               |                          21 |                            18 |                          0.947368 |                         3 |
+| [entertainment journalist](entertainment_journalist.md)                           |                          20 |                            18 |                          0.947368 |                         2 |
+| [business journalist](business_journalist.md)                                     |                          21 |                            18 |                          0.947368 |                         3 |
+| [political journalist](political_journalist.md)                                   |                          22 |                            18 |                          0.947368 |                         4 |
+| [photojournalist](photojournalist.md)                                             |                          25 |                            17 |                          0.894737 |                         8 |
+| [sports journalist](sports_journalist.md)                                         |                          22 |                            17 |                          0.894737 |                         5 |
+| [journalist](journalist.md)                                                       |                          19 |                            17 |                          0.894737 |                         2 |
+| [crime journalist](crime_journalist.md)                                           |                          22 |                            17 |                          0.894737 |                         5 |
+| [newspaper editor](newspaper_editor.md)                                           |                          20 |                            10 |                          0.526316 |                        10 |
+| [broadcast news editor](broadcast_news_editor.md)                                 |                          19 |                            10 |                          0.526316 |                         9 |
+| [blogger](blogger.md)                                                             |                          16 |                             9 |                          0.473684 |                         7 |
+| [editor-in-chief](editor-in-chief.md)                                             |                          20 |                             8 |                          0.421053 |                        12 |
+| [magazine editor](magazine_editor.md)                                             |                          15 |                             7 |                          0.368421 |                         8 |
+| [writer](writer.md)                                                               |                          17 |                             7 |                          0.368421 |                        10 |
+| [speechwriter](speechwriter.md)                                                   |                          12 |                             7 |                          0.368421 |                         5 |
+| [vlogger](vlogger.md)                                                             |                          20 |                             6 |                          0.315789 |                        14 |
+| [presenter](presenter.md)                                                         |                          19 |                             6 |                          0.315789 |                        13 |
+| [news anchor](news_anchor.md)                                                     |                          17 |                             6 |                          0.315789 |                        11 |
+| [picture editor](picture_editor.md)                                               |                          22 |                             6 |                          0.315789 |                        16 |
+| [copy editor](copy_editor.md)                                                     |                          12 |                             5 |                          0.263158 |                         7 |
+| [script writer](script_writer.md)                                                 |                          21 |                             5 |                          0.263158 |                        16 |
+| [literary scholar](literary_scholar.md)                                           |                          17 |                             5 |                          0.263158 |                        12 |
+| [lexicographer](lexicographer.md)                                                 |                          11 |                             5 |                          0.263158 |                         6 |
+| [localiser](localiser.md)                                                         |                          20 |                             4 |                          0.210526 |                        16 |
+| [subtitler](subtitler.md)                                                         |                          12 |                             4 |                          0.210526 |                         8 |
+| [proofreader](proofreader.md)                                                     |                           8 |                             4 |                          0.210526 |                         4 |
+| [translator](translator.md)                                                       |                          24 |                             4 |                          0.210526 |                        20 |
+| [translation agency manager](translation_agency_manager.md)                       |                          31 |                             4 |                          0.210526 |                        27 |
+| [communication manager](communication_manager.md)                                 |                          25 |                             3 |                          0.157895 |                        22 |
+| [interpretation agency manager](interpretation_agency_manager.md)                 |                          25 |                             3 |                          0.157895 |                        22 |
+| [foreign language correspondence clerk](foreign_language_correspondence_clerk.md) |                          10 |                             3 |                          0.157895 |                         7 |
+| [court reporter](court_reporter.md)                                               |                          16 |                             3 |                          0.157895 |                        13 |
+| [advertising media buyer](advertising_media_buyer.md)                             |                          12 |                             3 |                          0.157895 |                         9 |
+| [book editor](book_editor.md)                                                     |                          15 |                             3 |                          0.157895 |                        12 |
+| [book publisher](book_publisher.md)                                               |                          15 |                             3 |                          0.157895 |                        12 |
+| [scopist](scopist.md)                                                             |                          13 |                             3 |                          0.157895 |                        10 |
+| [advertising copywriter](advertising_copywriter.md)                               |                          11 |                             3 |                          0.157895 |                         8 |
+| [medium](medium.md)                                                               |                          12 |                             2 |                          0.105263 |                        10 |
+| [fact checker](fact_checker.md)                                                   |                          10 |                             2 |                          0.105263 |                         8 |
+| [advertising specialist](advertising_specialist.md)                               |                          10 |                             2 |                          0.105263 |                         8 |
+| [corporate lawyer](corporate_lawyer.md)                                           |                          20 |                             2 |                          0.105263 |                        18 |
+| [fortune teller](fortune_teller.md)                                               |                          11 |                             2 |                          0.105263 |                         9 |
+| [linguistics lecturer](linguistics_lecturer.md)                                   |                          22 |                             2 |                          0.105263 |                        20 |
+| [publishing rights manager](publishing_rights_manager.md)                         |                           9 |                             2 |                          0.105263 |                         7 |
+| [video and motion picture producer](video_and_motion_picture_producer.md)         |                          18 |                             2 |                          0.105263 |                        16 |
+| [psychic](psychic.md)                                                             |                          10 |                             2 |                          0.105263 |                         8 |
+| [cartoonist](cartoonist.md)                                                       |                          17 |                             2 |                          0.105263 |                        15 |
+| [editorial assistant](editorial_assistant.md)                                     |                          13 |                             2 |                          0.105263 |                        11 |
+| [advertising manager](advertising_manager.md)                                     |                          33 |                             2 |                          0.105263 |                        31 |
+| [linguist](linguist.md)                                                           |                          11 |                             2 |                          0.105263 |                         9 |
+| [special-interest groups' official](special-interest_groups'_official.md)         |                          27 |                             2 |                          0.105263 |                        25 |
+| [media scientist](media_scientist.md)                                             |                          12 |                             2 |                          0.105263 |                        10 |
+| [producer](producer.md)                                                           |                          10 |                             2 |                          0.105263 |                         8 |
+| [music producer](music_producer.md)                                               |                          14 |                             2 |                          0.105263 |                        12 |
+| [lyricist](lyricist.md)                                                           |                          10 |                             2 |                          0.105263 |                         8 |
+| [lawyer linguist](lawyer_linguist.md)                                             |                          14 |                             2 |                          0.105263 |                        12 |
+| [philosopher](philosopher.md)                                                     |                          12 |                             2 |                          0.105263 |                        10 |
+| [medical transcriptionist](medical_transcriptionist.md)                           |                          14 |                             2 |                          0.105263 |                        12 |
+| [interpreter](interpreter.md)                                                     |                          20 |                             2 |                          0.105263 |                        18 |

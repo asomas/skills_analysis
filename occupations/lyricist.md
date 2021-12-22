@@ -1,170 +1,27 @@
 #Occupation lyricist
 ##Number skills 10
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match lyricist</th>
-      <th>percentage match with lyricist</th>
-      <th>skills not in lyricist</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[musical conductor](musical_conductor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sound editor](sound_editor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music instructor](music_instructor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music teacher secondary school](music_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[répétiteur](répétiteur.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music producer](music_producer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[disc jockey](disc_jockey.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music teacher](music_teacher.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[choirmaster/choirmistress](choirmaster-choirmistress.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[entertainment journalist](entertainment_journalist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crime journalist](crime_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[advertising copywriter](advertising_copywriter.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[photojournalist](photojournalist.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[foreign correspondent](foreign_correspondent.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sports journalist](sports_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[journalist](journalist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[columnist](columnist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music director](music_director.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music arranger](music_arranger.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[political journalist](political_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[critic](critic.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business journalist](business_journalist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>19</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                          |   skills in this occupation |   skills that match lyricist |   percentage match with lyricist |   skills not in lyricist |
+|:--------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
+| [musical conductor](musical_conductor.md)                           |                          25 |                            3 |                              0.3 |                       22 |
+| [sound editor](sound_editor.md)                                     |                          17 |                            3 |                              0.3 |                       14 |
+| [music instructor](music_instructor.md)                             |                          25 |                            3 |                              0.3 |                       22 |
+| [music teacher secondary school](music_teacher_secondary_school.md) |                          31 |                            3 |                              0.3 |                       28 |
+| [répétiteur](répétiteur.md)                                         |                          23 |                            3 |                              0.3 |                       20 |
+| [music producer](music_producer.md)                                 |                          14 |                            3 |                              0.3 |                       11 |
+| [disc jockey](disc_jockey.md)                                       |                           9 |                            3 |                              0.3 |                        6 |
+| [music teacher](music_teacher.md)                                   |                          23 |                            3 |                              0.3 |                       20 |
+| [choirmaster/choirmistress](choirmaster-choirmistress.md)           |                          22 |                            3 |                              0.3 |                       19 |
+| [entertainment journalist](entertainment_journalist.md)             |                          20 |                            2 |                              0.2 |                       18 |
+| [crime journalist](crime_journalist.md)                             |                          22 |                            2 |                              0.2 |                       20 |
+| [advertising copywriter](advertising_copywriter.md)                 |                          11 |                            2 |                              0.2 |                        9 |
+| [photojournalist](photojournalist.md)                               |                          25 |                            2 |                              0.2 |                       23 |
+| [foreign correspondent](foreign_correspondent.md)                   |                          25 |                            2 |                              0.2 |                       23 |
+| [sports journalist](sports_journalist.md)                           |                          22 |                            2 |                              0.2 |                       20 |
+| [journalist](journalist.md)                                         |                          19 |                            2 |                              0.2 |                       17 |
+| [columnist](columnist.md)                                           |                          19 |                            2 |                              0.2 |                       17 |
+| [music director](music_director.md)                                 |                          21 |                            2 |                              0.2 |                       19 |
+| [music arranger](music_arranger.md)                                 |                          10 |                            2 |                              0.2 |                        8 |
+| [political journalist](political_journalist.md)                     |                          22 |                            2 |                              0.2 |                       20 |
+| [critic](critic.md)                                                 |                          21 |                            2 |                              0.2 |                       19 |
+| [business journalist](business_journalist.md)                       |                          21 |                            2 |                              0.2 |                       19 |

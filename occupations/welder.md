@@ -1,835 +1,122 @@
 #Occupation welder
 ##Number skills 31
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match welder</th>
-      <th>percentage match with welder</th>
-      <th>skills not in welder</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[boilermaker](boilermaker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>14</td>
-      <td>0.451613</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[solderer](solderer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>13</td>
-      <td>0.419355</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[brazier](brazier.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>13</td>
-      <td>0.419355</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spot welder](spot_welder.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>12</td>
-      <td>0.387097</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oxy fuel burning machine operator](oxy_fuel_burning_machine_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>12</td>
-      <td>0.387097</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electron beam welder](electron_beam_welder.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>11</td>
-      <td>0.354839</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laser beam welder](laser_beam_welder.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>11</td>
-      <td>0.354839</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[surface grinding machine operator](surface_grinding_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>11</td>
-      <td>0.354839</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tumbling machine operator](tumbling_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>10</td>
-      <td>0.322581</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rustproofer](rustproofer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>10</td>
-      <td>0.322581</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal rolling mill operator](metal_rolling_mill_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>10</td>
-      <td>0.322581</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drop forging hammer worker](drop_forging_hammer_worker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>10</td>
-      <td>0.322581</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cylindrical grinder operator](cylindrical_grinder_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>10</td>
-      <td>0.322581</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hydraulic forging press worker](hydraulic_forging_press_worker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>9</td>
-      <td>0.290323</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mechanical forging press worker](mechanical_forging_press_worker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>9</td>
-      <td>0.290323</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tool and die maker](tool_and_die_maker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>9</td>
-      <td>0.290323</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[upsetting machine operator](upsetting_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>9</td>
-      <td>0.290323</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ornamental metal worker](ornamental_metal_worker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>9</td>
-      <td>0.290323</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stamping press operator](stamping_press_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>9</td>
-      <td>0.290323</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laser marking machine operator](laser_marking_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>9</td>
-      <td>0.290323</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[engraving machine operator](engraving_machine_operator.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>8</td>
-      <td>0.258065</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal nibbling operator](metal_nibbling_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>8</td>
-      <td>0.258065</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[deburring machine operator](deburring_machine_operator.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>8</td>
-      <td>0.258065</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drill press operator](drill_press_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>8</td>
-      <td>0.258065</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plasma cutting machine operator](plasma_cutting_machine_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>8</td>
-      <td>0.258065</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laser cutting machine operator](laser_cutting_machine_operator.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>8</td>
-      <td>0.258065</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[welding coordinator](welding_coordinator.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>8</td>
-      <td>0.258065</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal drawing machine operator](metal_drawing_machine_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>8</td>
-      <td>0.258065</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[water jet cutter operator](water_jet_cutter_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>8</td>
-      <td>0.258065</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[riveter](riveter.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[structural ironworker](structural_ironworker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electroplating machine operator](electroplating_machine_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[milling machine operator](milling_machine_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal polisher](metal_polisher.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[anodising machine operator](anodising_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal sawing machine operator](metal_sawing_machine_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[screw machine operator](screw_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[filing machine operator](filing_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[planer thicknesser operator](planer_thicknesser_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[grinding machine operator](grinding_machine_operator.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chain making machine operator](chain_making_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[swaging machine operator](swaging_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wire weaving machine operator](wire_weaving_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[table saw operator](table_saw_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[boring machine operator](boring_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[structural ironwork supervisor](structural_ironwork_supervisor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[welding engineer](welding_engineer.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sheet metal worker](sheet_metal_worker.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spring maker](spring_maker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>7</td>
-      <td>0.225806</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[engineered wood board machine operator](engineered_wood_board_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veneer slicer operator](veneer_slicer_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood router operator](wood_router_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[welding inspector](welding_inspector.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nailing machine operator](nailing_machine_operator.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer numerical control machine operator](computer_numerical_control_machine_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood pallet maker](wood_pallet_maker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal engraver](metal_engraver.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metalworking lathe operator](metalworking_lathe_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[band saw operator](band_saw_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[straightening machine operator](straightening_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[extrusion machine operator](extrusion_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[coating machine operator](coating_machine_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sawmill operator](sawmill_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lacquer spray gun operator](lacquer_spray_gun_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lathe and turning machine operator](lathe_and_turning_machine_operator.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal planer operator](metal_planer_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood boring machine operator](wood_boring_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[thread rolling machine operator](thread_rolling_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>6</td>
-      <td>0.193548</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[punch press operator](punch_press_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft assembler](aircraft_assembler.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[coppersmith](coppersmith.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft engine assembler](aircraft_engine_assembler.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[blacksmith](blacksmith.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tool grinder](tool_grinder.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spark erosion machine operator](spark_erosion_machine_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dip tank operator](dip_tank_operator.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[boat rigger](boat_rigger.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[abrasive blasting operator](abrasive_blasting_operator.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drilling machine operator](drilling_machine_operator.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stone planer](stone_planer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft gas turbine engine overhaul technician](aircraft_gas_turbine_engine_overhaul_technician.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vessel engine assembler](vessel_engine_assembler.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle engine assembler](motor_vehicle_engine_assembler.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal furniture machine operator](metal_furniture_machine_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rolling stock assembler](rolling_stock_assembler.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electromechanical equipment assembler](electromechanical_equipment_assembler.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>5</td>
-      <td>0.161290</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bicycle assembler](bicycle_assembler.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal products assembler](metal_products_assembler.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper cutter operator](paper_cutter_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tissue paper perforating and rewinding operator](tissue_paper_perforating_and_rewinding_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper pulp moulding operator](paper_pulp_moulding_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[glass forming machine operator](glass_forming_machine_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motorcycle assembler](motorcycle_assembler.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle parts assembler](motor_vehicle_parts_assembler.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laminating machine operator](laminating_machine_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood fuel pelletiser](wood_fuel_pelletiser.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[absorbent pad machine operator](absorbent_pad_machine_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle upholsterer](motor_vehicle_upholsterer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pulp control operator](pulp_control_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stone splitter](stone_splitter.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft de-icer installer](aircraft_de-icer_installer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gear machinist](gear_machinist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine upholsterer](marine_upholsterer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[railway car upholsterer](railway_car_upholsterer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft interior technician](aircraft_interior_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paperboard products assembler](paperboard_products_assembler.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[envelope maker](envelope_maker.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[debarker operator](debarker_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle body assembler](motor_vehicle_body_assembler.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bindery operator](bindery_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper bag machine operator](paper_bag_machine_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle assembler](motor_vehicle_assembler.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[corrugator operator](corrugator_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction scaffolding supervisor](construction_scaffolding_supervisor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stone polisher](stone_polisher.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chipper operator](chipper_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper stationery machine operator](paper_stationery_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.129032</td>
-      <td>10</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                            |   skills in this occupation |   skills that match welder |   percentage match with welder |   skills not in welder |
+|:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
+| [boilermaker](boilermaker.md)                                                                         |                          22 |                         14 |                       0.451613 |                      8 |
+| [solderer](solderer.md)                                                                               |                          17 |                         13 |                       0.419355 |                      4 |
+| [brazier](brazier.md)                                                                                 |                          17 |                         13 |                       0.419355 |                      4 |
+| [spot welder](spot_welder.md)                                                                         |                          18 |                         12 |                       0.387097 |                      6 |
+| [oxy fuel burning machine operator](oxy_fuel_burning_machine_operator.md)                             |                          19 |                         12 |                       0.387097 |                      7 |
+| [electron beam welder](electron_beam_welder.md)                                                       |                          25 |                         11 |                       0.354839 |                     14 |
+| [laser beam welder](laser_beam_welder.md)                                                             |                          25 |                         11 |                       0.354839 |                     14 |
+| [surface grinding machine operator](surface_grinding_machine_operator.md)                             |                          18 |                         11 |                       0.354839 |                      7 |
+| [tumbling machine operator](tumbling_machine_operator.md)                                             |                          16 |                         10 |                       0.322581 |                      6 |
+| [rustproofer](rustproofer.md)                                                                         |                          15 |                         10 |                       0.322581 |                      5 |
+| [metal rolling mill operator](metal_rolling_mill_operator.md)                                         |                          15 |                         10 |                       0.322581 |                      5 |
+| [drop forging hammer worker](drop_forging_hammer_worker.md)                                           |                          18 |                         10 |                       0.322581 |                      8 |
+| [cylindrical grinder operator](cylindrical_grinder_operator.md)                                       |                          17 |                         10 |                       0.322581 |                      7 |
+| [hydraulic forging press worker](hydraulic_forging_press_worker.md)                                   |                          18 |                          9 |                       0.290323 |                      9 |
+| [mechanical forging press worker](mechanical_forging_press_worker.md)                                 |                          16 |                          9 |                       0.290323 |                      7 |
+| [tool and die maker](tool_and_die_maker.md)                                                           |                          22 |                          9 |                       0.290323 |                     13 |
+| [upsetting machine operator](upsetting_machine_operator.md)                                           |                          16 |                          9 |                       0.290323 |                      7 |
+| [ornamental metal worker](ornamental_metal_worker.md)                                                 |                          18 |                          9 |                       0.290323 |                      9 |
+| [stamping press operator](stamping_press_operator.md)                                                 |                          16 |                          9 |                       0.290323 |                      7 |
+| [laser marking machine operator](laser_marking_machine_operator.md)                                   |                          18 |                          9 |                       0.290323 |                      9 |
+| [engraving machine operator](engraving_machine_operator.md)                                           |                          29 |                          8 |                       0.258065 |                     21 |
+| [metal nibbling operator](metal_nibbling_operator.md)                                                 |                          16 |                          8 |                       0.258065 |                      8 |
+| [deburring machine operator](deburring_machine_operator.md)                                           |                          20 |                          8 |                       0.258065 |                     12 |
+| [drill press operator](drill_press_operator.md)                                                       |                          16 |                          8 |                       0.258065 |                      8 |
+| [plasma cutting machine operator](plasma_cutting_machine_operator.md)                                 |                          17 |                          8 |                       0.258065 |                      9 |
+| [laser cutting machine operator](laser_cutting_machine_operator.md)                                   |                          26 |                          8 |                       0.258065 |                     18 |
+| [welding coordinator](welding_coordinator.md)                                                         |                          23 |                          8 |                       0.258065 |                     15 |
+| [metal drawing machine operator](metal_drawing_machine_operator.md)                                   |                          15 |                          8 |                       0.258065 |                      7 |
+| [water jet cutter operator](water_jet_cutter_operator.md)                                             |                          21 |                          8 |                       0.258065 |                     13 |
+| [riveter](riveter.md)                                                                                 |                          10 |                          7 |                       0.225806 |                      3 |
+| [structural ironworker](structural_ironworker.md)                                                     |                          22 |                          7 |                       0.225806 |                     15 |
+| [electroplating machine operator](electroplating_machine_operator.md)                                 |                          15 |                          7 |                       0.225806 |                      8 |
+| [milling machine operator](milling_machine_operator.md)                                               |                          22 |                          7 |                       0.225806 |                     15 |
+| [metal polisher](metal_polisher.md)                                                                   |                          13 |                          7 |                       0.225806 |                      6 |
+| [anodising machine operator](anodising_machine_operator.md)                                           |                          14 |                          7 |                       0.225806 |                      7 |
+| [metal sawing machine operator](metal_sawing_machine_operator.md)                                     |                          22 |                          7 |                       0.225806 |                     15 |
+| [screw machine operator](screw_machine_operator.md)                                                   |                          18 |                          7 |                       0.225806 |                     11 |
+| [filing machine operator](filing_machine_operator.md)                                                 |                          16 |                          7 |                       0.225806 |                      9 |
+| [planer thicknesser operator](planer_thicknesser_operator.md)                                         |                          21 |                          7 |                       0.225806 |                     14 |
+| [grinding machine operator](grinding_machine_operator.md)                                             |                          24 |                          7 |                       0.225806 |                     17 |
+| [chain making machine operator](chain_making_machine_operator.md)                                     |                          14 |                          7 |                       0.225806 |                      7 |
+| [swaging machine operator](swaging_machine_operator.md)                                               |                          16 |                          7 |                       0.225806 |                      9 |
+| [wire weaving machine operator](wire_weaving_machine_operator.md)                                     |                          16 |                          7 |                       0.225806 |                      9 |
+| [table saw operator](table_saw_operator.md)                                                           |                          22 |                          7 |                       0.225806 |                     15 |
+| [boring machine operator](boring_machine_operator.md)                                                 |                          16 |                          7 |                       0.225806 |                      9 |
+| [structural ironwork supervisor](structural_ironwork_supervisor.md)                                   |                          25 |                          7 |                       0.225806 |                     18 |
+| [welding engineer](welding_engineer.md)                                                               |                          29 |                          7 |                       0.225806 |                     22 |
+| [sheet metal worker](sheet_metal_worker.md)                                                           |                          20 |                          7 |                       0.225806 |                     13 |
+| [spring maker](spring_maker.md)                                                                       |                          16 |                          7 |                       0.225806 |                      9 |
+| [engineered wood board machine operator](engineered_wood_board_machine_operator.md)                   |                          14 |                          6 |                       0.193548 |                      8 |
+| [veneer slicer operator](veneer_slicer_operator.md)                                                   |                          17 |                          6 |                       0.193548 |                     11 |
+| [wood router operator](wood_router_operator.md)                                                       |                          21 |                          6 |                       0.193548 |                     15 |
+| [welding inspector](welding_inspector.md)                                                             |                          31 |                          6 |                       0.193548 |                     25 |
+| [nailing machine operator](nailing_machine_operator.md)                                               |                          11 |                          6 |                       0.193548 |                      5 |
+| [computer numerical control machine operator](computer_numerical_control_machine_operator.md)         |                          19 |                          6 |                       0.193548 |                     13 |
+| [wood pallet maker](wood_pallet_maker.md)                                                             |                          16 |                          6 |                       0.193548 |                     10 |
+| [metal engraver](metal_engraver.md)                                                                   |                          13 |                          6 |                       0.193548 |                      7 |
+| [metalworking lathe operator](metalworking_lathe_operator.md)                                         |                          19 |                          6 |                       0.193548 |                     13 |
+| [band saw operator](band_saw_operator.md)                                                             |                          22 |                          6 |                       0.193548 |                     16 |
+| [straightening machine operator](straightening_machine_operator.md)                                   |                          14 |                          6 |                       0.193548 |                      8 |
+| [extrusion machine operator](extrusion_machine_operator.md)                                           |                          14 |                          6 |                       0.193548 |                      8 |
+| [coating machine operator](coating_machine_operator.md)                                               |                          13 |                          6 |                       0.193548 |                      7 |
+| [sawmill operator](sawmill_operator.md)                                                               |                          22 |                          6 |                       0.193548 |                     16 |
+| [lacquer spray gun operator](lacquer_spray_gun_operator.md)                                           |                          13 |                          6 |                       0.193548 |                      7 |
+| [lathe and turning machine operator](lathe_and_turning_machine_operator.md)                           |                          28 |                          6 |                       0.193548 |                     22 |
+| [metal planer operator](metal_planer_operator.md)                                                     |                          18 |                          6 |                       0.193548 |                     12 |
+| [wood boring machine operator](wood_boring_machine_operator.md)                                       |                          18 |                          6 |                       0.193548 |                     12 |
+| [thread rolling machine operator](thread_rolling_machine_operator.md)                                 |                          16 |                          6 |                       0.193548 |                     10 |
+| [punch press operator](punch_press_operator.md)                                                       |                          19 |                          5 |                       0.16129  |                     14 |
+| [aircraft assembler](aircraft_assembler.md)                                                           |                          18 |                          5 |                       0.16129  |                     13 |
+| [coppersmith](coppersmith.md)                                                                         |                          25 |                          5 |                       0.16129  |                     20 |
+| [aircraft engine assembler](aircraft_engine_assembler.md)                                             |                          20 |                          5 |                       0.16129  |                     15 |
+| [blacksmith](blacksmith.md)                                                                           |                          19 |                          5 |                       0.16129  |                     14 |
+| [tool grinder](tool_grinder.md)                                                                       |                          14 |                          5 |                       0.16129  |                      9 |
+| [spark erosion machine operator](spark_erosion_machine_operator.md)                                   |                          15 |                          5 |                       0.16129  |                     10 |
+| [dip tank operator](dip_tank_operator.md)                                                             |                          11 |                          5 |                       0.16129  |                      6 |
+| [boat rigger](boat_rigger.md)                                                                         |                          15 |                          5 |                       0.16129  |                     10 |
+| [abrasive blasting operator](abrasive_blasting_operator.md)                                           |                           9 |                          5 |                       0.16129  |                      4 |
+| [drilling machine operator](drilling_machine_operator.md)                                             |                          20 |                          5 |                       0.16129  |                     15 |
+| [stone planer](stone_planer.md)                                                                       |                          20 |                          5 |                       0.16129  |                     15 |
+| [aircraft gas turbine engine overhaul technician](aircraft_gas_turbine_engine_overhaul_technician.md) |                          20 |                          5 |                       0.16129  |                     15 |
+| [vessel engine assembler](vessel_engine_assembler.md)                                                 |                          18 |                          5 |                       0.16129  |                     13 |
+| [motor vehicle engine assembler](motor_vehicle_engine_assembler.md)                                   |                          18 |                          5 |                       0.16129  |                     13 |
+| [metal furniture machine operator](metal_furniture_machine_operator.md)                               |                          19 |                          5 |                       0.16129  |                     14 |
+| [rolling stock assembler](rolling_stock_assembler.md)                                                 |                          17 |                          5 |                       0.16129  |                     12 |
+| [electromechanical equipment assembler](electromechanical_equipment_assembler.md)                     |                          22 |                          5 |                       0.16129  |                     17 |
+| [bicycle assembler](bicycle_assembler.md)                                                             |                          12 |                          4 |                       0.129032 |                      8 |
+| [metal products assembler](metal_products_assembler.md)                                               |                          13 |                          4 |                       0.129032 |                      9 |
+| [paper cutter operator](paper_cutter_operator.md)                                                     |                          17 |                          4 |                       0.129032 |                     13 |
+| [tissue paper perforating and rewinding operator](tissue_paper_perforating_and_rewinding_operator.md) |                          15 |                          4 |                       0.129032 |                     11 |
+| [paper pulp moulding operator](paper_pulp_moulding_operator.md)                                       |                          15 |                          4 |                       0.129032 |                     11 |
+| [glass forming machine operator](glass_forming_machine_operator.md)                                   |                          17 |                          4 |                       0.129032 |                     13 |
+| [motorcycle assembler](motorcycle_assembler.md)                                                       |                          11 |                          4 |                       0.129032 |                      7 |
+| [motor vehicle parts assembler](motor_vehicle_parts_assembler.md)                                     |                          17 |                          4 |                       0.129032 |                     13 |
+| [laminating machine operator](laminating_machine_operator.md)                                         |                          13 |                          4 |                       0.129032 |                      9 |
+| [wood fuel pelletiser](wood_fuel_pelletiser.md)                                                       |                          11 |                          4 |                       0.129032 |                      7 |
+| [absorbent pad machine operator](absorbent_pad_machine_operator.md)                                   |                          12 |                          4 |                       0.129032 |                      8 |
+| [motor vehicle upholsterer](motor_vehicle_upholsterer.md)                                             |                          13 |                          4 |                       0.129032 |                      9 |
+| [pulp control operator](pulp_control_operator.md)                                                     |                          14 |                          4 |                       0.129032 |                     10 |
+| [stone splitter](stone_splitter.md)                                                                   |                          13 |                          4 |                       0.129032 |                      9 |
+| [aircraft de-icer installer](aircraft_de-icer_installer.md)                                           |                          14 |                          4 |                       0.129032 |                     10 |
+| [gear machinist](gear_machinist.md)                                                                   |                          11 |                          4 |                       0.129032 |                      7 |
+| [marine upholsterer](marine_upholsterer.md)                                                           |                          13 |                          4 |                       0.129032 |                      9 |
+| [railway car upholsterer](railway_car_upholsterer.md)                                                 |                          14 |                          4 |                       0.129032 |                     10 |
+| [aircraft interior technician](aircraft_interior_technician.md)                                       |                          14 |                          4 |                       0.129032 |                     10 |
+| [paperboard products assembler](paperboard_products_assembler.md)                                     |                          11 |                          4 |                       0.129032 |                      7 |
+| [envelope maker](envelope_maker.md)                                                                   |                          15 |                          4 |                       0.129032 |                     11 |
+| [debarker operator](debarker_operator.md)                                                             |                          14 |                          4 |                       0.129032 |                     10 |
+| [motor vehicle body assembler](motor_vehicle_body_assembler.md)                                       |                          15 |                          4 |                       0.129032 |                     11 |
+| [bindery operator](bindery_operator.md)                                                               |                          15 |                          4 |                       0.129032 |                     11 |
+| [paper bag machine operator](paper_bag_machine_operator.md)                                           |                          13 |                          4 |                       0.129032 |                      9 |
+| [motor vehicle assembler](motor_vehicle_assembler.md)                                                 |                          26 |                          4 |                       0.129032 |                     22 |
+| [corrugator operator](corrugator_operator.md)                                                         |                          13 |                          4 |                       0.129032 |                      9 |
+| [construction scaffolding supervisor](construction_scaffolding_supervisor.md)                         |                          25 |                          4 |                       0.129032 |                     21 |
+| [stone polisher](stone_polisher.md)                                                                   |                          18 |                          4 |                       0.129032 |                     14 |
+| [chipper operator](chipper_operator.md)                                                               |                          12 |                          4 |                       0.129032 |                      8 |
+| [paper stationery machine operator](paper_stationery_machine_operator.md)                             |                          14 |                          4 |                       0.129032 |                     10 |

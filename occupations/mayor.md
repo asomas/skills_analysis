@@ -1,646 +1,95 @@
 #Occupation mayor
 ##Number skills 9
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match mayor</th>
-      <th>percentage match with mayor</th>
-      <th>skills not in mayor</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[cultural policy officer](cultural_policy_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>6</td>
-      <td>0.666667</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[policy officer](policy_officer.md)&lt;/span&gt;</td>
-      <td>7</td>
-      <td>5</td>
-      <td>0.555556</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[regional development policy officer](regional_development_policy_officer.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>5</td>
-      <td>0.555556</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agricultural policy officer](agricultural_policy_officer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>5</td>
-      <td>0.555556</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[immigration policy officer](immigration_policy_officer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>5</td>
-      <td>0.555556</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ambassador](ambassador.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.555556</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[competition policy officer](competition_policy_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.555556</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[economic policy officer](economic_policy_officer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.444444</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[public administration manager](public_administration_manager.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.444444</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social service consultant](social_service_consultant.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.444444</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[provincial governor](provincial_governor.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>4</td>
-      <td>0.444444</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[community development officer](community_development_officer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.444444</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social security administrator](social_security_administrator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.444444</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[economic development coordinator](economic_development_coordinator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.444444</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[city councillor](city_councillor.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>4</td>
-      <td>0.444444</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[public employment service manager](public_employment_service_manager.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[consul](consul.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[public housing manager](public_housing_manager.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>71</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[embassy counsellor](embassy_counsellor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[youth programme director](youth_programme_director.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[employment programme coordinator](employment_programme_coordinator.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[public affairs consultant](public_affairs_consultant.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fiscal affairs policy officer](fiscal_affairs_policy_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[government minister](government_minister.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[senator](senator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[environmental policy officer](environmental_policy_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[health and safety inspector](health_and_safety_inspector.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special-interest groups' official](special-interest_groups'_official.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[member of parliament](member_of_parliament.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cultural centre director](cultural_centre_director.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[diplomat](diplomat.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[housing policy officer](housing_policy_officer.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[labour relations officer](labour_relations_officer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[healthcare consultant](healthcare_consultant.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[labour market policy officer](labour_market_policy_officer.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[trade development officer](trade_development_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[recreation policy officer](recreation_policy_officer.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[foreign affairs officer](foreign_affairs_officer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sports programme coordinator](sports_programme_coordinator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[public relations manager](public_relations_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[legal policy officer](legal_policy_officer.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[education policy officer](education_policy_officer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[government planning inspector](government_planning_inspector.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[performance production manager](performance_production_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army general](army_general.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beauty salon manager](beauty_salon_manager.md)&lt;/span&gt;</td>
-      <td>44</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>43</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[brigadier](brigadier.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prosecutor](prosecutor.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[defence administration officer](defence_administration_officer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[back office specialist](back_office_specialist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[political scientist](political_scientist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[curriculum administrator](curriculum_administrator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[real estate surveyor](real_estate_surveyor.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[community health worker](community_health_worker.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spa manager](spa_manager.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>46</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[youth centre manager](youth_centre_manager.md)&lt;/span&gt;</td>
-      <td>71</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>70</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rescue centre manager](rescue_centre_manager.md)&lt;/span&gt;</td>
-      <td>76</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>75</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[verger](verger.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pastoral worker](pastoral_worker.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[minister of religion](minister_of_religion.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hand luggage inspector](hand_luggage_inspector.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[secretary of state](secretary_of_state.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[housing manager](housing_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[food safety inspector](food_safety_inspector.md)&lt;/span&gt;</td>
-      <td>39</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>38</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[office manager](office_manager.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zoo educator](zoo_educator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tax policy analyst](tax_policy_analyst.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business service manager](business_service_manager.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[recreational facilities manager](recreational_facilities_manager.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[botanist](botanist.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lieutenant](lieutenant.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[central bank governor](central_bank_governor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cemetery attendant](cemetery_attendant.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[international relations officer](international_relations_officer.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[urban planner](urban_planner.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[political affairs officer](political_affairs_officer.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[financial markets back office administrator](financial_markets_back_office_administrator.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[civil service administrative officer](civil_service_administrative_officer.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[community social worker](community_social_worker.md)&lt;/span&gt;</td>
-      <td>71</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>70</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[case administrator](case_administrator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lottery manager](lottery_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zoo curator](zoo_curator.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>46</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[artistic director](artistic_director.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road transport division manager](road_transport_division_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court administrator](court_administrator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social services policy officer](social_services_policy_officer.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[building inspector](building_inspector.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gambling manager](gambling_manager.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[weights and measures inspector](weights_and_measures_inspector.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[public health policy officer](public_health_policy_officer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                    |   skills in this occupation |   skills that match mayor |   percentage match with mayor |   skills not in mayor |
+|:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
+| [cultural policy officer](cultural_policy_officer.md)                                         |                          15 |                         6 |                      0.666667 |                     9 |
+| [policy officer](policy_officer.md)                                                           |                           7 |                         5 |                      0.555556 |                     2 |
+| [regional development policy officer](regional_development_policy_officer.md)                 |                          10 |                         5 |                      0.555556 |                     5 |
+| [agricultural policy officer](agricultural_policy_officer.md)                                 |                          13 |                         5 |                      0.555556 |                     8 |
+| [immigration policy officer](immigration_policy_officer.md)                                   |                          16 |                         5 |                      0.555556 |                    11 |
+| [ambassador](ambassador.md)                                                                   |                          18 |                         5 |                      0.555556 |                    13 |
+| [competition policy officer](competition_policy_officer.md)                                   |                          15 |                         5 |                      0.555556 |                    10 |
+| [economic policy officer](economic_policy_officer.md)                                         |                          14 |                         4 |                      0.444444 |                    10 |
+| [public administration manager](public_administration_manager.md)                             |                          18 |                         4 |                      0.444444 |                    14 |
+| [social service consultant](social_service_consultant.md)                                     |                          14 |                         4 |                      0.444444 |                    10 |
+| [provincial governor](provincial_governor.md)                                                 |                          10 |                         4 |                      0.444444 |                     6 |
+| [community development officer](community_development_officer.md)                             |                          12 |                         4 |                      0.444444 |                     8 |
+| [social security administrator](social_security_administrator.md)                             |                          14 |                         4 |                      0.444444 |                    10 |
+| [economic development coordinator](economic_development_coordinator.md)                       |                          12 |                         4 |                      0.444444 |                     8 |
+| [city councillor](city_councillor.md)                                                         |                           9 |                         4 |                      0.444444 |                     5 |
+| [public employment service manager](public_employment_service_manager.md)                     |                          17 |                         3 |                      0.333333 |                    14 |
+| [consul](consul.md)                                                                           |                          14 |                         3 |                      0.333333 |                    11 |
+| [public housing manager](public_housing_manager.md)                                           |                          74 |                         3 |                      0.333333 |                    71 |
+| [embassy counsellor](embassy_counsellor.md)                                                   |                          15 |                         3 |                      0.333333 |                    12 |
+| [youth programme director](youth_programme_director.md)                                       |                          13 |                         3 |                      0.333333 |                    10 |
+| [employment programme coordinator](employment_programme_coordinator.md)                       |                          11 |                         3 |                      0.333333 |                     8 |
+| [public affairs consultant](public_affairs_consultant.md)                                     |                          12 |                         3 |                      0.333333 |                     9 |
+| [fiscal affairs policy officer](fiscal_affairs_policy_officer.md)                             |                          15 |                         3 |                      0.333333 |                    12 |
+| [government minister](government_minister.md)                                                 |                          13 |                         3 |                      0.333333 |                    10 |
+| [senator](senator.md)                                                                         |                          10 |                         2 |                      0.222222 |                     8 |
+| [environmental policy officer](environmental_policy_officer.md)                               |                          15 |                         2 |                      0.222222 |                    13 |
+| [health and safety inspector](health_and_safety_inspector.md)                                 |                          14 |                         2 |                      0.222222 |                    12 |
+| [special-interest groups' official](special-interest_groups'_official.md)                     |                          27 |                         2 |                      0.222222 |                    25 |
+| [member of parliament](member_of_parliament.md)                                               |                          12 |                         2 |                      0.222222 |                    10 |
+| [cultural centre director](cultural_centre_director.md)                                       |                          31 |                         2 |                      0.222222 |                    29 |
+| [diplomat](diplomat.md)                                                                       |                          18 |                         2 |                      0.222222 |                    16 |
+| [housing policy officer](housing_policy_officer.md)                                           |                           8 |                         2 |                      0.222222 |                     6 |
+| [labour relations officer](labour_relations_officer.md)                                       |                          13 |                         2 |                      0.222222 |                    11 |
+| [healthcare consultant](healthcare_consultant.md)                                             |                          12 |                         2 |                      0.222222 |                    10 |
+| [labour market policy officer](labour_market_policy_officer.md)                               |                          11 |                         2 |                      0.222222 |                     9 |
+| [trade development officer](trade_development_officer.md)                                     |                          15 |                         2 |                      0.222222 |                    13 |
+| [recreation policy officer](recreation_policy_officer.md)                                     |                           9 |                         2 |                      0.222222 |                     7 |
+| [foreign affairs officer](foreign_affairs_officer.md)                                         |                          12 |                         2 |                      0.222222 |                    10 |
+| [sports programme coordinator](sports_programme_coordinator.md)                               |                          14 |                         2 |                      0.222222 |                    12 |
+| [public relations manager](public_relations_manager.md)                                       |                          26 |                         2 |                      0.222222 |                    24 |
+| [legal policy officer](legal_policy_officer.md)                                               |                          10 |                         2 |                      0.222222 |                     8 |
+| [education policy officer](education_policy_officer.md)                                       |                          17 |                         2 |                      0.222222 |                    15 |
+| [government planning inspector](government_planning_inspector.md)                             |                          10 |                         1 |                      0.111111 |                     9 |
+| [performance production manager](performance_production_manager.md)                           |                          34 |                         1 |                      0.111111 |                    33 |
+| [army general](army_general.md)                                                               |                          12 |                         1 |                      0.111111 |                    11 |
+| [beauty salon manager](beauty_salon_manager.md)                                               |                          44 |                         1 |                      0.111111 |                    43 |
+| [brigadier](brigadier.md)                                                                     |                          14 |                         1 |                      0.111111 |                    13 |
+| [prosecutor](prosecutor.md)                                                                   |                          16 |                         1 |                      0.111111 |                    15 |
+| [defence administration officer](defence_administration_officer.md)                           |                          12 |                         1 |                      0.111111 |                    11 |
+| [back office specialist](back_office_specialist.md)                                           |                          16 |                         1 |                      0.111111 |                    15 |
+| [political scientist](political_scientist.md)                                                 |                          11 |                         1 |                      0.111111 |                    10 |
+| [curriculum administrator](curriculum_administrator.md)                                       |                          14 |                         1 |                      0.111111 |                    13 |
+| [real estate surveyor](real_estate_surveyor.md)                                               |                          11 |                         1 |                      0.111111 |                    10 |
+| [community health worker](community_health_worker.md)                                         |                          14 |                         1 |                      0.111111 |                    13 |
+| [spa manager](spa_manager.md)                                                                 |                          47 |                         1 |                      0.111111 |                    46 |
+| [youth centre manager](youth_centre_manager.md)                                               |                          71 |                         1 |                      0.111111 |                    70 |
+| [rescue centre manager](rescue_centre_manager.md)                                             |                          76 |                         1 |                      0.111111 |                    75 |
+| [verger](verger.md)                                                                           |                           9 |                         1 |                      0.111111 |                     8 |
+| [pastoral worker](pastoral_worker.md)                                                         |                           9 |                         1 |                      0.111111 |                     8 |
+| [minister of religion](minister_of_religion.md)                                               |                          19 |                         1 |                      0.111111 |                    18 |
+| [hand luggage inspector](hand_luggage_inspector.md)                                           |                          15 |                         1 |                      0.111111 |                    14 |
+| [secretary of state](secretary_of_state.md)                                                   |                          12 |                         1 |                      0.111111 |                    11 |
+| [housing manager](housing_manager.md)                                                         |                          28 |                         1 |                      0.111111 |                    27 |
+| [food safety inspector](food_safety_inspector.md)                                             |                          39 |                         1 |                      0.111111 |                    38 |
+| [office manager](office_manager.md)                                                           |                          17 |                         1 |                      0.111111 |                    16 |
+| [zoo educator](zoo_educator.md)                                                               |                          17 |                         1 |                      0.111111 |                    16 |
+| [tax policy analyst](tax_policy_analyst.md)                                                   |                          17 |                         1 |                      0.111111 |                    16 |
+| [business service manager](business_service_manager.md)                                       |                          19 |                         1 |                      0.111111 |                    18 |
+| [recreational facilities manager](recreational_facilities_manager.md)                         |                          13 |                         1 |                      0.111111 |                    12 |
+| [botanist](botanist.md)                                                                       |                          27 |                         1 |                      0.111111 |                    26 |
+| [lieutenant](lieutenant.md)                                                                   |                          14 |                         1 |                      0.111111 |                    13 |
+| [central bank governor](central_bank_governor.md)                                             |                          17 |                         1 |                      0.111111 |                    16 |
+| [cemetery attendant](cemetery_attendant.md)                                                   |                           9 |                         1 |                      0.111111 |                     8 |
+| [international relations officer](international_relations_officer.md)                         |                          10 |                         1 |                      0.111111 |                     9 |
+| [urban planner](urban_planner.md)                                                             |                          14 |                         1 |                      0.111111 |                    13 |
+| [political affairs officer](political_affairs_officer.md)                                     |                          10 |                         1 |                      0.111111 |                     9 |
+| [financial markets back office administrator](financial_markets_back_office_administrator.md) |                           8 |                         1 |                      0.111111 |                     7 |
+| [civil service administrative officer](civil_service_administrative_officer.md)               |                          11 |                         1 |                      0.111111 |                    10 |
+| [community social worker](community_social_worker.md)                                         |                          71 |                         1 |                      0.111111 |                    70 |
+| [case administrator](case_administrator.md)                                                   |                          12 |                         1 |                      0.111111 |                    11 |
+| [lottery manager](lottery_manager.md)                                                         |                          28 |                         1 |                      0.111111 |                    27 |
+| [zoo curator](zoo_curator.md)                                                                 |                          47 |                         1 |                      0.111111 |                    46 |
+| [artistic director](artistic_director.md)                                                     |                          36 |                         1 |                      0.111111 |                    35 |
+| [road transport division manager](road_transport_division_manager.md)                         |                          26 |                         1 |                      0.111111 |                    25 |
+| [court administrator](court_administrator.md)                                                 |                          10 |                         1 |                      0.111111 |                     9 |
+| [social services policy officer](social_services_policy_officer.md)                           |                          11 |                         1 |                      0.111111 |                    10 |
+| [building inspector](building_inspector.md)                                                   |                          16 |                         1 |                      0.111111 |                    15 |
+| [gambling manager](gambling_manager.md)                                                       |                          27 |                         1 |                      0.111111 |                    26 |
+| [weights and measures inspector](weights_and_measures_inspector.md)                           |                          14 |                         1 |                      0.111111 |                    13 |
+| [public health policy officer](public_health_policy_officer.md)                               |                          14 |                         1 |                      0.111111 |                    13 |

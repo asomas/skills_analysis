@@ -1,1129 +1,164 @@
 #Occupation hawker
 ##Number skills 19
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match hawker</th>
-      <th>percentage match with hawker</th>
-      <th>skills not in hawker</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[door to door seller](door_to_door_seller.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>11</td>
-      <td>0.578947</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[market vendor](market_vendor.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[promotions demonstrator](promotions_demonstrator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bakery specialised seller](bakery_specialised_seller.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ticket issuing clerk](ticket_issuing_clerk.md)&lt;/span&gt;</td>
-      <td>42</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer and accessories specialised seller](computer_and_accessories_specialised_seller.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[toys and games specialised seller](toys_and_games_specialised_seller.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[jewellery and watches specialised seller](jewellery_and_watches_specialised_seller.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[shoe and leather accessories specialised seller](shoe_and_leather_accessories_specialised_seller.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[building materials specialised seller](building_materials_specialised_seller.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicles specialised seller](motor_vehicles_specialised_seller.md)&lt;/span&gt;</td>
-      <td>41</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beverages specialised seller](beverages_specialised_seller.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[eyewear and optical equipment specialised seller](eyewear_and_optical_equipment_specialised_seller.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile specialised seller](textile_specialised_seller.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fruit and vegetables specialised seller](fruit_and_vegetables_specialised_seller.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[second-hand goods specialised seller](second-hand_goods_specialised_seller.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[furniture specialised seller](furniture_specialised_seller.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[orthopaedic supplies specialised seller](orthopaedic_supplies_specialised_seller.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fuel station specialised seller](fuel_station_specialised_seller.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer games, multimedia and software specialised seller](computer_games,_multimedia_and_software_specialised_seller.md)&lt;/span&gt;</td>
-      <td>38</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[audiology equipment specialised seller](audiology_equipment_specialised_seller.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pet and pet food specialised seller](pet_and_pet_food_specialised_seller.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[confectionery specialised seller](confectionery_specialised_seller.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing specialised seller](clothing_specialised_seller.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bookshop specialised seller](bookshop_specialised_seller.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sporting accessories specialised seller](sporting_accessories_specialised_seller.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ammunition specialised seller](ammunition_specialised_seller.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fish and seafood specialised seller](fish_and_seafood_specialised_seller.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[domestic appliances specialised seller](domestic_appliances_specialised_seller.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cosmetics and perfume specialised seller](cosmetics_and_perfume_specialised_seller.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[press and stationery specialised seller](press_and_stationery_specialised_seller.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flower and garden specialised seller](flower_and_garden_specialised_seller.md)&lt;/span&gt;</td>
-      <td>38</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[specialised antique dealer](specialised_antique_dealer.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[telecommunications equipment specialised seller](telecommunications_equipment_specialised_seller.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[street food vendor](street_food_vendor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[delicatessen specialised seller](delicatessen_specialised_seller.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music and video shop specialised seller](music_and_video_shop_specialised_seller.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[floor and wall coverings specialised seller](floor_and_wall_coverings_specialised_seller.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[meat and meat products specialised seller](meat_and_meat_products_specialised_seller.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hardware and paint specialised seller](hardware_and_paint_specialised_seller.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tobacco specialised seller](tobacco_specialised_seller.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[audio and video equipment specialised seller](audio_and_video_equipment_specialised_seller.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medical goods specialised seller](medical_goods_specialised_seller.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[specialised seller](specialised_seller.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sales assistant](sales_assistant.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in machinery and industrial equipment](technical_sales_representative_in_machinery_and_industrial_equipment.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in trucks](rental_service_representative_in_trucks.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vehicle maintenance attendant](vehicle_maintenance_attendant.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[network marketer](network_marketer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in cars and light motor vehicles](rental_service_representative_in_cars_and_light_motor_vehicles.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[commercial sales representative](commercial_sales_representative.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in machinery, equipment and tangible goods](rental_service_representative_in_machinery,_equipment_and_tangible_goods.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in personal and household goods](rental_service_representative_in_personal_and_household_goods.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in agricultural machinery and equipment](technical_sales_representative_in_agricultural_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in office machinery and equipment](technical_sales_representative_in_office_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative](rental_service_representative.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in electronic and telecommunications equipment](technical_sales_representative_in_electronic_and_telecommunications_equipment.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in recreational and sports goods](rental_service_representative_in_recreational_and_sports_goods.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in air transport equipment](rental_service_representative_in_air_transport_equipment.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in video tapes and disks](rental_service_representative_in_video_tapes_and_disks.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[performance rental technician](performance_rental_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in hardware, plumbing and heating equipment](technical_sales_representative_in_hardware,_plumbing_and_heating_equipment.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in the textile machinery industry](technical_sales_representative_in_the_textile_machinery_industry.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative](technical_sales_representative.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in chemical products](technical_sales_representative_in_chemical_products.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in mining and construction machinery](technical_sales_representative_in_mining_and_construction_machinery.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in office machinery and equipment](rental_service_representative_in_office_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in agricultural machinery and equipment](rental_service_representative_in_agricultural_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in construction and civil engineering machinery](rental_service_representative_in_construction_and_civil_engineering_machinery.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in water transport equipment](rental_service_representative_in_water_transport_equipment.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sales processor](sales_processor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle shop manager](motor_vehicle_shop_manager.md)&lt;/span&gt;</td>
-      <td>39</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>36</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[confectionery shop manager](confectionery_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer shop manager](computer_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cosmetics and perfume shop manager](cosmetics_and_perfume_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[garage manager](garage_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cashier](cashier.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[craft shop manager](craft_shop_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[delicatessen shop manager](delicatessen_shop_manager.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flower and garden shop manager](flower_and_garden_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[shop manager](shop_manager.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile shop manager](textile_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[press and stationery shop manager](press_and_stationery_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bookshop manager](bookshop_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ammunition shop manager](ammunition_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kitchen and bathroom shop manager](kitchen_and_bathroom_shop_manager.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bakery shop manager](bakery_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bicycle shop manager](bicycle_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[car leasing agent](car_leasing_agent.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[telecommunication equipment shop manager](telecommunication_equipment_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[second-hand shop manager](second-hand_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vehicle technician](vehicle_technician.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cocktail bartender](cocktail_bartender.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tobacco shop manager](tobacco_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[shoe and leather accessories shop manager](shoe_and_leather_accessories_shop_manager.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[audiology equipment shop manager](audiology_equipment_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sales account manager](sales_account_manager.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fuel station manager](fuel_station_manager.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[domestic appliances shop manager](domestic_appliances_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[orthopaedic supply shop manager](orthopaedic_supply_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medical goods shop manager](medical_goods_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clothing shop manager](clothing_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ICT account manager](ICT_account_manager.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[eyewear and optical equipment shop manager](eyewear_and_optical_equipment_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music and video shop manager](music_and_video_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ICT help desk agent](ICT_help_desk_agent.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fruit and vegetables shop manager](fruit_and_vegetables_shop_manager.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[meat and meat products shop manager](meat_and_meat_products_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[building materials shop manager](building_materials_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pet and pet food shop manager](pet_and_pet_food_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[audio and video equipment shop manager](audio_and_video_equipment_shop_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[floor and wall coverings shop manager](floor_and_wall_coverings_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer software and multimedia shop manager](computer_software_and_multimedia_shop_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[jewellery and watches shop manager](jewellery_and_watches_shop_manager.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[photography shop manager](photography_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[furniture shop manager](furniture_shop_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle aftersales manager](motor_vehicle_aftersales_manager.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[toys and games shop manager](toys_and_games_shop_manager.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fish and seafood shop manager](fish_and_seafood_shop_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beverages shop manager](beverages_shop_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[antique shop manager](antique_shop_manager.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[travel consultant](travel_consultant.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hardware and paint shop manager](hardware_and_paint_shop_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[travel agent](travel_agent.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[head sommelier](head_sommelier.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[waiter/waitress](waiter-waitress.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicles parts advisor](motor_vehicles_parts_advisor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beauty salon attendant](beauty_salon_attendant.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[quick service restaurant crew member](quick_service_restaurant_crew_member.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veterinary receptionist](veterinary_receptionist.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[international student exchange coordinator](international_student_exchange_coordinator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aeronautical information specialist](aeronautical_information_specialist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[retail entrepreneur](retail_entrepreneur.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sommelier](sommelier.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[roadside vehicle technician](roadside_vehicle_technician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[diesel engine mechanic](diesel_engine_mechanic.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aeronautical information service officer](aeronautical_information_service_officer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ticket sales agent](ticket_sales_agent.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laundromat attendant](laundromat_attendant.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[after-sales service technician](after-sales_service_technician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[green coffee buyer](green_coffee_buyer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[shop assistant](shop_assistant.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[advertising sales agent](advertising_sales_agent.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beauty salon manager](beauty_salon_manager.md)&lt;/span&gt;</td>
-      <td>44</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>42</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sales engineer](sales_engineer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[customer service representative](customer_service_representative.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spa manager](spa_manager.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>45</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[airport maintenance technician](airport_maintenance_technician.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sporting and outdoor accessories shop manager](sporting_and_outdoor_accessories_shop_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spa attendant](spa_attendant.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[transport equipment painter](transport_equipment_painter.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vehicle maintenance supervisor](vehicle_maintenance_supervisor.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive electrician](automotive_electrician.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[restoration technician](restoration_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[client relations manager](client_relations_manager.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[interior planner](interior_planner.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[airport director](airport_director.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ship planner](ship_planner.md)&lt;/span&gt;</td>
-      <td>51</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>49</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bartender](bartender.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>20</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                                                                                        |   skills in this occupation |   skills that match hawker |   percentage match with hawker |   skills not in hawker |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
+| [door to door seller](door_to_door_seller.md)                                                                                                                     |                          20 |                         11 |                       0.578947 |                      9 |
+| [market vendor](market_vendor.md)                                                                                                                                 |                          12 |                          8 |                       0.421053 |                      4 |
+| [promotions demonstrator](promotions_demonstrator.md)                                                                                                             |                          15 |                          8 |                       0.421053 |                      7 |
+| [bakery specialised seller](bakery_specialised_seller.md)                                                                                                         |                          33 |                          8 |                       0.421053 |                     25 |
+| [ticket issuing clerk](ticket_issuing_clerk.md)                                                                                                                   |                          42 |                          8 |                       0.421053 |                     34 |
+| [computer and accessories specialised seller](computer_and_accessories_specialised_seller.md)                                                                     |                          31 |                          7 |                       0.368421 |                     24 |
+| [toys and games specialised seller](toys_and_games_specialised_seller.md)                                                                                         |                          34 |                          7 |                       0.368421 |                     27 |
+| [jewellery and watches specialised seller](jewellery_and_watches_specialised_seller.md)                                                                           |                          36 |                          7 |                       0.368421 |                     29 |
+| [shoe and leather accessories specialised seller](shoe_and_leather_accessories_specialised_seller.md)                                                             |                          34 |                          7 |                       0.368421 |                     27 |
+| [building materials specialised seller](building_materials_specialised_seller.md)                                                                                 |                          34 |                          7 |                       0.368421 |                     27 |
+| [motor vehicles specialised seller](motor_vehicles_specialised_seller.md)                                                                                         |                          41 |                          7 |                       0.368421 |                     34 |
+| [beverages specialised seller](beverages_specialised_seller.md)                                                                                                   |                          32 |                          7 |                       0.368421 |                     25 |
+| [eyewear and optical equipment specialised seller](eyewear_and_optical_equipment_specialised_seller.md)                                                           |                          34 |                          7 |                       0.368421 |                     27 |
+| [textile specialised seller](textile_specialised_seller.md)                                                                                                       |                          33 |                          7 |                       0.368421 |                     26 |
+| [fruit and vegetables specialised seller](fruit_and_vegetables_specialised_seller.md)                                                                             |                          35 |                          7 |                       0.368421 |                     28 |
+| [second-hand goods specialised seller](second-hand_goods_specialised_seller.md)                                                                                   |                          30 |                          7 |                       0.368421 |                     23 |
+| [furniture specialised seller](furniture_specialised_seller.md)                                                                                                   |                          36 |                          7 |                       0.368421 |                     29 |
+| [orthopaedic supplies specialised seller](orthopaedic_supplies_specialised_seller.md)                                                                             |                          33 |                          7 |                       0.368421 |                     26 |
+| [fuel station specialised seller](fuel_station_specialised_seller.md)                                                                                             |                          32 |                          7 |                       0.368421 |                     25 |
+| [computer games, multimedia and software specialised seller](computer_games,_multimedia_and_software_specialised_seller.md)                                       |                          38 |                          7 |                       0.368421 |                     31 |
+| [audiology equipment specialised seller](audiology_equipment_specialised_seller.md)                                                                               |                          32 |                          7 |                       0.368421 |                     25 |
+| [pet and pet food specialised seller](pet_and_pet_food_specialised_seller.md)                                                                                     |                          36 |                          7 |                       0.368421 |                     29 |
+| [confectionery specialised seller](confectionery_specialised_seller.md)                                                                                           |                          33 |                          7 |                       0.368421 |                     26 |
+| [clothing specialised seller](clothing_specialised_seller.md)                                                                                                     |                          34 |                          7 |                       0.368421 |                     27 |
+| [bookshop specialised seller](bookshop_specialised_seller.md)                                                                                                     |                          37 |                          7 |                       0.368421 |                     30 |
+| [sporting accessories specialised seller](sporting_accessories_specialised_seller.md)                                                                             |                          32 |                          7 |                       0.368421 |                     25 |
+| [ammunition specialised seller](ammunition_specialised_seller.md)                                                                                                 |                          32 |                          7 |                       0.368421 |                     25 |
+| [fish and seafood specialised seller](fish_and_seafood_specialised_seller.md)                                                                                     |                          37 |                          7 |                       0.368421 |                     30 |
+| [domestic appliances specialised seller](domestic_appliances_specialised_seller.md)                                                                               |                          32 |                          7 |                       0.368421 |                     25 |
+| [cosmetics and perfume specialised seller](cosmetics_and_perfume_specialised_seller.md)                                                                           |                          33 |                          7 |                       0.368421 |                     26 |
+| [press and stationery specialised seller](press_and_stationery_specialised_seller.md)                                                                             |                          29 |                          7 |                       0.368421 |                     22 |
+| [flower and garden specialised seller](flower_and_garden_specialised_seller.md)                                                                                   |                          38 |                          7 |                       0.368421 |                     31 |
+| [specialised antique dealer](specialised_antique_dealer.md)                                                                                                       |                          32 |                          7 |                       0.368421 |                     25 |
+| [telecommunications equipment specialised seller](telecommunications_equipment_specialised_seller.md)                                                             |                          31 |                          7 |                       0.368421 |                     24 |
+| [street food vendor](street_food_vendor.md)                                                                                                                       |                          15 |                          7 |                       0.368421 |                      8 |
+| [delicatessen specialised seller](delicatessen_specialised_seller.md)                                                                                             |                          31 |                          7 |                       0.368421 |                     24 |
+| [music and video shop specialised seller](music_and_video_shop_specialised_seller.md)                                                                             |                          31 |                          7 |                       0.368421 |                     24 |
+| [floor and wall coverings specialised seller](floor_and_wall_coverings_specialised_seller.md)                                                                     |                          32 |                          7 |                       0.368421 |                     25 |
+| [meat and meat products specialised seller](meat_and_meat_products_specialised_seller.md)                                                                         |                          35 |                          7 |                       0.368421 |                     28 |
+| [hardware and paint specialised seller](hardware_and_paint_specialised_seller.md)                                                                                 |                          32 |                          7 |                       0.368421 |                     25 |
+| [tobacco specialised seller](tobacco_specialised_seller.md)                                                                                                       |                          32 |                          7 |                       0.368421 |                     25 |
+| [audio and video equipment specialised seller](audio_and_video_equipment_specialised_seller.md)                                                                   |                          33 |                          7 |                       0.368421 |                     26 |
+| [medical goods specialised seller](medical_goods_specialised_seller.md)                                                                                           |                          31 |                          7 |                       0.368421 |                     24 |
+| [specialised seller](specialised_seller.md)                                                                                                                       |                          26 |                          6 |                       0.315789 |                     20 |
+| [sales assistant](sales_assistant.md)                                                                                                                             |                          27 |                          6 |                       0.315789 |                     21 |
+| [technical sales representative in machinery and industrial equipment](technical_sales_representative_in_machinery_and_industrial_equipment.md)                   |                          32 |                          4 |                       0.210526 |                     28 |
+| [rental service representative in trucks](rental_service_representative_in_trucks.md)                                                                             |                          22 |                          4 |                       0.210526 |                     18 |
+| [vehicle maintenance attendant](vehicle_maintenance_attendant.md)                                                                                                 |                          13 |                          4 |                       0.210526 |                      9 |
+| [network marketer](network_marketer.md)                                                                                                                           |                          18 |                          4 |                       0.210526 |                     14 |
+| [rental service representative in cars and light motor vehicles](rental_service_representative_in_cars_and_light_motor_vehicles.md)                               |                          22 |                          4 |                       0.210526 |                     18 |
+| [commercial sales representative](commercial_sales_representative.md)                                                                                             |                          30 |                          4 |                       0.210526 |                     26 |
+| [rental service representative in machinery, equipment and tangible goods](rental_service_representative_in_machinery,_equipment_and_tangible_goods.md)           |                          22 |                          4 |                       0.210526 |                     18 |
+| [rental service representative in personal and household goods](rental_service_representative_in_personal_and_household_goods.md)                                 |                          22 |                          4 |                       0.210526 |                     18 |
+| [technical sales representative in agricultural machinery and equipment](technical_sales_representative_in_agricultural_machinery_and_equipment.md)               |                          29 |                          4 |                       0.210526 |                     25 |
+| [technical sales representative in office machinery and equipment](technical_sales_representative_in_office_machinery_and_equipment.md)                           |                          29 |                          4 |                       0.210526 |                     25 |
+| [rental service representative](rental_service_representative.md)                                                                                                 |                          22 |                          4 |                       0.210526 |                     18 |
+| [technical sales representative in electronic and telecommunications equipment](technical_sales_representative_in_electronic_and_telecommunications_equipment.md) |                          29 |                          4 |                       0.210526 |                     25 |
+| [rental service representative in recreational and sports goods](rental_service_representative_in_recreational_and_sports_goods.md)                               |                          22 |                          4 |                       0.210526 |                     18 |
+| [rental service representative in air transport equipment](rental_service_representative_in_air_transport_equipment.md)                                           |                          26 |                          4 |                       0.210526 |                     22 |
+| [rental service representative in video tapes and disks](rental_service_representative_in_video_tapes_and_disks.md)                                               |                          22 |                          4 |                       0.210526 |                     18 |
+| [performance rental technician](performance_rental_technician.md)                                                                                                 |                          19 |                          4 |                       0.210526 |                     15 |
+| [technical sales representative in hardware, plumbing and heating equipment](technical_sales_representative_in_hardware,_plumbing_and_heating_equipment.md)       |                          29 |                          4 |                       0.210526 |                     25 |
+| [technical sales representative in the textile machinery industry](technical_sales_representative_in_the_textile_machinery_industry.md)                           |                          29 |                          4 |                       0.210526 |                     25 |
+| [technical sales representative](technical_sales_representative.md)                                                                                               |                          28 |                          4 |                       0.210526 |                     24 |
+| [technical sales representative in chemical products](technical_sales_representative_in_chemical_products.md)                                                     |                          29 |                          4 |                       0.210526 |                     25 |
+| [technical sales representative in mining and construction machinery](technical_sales_representative_in_mining_and_construction_machinery.md)                     |                          29 |                          4 |                       0.210526 |                     25 |
+| [rental service representative in office machinery and equipment](rental_service_representative_in_office_machinery_and_equipment.md)                             |                          23 |                          4 |                       0.210526 |                     19 |
+| [rental service representative in agricultural machinery and equipment](rental_service_representative_in_agricultural_machinery_and_equipment.md)                 |                          23 |                          4 |                       0.210526 |                     19 |
+| [rental service representative in construction and civil engineering machinery](rental_service_representative_in_construction_and_civil_engineering_machinery.md) |                          23 |                          4 |                       0.210526 |                     19 |
+| [rental service representative in water transport equipment](rental_service_representative_in_water_transport_equipment.md)                                       |                          26 |                          4 |                       0.210526 |                     22 |
+| [sales processor](sales_processor.md)                                                                                                                             |                          17 |                          3 |                       0.157895 |                     14 |
+| [motor vehicle shop manager](motor_vehicle_shop_manager.md)                                                                                                       |                          39 |                          3 |                       0.157895 |                     36 |
+| [confectionery shop manager](confectionery_shop_manager.md)                                                                                                       |                          30 |                          3 |                       0.157895 |                     27 |
+| [computer shop manager](computer_shop_manager.md)                                                                                                                 |                          32 |                          3 |                       0.157895 |                     29 |
+| [cosmetics and perfume shop manager](cosmetics_and_perfume_shop_manager.md)                                                                                       |                          30 |                          3 |                       0.157895 |                     27 |
+| [garage manager](garage_manager.md)                                                                                                                               |                          26 |                          3 |                       0.157895 |                     23 |
+| [cashier](cashier.md)                                                                                                                                             |                          10 |                          3 |                       0.157895 |                      7 |
+| [craft shop manager](craft_shop_manager.md)                                                                                                                       |                          28 |                          3 |                       0.157895 |                     25 |
+| [delicatessen shop manager](delicatessen_shop_manager.md)                                                                                                         |                          29 |                          3 |                       0.157895 |                     26 |
+| [flower and garden shop manager](flower_and_garden_shop_manager.md)                                                                                               |                          31 |                          3 |                       0.157895 |                     28 |
+| [shop manager](shop_manager.md)                                                                                                                                   |                          27 |                          3 |                       0.157895 |                     24 |
+| [textile shop manager](textile_shop_manager.md)                                                                                                                   |                          31 |                          3 |                       0.157895 |                     28 |
+| [press and stationery shop manager](press_and_stationery_shop_manager.md)                                                                                         |                          31 |                          3 |                       0.157895 |                     28 |
+| [bookshop manager](bookshop_manager.md)                                                                                                                           |                          34 |                          3 |                       0.157895 |                     31 |
+| [ammunition shop manager](ammunition_shop_manager.md)                                                                                                             |                          31 |                          3 |                       0.157895 |                     28 |
+| [kitchen and bathroom shop manager](kitchen_and_bathroom_shop_manager.md)                                                                                         |                          27 |                          3 |                       0.157895 |                     24 |
+| [bakery shop manager](bakery_shop_manager.md)                                                                                                                     |                          32 |                          3 |                       0.157895 |                     29 |
+| [bicycle shop manager](bicycle_shop_manager.md)                                                                                                                   |                          30 |                          3 |                       0.157895 |                     27 |
+| [car leasing agent](car_leasing_agent.md)                                                                                                                         |                          28 |                          3 |                       0.157895 |                     25 |
+| [telecommunication equipment shop manager](telecommunication_equipment_shop_manager.md)                                                                           |                          30 |                          3 |                       0.157895 |                     27 |
+| [second-hand shop manager](second-hand_shop_manager.md)                                                                                                           |                          30 |                          3 |                       0.157895 |                     27 |
+| [vehicle technician](vehicle_technician.md)                                                                                                                       |                          34 |                          3 |                       0.157895 |                     31 |
+| [cocktail bartender](cocktail_bartender.md)                                                                                                                       |                          28 |                          3 |                       0.157895 |                     25 |
+| [tobacco shop manager](tobacco_shop_manager.md)                                                                                                                   |                          32 |                          3 |                       0.157895 |                     29 |
+| [shoe and leather accessories shop manager](shoe_and_leather_accessories_shop_manager.md)                                                                         |                          29 |                          3 |                       0.157895 |                     26 |
+| [audiology equipment shop manager](audiology_equipment_shop_manager.md)                                                                                           |                          32 |                          3 |                       0.157895 |                     29 |
+| [sales account manager](sales_account_manager.md)                                                                                                                 |                          21 |                          3 |                       0.157895 |                     18 |
+| [fuel station manager](fuel_station_manager.md)                                                                                                                   |                          37 |                          3 |                       0.157895 |                     34 |
+| [domestic appliances shop manager](domestic_appliances_shop_manager.md)                                                                                           |                          32 |                          3 |                       0.157895 |                     29 |
+| [orthopaedic supply shop manager](orthopaedic_supply_shop_manager.md)                                                                                             |                          32 |                          3 |                       0.157895 |                     29 |
+| [medical goods shop manager](medical_goods_shop_manager.md)                                                                                                       |                          31 |                          3 |                       0.157895 |                     28 |
+| [clothing shop manager](clothing_shop_manager.md)                                                                                                                 |                          32 |                          3 |                       0.157895 |                     29 |
+| [ICT account manager](ICT_account_manager.md)                                                                                                                     |                          21 |                          3 |                       0.157895 |                     18 |
+| [eyewear and optical equipment shop manager](eyewear_and_optical_equipment_shop_manager.md)                                                                       |                          31 |                          3 |                       0.157895 |                     28 |
+| [music and video shop manager](music_and_video_shop_manager.md)                                                                                                   |                          30 |                          3 |                       0.157895 |                     27 |
+| [ICT help desk agent](ICT_help_desk_agent.md)                                                                                                                     |                          19 |                          3 |                       0.157895 |                     16 |
+| [fruit and vegetables shop manager](fruit_and_vegetables_shop_manager.md)                                                                                         |                          33 |                          3 |                       0.157895 |                     30 |
+| [meat and meat products shop manager](meat_and_meat_products_shop_manager.md)                                                                                     |                          31 |                          3 |                       0.157895 |                     28 |
+| [building materials shop manager](building_materials_shop_manager.md)                                                                                             |                          30 |                          3 |                       0.157895 |                     27 |
+| [pet and pet food shop manager](pet_and_pet_food_shop_manager.md)                                                                                                 |                          30 |                          3 |                       0.157895 |                     27 |
+| [audio and video equipment shop manager](audio_and_video_equipment_shop_manager.md)                                                                               |                          31 |                          3 |                       0.157895 |                     28 |
+| [floor and wall coverings shop manager](floor_and_wall_coverings_shop_manager.md)                                                                                 |                          30 |                          3 |                       0.157895 |                     27 |
+| [computer software and multimedia shop manager](computer_software_and_multimedia_shop_manager.md)                                                                 |                          34 |                          3 |                       0.157895 |                     31 |
+| [jewellery and watches shop manager](jewellery_and_watches_shop_manager.md)                                                                                       |                          37 |                          3 |                       0.157895 |                     34 |
+| [photography shop manager](photography_shop_manager.md)                                                                                                           |                          30 |                          3 |                       0.157895 |                     27 |
+| [furniture shop manager](furniture_shop_manager.md)                                                                                                               |                          34 |                          3 |                       0.157895 |                     31 |
+| [motor vehicle aftersales manager](motor_vehicle_aftersales_manager.md)                                                                                           |                          19 |                          3 |                       0.157895 |                     16 |
+| [toys and games shop manager](toys_and_games_shop_manager.md)                                                                                                     |                          29 |                          3 |                       0.157895 |                     26 |
+| [fish and seafood shop manager](fish_and_seafood_shop_manager.md)                                                                                                 |                          30 |                          3 |                       0.157895 |                     27 |
+| [beverages shop manager](beverages_shop_manager.md)                                                                                                               |                          32 |                          3 |                       0.157895 |                     29 |
+| [antique shop manager](antique_shop_manager.md)                                                                                                                   |                          33 |                          3 |                       0.157895 |                     30 |
+| [travel consultant](travel_consultant.md)                                                                                                                         |                          21 |                          3 |                       0.157895 |                     18 |
+| [hardware and paint shop manager](hardware_and_paint_shop_manager.md)                                                                                             |                          28 |                          3 |                       0.157895 |                     25 |
+| [travel agent](travel_agent.md)                                                                                                                                   |                          28 |                          2 |                       0.105263 |                     26 |
+| [head sommelier](head_sommelier.md)                                                                                                                               |                          25 |                          2 |                       0.105263 |                     23 |
+| [waiter/waitress](waiter-waitress.md)                                                                                                                             |                          30 |                          2 |                       0.105263 |                     28 |
+| [motor vehicles parts advisor](motor_vehicles_parts_advisor.md)                                                                                                   |                          21 |                          2 |                       0.105263 |                     19 |
+| [beauty salon attendant](beauty_salon_attendant.md)                                                                                                               |                          16 |                          2 |                       0.105263 |                     14 |
+| [quick service restaurant crew member](quick_service_restaurant_crew_member.md)                                                                                   |                          17 |                          2 |                       0.105263 |                     15 |
+| [veterinary receptionist](veterinary_receptionist.md)                                                                                                             |                          26 |                          2 |                       0.105263 |                     24 |
+| [international student exchange coordinator](international_student_exchange_coordinator.md)                                                                       |                          15 |                          2 |                       0.105263 |                     13 |
+| [aeronautical information specialist](aeronautical_information_specialist.md)                                                                                     |                          18 |                          2 |                       0.105263 |                     16 |
+| [retail entrepreneur](retail_entrepreneur.md)                                                                                                                     |                          25 |                          2 |                       0.105263 |                     23 |
+| [sommelier](sommelier.md)                                                                                                                                         |                          16 |                          2 |                       0.105263 |                     14 |
+| [roadside vehicle technician](roadside_vehicle_technician.md)                                                                                                     |                          12 |                          2 |                       0.105263 |                     10 |
+| [diesel engine mechanic](diesel_engine_mechanic.md)                                                                                                               |                          21 |                          2 |                       0.105263 |                     19 |
+| [aeronautical information service officer](aeronautical_information_service_officer.md)                                                                           |                          12 |                          2 |                       0.105263 |                     10 |
+| [ticket sales agent](ticket_sales_agent.md)                                                                                                                       |                          16 |                          2 |                       0.105263 |                     14 |
+| [laundromat attendant](laundromat_attendant.md)                                                                                                                   |                          18 |                          2 |                       0.105263 |                     16 |
+| [after-sales service technician](after-sales_service_technician.md)                                                                                               |                          16 |                          2 |                       0.105263 |                     14 |
+| [green coffee buyer](green_coffee_buyer.md)                                                                                                                       |                          20 |                          2 |                       0.105263 |                     18 |
+| [shop assistant](shop_assistant.md)                                                                                                                               |                          22 |                          2 |                       0.105263 |                     20 |
+| [advertising sales agent](advertising_sales_agent.md)                                                                                                             |                          26 |                          2 |                       0.105263 |                     24 |
+| [beauty salon manager](beauty_salon_manager.md)                                                                                                                   |                          44 |                          2 |                       0.105263 |                     42 |
+| [sales engineer](sales_engineer.md)                                                                                                                               |                          23 |                          2 |                       0.105263 |                     21 |
+| [customer service representative](customer_service_representative.md)                                                                                             |                          22 |                          2 |                       0.105263 |                     20 |
+| [spa manager](spa_manager.md)                                                                                                                                     |                          47 |                          2 |                       0.105263 |                     45 |
+| [airport maintenance technician](airport_maintenance_technician.md)                                                                                               |                          13 |                          2 |                       0.105263 |                     11 |
+| [sporting and outdoor accessories shop manager](sporting_and_outdoor_accessories_shop_manager.md)                                                                 |                          28 |                          2 |                       0.105263 |                     26 |
+| [spa attendant](spa_attendant.md)                                                                                                                                 |                          22 |                          2 |                       0.105263 |                     20 |
+| [transport equipment painter](transport_equipment_painter.md)                                                                                                     |                          31 |                          2 |                       0.105263 |                     29 |
+| [vehicle maintenance supervisor](vehicle_maintenance_supervisor.md)                                                                                               |                          18 |                          2 |                       0.105263 |                     16 |
+| [automotive electrician](automotive_electrician.md)                                                                                                               |                          25 |                          2 |                       0.105263 |                     23 |
+| [restoration technician](restoration_technician.md)                                                                                                               |                          17 |                          2 |                       0.105263 |                     15 |
+| [client relations manager](client_relations_manager.md)                                                                                                           |                          24 |                          2 |                       0.105263 |                     22 |
+| [interior planner](interior_planner.md)                                                                                                                           |                          14 |                          2 |                       0.105263 |                     12 |
+| [airport director](airport_director.md)                                                                                                                           |                          23 |                          2 |                       0.105263 |                     21 |
+| [ship planner](ship_planner.md)                                                                                                                                   |                          51 |                          2 |                       0.105263 |                     49 |
+| [bartender](bartender.md)                                                                                                                                         |                          22 |                          2 |                       0.105263 |                     20 |

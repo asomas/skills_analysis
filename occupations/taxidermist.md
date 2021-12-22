@@ -1,219 +1,34 @@
 #Occupation taxidermist
 ##Number skills 10
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match taxidermist</th>
-      <th>percentage match with taxidermist</th>
-      <th>skills not in taxidermist</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[animal groomer](animal_groomer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.4</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal chiropractor](animal_chiropractor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[official veterinarian](official_veterinarian.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal handler](animal_handler.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal osteopath](animal_osteopath.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal physiotherapist](animal_physiotherapist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal embryo transfer technician](animal_embryo_transfer_technician.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal therapist](animal_therapist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal massage therapist](animal_massage_therapist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[specialised veterinarian](specialised_veterinarian.md)&lt;/span&gt;</td>
-      <td>41</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>38</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal care attendant](animal_care_attendant.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kennel supervisor](kennel_supervisor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal artificial insemination technician](animal_artificial_insemination_technician.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal trainer](animal_trainer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[horse trainer](horse_trainer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[alternative animal therapist](alternative_animal_therapist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dog trainer](dog_trainer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal hydrotherapist](animal_hydrotherapist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veterinary nurse](veterinary_nurse.md)&lt;/span&gt;</td>
-      <td>46</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>43</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal behaviourist](animal_behaviourist.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[live animal transporter](live_animal_transporter.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zoo curator](zoo_curator.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>44</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[general veterinarian](general_veterinarian.md)&lt;/span&gt;</td>
-      <td>53</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>50</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veterinary technician](veterinary_technician.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal welfare inspector](animal_welfare_inspector.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animal shelter worker](animal_shelter_worker.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.3</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fur animals breeder](fur_animals_breeder.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veterinary medicine lecturer](veterinary_medicine_lecturer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[farm milk controller](farm_milk_controller.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.2</td>
-      <td>18</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                |   skills in this occupation |   skills that match taxidermist |   percentage match with taxidermist |   skills not in taxidermist |
+|:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
+| [animal groomer](animal_groomer.md)                                                       |                          25 |                               4 |                                 0.4 |                          21 |
+| [animal chiropractor](animal_chiropractor.md)                                             |                          22 |                               3 |                                 0.3 |                          19 |
+| [official veterinarian](official_veterinarian.md)                                         |                          35 |                               3 |                                 0.3 |                          32 |
+| [animal handler](animal_handler.md)                                                       |                          25 |                               3 |                                 0.3 |                          22 |
+| [animal osteopath](animal_osteopath.md)                                                   |                          22 |                               3 |                                 0.3 |                          19 |
+| [animal physiotherapist](animal_physiotherapist.md)                                       |                          22 |                               3 |                                 0.3 |                          19 |
+| [animal embryo transfer technician](animal_embryo_transfer_technician.md)                 |                          20 |                               3 |                                 0.3 |                          17 |
+| [animal therapist](animal_therapist.md)                                                   |                          20 |                               3 |                                 0.3 |                          17 |
+| [animal massage therapist](animal_massage_therapist.md)                                   |                          22 |                               3 |                                 0.3 |                          19 |
+| [specialised veterinarian](specialised_veterinarian.md)                                   |                          41 |                               3 |                                 0.3 |                          38 |
+| [animal care attendant](animal_care_attendant.md)                                         |                          27 |                               3 |                                 0.3 |                          24 |
+| [kennel supervisor](kennel_supervisor.md)                                                 |                          21 |                               3 |                                 0.3 |                          18 |
+| [animal artificial insemination technician](animal_artificial_insemination_technician.md) |                          24 |                               3 |                                 0.3 |                          21 |
+| [animal trainer](animal_trainer.md)                                                       |                          26 |                               3 |                                 0.3 |                          23 |
+| [horse trainer](horse_trainer.md)                                                         |                          21 |                               3 |                                 0.3 |                          18 |
+| [alternative animal therapist](alternative_animal_therapist.md)                           |                          22 |                               3 |                                 0.3 |                          19 |
+| [dog trainer](dog_trainer.md)                                                             |                          20 |                               3 |                                 0.3 |                          17 |
+| [animal hydrotherapist](animal_hydrotherapist.md)                                         |                          22 |                               3 |                                 0.3 |                          19 |
+| [veterinary nurse](veterinary_nurse.md)                                                   |                          46 |                               3 |                                 0.3 |                          43 |
+| [animal behaviourist](animal_behaviourist.md)                                             |                          36 |                               3 |                                 0.3 |                          33 |
+| [live animal transporter](live_animal_transporter.md)                                     |                          25 |                               3 |                                 0.3 |                          22 |
+| [zoo curator](zoo_curator.md)                                                             |                          47 |                               3 |                                 0.3 |                          44 |
+| [general veterinarian](general_veterinarian.md)                                           |                          53 |                               3 |                                 0.3 |                          50 |
+| [veterinary technician](veterinary_technician.md)                                         |                          31 |                               3 |                                 0.3 |                          28 |
+| [animal welfare inspector](animal_welfare_inspector.md)                                   |                          26 |                               3 |                                 0.3 |                          23 |
+| [animal shelter worker](animal_shelter_worker.md)                                         |                          19 |                               3 |                                 0.3 |                          16 |
+| [fur animals breeder](fur_animals_breeder.md)                                             |                          29 |                               2 |                                 0.2 |                          27 |
+| [veterinary medicine lecturer](veterinary_medicine_lecturer.md)                           |                          26 |                               2 |                                 0.2 |                          24 |
+| [farm milk controller](farm_milk_controller.md)                                           |                          20 |                               2 |                                 0.2 |                          18 |

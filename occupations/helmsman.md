@@ -1,72 +1,13 @@
 #Occupation helmsman
 ##Number skills 51
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match helmsman</th>
-      <th>percentage match with helmsman</th>
-      <th>skills not in helmsman</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[matrose](matrose.md)&lt;/span&gt;</td>
-      <td>60</td>
-      <td>27</td>
-      <td>0.529412</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[skipper](skipper.md)&lt;/span&gt;</td>
-      <td>51</td>
-      <td>24</td>
-      <td>0.470588</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[decksman](decksman.md)&lt;/span&gt;</td>
-      <td>41</td>
-      <td>18</td>
-      <td>0.352941</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine mechanic](marine_mechanic.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>17</td>
-      <td>0.333333</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ship planner](ship_planner.md)&lt;/span&gt;</td>
-      <td>51</td>
-      <td>9</td>
-      <td>0.176471</td>
-      <td>42</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[engine minder](engine_minder.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>9</td>
-      <td>0.176471</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sailor](sailor.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>6</td>
-      <td>0.117647</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ordinary seaman](ordinary_seaman.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>6</td>
-      <td>0.117647</td>
-      <td>19</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                            |   skills in this occupation |   skills that match helmsman |   percentage match with helmsman |   skills not in helmsman |
+|:--------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
+| [matrose](matrose.md)                 |                          60 |                           27 |                         0.529412 |                       33 |
+| [skipper](skipper.md)                 |                          51 |                           24 |                         0.470588 |                       27 |
+| [decksman](decksman.md)               |                          41 |                           18 |                         0.352941 |                       23 |
+| [marine mechanic](marine_mechanic.md) |                          37 |                           17 |                         0.333333 |                       20 |
+| [ship planner](ship_planner.md)       |                          51 |                            9 |                         0.176471 |                       42 |
+| [engine minder](engine_minder.md)     |                          26 |                            9 |                         0.176471 |                       17 |
+| [sailor](sailor.md)                   |                          24 |                            6 |                         0.117647 |                       18 |
+| [ordinary seaman](ordinary_seaman.md) |                          25 |                            6 |                         0.117647 |                       19 |

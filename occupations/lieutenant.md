@@ -1,205 +1,32 @@
 #Occupation lieutenant
 ##Number skills 14
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match lieutenant</th>
-      <th>percentage match with lieutenant</th>
-      <th>skills not in lieutenant</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[armed forces officer](armed_forces_officer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>9</td>
-      <td>0.642857</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[armed forces training and education officer](armed_forces_training_and_education_officer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>9</td>
-      <td>0.642857</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army major](army_major.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>8</td>
-      <td>0.571429</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sergeant](sergeant.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>8</td>
-      <td>0.571429</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special forces officer](special_forces_officer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>7</td>
-      <td>0.500000</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[air force officer](air_force_officer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>6</td>
-      <td>0.428571</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army corporal](army_corporal.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>6</td>
-      <td>0.428571</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[navy officer](navy_officer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>6</td>
-      <td>0.428571</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[colonel](colonel.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>5</td>
-      <td>0.357143</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[brigadier](brigadier.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.357143</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army captain](army_captain.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>5</td>
-      <td>0.357143</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[artillery officer](artillery_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.357143</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court administrator](court_administrator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[squadron leader](squadron_leader.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>4</td>
-      <td>0.285714</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rescue centre manager](rescue_centre_manager.md)&lt;/span&gt;</td>
-      <td>76</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>73</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[defence administration officer](defence_administration_officer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army general](army_general.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fleet commander](fleet_commander.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[infantry soldier](infantry_soldier.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[police commissioner](police_commissioner.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[warfare specialist](warfare_specialist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.214286</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[embassy counsellor](embassy_counsellor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[youth centre manager](youth_centre_manager.md)&lt;/span&gt;</td>
-      <td>71</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>69</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[military engineer](military_engineer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[office manager](office_manager.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[correctional services manager](correctional_services_manager.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bomb disposal technician](bomb_disposal_technician.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.142857</td>
-      <td>11</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                    |   skills in this occupation |   skills that match lieutenant |   percentage match with lieutenant |   skills not in lieutenant |
+|:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
+| [armed forces officer](armed_forces_officer.md)                                               |                          21 |                              9 |                           0.642857 |                         12 |
+| [armed forces training and education officer](armed_forces_training_and_education_officer.md) |                          20 |                              9 |                           0.642857 |                         11 |
+| [army major](army_major.md)                                                                   |                          11 |                              8 |                           0.571429 |                          3 |
+| [sergeant](sergeant.md)                                                                       |                          13 |                              8 |                           0.571429 |                          5 |
+| [special forces officer](special_forces_officer.md)                                           |                          22 |                              7 |                           0.5      |                         15 |
+| [air force officer](air_force_officer.md)                                                     |                          21 |                              6 |                           0.428571 |                         15 |
+| [army corporal](army_corporal.md)                                                             |                          11 |                              6 |                           0.428571 |                          5 |
+| [navy officer](navy_officer.md)                                                               |                          21 |                              6 |                           0.428571 |                         15 |
+| [colonel](colonel.md)                                                                         |                          10 |                              5 |                           0.357143 |                          5 |
+| [brigadier](brigadier.md)                                                                     |                          14 |                              5 |                           0.357143 |                          9 |
+| [army captain](army_captain.md)                                                               |                          12 |                              5 |                           0.357143 |                          7 |
+| [artillery officer](artillery_officer.md)                                                     |                          15 |                              5 |                           0.357143 |                         10 |
+| [court administrator](court_administrator.md)                                                 |                          10 |                              4 |                           0.285714 |                          6 |
+| [squadron leader](squadron_leader.md)                                                         |                          10 |                              4 |                           0.285714 |                          6 |
+| [rescue centre manager](rescue_centre_manager.md)                                             |                          76 |                              3 |                           0.214286 |                         73 |
+| [defence administration officer](defence_administration_officer.md)                           |                          12 |                              3 |                           0.214286 |                          9 |
+| [army general](army_general.md)                                                               |                          12 |                              3 |                           0.214286 |                          9 |
+| [fleet commander](fleet_commander.md)                                                         |                          11 |                              3 |                           0.214286 |                          8 |
+| [infantry soldier](infantry_soldier.md)                                                       |                          12 |                              3 |                           0.214286 |                          9 |
+| [police commissioner](police_commissioner.md)                                                 |                          18 |                              3 |                           0.214286 |                         15 |
+| [warfare specialist](warfare_specialist.md)                                                   |                          14 |                              3 |                           0.214286 |                         11 |
+| [embassy counsellor](embassy_counsellor.md)                                                   |                          15 |                              2 |                           0.142857 |                         13 |
+| [youth centre manager](youth_centre_manager.md)                                               |                          71 |                              2 |                           0.142857 |                         69 |
+| [military engineer](military_engineer.md)                                                     |                          14 |                              2 |                           0.142857 |                         12 |
+| [office manager](office_manager.md)                                                           |                          17 |                              2 |                           0.142857 |                         15 |
+| [correctional services manager](correctional_services_manager.md)                             |                          13 |                              2 |                           0.142857 |                         11 |
+| [bomb disposal technician](bomb_disposal_technician.md)                                       |                          13 |                              2 |                           0.142857 |                         11 |

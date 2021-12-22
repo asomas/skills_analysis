@@ -1,471 +1,70 @@
 #Occupation hairdresser
 ##Number skills 17
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match hairdresser</th>
-      <th>percentage match with hairdresser</th>
-      <th>skills not in hairdresser</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[barber](barber.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>11</td>
-      <td>0.647059</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hairdresser assistant](hairdresser_assistant.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>10</td>
-      <td>0.588235</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[personal stylist](personal_stylist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.294118</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hair removal technician](hair_removal_technician.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>5</td>
-      <td>0.294118</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[manicurist](manicurist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.235294</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[personal shopper](personal_shopper.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.235294</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pedicurist](pedicurist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.235294</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aesthetician](aesthetician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.235294</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[head waiter/head waitress](head_waiter-head_waitress.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ticket issuing clerk](ticket_issuing_clerk.md)&lt;/span&gt;</td>
-      <td>42</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>39</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[masseur/masseuse](masseur-masseuse.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[body artist](body_artist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sports equipment repair technician](sports_equipment_repair_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tanning consultant](tanning_consultant.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[massage therapist](massage_therapist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bartender](bartender.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[waiter/waitress](waiter-waitress.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[travel agent](travel_agent.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[travel consultant](travel_consultant.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[domestic housekeeper](domestic_housekeeper.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cocktail bartender](cocktail_bartender.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in cars and light motor vehicles](rental_service_representative_in_cars_and_light_motor_vehicles.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[toymaker](toymaker.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bed and breakfast operator](bed_and_breakfast_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in air transport equipment](rental_service_representative_in_air_transport_equipment.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dating service consultant](dating_service_consultant.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mobile phone repair technician](mobile_phone_repair_technician.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tote operator](tote_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in office machinery and equipment](rental_service_representative_in_office_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[handyman](handyman.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bicycle mechanic](bicycle_mechanic.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[quick service restaurant crew member](quick_service_restaurant_crew_member.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in agricultural machinery and equipment](rental_service_representative_in_agricultural_machinery_and_equipment.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[household appliances repair technician](household_appliances_repair_technician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in water transport equipment](rental_service_representative_in_water_transport_equipment.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laundry and dry cleaning manager](laundry_and_dry_cleaning_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[consumer electronics repair technician](consumer_electronics_repair_technician.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[shoe repairer](shoe_repairer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vehicle rental agent](vehicle_rental_agent.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hospitality establishment receptionist](hospitality_establishment_receptionist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gunsmith](gunsmith.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tourist information officer](tourist_information_officer.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[restaurant manager](restaurant_manager.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[venue director](venue_director.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative](rental_service_representative.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beauty salon attendant](beauty_salon_attendant.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[watch and clock repairer](watch_and_clock_repairer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hotel concierge](hotel_concierge.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in video tapes and disks](rental_service_representative_in_video_tapes_and_disks.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in construction and civil engineering machinery](rental_service_representative_in_construction_and_civil_engineering_machinery.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ticket sales agent](ticket_sales_agent.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spa attendant](spa_attendant.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[power tool repair technician](power_tool_repair_technician.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[performance hairdresser](performance_hairdresser.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[night auditor](night_auditor.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in recreational and sports goods](rental_service_representative_in_recreational_and_sports_goods.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in personal and household goods](rental_service_representative_in_personal_and_household_goods.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hair stylist](hair_stylist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer hardware repair technician](computer_hardware_repair_technician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hotel butler](hotel_butler.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in trucks](rental_service_representative_in_trucks.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[jewellery repairer](jewellery_repairer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in machinery, equipment and tangible goods](rental_service_representative_in_machinery,_equipment_and_tangible_goods.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[life coach](life_coach.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[office equipment repair technician](office_equipment_repair_technician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>16</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                                                                                        |   skills in this occupation |   skills that match hairdresser |   percentage match with hairdresser |   skills not in hairdresser |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
+| [barber](barber.md)                                                                                                                                               |                          16 |                              11 |                            0.647059 |                           5 |
+| [hairdresser assistant](hairdresser_assistant.md)                                                                                                                 |                          12 |                              10 |                            0.588235 |                           2 |
+| [personal stylist](personal_stylist.md)                                                                                                                           |                          18 |                               5 |                            0.294118 |                          13 |
+| [hair removal technician](hair_removal_technician.md)                                                                                                             |                          11 |                               5 |                            0.294118 |                           6 |
+| [manicurist](manicurist.md)                                                                                                                                       |                          16 |                               4 |                            0.235294 |                          12 |
+| [personal shopper](personal_shopper.md)                                                                                                                           |                          13 |                               4 |                            0.235294 |                           9 |
+| [pedicurist](pedicurist.md)                                                                                                                                       |                          18 |                               4 |                            0.235294 |                          14 |
+| [aesthetician](aesthetician.md)                                                                                                                                   |                          16 |                               4 |                            0.235294 |                          12 |
+| [head waiter/head waitress](head_waiter-head_waitress.md)                                                                                                         |                          35 |                               3 |                            0.176471 |                          32 |
+| [ticket issuing clerk](ticket_issuing_clerk.md)                                                                                                                   |                          42 |                               3 |                            0.176471 |                          39 |
+| [masseur/masseuse](masseur-masseuse.md)                                                                                                                           |                          14 |                               3 |                            0.176471 |                          11 |
+| [body artist](body_artist.md)                                                                                                                                     |                          12 |                               3 |                            0.176471 |                           9 |
+| [sports equipment repair technician](sports_equipment_repair_technician.md)                                                                                       |                          17 |                               3 |                            0.176471 |                          14 |
+| [tanning consultant](tanning_consultant.md)                                                                                                                       |                           8 |                               3 |                            0.176471 |                           5 |
+| [massage therapist](massage_therapist.md)                                                                                                                         |                          21 |                               3 |                            0.176471 |                          18 |
+| [bartender](bartender.md)                                                                                                                                         |                          22 |                               3 |                            0.176471 |                          19 |
+| [waiter/waitress](waiter-waitress.md)                                                                                                                             |                          30 |                               3 |                            0.176471 |                          27 |
+| [travel agent](travel_agent.md)                                                                                                                                   |                          28 |                               3 |                            0.176471 |                          25 |
+| [travel consultant](travel_consultant.md)                                                                                                                         |                          21 |                               3 |                            0.176471 |                          18 |
+| [domestic housekeeper](domestic_housekeeper.md)                                                                                                                   |                          22 |                               3 |                            0.176471 |                          19 |
+| [cocktail bartender](cocktail_bartender.md)                                                                                                                       |                          28 |                               3 |                            0.176471 |                          25 |
+| [rental service representative in cars and light motor vehicles](rental_service_representative_in_cars_and_light_motor_vehicles.md)                               |                          22 |                               2 |                            0.117647 |                          20 |
+| [toymaker](toymaker.md)                                                                                                                                           |                          24 |                               2 |                            0.117647 |                          22 |
+| [bed and breakfast operator](bed_and_breakfast_operator.md)                                                                                                       |                          14 |                               2 |                            0.117647 |                          12 |
+| [rental service representative in air transport equipment](rental_service_representative_in_air_transport_equipment.md)                                           |                          26 |                               2 |                            0.117647 |                          24 |
+| [dating service consultant](dating_service_consultant.md)                                                                                                         |                          15 |                               2 |                            0.117647 |                          13 |
+| [mobile phone repair technician](mobile_phone_repair_technician.md)                                                                                               |                          21 |                               2 |                            0.117647 |                          19 |
+| [tote operator](tote_operator.md)                                                                                                                                 |                          12 |                               2 |                            0.117647 |                          10 |
+| [rental service representative in office machinery and equipment](rental_service_representative_in_office_machinery_and_equipment.md)                             |                          23 |                               2 |                            0.117647 |                          21 |
+| [handyman](handyman.md)                                                                                                                                           |                          18 |                               2 |                            0.117647 |                          16 |
+| [bicycle mechanic](bicycle_mechanic.md)                                                                                                                           |                          13 |                               2 |                            0.117647 |                          11 |
+| [quick service restaurant crew member](quick_service_restaurant_crew_member.md)                                                                                   |                          17 |                               2 |                            0.117647 |                          15 |
+| [rental service representative in agricultural machinery and equipment](rental_service_representative_in_agricultural_machinery_and_equipment.md)                 |                          23 |                               2 |                            0.117647 |                          21 |
+| [household appliances repair technician](household_appliances_repair_technician.md)                                                                               |                          16 |                               2 |                            0.117647 |                          14 |
+| [rental service representative in water transport equipment](rental_service_representative_in_water_transport_equipment.md)                                       |                          26 |                               2 |                            0.117647 |                          24 |
+| [laundry and dry cleaning manager](laundry_and_dry_cleaning_manager.md)                                                                                           |                          28 |                               2 |                            0.117647 |                          26 |
+| [consumer electronics repair technician](consumer_electronics_repair_technician.md)                                                                               |                          13 |                               2 |                            0.117647 |                          11 |
+| [shoe repairer](shoe_repairer.md)                                                                                                                                 |                          13 |                               2 |                            0.117647 |                          11 |
+| [vehicle rental agent](vehicle_rental_agent.md)                                                                                                                   |                          23 |                               2 |                            0.117647 |                          21 |
+| [hospitality establishment receptionist](hospitality_establishment_receptionist.md)                                                                               |                          17 |                               2 |                            0.117647 |                          15 |
+| [gunsmith](gunsmith.md)                                                                                                                                           |                          19 |                               2 |                            0.117647 |                          17 |
+| [tourist information officer](tourist_information_officer.md)                                                                                                     |                          24 |                               2 |                            0.117647 |                          22 |
+| [restaurant manager](restaurant_manager.md)                                                                                                                       |                          29 |                               2 |                            0.117647 |                          27 |
+| [venue director](venue_director.md)                                                                                                                               |                          29 |                               2 |                            0.117647 |                          27 |
+| [rental service representative](rental_service_representative.md)                                                                                                 |                          22 |                               2 |                            0.117647 |                          20 |
+| [beauty salon attendant](beauty_salon_attendant.md)                                                                                                               |                          16 |                               2 |                            0.117647 |                          14 |
+| [watch and clock repairer](watch_and_clock_repairer.md)                                                                                                           |                          22 |                               2 |                            0.117647 |                          20 |
+| [hotel concierge](hotel_concierge.md)                                                                                                                             |                           8 |                               2 |                            0.117647 |                           6 |
+| [rental service representative in video tapes and disks](rental_service_representative_in_video_tapes_and_disks.md)                                               |                          22 |                               2 |                            0.117647 |                          20 |
+| [rental service representative in construction and civil engineering machinery](rental_service_representative_in_construction_and_civil_engineering_machinery.md) |                          23 |                               2 |                            0.117647 |                          21 |
+| [ticket sales agent](ticket_sales_agent.md)                                                                                                                       |                          16 |                               2 |                            0.117647 |                          14 |
+| [spa attendant](spa_attendant.md)                                                                                                                                 |                          22 |                               2 |                            0.117647 |                          20 |
+| [power tool repair technician](power_tool_repair_technician.md)                                                                                                   |                          20 |                               2 |                            0.117647 |                          18 |
+| [performance hairdresser](performance_hairdresser.md)                                                                                                             |                          14 |                               2 |                            0.117647 |                          12 |
+| [night auditor](night_auditor.md)                                                                                                                                 |                          10 |                               2 |                            0.117647 |                           8 |
+| [rental service representative in recreational and sports goods](rental_service_representative_in_recreational_and_sports_goods.md)                               |                          22 |                               2 |                            0.117647 |                          20 |
+| [rental service representative in personal and household goods](rental_service_representative_in_personal_and_household_goods.md)                                 |                          22 |                               2 |                            0.117647 |                          20 |
+| [hair stylist](hair_stylist.md)                                                                                                                                   |                          16 |                               2 |                            0.117647 |                          14 |
+| [computer hardware repair technician](computer_hardware_repair_technician.md)                                                                                     |                          18 |                               2 |                            0.117647 |                          16 |
+| [hotel butler](hotel_butler.md)                                                                                                                                   |                           9 |                               2 |                            0.117647 |                           7 |
+| [rental service representative in trucks](rental_service_representative_in_trucks.md)                                                                             |                          22 |                               2 |                            0.117647 |                          20 |
+| [jewellery repairer](jewellery_repairer.md)                                                                                                                       |                          15 |                               2 |                            0.117647 |                          13 |
+| [rental service representative in machinery, equipment and tangible goods](rental_service_representative_in_machinery,_equipment_and_tangible_goods.md)           |                          22 |                               2 |                            0.117647 |                          20 |
+| [life coach](life_coach.md)                                                                                                                                       |                          13 |                               2 |                            0.117647 |                          11 |
+| [office equipment repair technician](office_equipment_repair_technician.md)                                                                                       |                          18 |                               2 |                            0.117647 |                          16 |

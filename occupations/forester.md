@@ -1,324 +1,49 @@
 #Occupation forester
 ##Number skills 17
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match forester</th>
-      <th>percentage match with forester</th>
-      <th>skills not in forester</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[forestry adviser](forestry_adviser.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>5</td>
-      <td>0.294118</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agronomist](agronomist.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>4</td>
-      <td>0.235294</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[environmental programme coordinator](environmental_programme_coordinator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[land-based machinery supervisor](land-based_machinery_supervisor.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agronomic crop production team leader](agronomic_crop_production_team_leader.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[forest ranger](forest_ranger.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[environmental protection manager](environmental_protection_manager.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crop production manager](crop_production_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fruit production team leader](fruit_production_team_leader.md)&lt;/span&gt;</td>
-      <td>42</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>39</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vineyard supervisor](vineyard_supervisor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[horticulture production manager](horticulture_production_manager.md)&lt;/span&gt;</td>
-      <td>43</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>40</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[environmental policy officer](environmental_policy_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[horticulture production team leader](horticulture_production_team_leader.md)&lt;/span&gt;</td>
-      <td>42</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>39</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquaculture environmental analyst](aquaculture_environmental_analyst.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>3</td>
-      <td>0.176471</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zoo curator](zoo_curator.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>45</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[viticulture adviser](viticulture_adviser.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bee breeder](bee_breeder.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fur animals breeder](fur_animals_breeder.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dog breeder](dog_breeder.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vineyard machinery operator](vineyard_machinery_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[transport planner](transport_planner.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[environmental expert](environmental_expert.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sheep breeder](sheep_breeder.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[environmental health inspector](environmental_health_inspector.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquaculture hatchery manager](aquaculture_hatchery_manager.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[recycling specialist](recycling_specialist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[poultry breeder](poultry_breeder.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[environmental scientist](environmental_scientist.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aquaculture production manager](aquaculture_production_manager.md)&lt;/span&gt;</td>
-      <td>38</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>36</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[airport environment officer](airport_environment_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[interior landscaper](interior_landscaper.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[landscape designer](landscape_designer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vineyard manager](vineyard_manager.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[environmental engineer](environmental_engineer.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[groundsman/groundswoman](groundsman-groundswoman.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[horse breeder](horse_breeder.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[countryside officer](countryside_officer.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[landscape gardener](landscape_gardener.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[livestock advisor](livestock_advisor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cattle breeder](cattle_breeder.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[forestry technician](forestry_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pig breeder](pig_breeder.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hunter](hunter.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[arboriculturist](arboriculturist.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.117647</td>
-      <td>23</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                        |   skills in this occupation |   skills that match forester |   percentage match with forester |   skills not in forester |
+|:----------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
+| [forestry adviser](forestry_adviser.md)                                           |                          22 |                            5 |                         0.294118 |                       17 |
+| [agronomist](agronomist.md)                                                       |                          31 |                            4 |                         0.235294 |                       27 |
+| [environmental programme coordinator](environmental_programme_coordinator.md)     |                          13 |                            3 |                         0.176471 |                       10 |
+| [land-based machinery supervisor](land-based_machinery_supervisor.md)             |                          12 |                            3 |                         0.176471 |                        9 |
+| [agronomic crop production team leader](agronomic_crop_production_team_leader.md) |                          33 |                            3 |                         0.176471 |                       30 |
+| [forest ranger](forest_ranger.md)                                                 |                          15 |                            3 |                         0.176471 |                       12 |
+| [environmental protection manager](environmental_protection_manager.md)           |                          24 |                            3 |                         0.176471 |                       21 |
+| [crop production manager](crop_production_manager.md)                             |                          26 |                            3 |                         0.176471 |                       23 |
+| [fruit production team leader](fruit_production_team_leader.md)                   |                          42 |                            3 |                         0.176471 |                       39 |
+| [vineyard supervisor](vineyard_supervisor.md)                                     |                          22 |                            3 |                         0.176471 |                       19 |
+| [horticulture production manager](horticulture_production_manager.md)             |                          43 |                            3 |                         0.176471 |                       40 |
+| [environmental policy officer](environmental_policy_officer.md)                   |                          15 |                            3 |                         0.176471 |                       12 |
+| [horticulture production team leader](horticulture_production_team_leader.md)     |                          42 |                            3 |                         0.176471 |                       39 |
+| [aquaculture environmental analyst](aquaculture_environmental_analyst.md)         |                          27 |                            3 |                         0.176471 |                       24 |
+| [zoo curator](zoo_curator.md)                                                     |                          47 |                            2 |                         0.117647 |                       45 |
+| [viticulture adviser](viticulture_adviser.md)                                     |                          16 |                            2 |                         0.117647 |                       14 |
+| [bee breeder](bee_breeder.md)                                                     |                          27 |                            2 |                         0.117647 |                       25 |
+| [fur animals breeder](fur_animals_breeder.md)                                     |                          29 |                            2 |                         0.117647 |                       27 |
+| [dog breeder](dog_breeder.md)                                                     |                          21 |                            2 |                         0.117647 |                       19 |
+| [vineyard machinery operator](vineyard_machinery_operator.md)                     |                          12 |                            2 |                         0.117647 |                       10 |
+| [transport planner](transport_planner.md)                                         |                          25 |                            2 |                         0.117647 |                       23 |
+| [environmental expert](environmental_expert.md)                                   |                          21 |                            2 |                         0.117647 |                       19 |
+| [sheep breeder](sheep_breeder.md)                                                 |                          30 |                            2 |                         0.117647 |                       28 |
+| [environmental health inspector](environmental_health_inspector.md)               |                          15 |                            2 |                         0.117647 |                       13 |
+| [aquaculture hatchery manager](aquaculture_hatchery_manager.md)                   |                          32 |                            2 |                         0.117647 |                       30 |
+| [recycling specialist](recycling_specialist.md)                                   |                          22 |                            2 |                         0.117647 |                       20 |
+| [poultry breeder](poultry_breeder.md)                                             |                          24 |                            2 |                         0.117647 |                       22 |
+| [environmental scientist](environmental_scientist.md)                             |                          26 |                            2 |                         0.117647 |                       24 |
+| [aquaculture production manager](aquaculture_production_manager.md)               |                          38 |                            2 |                         0.117647 |                       36 |
+| [airport environment officer](airport_environment_officer.md)                     |                          15 |                            2 |                         0.117647 |                       13 |
+| [interior landscaper](interior_landscaper.md)                                     |                          19 |                            2 |                         0.117647 |                       17 |
+| [landscape designer](landscape_designer.md)                                       |                          20 |                            2 |                         0.117647 |                       18 |
+| [vineyard manager](vineyard_manager.md)                                           |                          20 |                            2 |                         0.117647 |                       18 |
+| [environmental engineer](environmental_engineer.md)                               |                          28 |                            2 |                         0.117647 |                       26 |
+| [groundsman/groundswoman](groundsman-groundswoman.md)                             |                          32 |                            2 |                         0.117647 |                       30 |
+| [horse breeder](horse_breeder.md)                                                 |                          32 |                            2 |                         0.117647 |                       30 |
+| [countryside officer](countryside_officer.md)                                     |                          31 |                            2 |                         0.117647 |                       29 |
+| [landscape gardener](landscape_gardener.md)                                       |                          33 |                            2 |                         0.117647 |                       31 |
+| [livestock advisor](livestock_advisor.md)                                         |                          25 |                            2 |                         0.117647 |                       23 |
+| [cattle breeder](cattle_breeder.md)                                               |                          30 |                            2 |                         0.117647 |                       28 |
+| [forestry technician](forestry_technician.md)                                     |                          19 |                            2 |                         0.117647 |                       17 |
+| [pig breeder](pig_breeder.md)                                                     |                          30 |                            2 |                         0.117647 |                       28 |
+| [hunter](hunter.md)                                                               |                          26 |                            2 |                         0.117647 |                       24 |
+| [arboriculturist](arboriculturist.md)                                             |                          25 |                            2 |                         0.117647 |                       23 |

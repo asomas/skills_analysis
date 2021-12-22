@@ -1,471 +1,70 @@
 #Occupation editor-in-chief
 ##Number skills 20
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match editor-in-chief</th>
-      <th>percentage match with editor-in-chief</th>
-      <th>skills not in editor-in-chief</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[newspaper editor](newspaper_editor.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>16</td>
-      <td>0.80</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[broadcast news editor](broadcast_news_editor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>15</td>
-      <td>0.75</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[magazine editor](magazine_editor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>13</td>
-      <td>0.65</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[photojournalist](photojournalist.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>10</td>
-      <td>0.50</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[picture editor](picture_editor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>9</td>
-      <td>0.45</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crime journalist](crime_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>8</td>
-      <td>0.40</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[critic](critic.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>8</td>
-      <td>0.40</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[foreign correspondent](foreign_correspondent.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>8</td>
-      <td>0.40</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sports journalist](sports_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>8</td>
-      <td>0.40</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[journalist](journalist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>8</td>
-      <td>0.40</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[columnist](columnist.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>8</td>
-      <td>0.40</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[entertainment journalist](entertainment_journalist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>8</td>
-      <td>0.40</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business journalist](business_journalist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>8</td>
-      <td>0.40</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[political journalist](political_journalist.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>8</td>
-      <td>0.40</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[news anchor](news_anchor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>6</td>
-      <td>0.30</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music producer](music_producer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>5</td>
-      <td>0.25</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[book publisher](book_publisher.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.25</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[presenter](presenter.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.25</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood factory manager](wood_factory_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[producer](producer.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beauty salon manager](beauty_salon_manager.md)&lt;/span&gt;</td>
-      <td>44</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>40</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vlogger](vlogger.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[editorial assistant](editorial_assistant.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal production manager](metal_production_manager.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[video and motion picture producer](video_and_motion_picture_producer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[blogger](blogger.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[book editor](book_editor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[production supervisor](production_supervisor.md)&lt;/span&gt;</td>
-      <td>39</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[artistic director](artistic_director.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[broadcasting programme director](broadcasting_programme_director.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.20</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laundry workers supervisor](laundry_workers_supervisor.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[power plant manager](power_plant_manager.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[creative director](creative_director.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bank manager](bank_manager.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[radio producer](radio_producer.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sewerage systems manager](sewerage_systems_manager.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[army general](army_general.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[publications coordinator](publications_coordinator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cultural centre director](cultural_centre_director.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical plant manager](chemical_plant_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial production manager](industrial_production_manager.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[funeral services director](funeral_services_director.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[elderly home manager](elderly_home_manager.md)&lt;/span&gt;</td>
-      <td>68</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>65</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laundry and dry cleaning manager](laundry_and_dry_cleaning_manager.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wedding planner](wedding_planner.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cartoonist](cartoonist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial assembly supervisor](industrial_assembly_supervisor.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[publishing rights manager](publishing_rights_manager.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[leather finishing operations manager](leather_finishing_operations_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[police commissioner](police_commissioner.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[travel agency manager](travel_agency_manager.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[performance production manager](performance_production_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[manufacturing manager](manufacturing_manager.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemical production manager](chemical_production_manager.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[zoo curator](zoo_curator.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>44</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[print studio supervisor](print_studio_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[water treatment plant manager](water_treatment_plant_manager.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[botanist](botanist.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[court administrator](court_administrator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[leather production manager](leather_production_manager.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[energy manager](energy_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[correctional services manager](correctional_services_manager.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[advertising media buyer](advertising_media_buyer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[equality and inclusion manager](equality_and_inclusion_manager.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animation director](animation_director.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.15</td>
-      <td>12</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                      |   skills in this occupation |   skills that match editor-in-chief |   percentage match with editor-in-chief |   skills not in editor-in-chief |
+|:--------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
+| [newspaper editor](newspaper_editor.md)                                         |                          20 |                                  16 |                                    0.8  |                               4 |
+| [broadcast news editor](broadcast_news_editor.md)                               |                          19 |                                  15 |                                    0.75 |                               4 |
+| [magazine editor](magazine_editor.md)                                           |                          15 |                                  13 |                                    0.65 |                               2 |
+| [photojournalist](photojournalist.md)                                           |                          25 |                                  10 |                                    0.5  |                              15 |
+| [picture editor](picture_editor.md)                                             |                          22 |                                   9 |                                    0.45 |                              13 |
+| [crime journalist](crime_journalist.md)                                         |                          22 |                                   8 |                                    0.4  |                              14 |
+| [critic](critic.md)                                                             |                          21 |                                   8 |                                    0.4  |                              13 |
+| [foreign correspondent](foreign_correspondent.md)                               |                          25 |                                   8 |                                    0.4  |                              17 |
+| [sports journalist](sports_journalist.md)                                       |                          22 |                                   8 |                                    0.4  |                              14 |
+| [journalist](journalist.md)                                                     |                          19 |                                   8 |                                    0.4  |                              11 |
+| [columnist](columnist.md)                                                       |                          19 |                                   8 |                                    0.4  |                              11 |
+| [entertainment journalist](entertainment_journalist.md)                         |                          20 |                                   8 |                                    0.4  |                              12 |
+| [business journalist](business_journalist.md)                                   |                          21 |                                   8 |                                    0.4  |                              13 |
+| [political journalist](political_journalist.md)                                 |                          22 |                                   8 |                                    0.4  |                              14 |
+| [news anchor](news_anchor.md)                                                   |                          17 |                                   6 |                                    0.3  |                              11 |
+| [music producer](music_producer.md)                                             |                          14 |                                   5 |                                    0.25 |                               9 |
+| [book publisher](book_publisher.md)                                             |                          15 |                                   5 |                                    0.25 |                              10 |
+| [presenter](presenter.md)                                                       |                          19 |                                   5 |                                    0.25 |                              14 |
+| [wood factory manager](wood_factory_manager.md)                                 |                          28 |                                   4 |                                    0.2  |                              24 |
+| [producer](producer.md)                                                         |                          10 |                                   4 |                                    0.2  |                               6 |
+| [beauty salon manager](beauty_salon_manager.md)                                 |                          44 |                                   4 |                                    0.2  |                              40 |
+| [vlogger](vlogger.md)                                                           |                          20 |                                   4 |                                    0.2  |                              16 |
+| [editorial assistant](editorial_assistant.md)                                   |                          13 |                                   4 |                                    0.2  |                               9 |
+| [metal production manager](metal_production_manager.md)                         |                          26 |                                   4 |                                    0.2  |                              22 |
+| [video and motion picture producer](video_and_motion_picture_producer.md)       |                          18 |                                   4 |                                    0.2  |                              14 |
+| [blogger](blogger.md)                                                           |                          16 |                                   4 |                                    0.2  |                              12 |
+| [book editor](book_editor.md)                                                   |                          15 |                                   4 |                                    0.2  |                              11 |
+| [production supervisor](production_supervisor.md)                               |                          39 |                                   4 |                                    0.2  |                              35 |
+| [artistic director](artistic_director.md)                                       |                          36 |                                   4 |                                    0.2  |                              32 |
+| [broadcasting programme director](broadcasting_programme_director.md)           |                          15 |                                   4 |                                    0.2  |                              11 |
+| [laundry workers supervisor](laundry_workers_supervisor.md)                     |                          20 |                                   3 |                                    0.15 |                              17 |
+| [power plant manager](power_plant_manager.md)                                   |                          25 |                                   3 |                                    0.15 |                              22 |
+| [creative director](creative_director.md)                                       |                          14 |                                   3 |                                    0.15 |                              11 |
+| [bank manager](bank_manager.md)                                                 |                          33 |                                   3 |                                    0.15 |                              30 |
+| [radio producer](radio_producer.md)                                             |                          11 |                                   3 |                                    0.15 |                               8 |
+| [sewerage systems manager](sewerage_systems_manager.md)                         |                          21 |                                   3 |                                    0.15 |                              18 |
+| [army general](army_general.md)                                                 |                          12 |                                   3 |                                    0.15 |                               9 |
+| [publications coordinator](publications_coordinator.md)                         |                          19 |                                   3 |                                    0.15 |                              16 |
+| [cultural centre director](cultural_centre_director.md)                         |                          31 |                                   3 |                                    0.15 |                              28 |
+| [chemical plant manager](chemical_plant_manager.md)                             |                          30 |                                   3 |                                    0.15 |                              27 |
+| [industrial production manager](industrial_production_manager.md)               |                          19 |                                   3 |                                    0.15 |                              16 |
+| [funeral services director](funeral_services_director.md)                       |                          19 |                                   3 |                                    0.15 |                              16 |
+| [elderly home manager](elderly_home_manager.md)                                 |                          68 |                                   3 |                                    0.15 |                              65 |
+| [laundry and dry cleaning manager](laundry_and_dry_cleaning_manager.md)         |                          28 |                                   3 |                                    0.15 |                              25 |
+| [wedding planner](wedding_planner.md)                                           |                          20 |                                   3 |                                    0.15 |                              17 |
+| [cartoonist](cartoonist.md)                                                     |                          17 |                                   3 |                                    0.15 |                              14 |
+| [industrial assembly supervisor](industrial_assembly_supervisor.md)             |                          35 |                                   3 |                                    0.15 |                              32 |
+| [publishing rights manager](publishing_rights_manager.md)                       |                           9 |                                   3 |                                    0.15 |                               6 |
+| [leather finishing operations manager](leather_finishing_operations_manager.md) |                          30 |                                   3 |                                    0.15 |                              27 |
+| [police commissioner](police_commissioner.md)                                   |                          18 |                                   3 |                                    0.15 |                              15 |
+| [travel agency manager](travel_agency_manager.md)                               |                          30 |                                   3 |                                    0.15 |                              27 |
+| [performance production manager](performance_production_manager.md)             |                          34 |                                   3 |                                    0.15 |                              31 |
+| [manufacturing manager](manufacturing_manager.md)                               |                          12 |                                   3 |                                    0.15 |                               9 |
+| [chemical production manager](chemical_production_manager.md)                   |                          35 |                                   3 |                                    0.15 |                              32 |
+| [zoo curator](zoo_curator.md)                                                   |                          47 |                                   3 |                                    0.15 |                              44 |
+| [print studio supervisor](print_studio_supervisor.md)                           |                          26 |                                   3 |                                    0.15 |                              23 |
+| [water treatment plant manager](water_treatment_plant_manager.md)               |                          21 |                                   3 |                                    0.15 |                              18 |
+| [botanist](botanist.md)                                                         |                          27 |                                   3 |                                    0.15 |                              24 |
+| [court administrator](court_administrator.md)                                   |                          10 |                                   3 |                                    0.15 |                               7 |
+| [leather production manager](leather_production_manager.md)                     |                          35 |                                   3 |                                    0.15 |                              32 |
+| [energy manager](energy_manager.md)                                             |                          34 |                                   3 |                                    0.15 |                              31 |
+| [correctional services manager](correctional_services_manager.md)               |                          13 |                                   3 |                                    0.15 |                              10 |
+| [advertising media buyer](advertising_media_buyer.md)                           |                          12 |                                   3 |                                    0.15 |                               9 |
+| [equality and inclusion manager](equality_and_inclusion_manager.md)             |                          31 |                                   3 |                                    0.15 |                              28 |
+| [animation director](animation_director.md)                                     |                          15 |                                   3 |                                    0.15 |                              12 |

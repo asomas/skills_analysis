@@ -1,338 +1,51 @@
 #Occupation chiropractor
 ##Number skills 136
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match chiropractor</th>
-      <th>percentage match with chiropractor</th>
-      <th>skills not in chiropractor</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[specialist chiropractor](specialist_chiropractor.md)&lt;/span&gt;</td>
-      <td>75</td>
-      <td>66</td>
-      <td>0.485294</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physiotherapist](physiotherapist.md)&lt;/span&gt;</td>
-      <td>90</td>
-      <td>63</td>
-      <td>0.463235</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[advanced physiotherapist](advanced_physiotherapist.md)&lt;/span&gt;</td>
-      <td>69</td>
-      <td>49</td>
-      <td>0.360294</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[occupational therapist](occupational_therapist.md)&lt;/span&gt;</td>
-      <td>73</td>
-      <td>40</td>
-      <td>0.294118</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[orthoptist](orthoptist.md)&lt;/span&gt;</td>
-      <td>63</td>
-      <td>37</td>
-      <td>0.272059</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nurse responsible for general care](nurse_responsible_for_general_care.md)&lt;/span&gt;</td>
-      <td>90</td>
-      <td>36</td>
-      <td>0.264706</td>
-      <td>54</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physiotherapy assistant](physiotherapy_assistant.md)&lt;/span&gt;</td>
-      <td>41</td>
-      <td>36</td>
-      <td>0.264706</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[speech and language therapist](speech_and_language_therapist.md)&lt;/span&gt;</td>
-      <td>73</td>
-      <td>36</td>
-      <td>0.264706</td>
-      <td>37</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dietitian](dietitian.md)&lt;/span&gt;</td>
-      <td>79</td>
-      <td>35</td>
-      <td>0.257353</td>
-      <td>44</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biomedical scientist](biomedical_scientist.md)&lt;/span&gt;</td>
-      <td>90</td>
-      <td>33</td>
-      <td>0.242647</td>
-      <td>57</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[audiologist](audiologist.md)&lt;/span&gt;</td>
-      <td>59</td>
-      <td>32</td>
-      <td>0.235294</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music therapist](music_therapist.md)&lt;/span&gt;</td>
-      <td>98</td>
-      <td>32</td>
-      <td>0.235294</td>
-      <td>66</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clinical psychologist](clinical_psychologist.md)&lt;/span&gt;</td>
-      <td>95</td>
-      <td>31</td>
-      <td>0.227941</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmacist](pharmacist.md)&lt;/span&gt;</td>
-      <td>75</td>
-      <td>31</td>
-      <td>0.227941</td>
-      <td>44</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[specialist pharmacist](specialist_pharmacist.md)&lt;/span&gt;</td>
-      <td>48</td>
-      <td>31</td>
-      <td>0.227941</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[doctors' surgery assistant](doctors'_surgery_assistant.md)&lt;/span&gt;</td>
-      <td>45</td>
-      <td>30</td>
-      <td>0.220588</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dental practitioner](dental_practitioner.md)&lt;/span&gt;</td>
-      <td>68</td>
-      <td>30</td>
-      <td>0.220588</td>
-      <td>38</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[health psychologist](health_psychologist.md)&lt;/span&gt;</td>
-      <td>82</td>
-      <td>29</td>
-      <td>0.213235</td>
-      <td>53</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optometrist](optometrist.md)&lt;/span&gt;</td>
-      <td>43</td>
-      <td>29</td>
-      <td>0.213235</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[specialist nurse](specialist_nurse.md)&lt;/span&gt;</td>
-      <td>62</td>
-      <td>28</td>
-      <td>0.205882</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paramedic in emergency responses](paramedic_in_emergency_responses.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>28</td>
-      <td>0.205882</td>
-      <td>46</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[art therapist](art_therapist.md)&lt;/span&gt;</td>
-      <td>52</td>
-      <td>28</td>
-      <td>0.205882</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[advanced nurse practitioner](advanced_nurse_practitioner.md)&lt;/span&gt;</td>
-      <td>70</td>
-      <td>27</td>
-      <td>0.198529</td>
-      <td>43</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[midwife](midwife.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>27</td>
-      <td>0.198529</td>
-      <td>47</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[radiographer](radiographer.md)&lt;/span&gt;</td>
-      <td>51</td>
-      <td>26</td>
-      <td>0.191176</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[specialist biomedical scientist](specialist_biomedical_scientist.md)&lt;/span&gt;</td>
-      <td>39</td>
-      <td>25</td>
-      <td>0.183824</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optician](optician.md)&lt;/span&gt;</td>
-      <td>47</td>
-      <td>25</td>
-      <td>0.183824</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[healthcare assistant](healthcare_assistant.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>24</td>
-      <td>0.176471</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[therapeutic radiographer](therapeutic_radiographer.md)&lt;/span&gt;</td>
-      <td>55</td>
-      <td>24</td>
-      <td>0.176471</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[diagnostic radiographer](diagnostic_radiographer.md)&lt;/span&gt;</td>
-      <td>51</td>
-      <td>23</td>
-      <td>0.169118</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dental chairside assistant](dental_chairside_assistant.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>23</td>
-      <td>0.169118</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nuclear medicine radiographer](nuclear_medicine_radiographer.md)&lt;/span&gt;</td>
-      <td>51</td>
-      <td>23</td>
-      <td>0.169118</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmacy assistant](pharmacy_assistant.md)&lt;/span&gt;</td>
-      <td>42</td>
-      <td>22</td>
-      <td>0.161765</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dental hygienist](dental_hygienist.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>22</td>
-      <td>0.161765</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[psychotherapist](psychotherapist.md)&lt;/span&gt;</td>
-      <td>69</td>
-      <td>21</td>
-      <td>0.154412</td>
-      <td>48</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmacy technician](pharmacy_technician.md)&lt;/span&gt;</td>
-      <td>38</td>
-      <td>21</td>
-      <td>0.154412</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[acupuncturist](acupuncturist.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>18</td>
-      <td>0.132353</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prosthetist-orthotist](prosthetist-orthotist.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>17</td>
-      <td>0.125000</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nurse assistant](nurse_assistant.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>17</td>
-      <td>0.125000</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[osteopath](osteopath.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>16</td>
-      <td>0.117647</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[podiatrist](podiatrist.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>15</td>
-      <td>0.110294</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hospital porter](hospital_porter.md)&lt;/span&gt;</td>
-      <td>38</td>
-      <td>14</td>
-      <td>0.102941</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[anaesthetic technician](anaesthetic_technician.md)&lt;/span&gt;</td>
-      <td>36</td>
-      <td>14</td>
-      <td>0.102941</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dental technician](dental_technician.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>14</td>
-      <td>0.102941</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[anatomical pathology technician](anatomical_pathology_technician.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>14</td>
-      <td>0.102941</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[maternity support worker](maternity_support_worker.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>14</td>
-      <td>0.102941</td>
-      <td>20</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                  |   skills in this occupation |   skills that match chiropractor |   percentage match with chiropractor |   skills not in chiropractor |
+|:----------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
+| [specialist chiropractor](specialist_chiropractor.md)                       |                          75 |                               66 |                             0.485294 |                            9 |
+| [physiotherapist](physiotherapist.md)                                       |                          90 |                               63 |                             0.463235 |                           27 |
+| [advanced physiotherapist](advanced_physiotherapist.md)                     |                          69 |                               49 |                             0.360294 |                           20 |
+| [occupational therapist](occupational_therapist.md)                         |                          73 |                               40 |                             0.294118 |                           33 |
+| [orthoptist](orthoptist.md)                                                 |                          63 |                               37 |                             0.272059 |                           26 |
+| [nurse responsible for general care](nurse_responsible_for_general_care.md) |                          90 |                               36 |                             0.264706 |                           54 |
+| [physiotherapy assistant](physiotherapy_assistant.md)                       |                          41 |                               36 |                             0.264706 |                            5 |
+| [speech and language therapist](speech_and_language_therapist.md)           |                          73 |                               36 |                             0.264706 |                           37 |
+| [dietitian](dietitian.md)                                                   |                          79 |                               35 |                             0.257353 |                           44 |
+| [biomedical scientist](biomedical_scientist.md)                             |                          90 |                               33 |                             0.242647 |                           57 |
+| [audiologist](audiologist.md)                                               |                          59 |                               32 |                             0.235294 |                           27 |
+| [music therapist](music_therapist.md)                                       |                          98 |                               32 |                             0.235294 |                           66 |
+| [clinical psychologist](clinical_psychologist.md)                           |                          95 |                               31 |                             0.227941 |                           64 |
+| [pharmacist](pharmacist.md)                                                 |                          75 |                               31 |                             0.227941 |                           44 |
+| [specialist pharmacist](specialist_pharmacist.md)                           |                          48 |                               31 |                             0.227941 |                           17 |
+| [doctors' surgery assistant](doctors'_surgery_assistant.md)                 |                          45 |                               30 |                             0.220588 |                           15 |
+| [dental practitioner](dental_practitioner.md)                               |                          68 |                               30 |                             0.220588 |                           38 |
+| [health psychologist](health_psychologist.md)                               |                          82 |                               29 |                             0.213235 |                           53 |
+| [optometrist](optometrist.md)                                               |                          43 |                               29 |                             0.213235 |                           14 |
+| [specialist nurse](specialist_nurse.md)                                     |                          62 |                               28 |                             0.205882 |                           34 |
+| [paramedic in emergency responses](paramedic_in_emergency_responses.md)     |                          74 |                               28 |                             0.205882 |                           46 |
+| [art therapist](art_therapist.md)                                           |                          52 |                               28 |                             0.205882 |                           24 |
+| [advanced nurse practitioner](advanced_nurse_practitioner.md)               |                          70 |                               27 |                             0.198529 |                           43 |
+| [midwife](midwife.md)                                                       |                          74 |                               27 |                             0.198529 |                           47 |
+| [radiographer](radiographer.md)                                             |                          51 |                               26 |                             0.191176 |                           25 |
+| [specialist biomedical scientist](specialist_biomedical_scientist.md)       |                          39 |                               25 |                             0.183824 |                           14 |
+| [optician](optician.md)                                                     |                          47 |                               25 |                             0.183824 |                           22 |
+| [healthcare assistant](healthcare_assistant.md)                             |                          33 |                               24 |                             0.176471 |                            9 |
+| [therapeutic radiographer](therapeutic_radiographer.md)                     |                          55 |                               24 |                             0.176471 |                           31 |
+| [diagnostic radiographer](diagnostic_radiographer.md)                       |                          51 |                               23 |                             0.169118 |                           28 |
+| [dental chairside assistant](dental_chairside_assistant.md)                 |                          37 |                               23 |                             0.169118 |                           14 |
+| [nuclear medicine radiographer](nuclear_medicine_radiographer.md)           |                          51 |                               23 |                             0.169118 |                           28 |
+| [pharmacy assistant](pharmacy_assistant.md)                                 |                          42 |                               22 |                             0.161765 |                           20 |
+| [dental hygienist](dental_hygienist.md)                                     |                          33 |                               22 |                             0.161765 |                           11 |
+| [psychotherapist](psychotherapist.md)                                       |                          69 |                               21 |                             0.154412 |                           48 |
+| [pharmacy technician](pharmacy_technician.md)                               |                          38 |                               21 |                             0.154412 |                           17 |
+| [acupuncturist](acupuncturist.md)                                           |                          33 |                               18 |                             0.132353 |                           15 |
+| [prosthetist-orthotist](prosthetist-orthotist.md)                           |                          24 |                               17 |                             0.125    |                            7 |
+| [nurse assistant](nurse_assistant.md)                                       |                          37 |                               17 |                             0.125    |                           20 |
+| [osteopath](osteopath.md)                                                   |                          26 |                               16 |                             0.117647 |                           10 |
+| [podiatrist](podiatrist.md)                                                 |                          28 |                               15 |                             0.110294 |                           13 |
+| [hospital porter](hospital_porter.md)                                       |                          38 |                               14 |                             0.102941 |                           24 |
+| [anaesthetic technician](anaesthetic_technician.md)                         |                          36 |                               14 |                             0.102941 |                           22 |
+| [dental technician](dental_technician.md)                                   |                          23 |                               14 |                             0.102941 |                            9 |
+| [anatomical pathology technician](anatomical_pathology_technician.md)       |                          32 |                               14 |                             0.102941 |                           18 |
+| [maternity support worker](maternity_support_worker.md)                     |                          34 |                               14 |                             0.102941 |                           20 |

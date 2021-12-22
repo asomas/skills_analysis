@@ -1,478 +1,71 @@
 #Occupation illustrator
 ##Number skills 16
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match illustrator</th>
-      <th>percentage match with illustrator</th>
-      <th>skills not in illustrator</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[cartoonist](cartoonist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>9</td>
-      <td>0.5625</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drawing artist](drawing_artist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>6</td>
-      <td>0.3750</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[street artist](street_artist.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.3750</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sound artist](sound_artist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animation layout artist](animation_layout_artist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[desktop publisher](desktop_publisher.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[glass artist](glass_artist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[artistic painter](artistic_painter.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[performance artist](performance_artist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[conceptual artist](conceptual_artist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[video artist](video_artist.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[make-up artist](make-up_artist.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ceramicist](ceramicist.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[digital artist](digital_artist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[graphic designer](graphic_designer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[storyboard artist](storyboard_artist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animation director](animation_director.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[script writer](script_writer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[community artist](community_artist.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[animator](animator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[copy editor](copy_editor.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special effects artist](special_effects_artist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[jewellery designer](jewellery_designer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[glass painter](glass_painter.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[miniature set designer](miniature_set_designer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[picture editor](picture_editor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[typesetter](typesetter.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood painter](wood_painter.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[video and motion picture editor](video_and_motion_picture_editor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[video and motion picture director](video_and_motion_picture_director.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[porcelain painter](porcelain_painter.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[director of photography](director_of_photography.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stop-motion animator](stop-motion_animator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sound editor](sound_editor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ceramic painter](ceramic_painter.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[publishing rights manager](publishing_rights_manager.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[decorative painter](decorative_painter.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[costume maker](costume_maker.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[furniture designer](furniture_designer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[creative director](creative_director.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fight director](fight_director.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[book publisher](book_publisher.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[glass-blower](glass-blower.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prepress operator](prepress_operator.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[visual arts teacher](visual_arts_teacher.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[camera operator](camera_operator.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sculptor](sculptor.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dance répétiteur](dance_répétiteur.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[imagesetter](imagesetter.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[choreologist](choreologist.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[broadcasting programme director](broadcasting_programme_director.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[publications coordinator](publications_coordinator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hair stylist](hair_stylist.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ergonomist](ergonomist.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fashion designer](fashion_designer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial designer](industrial_designer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[advertising copywriter](advertising_copywriter.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[proofreader](proofreader.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prop maker](prop_maker.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lexicographer](lexicographer.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[set builder](set_builder.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[répétiteur](répétiteur.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[street performer](street_performer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[choreographer](choreographer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dancer](dancer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[print studio supervisor](print_studio_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>24</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                |   skills in this occupation |   skills that match illustrator |   percentage match with illustrator |   skills not in illustrator |
+|:--------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
+| [cartoonist](cartoonist.md)                                               |                          17 |                               9 |                              0.5625 |                           8 |
+| [drawing artist](drawing_artist.md)                                       |                          16 |                               6 |                              0.375  |                          10 |
+| [street artist](street_artist.md)                                         |                          18 |                               6 |                              0.375  |                          12 |
+| [sound artist](sound_artist.md)                                           |                          21 |                               5 |                              0.3125 |                          16 |
+| [animation layout artist](animation_layout_artist.md)                     |                          17 |                               5 |                              0.3125 |                          12 |
+| [desktop publisher](desktop_publisher.md)                                 |                          17 |                               5 |                              0.3125 |                          12 |
+| [glass artist](glass_artist.md)                                           |                          16 |                               5 |                              0.3125 |                          11 |
+| [artistic painter](artistic_painter.md)                                   |                          18 |                               5 |                              0.3125 |                          13 |
+| [performance artist](performance_artist.md)                               |                          15 |                               5 |                              0.3125 |                          10 |
+| [conceptual artist](conceptual_artist.md)                                 |                          15 |                               5 |                              0.3125 |                          10 |
+| [video artist](video_artist.md)                                           |                          23 |                               5 |                              0.3125 |                          18 |
+| [make-up artist](make-up_artist.md)                                       |                          27 |                               5 |                              0.3125 |                          22 |
+| [ceramicist](ceramicist.md)                                               |                          23 |                               5 |                              0.3125 |                          18 |
+| [digital artist](digital_artist.md)                                       |                          15 |                               5 |                              0.3125 |                          10 |
+| [graphic designer](graphic_designer.md)                                   |                          15 |                               4 |                              0.25   |                          11 |
+| [storyboard artist](storyboard_artist.md)                                 |                          15 |                               4 |                              0.25   |                          11 |
+| [animation director](animation_director.md)                               |                          15 |                               4 |                              0.25   |                          11 |
+| [script writer](script_writer.md)                                         |                          21 |                               4 |                              0.25   |                          17 |
+| [community artist](community_artist.md)                                   |                          25 |                               4 |                              0.25   |                          21 |
+| [animator](animator.md)                                                   |                          16 |                               4 |                              0.25   |                          12 |
+| [copy editor](copy_editor.md)                                             |                          12 |                               4 |                              0.25   |                           8 |
+| [special effects artist](special_effects_artist.md)                       |                          16 |                               4 |                              0.25   |                          12 |
+| [jewellery designer](jewellery_designer.md)                               |                          26 |                               3 |                              0.1875 |                          23 |
+| [glass painter](glass_painter.md)                                         |                          15 |                               3 |                              0.1875 |                          12 |
+| [miniature set designer](miniature_set_designer.md)                       |                          17 |                               3 |                              0.1875 |                          14 |
+| [picture editor](picture_editor.md)                                       |                          22 |                               3 |                              0.1875 |                          19 |
+| [typesetter](typesetter.md)                                               |                          26 |                               3 |                              0.1875 |                          23 |
+| [wood painter](wood_painter.md)                                           |                          14 |                               3 |                              0.1875 |                          11 |
+| [video and motion picture editor](video_and_motion_picture_editor.md)     |                          19 |                               3 |                              0.1875 |                          16 |
+| [video and motion picture director](video_and_motion_picture_director.md) |                          20 |                               3 |                              0.1875 |                          17 |
+| [porcelain painter](porcelain_painter.md)                                 |                          15 |                               3 |                              0.1875 |                          12 |
+| [director of photography](director_of_photography.md)                     |                          20 |                               3 |                              0.1875 |                          17 |
+| [stop-motion animator](stop-motion_animator.md)                           |                          10 |                               3 |                              0.1875 |                           7 |
+| [sound editor](sound_editor.md)                                           |                          17 |                               3 |                              0.1875 |                          14 |
+| [ceramic painter](ceramic_painter.md)                                     |                          17 |                               3 |                              0.1875 |                          14 |
+| [publishing rights manager](publishing_rights_manager.md)                 |                           9 |                               3 |                              0.1875 |                           6 |
+| [decorative painter](decorative_painter.md)                               |                          20 |                               3 |                              0.1875 |                          17 |
+| [costume maker](costume_maker.md)                                         |                          28 |                               2 |                              0.125  |                          26 |
+| [furniture designer](furniture_designer.md)                               |                          13 |                               2 |                              0.125  |                          11 |
+| [creative director](creative_director.md)                                 |                          14 |                               2 |                              0.125  |                          12 |
+| [fight director](fight_director.md)                                       |                          16 |                               2 |                              0.125  |                          14 |
+| [book publisher](book_publisher.md)                                       |                          15 |                               2 |                              0.125  |                          13 |
+| [glass-blower](glass-blower.md)                                           |                          15 |                               2 |                              0.125  |                          13 |
+| [prepress operator](prepress_operator.md)                                 |                          23 |                               2 |                              0.125  |                          21 |
+| [visual arts teacher](visual_arts_teacher.md)                             |                          23 |                               2 |                              0.125  |                          21 |
+| [camera operator](camera_operator.md)                                     |                          23 |                               2 |                              0.125  |                          21 |
+| [sculptor](sculptor.md)                                                   |                          12 |                               2 |                              0.125  |                          10 |
+| [dance répétiteur](dance_répétiteur.md)                                   |                          21 |                               2 |                              0.125  |                          19 |
+| [imagesetter](imagesetter.md)                                             |                          28 |                               2 |                              0.125  |                          26 |
+| [choreologist](choreologist.md)                                           |                          15 |                               2 |                              0.125  |                          13 |
+| [broadcasting programme director](broadcasting_programme_director.md)     |                          15 |                               2 |                              0.125  |                          13 |
+| [publications coordinator](publications_coordinator.md)                   |                          19 |                               2 |                              0.125  |                          17 |
+| [hair stylist](hair_stylist.md)                                           |                          16 |                               2 |                              0.125  |                          14 |
+| [ergonomist](ergonomist.md)                                               |                          14 |                               2 |                              0.125  |                          12 |
+| [fashion designer](fashion_designer.md)                                   |                          18 |                               2 |                              0.125  |                          16 |
+| [industrial designer](industrial_designer.md)                             |                          18 |                               2 |                              0.125  |                          16 |
+| [advertising copywriter](advertising_copywriter.md)                       |                          11 |                               2 |                              0.125  |                           9 |
+| [proofreader](proofreader.md)                                             |                           8 |                               2 |                              0.125  |                           6 |
+| [prop maker](prop_maker.md)                                               |                          24 |                               2 |                              0.125  |                          22 |
+| [lexicographer](lexicographer.md)                                         |                          11 |                               2 |                              0.125  |                           9 |
+| [set builder](set_builder.md)                                             |                          22 |                               2 |                              0.125  |                          20 |
+| [répétiteur](répétiteur.md)                                               |                          23 |                               2 |                              0.125  |                          21 |
+| [street performer](street_performer.md)                                   |                          17 |                               2 |                              0.125  |                          15 |
+| [choreographer](choreographer.md)                                         |                          19 |                               2 |                              0.125  |                          17 |
+| [dancer](dancer.md)                                                       |                          20 |                               2 |                              0.125  |                          18 |
+| [print studio supervisor](print_studio_supervisor.md)                     |                          26 |                               2 |                              0.125  |                          24 |

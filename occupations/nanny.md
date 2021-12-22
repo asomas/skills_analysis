@@ -1,345 +1,52 @@
 #Occupation nanny
 ##Number skills 16
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match nanny</th>
-      <th>percentage match with nanny</th>
-      <th>skills not in nanny</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[au pair](au_pair.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>10</td>
-      <td>0.6250</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[child care worker](child_care_worker.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>8</td>
-      <td>0.5000</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[early years teaching assistant](early_years_teaching_assistant.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>7</td>
-      <td>0.4375</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[early years special educational needs teacher](early_years_special_educational_needs_teacher.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>7</td>
-      <td>0.4375</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[babysitter](babysitter.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>7</td>
-      <td>0.4375</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special educational needs teacher](special_educational_needs_teacher.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>6</td>
-      <td>0.3750</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special educational needs assistant](special_educational_needs_assistant.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>6</td>
-      <td>0.3750</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[child day care worker](child_day_care_worker.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>6</td>
-      <td>0.3750</td>
-      <td>68</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special educational needs teacher primary school](special_educational_needs_teacher_primary_school.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[primary school teaching assistant](primary_school_teaching_assistant.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[teacher of talented and gifted students](teacher_of_talented_and_gifted_students.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[child welfare worker](child_welfare_worker.md)&lt;/span&gt;</td>
-      <td>73</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>68</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[early years teacher](early_years_teacher.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[Montessori school teacher](Montessori_school_teacher.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[Freinet school teacher](Freinet_school_teacher.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>5</td>
-      <td>0.3125</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[child care coordinator](child_care_coordinator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[activity leader](activity_leader.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[education welfare officer](education_welfare_officer.md)&lt;/span&gt;</td>
-      <td>79</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>75</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social pedagogue](social_pedagogue.md)&lt;/span&gt;</td>
-      <td>42</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>38</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[secondary school teaching assistant](secondary_school_teaching_assistant.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>4</td>
-      <td>0.2500</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sexual violence counsellor](sexual_violence_counsellor.md)&lt;/span&gt;</td>
-      <td>52</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>49</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[Steiner school teacher](Steiner_school_teacher.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drug and alcohol addiction counsellor](drug_and_alcohol_addiction_counsellor.md)&lt;/span&gt;</td>
-      <td>52</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>49</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[youth worker](youth_worker.md)&lt;/span&gt;</td>
-      <td>73</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>70</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[primary school teacher](primary_school_teacher.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[foster care support worker](foster_care_support_worker.md)&lt;/span&gt;</td>
-      <td>72</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>69</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tutor](tutor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[child care social worker](child_care_social_worker.md)&lt;/span&gt;</td>
-      <td>70</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>67</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[consultant social worker](consultant_social_worker.md)&lt;/span&gt;</td>
-      <td>75</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[residential childcare worker](residential_childcare_worker.md)&lt;/span&gt;</td>
-      <td>67</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[youth offending team worker](youth_offending_team_worker.md)&lt;/span&gt;</td>
-      <td>75</td>
-      <td>3</td>
-      <td>0.1875</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[migrant social worker](migrant_social_worker.md)&lt;/span&gt;</td>
-      <td>73</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>71</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[academic support officer](academic_support_officer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mental health support worker](mental_health_support_worker.md)&lt;/span&gt;</td>
-      <td>66</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nursery school head teacher](nursery_school_head_teacher.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kitchen porter](kitchen_porter.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[domestic housekeeper](domestic_housekeeper.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[domestic cleaner](domestic_cleaner.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[residential home young people care worker](residential_home_young_people_care_worker.md)&lt;/span&gt;</td>
-      <td>66</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[school bus attendant](school_bus_attendant.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[learning mentor](learning_mentor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[educational counsellor](educational_counsellor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special educational needs teacher secondary school](special_educational_needs_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[substance misuse worker](substance_misuse_worker.md)&lt;/span&gt;</td>
-      <td>73</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>71</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[kitchen assistant](kitchen_assistant.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[family social worker](family_social_worker.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mental health social worker](mental_health_social_worker.md)&lt;/span&gt;</td>
-      <td>77</td>
-      <td>2</td>
-      <td>0.1250</td>
-      <td>75</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                                  |   skills in this occupation |   skills that match nanny |   percentage match with nanny |   skills not in nanny |
+|:------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
+| [au pair](au_pair.md)                                                                                       |                          13 |                        10 |                        0.625  |                     3 |
+| [child care worker](child_care_worker.md)                                                                   |                           8 |                         8 |                        0.5    |                     0 |
+| [early years teaching assistant](early_years_teaching_assistant.md)                                         |                          20 |                         7 |                        0.4375 |                    13 |
+| [early years special educational needs teacher](early_years_special_educational_needs_teacher.md)           |                          32 |                         7 |                        0.4375 |                    25 |
+| [babysitter](babysitter.md)                                                                                 |                          10 |                         7 |                        0.4375 |                     3 |
+| [special educational needs teacher](special_educational_needs_teacher.md)                                   |                          30 |                         6 |                        0.375  |                    24 |
+| [special educational needs assistant](special_educational_needs_assistant.md)                               |                          23 |                         6 |                        0.375  |                    17 |
+| [child day care worker](child_day_care_worker.md)                                                           |                          74 |                         6 |                        0.375  |                    68 |
+| [special educational needs teacher primary school](special_educational_needs_teacher_primary_school.md)     |                          33 |                         5 |                        0.3125 |                    28 |
+| [primary school teaching assistant](primary_school_teaching_assistant.md)                                   |                          19 |                         5 |                        0.3125 |                    14 |
+| [teacher of talented and gifted students](teacher_of_talented_and_gifted_students.md)                       |                          35 |                         5 |                        0.3125 |                    30 |
+| [child welfare worker](child_welfare_worker.md)                                                             |                          73 |                         5 |                        0.3125 |                    68 |
+| [early years teacher](early_years_teacher.md)                                                               |                          27 |                         5 |                        0.3125 |                    22 |
+| [Montessori school teacher](Montessori_school_teacher.md)                                                   |                          33 |                         5 |                        0.3125 |                    28 |
+| [Freinet school teacher](Freinet_school_teacher.md)                                                         |                          32 |                         5 |                        0.3125 |                    27 |
+| [child care coordinator](child_care_coordinator.md)                                                         |                          18 |                         4 |                        0.25   |                    14 |
+| [activity leader](activity_leader.md)                                                                       |                          21 |                         4 |                        0.25   |                    17 |
+| [education welfare officer](education_welfare_officer.md)                                                   |                          79 |                         4 |                        0.25   |                    75 |
+| [social pedagogue](social_pedagogue.md)                                                                     |                          42 |                         4 |                        0.25   |                    38 |
+| [secondary school teaching assistant](secondary_school_teaching_assistant.md)                               |                          20 |                         4 |                        0.25   |                    16 |
+| [sexual violence counsellor](sexual_violence_counsellor.md)                                                 |                          52 |                         3 |                        0.1875 |                    49 |
+| [Steiner school teacher](Steiner_school_teacher.md)                                                         |                          30 |                         3 |                        0.1875 |                    27 |
+| [drug and alcohol addiction counsellor](drug_and_alcohol_addiction_counsellor.md)                           |                          52 |                         3 |                        0.1875 |                    49 |
+| [youth worker](youth_worker.md)                                                                             |                          73 |                         3 |                        0.1875 |                    70 |
+| [primary school teacher](primary_school_teacher.md)                                                         |                          29 |                         3 |                        0.1875 |                    26 |
+| [foster care support worker](foster_care_support_worker.md)                                                 |                          72 |                         3 |                        0.1875 |                    69 |
+| [tutor](tutor.md)                                                                                           |                          19 |                         3 |                        0.1875 |                    16 |
+| [child care social worker](child_care_social_worker.md)                                                     |                          70 |                         3 |                        0.1875 |                    67 |
+| [consultant social worker](consultant_social_worker.md)                                                     |                          75 |                         3 |                        0.1875 |                    72 |
+| [residential childcare worker](residential_childcare_worker.md)                                             |                          67 |                         3 |                        0.1875 |                    64 |
+| [youth offending team worker](youth_offending_team_worker.md)                                               |                          75 |                         3 |                        0.1875 |                    72 |
+| [migrant social worker](migrant_social_worker.md)                                                           |                          73 |                         2 |                        0.125  |                    71 |
+| [academic support officer](academic_support_officer.md)                                                     |                          20 |                         2 |                        0.125  |                    18 |
+| [mental health support worker](mental_health_support_worker.md)                                             |                          66 |                         2 |                        0.125  |                    64 |
+| [nursery school head teacher](nursery_school_head_teacher.md)                                               |                          23 |                         2 |                        0.125  |                    21 |
+| [kitchen porter](kitchen_porter.md)                                                                         |                          14 |                         2 |                        0.125  |                    12 |
+| [domestic housekeeper](domestic_housekeeper.md)                                                             |                          22 |                         2 |                        0.125  |                    20 |
+| [domestic cleaner](domestic_cleaner.md)                                                                     |                          19 |                         2 |                        0.125  |                    17 |
+| [residential home young people care worker](residential_home_young_people_care_worker.md)                   |                          66 |                         2 |                        0.125  |                    64 |
+| [school bus attendant](school_bus_attendant.md)                                                             |                           9 |                         2 |                        0.125  |                     7 |
+| [learning mentor](learning_mentor.md)                                                                       |                          17 |                         2 |                        0.125  |                    15 |
+| [educational counsellor](educational_counsellor.md)                                                         |                          19 |                         2 |                        0.125  |                    17 |
+| [special educational needs teacher secondary school](special_educational_needs_teacher_secondary_school.md) |                          30 |                         2 |                        0.125  |                    28 |
+| [substance misuse worker](substance_misuse_worker.md)                                                       |                          73 |                         2 |                        0.125  |                    71 |
+| [kitchen assistant](kitchen_assistant.md)                                                                   |                          19 |                         2 |                        0.125  |                    17 |
+| [family social worker](family_social_worker.md)                                                             |                          74 |                         2 |                        0.125  |                    72 |
+| [mental health social worker](mental_health_social_worker.md)                                               |                          77 |                         2 |                        0.125  |                    75 |

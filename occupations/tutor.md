@@ -1,1101 +1,160 @@
 #Occupation tutor
 ##Number skills 19
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match tutor</th>
-      <th>percentage match with tutor</th>
-      <th>skills not in tutor</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[special educational needs teacher primary school](special_educational_needs_teacher_primary_school.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>13</td>
-      <td>0.684211</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[teacher of talented and gifted students](teacher_of_talented_and_gifted_students.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>13</td>
-      <td>0.684211</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[Steiner school teacher](Steiner_school_teacher.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>12</td>
-      <td>0.631579</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[learning support teacher](learning_support_teacher.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>12</td>
-      <td>0.631579</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[Montessori school teacher](Montessori_school_teacher.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>12</td>
-      <td>0.631579</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[primary school teacher](primary_school_teacher.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>12</td>
-      <td>0.631579</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[Freinet school teacher](Freinet_school_teacher.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>12</td>
-      <td>0.631579</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[early years special educational needs teacher](early_years_special_educational_needs_teacher.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>11</td>
-      <td>0.578947</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[adult literacy teacher](adult_literacy_teacher.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>11</td>
-      <td>0.578947</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[language school teacher](language_school_teacher.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>10</td>
-      <td>0.526316</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[early years teacher](early_years_teacher.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>10</td>
-      <td>0.526316</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nursing lecturer](nursing_lecturer.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>10</td>
-      <td>0.526316</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special educational needs teacher](special_educational_needs_teacher.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>10</td>
-      <td>0.526316</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special educational needs teacher secondary school](special_educational_needs_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>10</td>
-      <td>0.526316</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[further education teacher](further_education_teacher.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>10</td>
-      <td>0.526316</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[literature teacher secondary school](literature_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[religious education teacher secondary school](religious_education_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[secondary school teacher](secondary_school_teacher.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lifeguard instructor](lifeguard_instructor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medical laboratory technology vocational teacher](medical_laboratory_technology_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[science teacher secondary school](science_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemistry teacher secondary school](chemistry_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[history teacher secondary school](history_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[classical languages teacher secondary school](classical_languages_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[auxiliary nursing and midwifery vocational teacher](auxiliary_nursing_and_midwifery_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electronics and automation vocational teacher](electronics_and_automation_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mathematics teacher secondary school](mathematics_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business administration vocational teacher](business_administration_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[digital literacy teacher](digital_literacy_teacher.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physics teacher secondary school](physics_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electricity and energy vocational teacher](electricity_and_energy_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial arts vocational teacher](industrial_arts_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[modern languages teacher secondary school](modern_languages_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[beauty vocational teacher](beauty_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[philosophy teacher secondary school](philosophy_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business studies and economics teacher secondary school](business_studies_and_economics_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special educational needs itinerant teacher](special_educational_needs_itinerant_teacher.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physical education teacher secondary school](physical_education_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ICT teacher secondary school](ICT_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hairdressing vocational teacher](hairdressing_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geography teacher secondary school](geography_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agriculture, forestry and fishery vocational teacher](agriculture,_forestry_and_fishery_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[transport technology vocational teacher](transport_technology_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biology teacher secondary school](biology_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[design and applied arts vocational teacher](design_and_applied_arts_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business and marketing vocational teacher](business_and_marketing_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>9</td>
-      <td>0.473684</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drama teacher](drama_teacher.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[maritime instructor](maritime_instructor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drama teacher secondary school](drama_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[photography teacher](photography_teacher.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[performing arts school dance instructor](performing_arts_school_dance_instructor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physical education vocational teacher](physical_education_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fine arts instructor](fine_arts_instructor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[art teacher secondary school](art_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[performing arts theatre instructor](performing_arts_theatre_instructor.md)&lt;/span&gt;</td>
-      <td>30</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music teacher](music_teacher.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[food service vocational teacher](food_service_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music instructor](music_instructor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hospitality vocational teacher](hospitality_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[music teacher secondary school](music_teacher_secondary_school.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flight instructor](flight_instructor.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>8</td>
-      <td>0.421053</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[communications lecturer](communications_lecturer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[driving instructor](driving_instructor.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[visual arts teacher](visual_arts_teacher.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[higher education lecturer](higher_education_lecturer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[occupational railway instructor](occupational_railway_instructor.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[outdoor activities instructor](outdoor_activities_instructor.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dance teacher](dance_teacher.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motorcycle instructor](motorcycle_instructor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vocational teacher](vocational_teacher.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[truck driving instructor](truck_driving_instructor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[circus arts teacher](circus_arts_teacher.md)&lt;/span&gt;</td>
-      <td>33</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[secondary school teaching assistant](secondary_school_teaching_assistant.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[public speaking coach](public_speaking_coach.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bus driving instructor](bus_driving_instructor.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vessel steering instructor](vessel_steering_instructor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sports coach](sports_coach.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[car driving instructor](car_driving_instructor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>7</td>
-      <td>0.368421</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[classical languages lecturer](classical_languages_lecturer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[space science lecturer](space_science_lecturer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[psychology lecturer](psychology_lecturer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[modern languages lecturer](modern_languages_lecturer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[architecture lecturer](architecture_lecturer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[engineering lecturer](engineering_lecturer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[history lecturer](history_lecturer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[law lecturer](law_lecturer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[first aid instructor](first_aid_instructor.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[healthcare specialist lecturer](healthcare_specialist_lecturer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[archaeology lecturer](archaeology_lecturer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special educational needs assistant](special_educational_needs_assistant.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[philosophy lecturer](philosophy_lecturer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer science lecturer](computer_science_lecturer.md)&lt;/span&gt;</td>
-      <td>62</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>56</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[anthropology lecturer](anthropology_lecturer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[linguistics lecturer](linguistics_lecturer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[politics lecturer](politics_lecturer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[religious studies lecturer](religious_studies_lecturer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[assistant lecturer](assistant_lecturer.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[food science lecturer](food_science_lecturer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chemistry lecturer](chemistry_lecturer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[art studies lecturer](art_studies_lecturer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mathematics lecturer](mathematics_lecturer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[education studies lecturer](education_studies_lecturer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[physics lecturer](physics_lecturer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[university teaching assistant](university_teaching_assistant.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[social work lecturer](social_work_lecturer.md)&lt;/span&gt;</td>
-      <td>82</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>76</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business lecturer](business_lecturer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[earth science lecturer](earth_science_lecturer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[occupational driving instructor](occupational_driving_instructor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veterinary medicine lecturer](veterinary_medicine_lecturer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dentistry lecturer](dentistry_lecturer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[journalism lecturer](journalism_lecturer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[survival instructor](survival_instructor.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmacy lecturer](pharmacy_lecturer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[university literature lecturer](university_literature_lecturer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[economics lecturer](economics_lecturer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medicine lecturer](medicine_lecturer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[biology lecturer](biology_lecturer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[travel and tourism vocational teacher](travel_and_tourism_vocational_teacher.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>6</td>
-      <td>0.315789</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[learning mentor](learning_mentor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[corporate trainer](corporate_trainer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prison instructor](prison_instructor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sign language teacher](sign_language_teacher.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sociology lecturer](sociology_lecturer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[early years teaching assistant](early_years_teaching_assistant.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[academic support officer](academic_support_officer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>5</td>
-      <td>0.263158</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[education welfare officer](education_welfare_officer.md)&lt;/span&gt;</td>
-      <td>79</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>75</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[university department head](university_department_head.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[football coach](football_coach.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[primary school teaching assistant](primary_school_teaching_assistant.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[secondary school department head](secondary_school_department_head.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[academic advisor](academic_advisor.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>4</td>
-      <td>0.210526</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nursery school head teacher](nursery_school_head_teacher.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special educational needs head teacher](special_educational_needs_head_teacher.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nanny](nanny.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[police trainer](police_trainer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[au pair](au_pair.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[corporate training manager](corporate_training_manager.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[special educational needs coordinator](special_educational_needs_coordinator.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[golf instructor](golf_instructor.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[armed forces training and education officer](armed_forces_training_and_education_officer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.157895</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[admissions coordinator](admissions_coordinator.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[head of higher education institutions](head_of_higher_education_institutions.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[firefighter instructor](firefighter_instructor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[deputy head teacher](deputy_head_teacher.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[further education principal](further_education_principal.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[snowboard instructor](snowboard_instructor.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[boxing instructor](boxing_instructor.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[primary school head teacher](primary_school_head_teacher.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[educational counsellor](educational_counsellor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[horse riding instructor](horse_riding_instructor.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[babysitter](babysitter.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[career guidance advisor](career_guidance_advisor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[business coach](business_coach.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[child day care worker](child_day_care_worker.md)&lt;/span&gt;</td>
-      <td>74</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>72</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[secondary school head teacher](secondary_school_head_teacher.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.105263</td>
-      <td>22</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                                            |   skills in this occupation |   skills that match tutor |   percentage match with tutor |   skills not in tutor |
+|:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
+| [special educational needs teacher primary school](special_educational_needs_teacher_primary_school.md)               |                          33 |                        13 |                      0.684211 |                    20 |
+| [teacher of talented and gifted students](teacher_of_talented_and_gifted_students.md)                                 |                          35 |                        13 |                      0.684211 |                    22 |
+| [Steiner school teacher](Steiner_school_teacher.md)                                                                   |                          30 |                        12 |                      0.631579 |                    18 |
+| [learning support teacher](learning_support_teacher.md)                                                               |                          23 |                        12 |                      0.631579 |                    11 |
+| [Montessori school teacher](Montessori_school_teacher.md)                                                             |                          33 |                        12 |                      0.631579 |                    21 |
+| [primary school teacher](primary_school_teacher.md)                                                                   |                          29 |                        12 |                      0.631579 |                    17 |
+| [Freinet school teacher](Freinet_school_teacher.md)                                                                   |                          32 |                        12 |                      0.631579 |                    20 |
+| [early years special educational needs teacher](early_years_special_educational_needs_teacher.md)                     |                          32 |                        11 |                      0.578947 |                    21 |
+| [adult literacy teacher](adult_literacy_teacher.md)                                                                   |                          27 |                        11 |                      0.578947 |                    16 |
+| [language school teacher](language_school_teacher.md)                                                                 |                          25 |                        10 |                      0.526316 |                    15 |
+| [early years teacher](early_years_teacher.md)                                                                         |                          27 |                        10 |                      0.526316 |                    17 |
+| [nursing lecturer](nursing_lecturer.md)                                                                               |                          34 |                        10 |                      0.526316 |                    24 |
+| [special educational needs teacher](special_educational_needs_teacher.md)                                             |                          30 |                        10 |                      0.526316 |                    20 |
+| [special educational needs teacher secondary school](special_educational_needs_teacher_secondary_school.md)           |                          30 |                        10 |                      0.526316 |                    20 |
+| [further education teacher](further_education_teacher.md)                                                             |                          24 |                        10 |                      0.526316 |                    14 |
+| [literature teacher secondary school](literature_teacher_secondary_school.md)                                         |                          30 |                         9 |                      0.473684 |                    21 |
+| [religious education teacher secondary school](religious_education_teacher_secondary_school.md)                       |                          27 |                         9 |                      0.473684 |                    18 |
+| [secondary school teacher](secondary_school_teacher.md)                                                               |                          24 |                         9 |                      0.473684 |                    15 |
+| [lifeguard instructor](lifeguard_instructor.md)                                                                       |                          21 |                         9 |                      0.473684 |                    12 |
+| [medical laboratory technology vocational teacher](medical_laboratory_technology_vocational_teacher.md)               |                          26 |                         9 |                      0.473684 |                    17 |
+| [science teacher secondary school](science_teacher_secondary_school.md)                                               |                          28 |                         9 |                      0.473684 |                    19 |
+| [chemistry teacher secondary school](chemistry_teacher_secondary_school.md)                                           |                          28 |                         9 |                      0.473684 |                    19 |
+| [history teacher secondary school](history_teacher_secondary_school.md)                                               |                          27 |                         9 |                      0.473684 |                    18 |
+| [classical languages teacher secondary school](classical_languages_teacher_secondary_school.md)                       |                          27 |                         9 |                      0.473684 |                    18 |
+| [auxiliary nursing and midwifery vocational teacher](auxiliary_nursing_and_midwifery_vocational_teacher.md)           |                          29 |                         9 |                      0.473684 |                    20 |
+| [electronics and automation vocational teacher](electronics_and_automation_vocational_teacher.md)                     |                          26 |                         9 |                      0.473684 |                    17 |
+| [mathematics teacher secondary school](mathematics_teacher_secondary_school.md)                                       |                          27 |                         9 |                      0.473684 |                    18 |
+| [business administration vocational teacher](business_administration_vocational_teacher.md)                           |                          28 |                         9 |                      0.473684 |                    19 |
+| [digital literacy teacher](digital_literacy_teacher.md)                                                               |                          26 |                         9 |                      0.473684 |                    17 |
+| [physics teacher secondary school](physics_teacher_secondary_school.md)                                               |                          26 |                         9 |                      0.473684 |                    17 |
+| [electricity and energy vocational teacher](electricity_and_energy_vocational_teacher.md)                             |                          28 |                         9 |                      0.473684 |                    19 |
+| [industrial arts vocational teacher](industrial_arts_vocational_teacher.md)                                           |                          26 |                         9 |                      0.473684 |                    17 |
+| [modern languages teacher secondary school](modern_languages_teacher_secondary_school.md)                             |                          32 |                         9 |                      0.473684 |                    23 |
+| [beauty vocational teacher](beauty_vocational_teacher.md)                                                             |                          26 |                         9 |                      0.473684 |                    17 |
+| [philosophy teacher secondary school](philosophy_teacher_secondary_school.md)                                         |                          29 |                         9 |                      0.473684 |                    20 |
+| [business studies and economics teacher secondary school](business_studies_and_economics_teacher_secondary_school.md) |                          28 |                         9 |                      0.473684 |                    19 |
+| [special educational needs itinerant teacher](special_educational_needs_itinerant_teacher.md)                         |                          21 |                         9 |                      0.473684 |                    12 |
+| [physical education teacher secondary school](physical_education_teacher_secondary_school.md)                         |                          33 |                         9 |                      0.473684 |                    24 |
+| [ICT teacher secondary school](ICT_teacher_secondary_school.md)                                                       |                          37 |                         9 |                      0.473684 |                    28 |
+| [hairdressing vocational teacher](hairdressing_vocational_teacher.md)                                                 |                          27 |                         9 |                      0.473684 |                    18 |
+| [geography teacher secondary school](geography_teacher_secondary_school.md)                                           |                          28 |                         9 |                      0.473684 |                    19 |
+| [agriculture, forestry and fishery vocational teacher](agriculture,_forestry_and_fishery_vocational_teacher.md)       |                          25 |                         9 |                      0.473684 |                    16 |
+| [transport technology vocational teacher](transport_technology_vocational_teacher.md)                                 |                          25 |                         9 |                      0.473684 |                    16 |
+| [biology teacher secondary school](biology_teacher_secondary_school.md)                                               |                          28 |                         9 |                      0.473684 |                    19 |
+| [design and applied arts vocational teacher](design_and_applied_arts_vocational_teacher.md)                           |                          27 |                         9 |                      0.473684 |                    18 |
+| [business and marketing vocational teacher](business_and_marketing_vocational_teacher.md)                             |                          27 |                         9 |                      0.473684 |                    18 |
+| [drama teacher](drama_teacher.md)                                                                                     |                          25 |                         8 |                      0.421053 |                    17 |
+| [maritime instructor](maritime_instructor.md)                                                                         |                          22 |                         8 |                      0.421053 |                    14 |
+| [drama teacher secondary school](drama_teacher_secondary_school.md)                                                   |                          32 |                         8 |                      0.421053 |                    24 |
+| [photography teacher](photography_teacher.md)                                                                         |                          23 |                         8 |                      0.421053 |                    15 |
+| [performing arts school dance instructor](performing_arts_school_dance_instructor.md)                                 |                          25 |                         8 |                      0.421053 |                    17 |
+| [physical education vocational teacher](physical_education_vocational_teacher.md)                                     |                          26 |                         8 |                      0.421053 |                    18 |
+| [fine arts instructor](fine_arts_instructor.md)                                                                       |                          25 |                         8 |                      0.421053 |                    17 |
+| [art teacher secondary school](art_teacher_secondary_school.md)                                                       |                          27 |                         8 |                      0.421053 |                    19 |
+| [performing arts theatre instructor](performing_arts_theatre_instructor.md)                                           |                          30 |                         8 |                      0.421053 |                    22 |
+| [music teacher](music_teacher.md)                                                                                     |                          23 |                         8 |                      0.421053 |                    15 |
+| [food service vocational teacher](food_service_vocational_teacher.md)                                                 |                          26 |                         8 |                      0.421053 |                    18 |
+| [music instructor](music_instructor.md)                                                                               |                          25 |                         8 |                      0.421053 |                    17 |
+| [hospitality vocational teacher](hospitality_vocational_teacher.md)                                                   |                          24 |                         8 |                      0.421053 |                    16 |
+| [music teacher secondary school](music_teacher_secondary_school.md)                                                   |                          31 |                         8 |                      0.421053 |                    23 |
+| [flight instructor](flight_instructor.md)                                                                             |                          20 |                         8 |                      0.421053 |                    12 |
+| [communications lecturer](communications_lecturer.md)                                                                 |                          21 |                         7 |                      0.368421 |                    14 |
+| [driving instructor](driving_instructor.md)                                                                           |                          23 |                         7 |                      0.368421 |                    16 |
+| [visual arts teacher](visual_arts_teacher.md)                                                                         |                          23 |                         7 |                      0.368421 |                    16 |
+| [higher education lecturer](higher_education_lecturer.md)                                                             |                          15 |                         7 |                      0.368421 |                     8 |
+| [occupational railway instructor](occupational_railway_instructor.md)                                                 |                          20 |                         7 |                      0.368421 |                    13 |
+| [outdoor activities instructor](outdoor_activities_instructor.md)                                                     |                          18 |                         7 |                      0.368421 |                    11 |
+| [dance teacher](dance_teacher.md)                                                                                     |                          25 |                         7 |                      0.368421 |                    18 |
+| [motorcycle instructor](motorcycle_instructor.md)                                                                     |                          25 |                         7 |                      0.368421 |                    18 |
+| [vocational teacher](vocational_teacher.md)                                                                           |                          11 |                         7 |                      0.368421 |                     4 |
+| [truck driving instructor](truck_driving_instructor.md)                                                               |                          26 |                         7 |                      0.368421 |                    19 |
+| [circus arts teacher](circus_arts_teacher.md)                                                                         |                          33 |                         7 |                      0.368421 |                    26 |
+| [secondary school teaching assistant](secondary_school_teaching_assistant.md)                                         |                          20 |                         7 |                      0.368421 |                    13 |
+| [public speaking coach](public_speaking_coach.md)                                                                     |                          14 |                         7 |                      0.368421 |                     7 |
+| [bus driving instructor](bus_driving_instructor.md)                                                                   |                          23 |                         7 |                      0.368421 |                    16 |
+| [vessel steering instructor](vessel_steering_instructor.md)                                                           |                          19 |                         7 |                      0.368421 |                    12 |
+| [sports coach](sports_coach.md)                                                                                       |                          26 |                         7 |                      0.368421 |                    19 |
+| [car driving instructor](car_driving_instructor.md)                                                                   |                          25 |                         7 |                      0.368421 |                    18 |
+| [classical languages lecturer](classical_languages_lecturer.md)                                                       |                          20 |                         6 |                      0.315789 |                    14 |
+| [space science lecturer](space_science_lecturer.md)                                                                   |                          21 |                         6 |                      0.315789 |                    15 |
+| [psychology lecturer](psychology_lecturer.md)                                                                         |                          20 |                         6 |                      0.315789 |                    14 |
+| [modern languages lecturer](modern_languages_lecturer.md)                                                             |                          19 |                         6 |                      0.315789 |                    13 |
+| [architecture lecturer](architecture_lecturer.md)                                                                     |                          23 |                         6 |                      0.315789 |                    17 |
+| [engineering lecturer](engineering_lecturer.md)                                                                       |                          23 |                         6 |                      0.315789 |                    17 |
+| [history lecturer](history_lecturer.md)                                                                               |                          20 |                         6 |                      0.315789 |                    14 |
+| [law lecturer](law_lecturer.md)                                                                                       |                          21 |                         6 |                      0.315789 |                    15 |
+| [first aid instructor](first_aid_instructor.md)                                                                       |                          23 |                         6 |                      0.315789 |                    17 |
+| [healthcare specialist lecturer](healthcare_specialist_lecturer.md)                                                   |                          17 |                         6 |                      0.315789 |                    11 |
+| [archaeology lecturer](archaeology_lecturer.md)                                                                       |                          21 |                         6 |                      0.315789 |                    15 |
+| [special educational needs assistant](special_educational_needs_assistant.md)                                         |                          23 |                         6 |                      0.315789 |                    17 |
+| [philosophy lecturer](philosophy_lecturer.md)                                                                         |                          20 |                         6 |                      0.315789 |                    14 |
+| [computer science lecturer](computer_science_lecturer.md)                                                             |                          62 |                         6 |                      0.315789 |                    56 |
+| [anthropology lecturer](anthropology_lecturer.md)                                                                     |                          18 |                         6 |                      0.315789 |                    12 |
+| [linguistics lecturer](linguistics_lecturer.md)                                                                       |                          22 |                         6 |                      0.315789 |                    16 |
+| [politics lecturer](politics_lecturer.md)                                                                             |                          23 |                         6 |                      0.315789 |                    17 |
+| [religious studies lecturer](religious_studies_lecturer.md)                                                           |                          19 |                         6 |                      0.315789 |                    13 |
+| [assistant lecturer](assistant_lecturer.md)                                                                           |                          24 |                         6 |                      0.315789 |                    18 |
+| [food science lecturer](food_science_lecturer.md)                                                                     |                          23 |                         6 |                      0.315789 |                    17 |
+| [chemistry lecturer](chemistry_lecturer.md)                                                                           |                          23 |                         6 |                      0.315789 |                    17 |
+| [art studies lecturer](art_studies_lecturer.md)                                                                       |                          18 |                         6 |                      0.315789 |                    12 |
+| [mathematics lecturer](mathematics_lecturer.md)                                                                       |                          18 |                         6 |                      0.315789 |                    12 |
+| [education studies lecturer](education_studies_lecturer.md)                                                           |                          19 |                         6 |                      0.315789 |                    13 |
+| [physics lecturer](physics_lecturer.md)                                                                               |                          18 |                         6 |                      0.315789 |                    12 |
+| [university teaching assistant](university_teaching_assistant.md)                                                     |                          11 |                         6 |                      0.315789 |                     5 |
+| [social work lecturer](social_work_lecturer.md)                                                                       |                          82 |                         6 |                      0.315789 |                    76 |
+| [business lecturer](business_lecturer.md)                                                                             |                          21 |                         6 |                      0.315789 |                    15 |
+| [earth science lecturer](earth_science_lecturer.md)                                                                   |                          22 |                         6 |                      0.315789 |                    16 |
+| [occupational driving instructor](occupational_driving_instructor.md)                                                 |                          21 |                         6 |                      0.315789 |                    15 |
+| [veterinary medicine lecturer](veterinary_medicine_lecturer.md)                                                       |                          26 |                         6 |                      0.315789 |                    20 |
+| [dentistry lecturer](dentistry_lecturer.md)                                                                           |                          23 |                         6 |                      0.315789 |                    17 |
+| [journalism lecturer](journalism_lecturer.md)                                                                         |                          21 |                         6 |                      0.315789 |                    15 |
+| [survival instructor](survival_instructor.md)                                                                         |                          28 |                         6 |                      0.315789 |                    22 |
+| [pharmacy lecturer](pharmacy_lecturer.md)                                                                             |                          21 |                         6 |                      0.315789 |                    15 |
+| [university literature lecturer](university_literature_lecturer.md)                                                   |                          22 |                         6 |                      0.315789 |                    16 |
+| [economics lecturer](economics_lecturer.md)                                                                           |                          18 |                         6 |                      0.315789 |                    12 |
+| [medicine lecturer](medicine_lecturer.md)                                                                             |                          20 |                         6 |                      0.315789 |                    14 |
+| [biology lecturer](biology_lecturer.md)                                                                               |                          22 |                         6 |                      0.315789 |                    16 |
+| [travel and tourism vocational teacher](travel_and_tourism_vocational_teacher.md)                                     |                          28 |                         6 |                      0.315789 |                    22 |
+| [learning mentor](learning_mentor.md)                                                                                 |                          17 |                         5 |                      0.263158 |                    12 |
+| [corporate trainer](corporate_trainer.md)                                                                             |                          16 |                         5 |                      0.263158 |                    11 |
+| [prison instructor](prison_instructor.md)                                                                             |                          21 |                         5 |                      0.263158 |                    16 |
+| [sign language teacher](sign_language_teacher.md)                                                                     |                          19 |                         5 |                      0.263158 |                    14 |
+| [sociology lecturer](sociology_lecturer.md)                                                                           |                          18 |                         5 |                      0.263158 |                    13 |
+| [early years teaching assistant](early_years_teaching_assistant.md)                                                   |                          20 |                         5 |                      0.263158 |                    15 |
+| [academic support officer](academic_support_officer.md)                                                               |                          20 |                         5 |                      0.263158 |                    15 |
+| [education welfare officer](education_welfare_officer.md)                                                             |                          79 |                         4 |                      0.210526 |                    75 |
+| [university department head](university_department_head.md)                                                           |                          22 |                         4 |                      0.210526 |                    18 |
+| [football coach](football_coach.md)                                                                                   |                          15 |                         4 |                      0.210526 |                    11 |
+| [primary school teaching assistant](primary_school_teaching_assistant.md)                                             |                          19 |                         4 |                      0.210526 |                    15 |
+| [secondary school department head](secondary_school_department_head.md)                                               |                          22 |                         4 |                      0.210526 |                    18 |
+| [academic advisor](academic_advisor.md)                                                                               |                          14 |                         4 |                      0.210526 |                    10 |
+| [nursery school head teacher](nursery_school_head_teacher.md)                                                         |                          23 |                         3 |                      0.157895 |                    20 |
+| [special educational needs head teacher](special_educational_needs_head_teacher.md)                                   |                          26 |                         3 |                      0.157895 |                    23 |
+| [nanny](nanny.md)                                                                                                     |                          16 |                         3 |                      0.157895 |                    13 |
+| [police trainer](police_trainer.md)                                                                                   |                          19 |                         3 |                      0.157895 |                    16 |
+| [au pair](au_pair.md)                                                                                                 |                          13 |                         3 |                      0.157895 |                    10 |
+| [corporate training manager](corporate_training_manager.md)                                                           |                          34 |                         3 |                      0.157895 |                    31 |
+| [special educational needs coordinator](special_educational_needs_coordinator.md)                                     |                          20 |                         3 |                      0.157895 |                    17 |
+| [golf instructor](golf_instructor.md)                                                                                 |                           9 |                         3 |                      0.157895 |                     6 |
+| [armed forces training and education officer](armed_forces_training_and_education_officer.md)                         |                          20 |                         3 |                      0.157895 |                    17 |
+| [admissions coordinator](admissions_coordinator.md)                                                                   |                           8 |                         2 |                      0.105263 |                     6 |
+| [head of higher education institutions](head_of_higher_education_institutions.md)                                     |                          19 |                         2 |                      0.105263 |                    17 |
+| [firefighter instructor](firefighter_instructor.md)                                                                   |                          19 |                         2 |                      0.105263 |                    17 |
+| [deputy head teacher](deputy_head_teacher.md)                                                                         |                          17 |                         2 |                      0.105263 |                    15 |
+| [further education principal](further_education_principal.md)                                                         |                          20 |                         2 |                      0.105263 |                    18 |
+| [snowboard instructor](snowboard_instructor.md)                                                                       |                           8 |                         2 |                      0.105263 |                     6 |
+| [boxing instructor](boxing_instructor.md)                                                                             |                           9 |                         2 |                      0.105263 |                     7 |
+| [primary school head teacher](primary_school_head_teacher.md)                                                         |                          24 |                         2 |                      0.105263 |                    22 |
+| [educational counsellor](educational_counsellor.md)                                                                   |                          19 |                         2 |                      0.105263 |                    17 |
+| [horse riding instructor](horse_riding_instructor.md)                                                                 |                          13 |                         2 |                      0.105263 |                    11 |
+| [babysitter](babysitter.md)                                                                                           |                          10 |                         2 |                      0.105263 |                     8 |
+| [career guidance advisor](career_guidance_advisor.md)                                                                 |                          19 |                         2 |                      0.105263 |                    17 |
+| [business coach](business_coach.md)                                                                                   |                           9 |                         2 |                      0.105263 |                     7 |
+| [child day care worker](child_day_care_worker.md)                                                                     |                          74 |                         2 |                      0.105263 |                    72 |
+| [secondary school head teacher](secondary_school_head_teacher.md)                                                     |                          24 |                         2 |                      0.105263 |                    22 |

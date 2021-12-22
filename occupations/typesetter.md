@@ -1,107 +1,18 @@
 #Occupation typesetter
 ##Number skills 26
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match typesetter</th>
-      <th>percentage match with typesetter</th>
-      <th>skills not in typesetter</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[imagesetter](imagesetter.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>19</td>
-      <td>0.730769</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prepress operator](prepress_operator.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>14</td>
-      <td>0.538462</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prepress technician](prepress_technician.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>13</td>
-      <td>0.500000</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer science lecturer](computer_science_lecturer.md)&lt;/span&gt;</td>
-      <td>62</td>
-      <td>7</td>
-      <td>0.269231</td>
-      <td>55</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[desktop publisher](desktop_publisher.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.192308</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[reprographics technician](reprographics_technician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>4</td>
-      <td>0.153846</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[copy editor](copy_editor.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>4</td>
-      <td>0.153846</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gravure press operator](gravure_press_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.115385</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[illustrator](illustrator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.115385</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[digital printer](digital_printer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.115385</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cartoonist](cartoonist.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.115385</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flexographic press operator](flexographic_press_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>3</td>
-      <td>0.115385</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[typist](typist.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.115385</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                    |   skills in this occupation |   skills that match typesetter |   percentage match with typesetter |   skills not in typesetter |
+|:--------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
+| [imagesetter](imagesetter.md)                                 |                          28 |                             19 |                           0.730769 |                          9 |
+| [prepress operator](prepress_operator.md)                     |                          23 |                             14 |                           0.538462 |                          9 |
+| [prepress technician](prepress_technician.md)                 |                          28 |                             13 |                           0.5      |                         15 |
+| [computer science lecturer](computer_science_lecturer.md)     |                          62 |                              7 |                           0.269231 |                         55 |
+| [desktop publisher](desktop_publisher.md)                     |                          17 |                              5 |                           0.192308 |                         12 |
+| [reprographics technician](reprographics_technician.md)       |                          16 |                              4 |                           0.153846 |                         12 |
+| [copy editor](copy_editor.md)                                 |                          12 |                              4 |                           0.153846 |                          8 |
+| [gravure press operator](gravure_press_operator.md)           |                          18 |                              3 |                           0.115385 |                         15 |
+| [illustrator](illustrator.md)                                 |                          16 |                              3 |                           0.115385 |                         13 |
+| [digital printer](digital_printer.md)                         |                          18 |                              3 |                           0.115385 |                         15 |
+| [cartoonist](cartoonist.md)                                   |                          17 |                              3 |                           0.115385 |                         14 |
+| [flexographic press operator](flexographic_press_operator.md) |                          18 |                              3 |                           0.115385 |                         15 |
+| [typist](typist.md)                                           |                          12 |                              3 |                           0.115385 |                          9 |

@@ -1,65 +1,12 @@
 #Occupation singer
 ##Number skills 12
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match singer</th>
-      <th>percentage match with singer</th>
-      <th>skills not in singer</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[musician](musician.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>8</td>
-      <td>0.666667</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[puppeteer](puppeteer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>6</td>
-      <td>0.500000</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[variety artist](variety_artist.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>6</td>
-      <td>0.500000</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[actor/actress](actor-actress.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>5</td>
-      <td>0.416667</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stand-up comedian](stand-up_comedian.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>5</td>
-      <td>0.416667</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[street performer](street_performer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>5</td>
-      <td>0.416667</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dancer](dancer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>3</td>
-      <td>0.250000</td>
-      <td>17</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                |   skills in this occupation |   skills that match singer |   percentage match with singer |   skills not in singer |
+|:------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
+| [musician](musician.md)                   |                          10 |                          8 |                       0.666667 |                      2 |
+| [puppeteer](puppeteer.md)                 |                          12 |                          6 |                       0.5      |                      6 |
+| [variety artist](variety_artist.md)       |                           9 |                          6 |                       0.5      |                      3 |
+| [actor/actress](actor-actress.md)         |                          23 |                          5 |                       0.416667 |                     18 |
+| [stand-up comedian](stand-up_comedian.md) |                          10 |                          5 |                       0.416667 |                      5 |
+| [street performer](street_performer.md)   |                          17 |                          5 |                       0.416667 |                     12 |
+| [dancer](dancer.md)                       |                          20 |                          3 |                       0.25     |                     17 |

@@ -1,2550 +1,367 @@
 #Occupation greaser
 ##Number skills 9
 ###Similar occupations:
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>occupation</th>
-      <th>skills in this occupation</th>
-      <th>skills that match greaser</th>
-      <th>percentage match with greaser</th>
-      <th>skills not in greaser</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>&lt;span&gt;[maintenance and repair engineer](maintenance_and_repair_engineer.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>4</td>
-      <td>0.444444</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper pulp moulding operator](paper_pulp_moulding_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[table saw operator](table_saw_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[planer thicknesser operator](planer_thicknesser_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper stationery machine operator](paper_stationery_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sawmill operator](sawmill_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[engineered wood board machine operator](engineered_wood_board_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood router operator](wood_router_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[envelope maker](envelope_maker.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[veneer slicer operator](veneer_slicer_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tissue paper perforating and rewinding operator](tissue_paper_perforating_and_rewinding_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[absorbent pad machine operator](absorbent_pad_machine_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper cutter operator](paper_cutter_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laminating machine operator](laminating_machine_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper machine operator](paper_machine_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lift engineer](lift_engineer.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pulp control operator](pulp_control_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paperboard products assembler](paperboard_products_assembler.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial machinery mechanic](industrial_machinery_mechanic.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[debarker operator](debarker_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood fuel pelletiser](wood_fuel_pelletiser.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[corrugator operator](corrugator_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper bag machine operator](paper_bag_machine_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[nailing machine operator](nailing_machine_operator.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chipper operator](chipper_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood pallet maker](wood_pallet_maker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[digester operator](digester_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[band saw operator](band_saw_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bleacher operator](bleacher_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>3</td>
-      <td>0.333333</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle engine assembler](motor_vehicle_engine_assembler.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine upholsterer](marine_upholsterer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rustproofer](rustproofer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bicycle assembler](bicycle_assembler.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[railway car upholsterer](railway_car_upholsterer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geothermal power plant operator](geothermal_power_plant_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive brake technician](automotive_brake_technician.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft de-icer installer](aircraft_de-icer_installer.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[woodturner](woodturner.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[power plant control room operator](power_plant_control_room_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stone splitter](stone_splitter.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine electrician](marine_electrician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle parts assembler](motor_vehicle_parts_assembler.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motorcycle assembler](motorcycle_assembler.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rolling stock electrician](rolling_stock_electrician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[moulding machine technician](moulding_machine_technician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[power production plant operator](power_production_plant_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drop forging hammer worker](drop_forging_hammer_worker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[water jet cutter operator](water_jet_cutter_operator.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood sander](wood_sander.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spot welder](spot_welder.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laser beam welder](laser_beam_welder.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electromechanical equipment assembler](electromechanical_equipment_assembler.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tool and die maker](tool_and_die_maker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle upholsterer](motor_vehicle_upholsterer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pulp technician](pulp_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cotton gin operator](cotton_gin_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle body assembler](motor_vehicle_body_assembler.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plasma cutting machine operator](plasma_cutting_machine_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bindery operator](bindery_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hydraulic forging press worker](hydraulic_forging_press_worker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft interior technician](aircraft_interior_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plastic products assembler](plastic_products_assembler.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gear machinist](gear_machinist.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[boat rigger](boat_rigger.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vessel engine assembler](vessel_engine_assembler.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oxy fuel burning machine operator](oxy_fuel_burning_machine_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laser cutting machine operator](laser_cutting_machine_operator.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft assembler](aircraft_assembler.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[froth flotation deinking operator](froth_flotation_deinking_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tumbling machine operator](tumbling_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wash deinking operator](wash_deinking_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rotating equipment mechanic](rotating_equipment_mechanic.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial engineering technician](industrial_engineering_technician.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electric meter technician](electric_meter_technician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial tool design engineer](industrial_tool_design_engineer.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stamping press operator](stamping_press_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[process engineering technician](process_engineering_technician.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pneumatic engineering technician](pneumatic_engineering_technician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[production engineering technician](production_engineering_technician.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft engine assembler](aircraft_engine_assembler.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft gas turbine engine overhaul technician](aircraft_gas_turbine_engine_overhaul_technician.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lacquer spray gun operator](lacquer_spray_gun_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electron beam welder](electron_beam_welder.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[upsetting machine operator](upsetting_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal nibbling operator](metal_nibbling_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[surface grinding machine operator](surface_grinding_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[factory hand](factory_hand.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[laser marking machine operator](laser_marking_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal sawing machine operator](metal_sawing_machine_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stone planer](stone_planer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive electrician](automotive_electrician.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal rolling mill operator](metal_rolling_mill_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drill press operator](drill_press_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[anodising machine operator](anodising_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[varnish maker](varnish_maker.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood boring machine operator](wood_boring_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[boilermaker](boilermaker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mechanical forging press worker](mechanical_forging_press_worker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electroplating machine operator](electroplating_machine_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lacquer maker](lacquer_maker.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[container equipment assembler](container_equipment_assembler.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[welder](welder.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fossil-fuel power plant operator](fossil-fuel_power_plant_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dismantling worker](dismantling_worker.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[avionics technician](avionics_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fiberglass laminator](fiberglass_laminator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[print folding operator](print_folding_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[glass forming machine operator](glass_forming_machine_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rolling stock assembler](rolling_stock_assembler.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rubber products machine operator](rubber_products_machine_operator.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vehicle glazier](vehicle_glazier.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electrical equipment assembler](electrical_equipment_assembler.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fibreglass machine operator](fibreglass_machine_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>2</td>
-      <td>0.222222</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[punch press operator](punch_press_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine electrical engineer](mine_electrical_engineer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spring maker](spring_maker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[container equipment design engineer](container_equipment_design_engineer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[coking furnace operator](coking_furnace_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[book-sewing machine operator](book-sewing_machine_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stone polisher](stone_polisher.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[offset printer](offset_printer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[precision mechanic](precision_mechanic.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft assembly supervisor](aircraft_assembly_supervisor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[flexographic press operator](flexographic_press_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial maintenance supervisor](industrial_maintenance_supervisor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gravure press operator](gravure_press_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood production supervisor](wood_production_supervisor.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[digital printer](digital_printer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[geotechnician](geotechnician.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mechanical engineering technician](mechanical_engineering_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prepress technician](prepress_technician.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export specialist in machinery, industrial equipment, ships and aircraft](import_export_specialist_in_machinery,_industrial_equipment,_ships_and_aircraft.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial assembly supervisor](industrial_assembly_supervisor.md)&lt;/span&gt;</td>
-      <td>35</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>34</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine ventilation engineer](mine_ventilation_engineer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[printed circuit board test technician](printed_circuit_board_test_technician.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine mechanical engineer](mine_mechanical_engineer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electricity distribution worker](electricity_distribution_worker.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood products assembler](wood_products_assembler.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal products assembler](metal_products_assembler.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[screw machine operator](screw_machine_operator.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metrology technician](metrology_technician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wholesale merchant in machinery, industrial equipment, ships and aircraft](wholesale_merchant_in_machinery,_industrial_equipment,_ships_and_aircraft.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cable jointer](cable_jointer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[overhead line worker](overhead_line_worker.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[computer numerical control machine operator](computer_numerical_control_machine_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle assembly supervisor](motor_vehicle_assembly_supervisor.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[street lighting electrician](street_lighting_electrician.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[air pollution analyst](air_pollution_analyst.md)&lt;/span&gt;</td>
-      <td>7</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[instrument technician](instrument_technician.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bricklayer](bricklayer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wire weaving machine operator](wire_weaving_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[brazier](brazier.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[roustabout](roustabout.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sewerage maintenance technician](sewerage_maintenance_technician.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[foundry moulder](foundry_moulder.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[deburring machine operator](deburring_machine_operator.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rolling stock assembly supervisor](rolling_stock_assembly_supervisor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine control room operator](mine_control_room_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[refinery shift manager](refinery_shift_manager.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[non-destructive testing specialist](non-destructive_testing_specialist.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fibre machine tender](fibre_machine_tender.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper mill supervisor](paper_mill_supervisor.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[event scaffolder](event_scaffolder.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[clock and watchmaker](clock_and_watchmaker.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal drawing machine operator](metal_drawing_machine_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optical disc moulding machine operator](optical_disc_moulding_machine_operator.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vehicle technician](vehicle_technician.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[record press operator](record_press_operator.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cylindrical grinder operator](cylindrical_grinder_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[blow moulding machine operator](blow_moulding_machine_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pultrusion machine operator](pultrusion_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stage machinist](stage_machinist.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[heating engineer](heating_engineer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[demolition worker](demolition_worker.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[paper embosing press operator](paper_embosing_press_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cake press operator](cake_press_operator.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[coating machine operator](coating_machine_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plastic rolling machine operator](plastic_rolling_machine_operator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[filament winding operator](filament_winding_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vacuum forming machine operator](vacuum_forming_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plastic and rubber products manufacturing supervisor](plastic_and_rubber_products_manufacturing_supervisor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[transport equipment painter](transport_equipment_painter.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[decontamination worker](decontamination_worker.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[plastic heat treatment equipment operator](plastic_heat_treatment_equipment_operator.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[injection moulding operator](injection_moulding_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[building exterior cleaner](building_exterior_cleaner.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine engineering technician](marine_engineering_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[chain making machine operator](chain_making_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aerospace engineering technician](aerospace_engineering_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[petroleum engineer](petroleum_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[numerical tool and process control programmer](numerical_tool_and_process_control_programmer.md)&lt;/span&gt;</td>
-      <td>52</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>51</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electrical power distributor](electrical_power_distributor.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ATM repair technician](ATM_repair_technician.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[product development engineering technician](product_development_engineering_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[control panel assembler](control_panel_assembler.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[heat treatment furnace operator](heat_treatment_furnace_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine rescue officer](mine_rescue_officer.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine safety officer](mine_safety_officer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mineral processing engineer](mineral_processing_engineer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ornamental metal worker](ornamental_metal_worker.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[vessel assembly supervisor](vessel_assembly_supervisor.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sports equipment repair technician](sports_equipment_repair_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[surface mine plant operator](surface_mine_plant_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[import export manager in machinery, industrial equipment, ships and aircraft](import_export_manager_in_machinery,_industrial_equipment,_ships_and_aircraft.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine development engineer](mine_development_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[liquid fuel engineer](liquid_fuel_engineer.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[gas processing plant control room operator](gas_processing_plant_control_room_operator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive engineering technician](automotive_engineering_technician.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[explosives engineer](explosives_engineer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mine shift manager](mine_shift_manager.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[oil refinery control room operator](oil_refinery_control_room_operator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rolling stock engineering technician](rolling_stock_engineering_technician.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[engraving machine operator](engraving_machine_operator.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rail layer](rail_layer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[boring machine operator](boring_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[glass annealer](glass_annealer.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[underground heavy equipment operator](underground_heavy_equipment_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[commissioning technician](commissioning_technician.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[riveter](riveter.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[shipwright](shipwright.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[environmental mining engineer](environmental_mining_engineer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drilling engineer](drilling_engineer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[process metallurgist](process_metallurgist.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[water plant technician](water_plant_technician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood treater](wood_treater.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood drying kiln operator](wood_drying_kiln_operator.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[steam turbine operator](steam_turbine_operator.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[emergency response worker](emergency_response_worker.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wind turbine technician](wind_turbine_technician.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[honey extractor](honey_extractor.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[precision device inspector](precision_device_inspector.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[optical instrument production supervisor](optical_instrument_production_supervisor.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[battery assembler](battery_assembler.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electronics production supervisor](electronics_production_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[petroleum pump system operator](petroleum_pump_system_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[heating, ventilation, air conditioning (and refrigeration) service engineer](heating,_ventilation,_air_conditioning_(and_refrigeration)_service_engineer.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[heating, ventilation, air conditioning and refrigeration engineering technician](heating,_ventilation,_air_conditioning_and_refrigeration_engineering_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[solid waste operator](solid_waste_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electrical cable assembler](electrical_cable_assembler.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive test driver](automotive_test_driver.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal annealer](metal_annealer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal furnace operator](metal_furnace_operator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[desalination technician](desalination_technician.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[cosmetics production machine operator](cosmetics_production_machine_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[swaging machine operator](swaging_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[high rigger](high_rigger.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dresser](dresser.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[shotfirer](shotfirer.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[set builder](set_builder.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[surface miner](surface_miner.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[underground miner](underground_miner.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[carpet weaver](carpet_weaver.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electrical mechanic](electrical_mechanic.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mineral processing operator](mineral_processing_operator.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sewer construction worker](sewer_construction_worker.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prop maker](prop_maker.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stage technician](stage_technician.md)&lt;/span&gt;</td>
-      <td>43</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>42</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[costume maker](costume_maker.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[prop master/prop mistress](prop_master-prop_mistress.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mask maker](mask_maker.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road maintenance technician](road_maintenance_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[ground rigger](ground_rigger.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stagehand](stagehand.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mining assistant](mining_assistant.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medical device engineering technician](medical_device_engineering_technician.md)&lt;/span&gt;</td>
-      <td>34</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>33</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stonemason](stonemason.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[incinerator operator](incinerator_operator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[instrumentation engineering technician](instrumentation_engineering_technician.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[perfume production machine operator](perfume_production_machine_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[forge equipment technician](forge_equipment_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[solderer](solderer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agricultural machinery technician](agricultural_machinery_technician.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[container crane operator](container_crane_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[blacksmith](blacksmith.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metrologist](metrologist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal engraver](metal_engraver.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tent installer](tent_installer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dewatering technician](dewatering_technician.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[recycling worker](recycling_worker.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[motor vehicle assembler](motor_vehicle_assembler.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[marine mechanic](marine_mechanic.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>36</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stevedore](stevedore.md)&lt;/span&gt;</td>
-      <td>37</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>36</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[consumer electronics repair technician](consumer_electronics_repair_technician.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mobile phone repair technician](mobile_phone_repair_technician.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[crane technician](crane_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[steam plant operator](steam_plant_operator.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[medical laboratory assistant](medical_laboratory_assistant.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pharmacologist](pharmacologist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[scientific laboratory technician](scientific_laboratory_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fire safety tester](fire_safety_tester.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[material testing technician](material_testing_technician.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drawing kiln operator](drawing_kiln_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction equipment technician](construction_equipment_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mechatronics assembler](mechatronics_assembler.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pneumatic systems technician](pneumatic_systems_technician.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[pottery and porcelain caster](pottery_and_porcelain_caster.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[textile machinery technician](textile_machinery_technician.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electrical equipment production supervisor](electrical_equipment_production_supervisor.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mineral crushing operator](mineral_crushing_operator.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[roofer](roofer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wire harness assembler](wire_harness_assembler.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[stone driller](stone_driller.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[coppersmith](coppersmith.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[diesel engine mechanic](diesel_engine_mechanic.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft maintenance engineer](aircraft_maintenance_engineer.md)&lt;/span&gt;</td>
-      <td>31</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft maintenance technician](aircraft_maintenance_technician.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[wood caulker](wood_caulker.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agricultural equipment design engineer](agricultural_equipment_design_engineer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fluid power engineer](fluid_power_engineer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[packing machinery engineer](packing_machinery_engineer.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rotating equipment engineer](rotating_equipment_engineer.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial firefighter](industrial_firefighter.md)&lt;/span&gt;</td>
-      <td>29</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>28</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electrical engineering technician](electrical_engineering_technician.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[radiation protection technician](radiation_protection_technician.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial robot controller](industrial_robot_controller.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[installation engineer](installation_engineer.md)&lt;/span&gt;</td>
-      <td>18</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hydropower technician](hydropower_technician.md)&lt;/span&gt;</td>
-      <td>23</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hydropower engineer](hydropower_engineer.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[fluid power technician](fluid_power_technician.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[electromechanical engineering technician](electromechanical_engineering_technician.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[energy systems engineer](energy_systems_engineer.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[foundry operative](foundry_operative.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[commissioning engineer](commissioning_engineer.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[technical sales representative in machinery and industrial equipment](technical_sales_representative_in_machinery_and_industrial_equipment.md)&lt;/span&gt;</td>
-      <td>32</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>31</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[milling machine operator](milling_machine_operator.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[extrusion machine operator](extrusion_machine_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lathe and turning machine operator](lathe_and_turning_machine_operator.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[filing machine operator](filing_machine_operator.md)&lt;/span&gt;</td>
-      <td>16</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[abrasive blasting operator](abrasive_blasting_operator.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[grinding machine operator](grinding_machine_operator.md)&lt;/span&gt;</td>
-      <td>24</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>23</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[spark erosion machine operator](spark_erosion_machine_operator.md)&lt;/span&gt;</td>
-      <td>15</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[industrial machinery assembler](industrial_machinery_assembler.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[underwater construction supervisor](underwater_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[coquille casting worker](coquille_casting_worker.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[dip tank operator](dip_tank_operator.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[head of workshop](head_of_workshop.md)&lt;/span&gt;</td>
-      <td>28</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[tyre vulcaniser](tyre_vulcaniser.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[bridge construction supervisor](bridge_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aircraft engine specialist](aircraft_engine_specialist.md)&lt;/span&gt;</td>
-      <td>21</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[precision instrument assembler](precision_instrument_assembler.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[automotive battery technician](automotive_battery_technician.md)&lt;/span&gt;</td>
-      <td>9</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[surface treatment operator](surface_treatment_operator.md)&lt;/span&gt;</td>
-      <td>8</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[sewer construction supervisor](sewer_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>27</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>26</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[construction scaffolding supervisor](construction_scaffolding_supervisor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hot foil operator](hot_foil_operator.md)&lt;/span&gt;</td>
-      <td>14</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[hydroelectric plant operator](hydroelectric_plant_operator.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[aerospace engineer](aerospace_engineer.md)&lt;/span&gt;</td>
-      <td>17</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[thermal engineer](thermal_engineer.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[screen printer](screen_printer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[agricultural engineer](agricultural_engineer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[satellite engineer](satellite_engineer.md)&lt;/span&gt;</td>
-      <td>19</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mining electrician](mining_electrician.md)&lt;/span&gt;</td>
-      <td>12</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[mining equipment mechanic](mining_equipment_mechanic.md)&lt;/span&gt;</td>
-      <td>11</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in air transport equipment](rental_service_representative_in_air_transport_equipment.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[lift installation supervisor](lift_installation_supervisor.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rental service representative in water transport equipment](rental_service_representative_in_water_transport_equipment.md)&lt;/span&gt;</td>
-      <td>26</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>25</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[driller](driller.md)&lt;/span&gt;</td>
-      <td>10</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[drilling machine operator](drilling_machine_operator.md)&lt;/span&gt;</td>
-      <td>20</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>19</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[rail construction supervisor](rail_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>22</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>21</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[process engineer](process_engineer.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[road construction supervisor](road_construction_supervisor.md)&lt;/span&gt;</td>
-      <td>25</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>&lt;span&gt;[metal polisher](metal_polisher.md)&lt;/span&gt;</td>
-      <td>13</td>
-      <td>1</td>
-      <td>0.111111</td>
-      <td>12</td>
-    </tr>
-  </tbody>
-</table>
+| occupation                                                                                                                                                            |   skills in this occupation |   skills that match greaser |   percentage match with greaser |   skills not in greaser |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
+| [maintenance and repair engineer](maintenance_and_repair_engineer.md)                                                                                                 |                          21 |                           4 |                        0.444444 |                      17 |
+| [paper pulp moulding operator](paper_pulp_moulding_operator.md)                                                                                                       |                          15 |                           3 |                        0.333333 |                      12 |
+| [table saw operator](table_saw_operator.md)                                                                                                                           |                          22 |                           3 |                        0.333333 |                      19 |
+| [planer thicknesser operator](planer_thicknesser_operator.md)                                                                                                         |                          21 |                           3 |                        0.333333 |                      18 |
+| [paper stationery machine operator](paper_stationery_machine_operator.md)                                                                                             |                          14 |                           3 |                        0.333333 |                      11 |
+| [sawmill operator](sawmill_operator.md)                                                                                                                               |                          22 |                           3 |                        0.333333 |                      19 |
+| [engineered wood board machine operator](engineered_wood_board_machine_operator.md)                                                                                   |                          14 |                           3 |                        0.333333 |                      11 |
+| [wood router operator](wood_router_operator.md)                                                                                                                       |                          21 |                           3 |                        0.333333 |                      18 |
+| [envelope maker](envelope_maker.md)                                                                                                                                   |                          15 |                           3 |                        0.333333 |                      12 |
+| [veneer slicer operator](veneer_slicer_operator.md)                                                                                                                   |                          17 |                           3 |                        0.333333 |                      14 |
+| [tissue paper perforating and rewinding operator](tissue_paper_perforating_and_rewinding_operator.md)                                                                 |                          15 |                           3 |                        0.333333 |                      12 |
+| [absorbent pad machine operator](absorbent_pad_machine_operator.md)                                                                                                   |                          12 |                           3 |                        0.333333 |                       9 |
+| [paper cutter operator](paper_cutter_operator.md)                                                                                                                     |                          17 |                           3 |                        0.333333 |                      14 |
+| [laminating machine operator](laminating_machine_operator.md)                                                                                                         |                          13 |                           3 |                        0.333333 |                      10 |
+| [paper machine operator](paper_machine_operator.md)                                                                                                                   |                          17 |                           3 |                        0.333333 |                      14 |
+| [lift engineer](lift_engineer.md)                                                                                                                                     |                          31 |                           3 |                        0.333333 |                      28 |
+| [pulp control operator](pulp_control_operator.md)                                                                                                                     |                          14 |                           3 |                        0.333333 |                      11 |
+| [paperboard products assembler](paperboard_products_assembler.md)                                                                                                     |                          11 |                           3 |                        0.333333 |                       8 |
+| [industrial machinery mechanic](industrial_machinery_mechanic.md)                                                                                                     |                          14 |                           3 |                        0.333333 |                      11 |
+| [debarker operator](debarker_operator.md)                                                                                                                             |                          14 |                           3 |                        0.333333 |                      11 |
+| [wood fuel pelletiser](wood_fuel_pelletiser.md)                                                                                                                       |                          11 |                           3 |                        0.333333 |                       8 |
+| [corrugator operator](corrugator_operator.md)                                                                                                                         |                          13 |                           3 |                        0.333333 |                      10 |
+| [paper bag machine operator](paper_bag_machine_operator.md)                                                                                                           |                          13 |                           3 |                        0.333333 |                      10 |
+| [nailing machine operator](nailing_machine_operator.md)                                                                                                               |                          11 |                           3 |                        0.333333 |                       8 |
+| [chipper operator](chipper_operator.md)                                                                                                                               |                          12 |                           3 |                        0.333333 |                       9 |
+| [wood pallet maker](wood_pallet_maker.md)                                                                                                                             |                          16 |                           3 |                        0.333333 |                      13 |
+| [digester operator](digester_operator.md)                                                                                                                             |                          15 |                           3 |                        0.333333 |                      12 |
+| [band saw operator](band_saw_operator.md)                                                                                                                             |                          22 |                           3 |                        0.333333 |                      19 |
+| [bleacher operator](bleacher_operator.md)                                                                                                                             |                          13 |                           3 |                        0.333333 |                      10 |
+| [motor vehicle engine assembler](motor_vehicle_engine_assembler.md)                                                                                                   |                          18 |                           2 |                        0.222222 |                      16 |
+| [marine upholsterer](marine_upholsterer.md)                                                                                                                           |                          13 |                           2 |                        0.222222 |                      11 |
+| [rustproofer](rustproofer.md)                                                                                                                                         |                          15 |                           2 |                        0.222222 |                      13 |
+| [bicycle assembler](bicycle_assembler.md)                                                                                                                             |                          12 |                           2 |                        0.222222 |                      10 |
+| [railway car upholsterer](railway_car_upholsterer.md)                                                                                                                 |                          14 |                           2 |                        0.222222 |                      12 |
+| [geothermal power plant operator](geothermal_power_plant_operator.md)                                                                                                 |                          16 |                           2 |                        0.222222 |                      14 |
+| [automotive brake technician](automotive_brake_technician.md)                                                                                                         |                           9 |                           2 |                        0.222222 |                       7 |
+| [aircraft de-icer installer](aircraft_de-icer_installer.md)                                                                                                           |                          14 |                           2 |                        0.222222 |                      12 |
+| [woodturner](woodturner.md)                                                                                                                                           |                          17 |                           2 |                        0.222222 |                      15 |
+| [power plant control room operator](power_plant_control_room_operator.md)                                                                                             |                          22 |                           2 |                        0.222222 |                      20 |
+| [stone splitter](stone_splitter.md)                                                                                                                                   |                          13 |                           2 |                        0.222222 |                      11 |
+| [marine electrician](marine_electrician.md)                                                                                                                           |                          18 |                           2 |                        0.222222 |                      16 |
+| [motor vehicle parts assembler](motor_vehicle_parts_assembler.md)                                                                                                     |                          17 |                           2 |                        0.222222 |                      15 |
+| [motorcycle assembler](motorcycle_assembler.md)                                                                                                                       |                          11 |                           2 |                        0.222222 |                       9 |
+| [rolling stock electrician](rolling_stock_electrician.md)                                                                                                             |                          17 |                           2 |                        0.222222 |                      15 |
+| [moulding machine technician](moulding_machine_technician.md)                                                                                                         |                          16 |                           2 |                        0.222222 |                      14 |
+| [power production plant operator](power_production_plant_operator.md)                                                                                                 |                          16 |                           2 |                        0.222222 |                      14 |
+| [drop forging hammer worker](drop_forging_hammer_worker.md)                                                                                                           |                          18 |                           2 |                        0.222222 |                      16 |
+| [water jet cutter operator](water_jet_cutter_operator.md)                                                                                                             |                          21 |                           2 |                        0.222222 |                      19 |
+| [wood sander](wood_sander.md)                                                                                                                                         |                          14 |                           2 |                        0.222222 |                      12 |
+| [spot welder](spot_welder.md)                                                                                                                                         |                          18 |                           2 |                        0.222222 |                      16 |
+| [laser beam welder](laser_beam_welder.md)                                                                                                                             |                          25 |                           2 |                        0.222222 |                      23 |
+| [electromechanical equipment assembler](electromechanical_equipment_assembler.md)                                                                                     |                          22 |                           2 |                        0.222222 |                      20 |
+| [tool and die maker](tool_and_die_maker.md)                                                                                                                           |                          22 |                           2 |                        0.222222 |                      20 |
+| [motor vehicle upholsterer](motor_vehicle_upholsterer.md)                                                                                                             |                          13 |                           2 |                        0.222222 |                      11 |
+| [pulp technician](pulp_technician.md)                                                                                                                                 |                          19 |                           2 |                        0.222222 |                      17 |
+| [cotton gin operator](cotton_gin_operator.md)                                                                                                                         |                          12 |                           2 |                        0.222222 |                      10 |
+| [motor vehicle body assembler](motor_vehicle_body_assembler.md)                                                                                                       |                          15 |                           2 |                        0.222222 |                      13 |
+| [plasma cutting machine operator](plasma_cutting_machine_operator.md)                                                                                                 |                          17 |                           2 |                        0.222222 |                      15 |
+| [bindery operator](bindery_operator.md)                                                                                                                               |                          15 |                           2 |                        0.222222 |                      13 |
+| [hydraulic forging press worker](hydraulic_forging_press_worker.md)                                                                                                   |                          18 |                           2 |                        0.222222 |                      16 |
+| [aircraft interior technician](aircraft_interior_technician.md)                                                                                                       |                          14 |                           2 |                        0.222222 |                      12 |
+| [plastic products assembler](plastic_products_assembler.md)                                                                                                           |                          13 |                           2 |                        0.222222 |                      11 |
+| [gear machinist](gear_machinist.md)                                                                                                                                   |                          11 |                           2 |                        0.222222 |                       9 |
+| [boat rigger](boat_rigger.md)                                                                                                                                         |                          15 |                           2 |                        0.222222 |                      13 |
+| [vessel engine assembler](vessel_engine_assembler.md)                                                                                                                 |                          18 |                           2 |                        0.222222 |                      16 |
+| [oxy fuel burning machine operator](oxy_fuel_burning_machine_operator.md)                                                                                             |                          19 |                           2 |                        0.222222 |                      17 |
+| [laser cutting machine operator](laser_cutting_machine_operator.md)                                                                                                   |                          26 |                           2 |                        0.222222 |                      24 |
+| [aircraft assembler](aircraft_assembler.md)                                                                                                                           |                          18 |                           2 |                        0.222222 |                      16 |
+| [froth flotation deinking operator](froth_flotation_deinking_operator.md)                                                                                             |                          16 |                           2 |                        0.222222 |                      14 |
+| [tumbling machine operator](tumbling_machine_operator.md)                                                                                                             |                          16 |                           2 |                        0.222222 |                      14 |
+| [wash deinking operator](wash_deinking_operator.md)                                                                                                                   |                          15 |                           2 |                        0.222222 |                      13 |
+| [rotating equipment mechanic](rotating_equipment_mechanic.md)                                                                                                         |                          17 |                           2 |                        0.222222 |                      15 |
+| [industrial engineering technician](industrial_engineering_technician.md)                                                                                             |                          15 |                           2 |                        0.222222 |                      13 |
+| [electric meter technician](electric_meter_technician.md)                                                                                                             |                          18 |                           2 |                        0.222222 |                      16 |
+| [industrial tool design engineer](industrial_tool_design_engineer.md)                                                                                                 |                          24 |                           2 |                        0.222222 |                      22 |
+| [stamping press operator](stamping_press_operator.md)                                                                                                                 |                          16 |                           2 |                        0.222222 |                      14 |
+| [process engineering technician](process_engineering_technician.md)                                                                                                   |                          15 |                           2 |                        0.222222 |                      13 |
+| [pneumatic engineering technician](pneumatic_engineering_technician.md)                                                                                               |                          12 |                           2 |                        0.222222 |                      10 |
+| [production engineering technician](production_engineering_technician.md)                                                                                             |                          15 |                           2 |                        0.222222 |                      13 |
+| [aircraft engine assembler](aircraft_engine_assembler.md)                                                                                                             |                          20 |                           2 |                        0.222222 |                      18 |
+| [aircraft gas turbine engine overhaul technician](aircraft_gas_turbine_engine_overhaul_technician.md)                                                                 |                          20 |                           2 |                        0.222222 |                      18 |
+| [lacquer spray gun operator](lacquer_spray_gun_operator.md)                                                                                                           |                          13 |                           2 |                        0.222222 |                      11 |
+| [electron beam welder](electron_beam_welder.md)                                                                                                                       |                          25 |                           2 |                        0.222222 |                      23 |
+| [upsetting machine operator](upsetting_machine_operator.md)                                                                                                           |                          16 |                           2 |                        0.222222 |                      14 |
+| [metal nibbling operator](metal_nibbling_operator.md)                                                                                                                 |                          16 |                           2 |                        0.222222 |                      14 |
+| [surface grinding machine operator](surface_grinding_machine_operator.md)                                                                                             |                          18 |                           2 |                        0.222222 |                      16 |
+| [factory hand](factory_hand.md)                                                                                                                                       |                          10 |                           2 |                        0.222222 |                       8 |
+| [laser marking machine operator](laser_marking_machine_operator.md)                                                                                                   |                          18 |                           2 |                        0.222222 |                      16 |
+| [metal sawing machine operator](metal_sawing_machine_operator.md)                                                                                                     |                          22 |                           2 |                        0.222222 |                      20 |
+| [stone planer](stone_planer.md)                                                                                                                                       |                          20 |                           2 |                        0.222222 |                      18 |
+| [automotive electrician](automotive_electrician.md)                                                                                                                   |                          25 |                           2 |                        0.222222 |                      23 |
+| [metal rolling mill operator](metal_rolling_mill_operator.md)                                                                                                         |                          15 |                           2 |                        0.222222 |                      13 |
+| [drill press operator](drill_press_operator.md)                                                                                                                       |                          16 |                           2 |                        0.222222 |                      14 |
+| [anodising machine operator](anodising_machine_operator.md)                                                                                                           |                          14 |                           2 |                        0.222222 |                      12 |
+| [varnish maker](varnish_maker.md)                                                                                                                                     |                          14 |                           2 |                        0.222222 |                      12 |
+| [wood boring machine operator](wood_boring_machine_operator.md)                                                                                                       |                          18 |                           2 |                        0.222222 |                      16 |
+| [boilermaker](boilermaker.md)                                                                                                                                         |                          22 |                           2 |                        0.222222 |                      20 |
+| [mechanical forging press worker](mechanical_forging_press_worker.md)                                                                                                 |                          16 |                           2 |                        0.222222 |                      14 |
+| [electroplating machine operator](electroplating_machine_operator.md)                                                                                                 |                          15 |                           2 |                        0.222222 |                      13 |
+| [lacquer maker](lacquer_maker.md)                                                                                                                                     |                          13 |                           2 |                        0.222222 |                      11 |
+| [container equipment assembler](container_equipment_assembler.md)                                                                                                     |                          12 |                           2 |                        0.222222 |                      10 |
+| [welder](welder.md)                                                                                                                                                   |                          31 |                           2 |                        0.222222 |                      29 |
+| [fossil-fuel power plant operator](fossil-fuel_power_plant_operator.md)                                                                                               |                          17 |                           2 |                        0.222222 |                      15 |
+| [dismantling worker](dismantling_worker.md)                                                                                                                           |                          24 |                           2 |                        0.222222 |                      22 |
+| [avionics technician](avionics_technician.md)                                                                                                                         |                          19 |                           2 |                        0.222222 |                      17 |
+| [fiberglass laminator](fiberglass_laminator.md)                                                                                                                       |                          16 |                           2 |                        0.222222 |                      14 |
+| [print folding operator](print_folding_operator.md)                                                                                                                   |                          15 |                           2 |                        0.222222 |                      13 |
+| [glass forming machine operator](glass_forming_machine_operator.md)                                                                                                   |                          17 |                           2 |                        0.222222 |                      15 |
+| [rolling stock assembler](rolling_stock_assembler.md)                                                                                                                 |                          17 |                           2 |                        0.222222 |                      15 |
+| [rubber products machine operator](rubber_products_machine_operator.md)                                                                                               |                          11 |                           2 |                        0.222222 |                       9 |
+| [vehicle glazier](vehicle_glazier.md)                                                                                                                                 |                           9 |                           2 |                        0.222222 |                       7 |
+| [electrical equipment assembler](electrical_equipment_assembler.md)                                                                                                   |                          21 |                           2 |                        0.222222 |                      19 |
+| [fibreglass machine operator](fibreglass_machine_operator.md)                                                                                                         |                          17 |                           2 |                        0.222222 |                      15 |
+| [punch press operator](punch_press_operator.md)                                                                                                                       |                          19 |                           1 |                        0.111111 |                      18 |
+| [mine electrical engineer](mine_electrical_engineer.md)                                                                                                               |                          20 |                           1 |                        0.111111 |                      19 |
+| [spring maker](spring_maker.md)                                                                                                                                       |                          16 |                           1 |                        0.111111 |                      15 |
+| [container equipment design engineer](container_equipment_design_engineer.md)                                                                                         |                          23 |                           1 |                        0.111111 |                      22 |
+| [coking furnace operator](coking_furnace_operator.md)                                                                                                                 |                          13 |                           1 |                        0.111111 |                      12 |
+| [book-sewing machine operator](book-sewing_machine_operator.md)                                                                                                       |                          13 |                           1 |                        0.111111 |                      12 |
+| [stone polisher](stone_polisher.md)                                                                                                                                   |                          18 |                           1 |                        0.111111 |                      17 |
+| [offset printer](offset_printer.md)                                                                                                                                   |                          18 |                           1 |                        0.111111 |                      17 |
+| [precision mechanic](precision_mechanic.md)                                                                                                                           |                          13 |                           1 |                        0.111111 |                      12 |
+| [aircraft assembly supervisor](aircraft_assembly_supervisor.md)                                                                                                       |                          19 |                           1 |                        0.111111 |                      18 |
+| [flexographic press operator](flexographic_press_operator.md)                                                                                                         |                          18 |                           1 |                        0.111111 |                      17 |
+| [industrial maintenance supervisor](industrial_maintenance_supervisor.md)                                                                                             |                          15 |                           1 |                        0.111111 |                      14 |
+| [gravure press operator](gravure_press_operator.md)                                                                                                                   |                          18 |                           1 |                        0.111111 |                      17 |
+| [wood production supervisor](wood_production_supervisor.md)                                                                                                           |                          16 |                           1 |                        0.111111 |                      15 |
+| [digital printer](digital_printer.md)                                                                                                                                 |                          18 |                           1 |                        0.111111 |                      17 |
+| [geotechnician](geotechnician.md)                                                                                                                                     |                          10 |                           1 |                        0.111111 |                       9 |
+| [mechanical engineering technician](mechanical_engineering_technician.md)                                                                                             |                          14 |                           1 |                        0.111111 |                      13 |
+| [prepress technician](prepress_technician.md)                                                                                                                         |                          28 |                           1 |                        0.111111 |                      27 |
+| [import export specialist in machinery, industrial equipment, ships and aircraft](import_export_specialist_in_machinery,_industrial_equipment,_ships_and_aircraft.md) |                          26 |                           1 |                        0.111111 |                      25 |
+| [industrial assembly supervisor](industrial_assembly_supervisor.md)                                                                                                   |                          35 |                           1 |                        0.111111 |                      34 |
+| [mine ventilation engineer](mine_ventilation_engineer.md)                                                                                                             |                          13 |                           1 |                        0.111111 |                      12 |
+| [printed circuit board test technician](printed_circuit_board_test_technician.md)                                                                                     |                          26 |                           1 |                        0.111111 |                      25 |
+| [mine mechanical engineer](mine_mechanical_engineer.md)                                                                                                               |                          20 |                           1 |                        0.111111 |                      19 |
+| [electricity distribution worker](electricity_distribution_worker.md)                                                                                                 |                          12 |                           1 |                        0.111111 |                      11 |
+| [wood products assembler](wood_products_assembler.md)                                                                                                                 |                          12 |                           1 |                        0.111111 |                      11 |
+| [metal products assembler](metal_products_assembler.md)                                                                                                               |                          13 |                           1 |                        0.111111 |                      12 |
+| [screw machine operator](screw_machine_operator.md)                                                                                                                   |                          18 |                           1 |                        0.111111 |                      17 |
+| [metrology technician](metrology_technician.md)                                                                                                                       |                          18 |                           1 |                        0.111111 |                      17 |
+| [wholesale merchant in machinery, industrial equipment, ships and aircraft](wholesale_merchant_in_machinery,_industrial_equipment,_ships_and_aircraft.md)             |                          23 |                           1 |                        0.111111 |                      22 |
+| [cable jointer](cable_jointer.md)                                                                                                                                     |                          12 |                           1 |                        0.111111 |                      11 |
+| [overhead line worker](overhead_line_worker.md)                                                                                                                       |                          13 |                           1 |                        0.111111 |                      12 |
+| [computer numerical control machine operator](computer_numerical_control_machine_operator.md)                                                                         |                          19 |                           1 |                        0.111111 |                      18 |
+| [motor vehicle assembly supervisor](motor_vehicle_assembly_supervisor.md)                                                                                             |                          18 |                           1 |                        0.111111 |                      17 |
+| [street lighting electrician](street_lighting_electrician.md)                                                                                                         |                           9 |                           1 |                        0.111111 |                       8 |
+| [air pollution analyst](air_pollution_analyst.md)                                                                                                                     |                           7 |                           1 |                        0.111111 |                       6 |
+| [instrument technician](instrument_technician.md)                                                                                                                     |                          27 |                           1 |                        0.111111 |                      26 |
+| [bricklayer](bricklayer.md)                                                                                                                                           |                          18 |                           1 |                        0.111111 |                      17 |
+| [wire weaving machine operator](wire_weaving_machine_operator.md)                                                                                                     |                          16 |                           1 |                        0.111111 |                      15 |
+| [brazier](brazier.md)                                                                                                                                                 |                          17 |                           1 |                        0.111111 |                      16 |
+| [roustabout](roustabout.md)                                                                                                                                           |                          16 |                           1 |                        0.111111 |                      15 |
+| [sewerage maintenance technician](sewerage_maintenance_technician.md)                                                                                                 |                          20 |                           1 |                        0.111111 |                      19 |
+| [foundry moulder](foundry_moulder.md)                                                                                                                                 |                          10 |                           1 |                        0.111111 |                       9 |
+| [deburring machine operator](deburring_machine_operator.md)                                                                                                           |                          20 |                           1 |                        0.111111 |                      19 |
+| [rolling stock assembly supervisor](rolling_stock_assembly_supervisor.md)                                                                                             |                          19 |                           1 |                        0.111111 |                      18 |
+| [mine control room operator](mine_control_room_operator.md)                                                                                                           |                          12 |                           1 |                        0.111111 |                      11 |
+| [refinery shift manager](refinery_shift_manager.md)                                                                                                                   |                          15 |                           1 |                        0.111111 |                      14 |
+| [non-destructive testing specialist](non-destructive_testing_specialist.md)                                                                                           |                          10 |                           1 |                        0.111111 |                       9 |
+| [fibre machine tender](fibre_machine_tender.md)                                                                                                                       |                          13 |                           1 |                        0.111111 |                      12 |
+| [paper mill supervisor](paper_mill_supervisor.md)                                                                                                                     |                          17 |                           1 |                        0.111111 |                      16 |
+| [event scaffolder](event_scaffolder.md)                                                                                                                               |                          15 |                           1 |                        0.111111 |                      14 |
+| [clock and watchmaker](clock_and_watchmaker.md)                                                                                                                       |                          14 |                           1 |                        0.111111 |                      13 |
+| [metal drawing machine operator](metal_drawing_machine_operator.md)                                                                                                   |                          15 |                           1 |                        0.111111 |                      14 |
+| [optical disc moulding machine operator](optical_disc_moulding_machine_operator.md)                                                                                   |                          11 |                           1 |                        0.111111 |                      10 |
+| [vehicle technician](vehicle_technician.md)                                                                                                                           |                          34 |                           1 |                        0.111111 |                      33 |
+| [record press operator](record_press_operator.md)                                                                                                                     |                          11 |                           1 |                        0.111111 |                      10 |
+| [cylindrical grinder operator](cylindrical_grinder_operator.md)                                                                                                       |                          17 |                           1 |                        0.111111 |                      16 |
+| [blow moulding machine operator](blow_moulding_machine_operator.md)                                                                                                   |                          13 |                           1 |                        0.111111 |                      12 |
+| [pultrusion machine operator](pultrusion_machine_operator.md)                                                                                                         |                          14 |                           1 |                        0.111111 |                      13 |
+| [stage machinist](stage_machinist.md)                                                                                                                                 |                          32 |                           1 |                        0.111111 |                      31 |
+| [heating engineer](heating_engineer.md)                                                                                                                               |                          17 |                           1 |                        0.111111 |                      16 |
+| [demolition worker](demolition_worker.md)                                                                                                                             |                          16 |                           1 |                        0.111111 |                      15 |
+| [paper embosing press operator](paper_embosing_press_operator.md)                                                                                                     |                          13 |                           1 |                        0.111111 |                      12 |
+| [cake press operator](cake_press_operator.md)                                                                                                                         |                          19 |                           1 |                        0.111111 |                      18 |
+| [coating machine operator](coating_machine_operator.md)                                                                                                               |                          13 |                           1 |                        0.111111 |                      12 |
+| [plastic rolling machine operator](plastic_rolling_machine_operator.md)                                                                                               |                          10 |                           1 |                        0.111111 |                       9 |
+| [filament winding operator](filament_winding_operator.md)                                                                                                             |                          14 |                           1 |                        0.111111 |                      13 |
+| [vacuum forming machine operator](vacuum_forming_machine_operator.md)                                                                                                 |                          14 |                           1 |                        0.111111 |                      13 |
+| [plastic and rubber products manufacturing supervisor](plastic_and_rubber_products_manufacturing_supervisor.md)                                                       |                          15 |                           1 |                        0.111111 |                      14 |
+| [transport equipment painter](transport_equipment_painter.md)                                                                                                         |                          31 |                           1 |                        0.111111 |                      30 |
+| [decontamination worker](decontamination_worker.md)                                                                                                                   |                          15 |                           1 |                        0.111111 |                      14 |
+| [plastic heat treatment equipment operator](plastic_heat_treatment_equipment_operator.md)                                                                             |                          17 |                           1 |                        0.111111 |                      16 |
+| [injection moulding operator](injection_moulding_operator.md)                                                                                                         |                          14 |                           1 |                        0.111111 |                      13 |
+| [building exterior cleaner](building_exterior_cleaner.md)                                                                                                             |                          12 |                           1 |                        0.111111 |                      11 |
+| [marine engineering technician](marine_engineering_technician.md)                                                                                                     |                          17 |                           1 |                        0.111111 |                      16 |
+| [chain making machine operator](chain_making_machine_operator.md)                                                                                                     |                          14 |                           1 |                        0.111111 |                      13 |
+| [aerospace engineering technician](aerospace_engineering_technician.md)                                                                                               |                          19 |                           1 |                        0.111111 |                      18 |
+| [petroleum engineer](petroleum_engineer.md)                                                                                                                           |                          25 |                           1 |                        0.111111 |                      24 |
+| [numerical tool and process control programmer](numerical_tool_and_process_control_programmer.md)                                                                     |                          52 |                           1 |                        0.111111 |                      51 |
+| [electrical power distributor](electrical_power_distributor.md)                                                                                                       |                          14 |                           1 |                        0.111111 |                      13 |
+| [ATM repair technician](ATM_repair_technician.md)                                                                                                                     |                          18 |                           1 |                        0.111111 |                      17 |
+| [product development engineering technician](product_development_engineering_technician.md)                                                                           |                          14 |                           1 |                        0.111111 |                      13 |
+| [control panel assembler](control_panel_assembler.md)                                                                                                                 |                          26 |                           1 |                        0.111111 |                      25 |
+| [heat treatment furnace operator](heat_treatment_furnace_operator.md)                                                                                                 |                          14 |                           1 |                        0.111111 |                      13 |
+| [mine rescue officer](mine_rescue_officer.md)                                                                                                                         |                          12 |                           1 |                        0.111111 |                      11 |
+| [mine safety officer](mine_safety_officer.md)                                                                                                                         |                          15 |                           1 |                        0.111111 |                      14 |
+| [mineral processing engineer](mineral_processing_engineer.md)                                                                                                         |                          13 |                           1 |                        0.111111 |                      12 |
+| [ornamental metal worker](ornamental_metal_worker.md)                                                                                                                 |                          18 |                           1 |                        0.111111 |                      17 |
+| [vessel assembly supervisor](vessel_assembly_supervisor.md)                                                                                                           |                          19 |                           1 |                        0.111111 |                      18 |
+| [sports equipment repair technician](sports_equipment_repair_technician.md)                                                                                           |                          17 |                           1 |                        0.111111 |                      16 |
+| [surface mine plant operator](surface_mine_plant_operator.md)                                                                                                         |                          13 |                           1 |                        0.111111 |                      12 |
+| [import export manager in machinery, industrial equipment, ships and aircraft](import_export_manager_in_machinery,_industrial_equipment,_ships_and_aircraft.md)       |                          29 |                           1 |                        0.111111 |                      28 |
+| [mine development engineer](mine_development_engineer.md)                                                                                                             |                          25 |                           1 |                        0.111111 |                      24 |
+| [liquid fuel engineer](liquid_fuel_engineer.md)                                                                                                                       |                          28 |                           1 |                        0.111111 |                      27 |
+| [gas processing plant control room operator](gas_processing_plant_control_room_operator.md)                                                                           |                          10 |                           1 |                        0.111111 |                       9 |
+| [automotive engineering technician](automotive_engineering_technician.md)                                                                                             |                          19 |                           1 |                        0.111111 |                      18 |
+| [explosives engineer](explosives_engineer.md)                                                                                                                         |                          16 |                           1 |                        0.111111 |                      15 |
+| [mine shift manager](mine_shift_manager.md)                                                                                                                           |                          14 |                           1 |                        0.111111 |                      13 |
+| [oil refinery control room operator](oil_refinery_control_room_operator.md)                                                                                           |                          10 |                           1 |                        0.111111 |                       9 |
+| [rolling stock engineering technician](rolling_stock_engineering_technician.md)                                                                                       |                          16 |                           1 |                        0.111111 |                      15 |
+| [engraving machine operator](engraving_machine_operator.md)                                                                                                           |                          29 |                           1 |                        0.111111 |                      28 |
+| [rail layer](rail_layer.md)                                                                                                                                           |                          18 |                           1 |                        0.111111 |                      17 |
+| [boring machine operator](boring_machine_operator.md)                                                                                                                 |                          16 |                           1 |                        0.111111 |                      15 |
+| [glass annealer](glass_annealer.md)                                                                                                                                   |                          16 |                           1 |                        0.111111 |                      15 |
+| [underground heavy equipment operator](underground_heavy_equipment_operator.md)                                                                                       |                          14 |                           1 |                        0.111111 |                      13 |
+| [commissioning technician](commissioning_technician.md)                                                                                                               |                          22 |                           1 |                        0.111111 |                      21 |
+| [riveter](riveter.md)                                                                                                                                                 |                          10 |                           1 |                        0.111111 |                       9 |
+| [shipwright](shipwright.md)                                                                                                                                           |                          16 |                           1 |                        0.111111 |                      15 |
+| [environmental mining engineer](environmental_mining_engineer.md)                                                                                                     |                          23 |                           1 |                        0.111111 |                      22 |
+| [drilling engineer](drilling_engineer.md)                                                                                                                             |                          22 |                           1 |                        0.111111 |                      21 |
+| [process metallurgist](process_metallurgist.md)                                                                                                                       |                          20 |                           1 |                        0.111111 |                      19 |
+| [water plant technician](water_plant_technician.md)                                                                                                                   |                          12 |                           1 |                        0.111111 |                      11 |
+| [wood treater](wood_treater.md)                                                                                                                                       |                          15 |                           1 |                        0.111111 |                      14 |
+| [wood drying kiln operator](wood_drying_kiln_operator.md)                                                                                                             |                          20 |                           1 |                        0.111111 |                      19 |
+| [steam turbine operator](steam_turbine_operator.md)                                                                                                                   |                          11 |                           1 |                        0.111111 |                      10 |
+| [emergency response worker](emergency_response_worker.md)                                                                                                             |                          14 |                           1 |                        0.111111 |                      13 |
+| [wind turbine technician](wind_turbine_technician.md)                                                                                                                 |                          15 |                           1 |                        0.111111 |                      14 |
+| [honey extractor](honey_extractor.md)                                                                                                                                 |                          15 |                           1 |                        0.111111 |                      14 |
+| [precision device inspector](precision_device_inspector.md)                                                                                                           |                          14 |                           1 |                        0.111111 |                      13 |
+| [optical instrument production supervisor](optical_instrument_production_supervisor.md)                                                                               |                          23 |                           1 |                        0.111111 |                      22 |
+| [battery assembler](battery_assembler.md)                                                                                                                             |                          20 |                           1 |                        0.111111 |                      19 |
+| [electronics production supervisor](electronics_production_supervisor.md)                                                                                             |                          26 |                           1 |                        0.111111 |                      25 |
+| [petroleum pump system operator](petroleum_pump_system_operator.md)                                                                                                   |                          15 |                           1 |                        0.111111 |                      14 |
+| [heating, ventilation, air conditioning (and refrigeration) service engineer](heating,_ventilation,_air_conditioning_(and_refrigeration)_service_engineer.md)         |                          31 |                           1 |                        0.111111 |                      30 |
+| [heating, ventilation, air conditioning and refrigeration engineering technician](heating,_ventilation,_air_conditioning_and_refrigeration_engineering_technician.md) |                          14 |                           1 |                        0.111111 |                      13 |
+| [solid waste operator](solid_waste_operator.md)                                                                                                                       |                          14 |                           1 |                        0.111111 |                      13 |
+| [electrical cable assembler](electrical_cable_assembler.md)                                                                                                           |                          20 |                           1 |                        0.111111 |                      19 |
+| [automotive test driver](automotive_test_driver.md)                                                                                                                   |                          12 |                           1 |                        0.111111 |                      11 |
+| [metal annealer](metal_annealer.md)                                                                                                                                   |                          17 |                           1 |                        0.111111 |                      16 |
+| [metal furnace operator](metal_furnace_operator.md)                                                                                                                   |                          10 |                           1 |                        0.111111 |                       9 |
+| [desalination technician](desalination_technician.md)                                                                                                                 |                           9 |                           1 |                        0.111111 |                       8 |
+| [cosmetics production machine operator](cosmetics_production_machine_operator.md)                                                                                     |                          13 |                           1 |                        0.111111 |                      12 |
+| [swaging machine operator](swaging_machine_operator.md)                                                                                                               |                          16 |                           1 |                        0.111111 |                      15 |
+| [high rigger](high_rigger.md)                                                                                                                                         |                          22 |                           1 |                        0.111111 |                      21 |
+| [dresser](dresser.md)                                                                                                                                                 |                          14 |                           1 |                        0.111111 |                      13 |
+| [shotfirer](shotfirer.md)                                                                                                                                             |                          15 |                           1 |                        0.111111 |                      14 |
+| [set builder](set_builder.md)                                                                                                                                         |                          22 |                           1 |                        0.111111 |                      21 |
+| [surface miner](surface_miner.md)                                                                                                                                     |                           9 |                           1 |                        0.111111 |                       8 |
+| [underground miner](underground_miner.md)                                                                                                                             |                           9 |                           1 |                        0.111111 |                       8 |
+| [carpet weaver](carpet_weaver.md)                                                                                                                                     |                          17 |                           1 |                        0.111111 |                      16 |
+| [electrical mechanic](electrical_mechanic.md)                                                                                                                         |                          22 |                           1 |                        0.111111 |                      21 |
+| [mineral processing operator](mineral_processing_operator.md)                                                                                                         |                           9 |                           1 |                        0.111111 |                       8 |
+| [sewer construction worker](sewer_construction_worker.md)                                                                                                             |                          22 |                           1 |                        0.111111 |                      21 |
+| [prop maker](prop_maker.md)                                                                                                                                           |                          24 |                           1 |                        0.111111 |                      23 |
+| [stage technician](stage_technician.md)                                                                                                                               |                          43 |                           1 |                        0.111111 |                      42 |
+| [costume maker](costume_maker.md)                                                                                                                                     |                          28 |                           1 |                        0.111111 |                      27 |
+| [prop master/prop mistress](prop_master-prop_mistress.md)                                                                                                             |                          26 |                           1 |                        0.111111 |                      25 |
+| [mask maker](mask_maker.md)                                                                                                                                           |                          14 |                           1 |                        0.111111 |                      13 |
+| [road maintenance technician](road_maintenance_technician.md)                                                                                                         |                          17 |                           1 |                        0.111111 |                      16 |
+| [ground rigger](ground_rigger.md)                                                                                                                                     |                          12 |                           1 |                        0.111111 |                      11 |
+| [stagehand](stagehand.md)                                                                                                                                             |                          13 |                           1 |                        0.111111 |                      12 |
+| [mining assistant](mining_assistant.md)                                                                                                                               |                          10 |                           1 |                        0.111111 |                       9 |
+| [medical device engineering technician](medical_device_engineering_technician.md)                                                                                     |                          34 |                           1 |                        0.111111 |                      33 |
+| [stonemason](stonemason.md)                                                                                                                                           |                          20 |                           1 |                        0.111111 |                      19 |
+| [incinerator operator](incinerator_operator.md)                                                                                                                       |                          10 |                           1 |                        0.111111 |                       9 |
+| [instrumentation engineering technician](instrumentation_engineering_technician.md)                                                                                   |                          31 |                           1 |                        0.111111 |                      30 |
+| [perfume production machine operator](perfume_production_machine_operator.md)                                                                                         |                          12 |                           1 |                        0.111111 |                      11 |
+| [forge equipment technician](forge_equipment_technician.md)                                                                                                           |                          14 |                           1 |                        0.111111 |                      13 |
+| [solderer](solderer.md)                                                                                                                                               |                          17 |                           1 |                        0.111111 |                      16 |
+| [agricultural machinery technician](agricultural_machinery_technician.md)                                                                                             |                          13 |                           1 |                        0.111111 |                      12 |
+| [container crane operator](container_crane_operator.md)                                                                                                               |                          14 |                           1 |                        0.111111 |                      13 |
+| [blacksmith](blacksmith.md)                                                                                                                                           |                          19 |                           1 |                        0.111111 |                      18 |
+| [metrologist](metrologist.md)                                                                                                                                         |                          21 |                           1 |                        0.111111 |                      20 |
+| [metal engraver](metal_engraver.md)                                                                                                                                   |                          13 |                           1 |                        0.111111 |                      12 |
+| [tent installer](tent_installer.md)                                                                                                                                   |                          13 |                           1 |                        0.111111 |                      12 |
+| [dewatering technician](dewatering_technician.md)                                                                                                                     |                           8 |                           1 |                        0.111111 |                       7 |
+| [recycling worker](recycling_worker.md)                                                                                                                               |                          13 |                           1 |                        0.111111 |                      12 |
+| [motor vehicle assembler](motor_vehicle_assembler.md)                                                                                                                 |                          26 |                           1 |                        0.111111 |                      25 |
+| [marine mechanic](marine_mechanic.md)                                                                                                                                 |                          37 |                           1 |                        0.111111 |                      36 |
+| [stevedore](stevedore.md)                                                                                                                                             |                          37 |                           1 |                        0.111111 |                      36 |
+| [consumer electronics repair technician](consumer_electronics_repair_technician.md)                                                                                   |                          13 |                           1 |                        0.111111 |                      12 |
+| [mobile phone repair technician](mobile_phone_repair_technician.md)                                                                                                   |                          21 |                           1 |                        0.111111 |                      20 |
+| [crane technician](crane_technician.md)                                                                                                                               |                          14 |                           1 |                        0.111111 |                      13 |
+| [steam plant operator](steam_plant_operator.md)                                                                                                                       |                          12 |                           1 |                        0.111111 |                      11 |
+| [medical laboratory assistant](medical_laboratory_assistant.md)                                                                                                       |                          27 |                           1 |                        0.111111 |                      26 |
+| [pharmacologist](pharmacologist.md)                                                                                                                                   |                          21 |                           1 |                        0.111111 |                      20 |
+| [scientific laboratory technician](scientific_laboratory_technician.md)                                                                                               |                          14 |                           1 |                        0.111111 |                      13 |
+| [fire safety tester](fire_safety_tester.md)                                                                                                                           |                          13 |                           1 |                        0.111111 |                      12 |
+| [material testing technician](material_testing_technician.md)                                                                                                         |                          10 |                           1 |                        0.111111 |                       9 |
+| [drawing kiln operator](drawing_kiln_operator.md)                                                                                                                     |                          15 |                           1 |                        0.111111 |                      14 |
+| [construction equipment technician](construction_equipment_technician.md)                                                                                             |                          14 |                           1 |                        0.111111 |                      13 |
+| [mechatronics assembler](mechatronics_assembler.md)                                                                                                                   |                          21 |                           1 |                        0.111111 |                      20 |
+| [pneumatic systems technician](pneumatic_systems_technician.md)                                                                                                       |                          13 |                           1 |                        0.111111 |                      12 |
+| [pottery and porcelain caster](pottery_and_porcelain_caster.md)                                                                                                       |                          12 |                           1 |                        0.111111 |                      11 |
+| [textile machinery technician](textile_machinery_technician.md)                                                                                                       |                          25 |                           1 |                        0.111111 |                      24 |
+| [electrical equipment production supervisor](electrical_equipment_production_supervisor.md)                                                                           |                          21 |                           1 |                        0.111111 |                      20 |
+| [mineral crushing operator](mineral_crushing_operator.md)                                                                                                             |                          10 |                           1 |                        0.111111 |                       9 |
+| [roofer](roofer.md)                                                                                                                                                   |                          23 |                           1 |                        0.111111 |                      22 |
+| [wire harness assembler](wire_harness_assembler.md)                                                                                                                   |                          27 |                           1 |                        0.111111 |                      26 |
+| [stone driller](stone_driller.md)                                                                                                                                     |                          14 |                           1 |                        0.111111 |                      13 |
+| [coppersmith](coppersmith.md)                                                                                                                                         |                          25 |                           1 |                        0.111111 |                      24 |
+| [diesel engine mechanic](diesel_engine_mechanic.md)                                                                                                                   |                          21 |                           1 |                        0.111111 |                      20 |
+| [aircraft maintenance engineer](aircraft_maintenance_engineer.md)                                                                                                     |                          31 |                           1 |                        0.111111 |                      30 |
+| [aircraft maintenance technician](aircraft_maintenance_technician.md)                                                                                                 |                          29 |                           1 |                        0.111111 |                      28 |
+| [wood caulker](wood_caulker.md)                                                                                                                                       |                          10 |                           1 |                        0.111111 |                       9 |
+| [agricultural equipment design engineer](agricultural_equipment_design_engineer.md)                                                                                   |                          26 |                           1 |                        0.111111 |                      25 |
+| [fluid power engineer](fluid_power_engineer.md)                                                                                                                       |                          22 |                           1 |                        0.111111 |                      21 |
+| [packing machinery engineer](packing_machinery_engineer.md)                                                                                                           |                          23 |                           1 |                        0.111111 |                      22 |
+| [rotating equipment engineer](rotating_equipment_engineer.md)                                                                                                         |                          26 |                           1 |                        0.111111 |                      25 |
+| [industrial firefighter](industrial_firefighter.md)                                                                                                                   |                          29 |                           1 |                        0.111111 |                      28 |
+| [electrical engineering technician](electrical_engineering_technician.md)                                                                                             |                          28 |                           1 |                        0.111111 |                      27 |
+| [radiation protection technician](radiation_protection_technician.md)                                                                                                 |                          17 |                           1 |                        0.111111 |                      16 |
+| [industrial robot controller](industrial_robot_controller.md)                                                                                                         |                          12 |                           1 |                        0.111111 |                      11 |
+| [installation engineer](installation_engineer.md)                                                                                                                     |                          18 |                           1 |                        0.111111 |                      17 |
+| [hydropower technician](hydropower_technician.md)                                                                                                                     |                          23 |                           1 |                        0.111111 |                      22 |
+| [hydropower engineer](hydropower_engineer.md)                                                                                                                         |                          25 |                           1 |                        0.111111 |                      24 |
+| [fluid power technician](fluid_power_technician.md)                                                                                                                   |                          14 |                           1 |                        0.111111 |                      13 |
+| [electromechanical engineering technician](electromechanical_engineering_technician.md)                                                                               |                          26 |                           1 |                        0.111111 |                      25 |
+| [energy systems engineer](energy_systems_engineer.md)                                                                                                                 |                          28 |                           1 |                        0.111111 |                      27 |
+| [foundry operative](foundry_operative.md)                                                                                                                             |                          13 |                           1 |                        0.111111 |                      12 |
+| [commissioning engineer](commissioning_engineer.md)                                                                                                                   |                          20 |                           1 |                        0.111111 |                      19 |
+| [technical sales representative in machinery and industrial equipment](technical_sales_representative_in_machinery_and_industrial_equipment.md)                       |                          32 |                           1 |                        0.111111 |                      31 |
+| [milling machine operator](milling_machine_operator.md)                                                                                                               |                          22 |                           1 |                        0.111111 |                      21 |
+| [extrusion machine operator](extrusion_machine_operator.md)                                                                                                           |                          14 |                           1 |                        0.111111 |                      13 |
+| [lathe and turning machine operator](lathe_and_turning_machine_operator.md)                                                                                           |                          28 |                           1 |                        0.111111 |                      27 |
+| [filing machine operator](filing_machine_operator.md)                                                                                                                 |                          16 |                           1 |                        0.111111 |                      15 |
+| [abrasive blasting operator](abrasive_blasting_operator.md)                                                                                                           |                           9 |                           1 |                        0.111111 |                       8 |
+| [grinding machine operator](grinding_machine_operator.md)                                                                                                             |                          24 |                           1 |                        0.111111 |                      23 |
+| [spark erosion machine operator](spark_erosion_machine_operator.md)                                                                                                   |                          15 |                           1 |                        0.111111 |                      14 |
+| [industrial machinery assembler](industrial_machinery_assembler.md)                                                                                                   |                          10 |                           1 |                        0.111111 |                       9 |
+| [underwater construction supervisor](underwater_construction_supervisor.md)                                                                                           |                          28 |                           1 |                        0.111111 |                      27 |
+| [coquille casting worker](coquille_casting_worker.md)                                                                                                                 |                          10 |                           1 |                        0.111111 |                       9 |
+| [dip tank operator](dip_tank_operator.md)                                                                                                                             |                          11 |                           1 |                        0.111111 |                      10 |
+| [head of workshop](head_of_workshop.md)                                                                                                                               |                          28 |                           1 |                        0.111111 |                      27 |
+| [tyre vulcaniser](tyre_vulcaniser.md)                                                                                                                                 |                          13 |                           1 |                        0.111111 |                      12 |
+| [bridge construction supervisor](bridge_construction_supervisor.md)                                                                                                   |                          26 |                           1 |                        0.111111 |                      25 |
+| [aircraft engine specialist](aircraft_engine_specialist.md)                                                                                                           |                          21 |                           1 |                        0.111111 |                      20 |
+| [precision instrument assembler](precision_instrument_assembler.md)                                                                                                   |                          19 |                           1 |                        0.111111 |                      18 |
+| [automotive battery technician](automotive_battery_technician.md)                                                                                                     |                           9 |                           1 |                        0.111111 |                       8 |
+| [surface treatment operator](surface_treatment_operator.md)                                                                                                           |                           8 |                           1 |                        0.111111 |                       7 |
+| [sewer construction supervisor](sewer_construction_supervisor.md)                                                                                                     |                          27 |                           1 |                        0.111111 |                      26 |
+| [construction scaffolding supervisor](construction_scaffolding_supervisor.md)                                                                                         |                          25 |                           1 |                        0.111111 |                      24 |
+| [hot foil operator](hot_foil_operator.md)                                                                                                                             |                          14 |                           1 |                        0.111111 |                      13 |
+| [hydroelectric plant operator](hydroelectric_plant_operator.md)                                                                                                       |                          13 |                           1 |                        0.111111 |                      12 |
+| [aerospace engineer](aerospace_engineer.md)                                                                                                                           |                          17 |                           1 |                        0.111111 |                      16 |
+| [thermal engineer](thermal_engineer.md)                                                                                                                               |                          22 |                           1 |                        0.111111 |                      21 |
+| [screen printer](screen_printer.md)                                                                                                                                   |                          19 |                           1 |                        0.111111 |                      18 |
+| [agricultural engineer](agricultural_engineer.md)                                                                                                                     |                          13 |                           1 |                        0.111111 |                      12 |
+| [satellite engineer](satellite_engineer.md)                                                                                                                           |                          19 |                           1 |                        0.111111 |                      18 |
+| [mining electrician](mining_electrician.md)                                                                                                                           |                          12 |                           1 |                        0.111111 |                      11 |
+| [mining equipment mechanic](mining_equipment_mechanic.md)                                                                                                             |                          11 |                           1 |                        0.111111 |                      10 |
+| [rental service representative in air transport equipment](rental_service_representative_in_air_transport_equipment.md)                                               |                          26 |                           1 |                        0.111111 |                      25 |
+| [lift installation supervisor](lift_installation_supervisor.md)                                                                                                       |                          26 |                           1 |                        0.111111 |                      25 |
+| [rental service representative in water transport equipment](rental_service_representative_in_water_transport_equipment.md)                                           |                          26 |                           1 |                        0.111111 |                      25 |
+| [driller](driller.md)                                                                                                                                                 |                          10 |                           1 |                        0.111111 |                       9 |
+| [drilling machine operator](drilling_machine_operator.md)                                                                                                             |                          20 |                           1 |                        0.111111 |                      19 |
+| [rail construction supervisor](rail_construction_supervisor.md)                                                                                                       |                          22 |                           1 |                        0.111111 |                      21 |
+| [process engineer](process_engineer.md)                                                                                                                               |                          13 |                           1 |                        0.111111 |                      12 |
+| [road construction supervisor](road_construction_supervisor.md)                                                                                                       |                          25 |                           1 |                        0.111111 |                      24 |
+| [metal polisher](metal_polisher.md)                                                                                                                                   |                          13 |                           1 |                        0.111111 |                      12 |
