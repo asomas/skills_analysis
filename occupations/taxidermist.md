@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match taxidermist</th>
@@ -14,232 +13,203 @@
   </thead>
   <tbody>
     <tr>
-      <th>795</th>
-      <td>[animal groomer](animal groomer.md)</td>
+      <td>&lt;span&gt;[animal groomer](animal_groomer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>4</td>
       <td>0.4</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2381</th>
-      <td>[animal chiropractor](animal chiropractor.md)</td>
+      <td>&lt;span&gt;[animal chiropractor](animal_chiropractor.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>3</td>
       <td>0.3</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2065</th>
-      <td>[official veterinarian](official veterinarian.md)</td>
+      <td>&lt;span&gt;[official veterinarian](official_veterinarian.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>3</td>
       <td>0.3</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>790</th>
-      <td>[animal handler](animal handler.md)</td>
+      <td>&lt;span&gt;[animal handler](animal_handler.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>3</td>
       <td>0.3</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2318</th>
-      <td>[animal osteopath](animal osteopath.md)</td>
+      <td>&lt;span&gt;[animal osteopath](animal_osteopath.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>3</td>
       <td>0.3</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2380</th>
-      <td>[animal physiotherapist](animal physiotherapist.md)</td>
+      <td>&lt;span&gt;[animal physiotherapist](animal_physiotherapist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>3</td>
       <td>0.3</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2379</th>
-      <td>[animal embryo transfer technician](animal embryo transfer technician.md)</td>
+      <td>&lt;span&gt;[animal embryo transfer technician](animal_embryo_transfer_technician.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.3</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2378</th>
-      <td>[animal therapist](animal therapist.md)</td>
+      <td>&lt;span&gt;[animal therapist](animal_therapist.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.3</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2377</th>
-      <td>[animal massage therapist](animal massage therapist.md)</td>
+      <td>&lt;span&gt;[animal massage therapist](animal_massage_therapist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>3</td>
       <td>0.3</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2064</th>
-      <td>[specialised veterinarian](specialised veterinarian.md)</td>
+      <td>&lt;span&gt;[specialised veterinarian](specialised_veterinarian.md)&lt;/span&gt;</td>
       <td>41</td>
       <td>3</td>
       <td>0.3</td>
       <td>38</td>
     </tr>
     <tr>
-      <th>1475</th>
-      <td>[animal care attendant](animal care attendant.md)</td>
+      <td>&lt;span&gt;[animal care attendant](animal_care_attendant.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>3</td>
       <td>0.3</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1424</th>
-      <td>[kennel supervisor](kennel supervisor.md)</td>
+      <td>&lt;span&gt;[kennel supervisor](kennel_supervisor.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.3</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>923</th>
-      <td>[animal artificial insemination technician](animal artificial insemination technician.md)</td>
+      <td>&lt;span&gt;[animal artificial insemination technician](animal_artificial_insemination_technician.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>3</td>
       <td>0.3</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>796</th>
-      <td>[animal trainer](animal trainer.md)</td>
+      <td>&lt;span&gt;[animal trainer](animal_trainer.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>3</td>
       <td>0.3</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>794</th>
-      <td>[horse trainer](horse trainer.md)</td>
+      <td>&lt;span&gt;[horse trainer](horse_trainer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.3</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>793</th>
-      <td>[alternative animal therapist](alternative animal therapist.md)</td>
+      <td>&lt;span&gt;[alternative animal therapist](alternative_animal_therapist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>3</td>
       <td>0.3</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>792</th>
-      <td>[dog trainer](dog trainer.md)</td>
+      <td>&lt;span&gt;[dog trainer](dog_trainer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.3</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2382</th>
-      <td>[animal hydrotherapist](animal hydrotherapist.md)</td>
+      <td>&lt;span&gt;[animal hydrotherapist](animal_hydrotherapist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>3</td>
       <td>0.3</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>791</th>
-      <td>[veterinary nurse](veterinary nurse.md)</td>
+      <td>&lt;span&gt;[veterinary nurse](veterinary_nurse.md)&lt;/span&gt;</td>
       <td>46</td>
       <td>3</td>
       <td>0.3</td>
       <td>43</td>
     </tr>
     <tr>
-      <th>1482</th>
-      <td>[animal behaviourist](animal behaviourist.md)</td>
+      <td>&lt;span&gt;[animal behaviourist](animal_behaviourist.md)&lt;/span&gt;</td>
       <td>36</td>
       <td>3</td>
       <td>0.3</td>
       <td>33</td>
     </tr>
     <tr>
-      <th>841</th>
-      <td>[live animal transporter](live animal transporter.md)</td>
+      <td>&lt;span&gt;[live animal transporter](live_animal_transporter.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>3</td>
       <td>0.3</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>293</th>
-      <td>[zoo curator](zoo curator.md)</td>
+      <td>&lt;span&gt;[zoo curator](zoo_curator.md)&lt;/span&gt;</td>
       <td>47</td>
       <td>3</td>
       <td>0.3</td>
       <td>44</td>
     </tr>
     <tr>
-      <th>1490</th>
-      <td>[general veterinarian](general veterinarian.md)</td>
+      <td>&lt;span&gt;[general veterinarian](general_veterinarian.md)&lt;/span&gt;</td>
       <td>53</td>
       <td>3</td>
       <td>0.3</td>
       <td>50</td>
     </tr>
     <tr>
-      <th>1484</th>
-      <td>[veterinary technician](veterinary technician.md)</td>
+      <td>&lt;span&gt;[veterinary technician](veterinary_technician.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>3</td>
       <td>0.3</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>667</th>
-      <td>[animal welfare inspector](animal welfare inspector.md)</td>
+      <td>&lt;span&gt;[animal welfare inspector](animal_welfare_inspector.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>3</td>
       <td>0.3</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>1481</th>
-      <td>[animal shelter worker](animal shelter worker.md)</td>
+      <td>&lt;span&gt;[animal shelter worker](animal_shelter_worker.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.3</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1476</th>
-      <td>[fur animals breeder](fur animals breeder.md)</td>
+      <td>&lt;span&gt;[fur animals breeder](fur_animals_breeder.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>2</td>
       <td>0.2</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>1776</th>
-      <td>[veterinary medicine lecturer](veterinary medicine lecturer.md)</td>
+      <td>&lt;span&gt;[veterinary medicine lecturer](veterinary_medicine_lecturer.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>2</td>
       <td>0.2</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>2253</th>
-      <td>[farm milk controller](farm milk controller.md)</td>
+      <td>&lt;span&gt;[farm milk controller](farm_milk_controller.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>

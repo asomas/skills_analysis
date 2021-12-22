@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match nanoengineer</th>
@@ -14,1304 +13,1141 @@
   </thead>
   <tbody>
     <tr>
-      <th>504</th>
-      <td>[materials engineer](materials engineer.md)</td>
+      <td>&lt;span&gt;[materials engineer](materials_engineer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>14</td>
       <td>0.823529</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2246</th>
-      <td>[chemical engineer](chemical engineer.md)</td>
+      <td>&lt;span&gt;[chemical engineer](chemical_engineer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>13</td>
       <td>0.764706</td>
       <td>0</td>
     </tr>
     <tr>
-      <th>1095</th>
-      <td>[pharmaceutical engineer](pharmaceutical engineer.md)</td>
+      <td>&lt;span&gt;[pharmaceutical engineer](pharmaceutical_engineer.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>12</td>
       <td>0.705882</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1099</th>
-      <td>[biochemical engineer](biochemical engineer.md)</td>
+      <td>&lt;span&gt;[biochemical engineer](biochemical_engineer.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>8</td>
       <td>0.470588</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>1066</th>
-      <td>[environmental mining engineer](environmental mining engineer.md)</td>
+      <td>&lt;span&gt;[environmental mining engineer](environmental_mining_engineer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>7</td>
       <td>0.411765</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1386</th>
-      <td>[environmental engineer](environmental engineer.md)</td>
+      <td>&lt;span&gt;[environmental engineer](environmental_engineer.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>7</td>
       <td>0.411765</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2472</th>
-      <td>[geological engineer](geological engineer.md)</td>
+      <td>&lt;span&gt;[geological engineer](geological_engineer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>6</td>
       <td>0.352941</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2207</th>
-      <td>[energy systems engineer](energy systems engineer.md)</td>
+      <td>&lt;span&gt;[energy systems engineer](energy_systems_engineer.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>6</td>
       <td>0.352941</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2396</th>
-      <td>[biomedical engineer](biomedical engineer.md)</td>
+      <td>&lt;span&gt;[biomedical engineer](biomedical_engineer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>6</td>
       <td>0.352941</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1128</th>
-      <td>[solar energy engineer](solar energy engineer.md)</td>
+      <td>&lt;span&gt;[solar energy engineer](solar_energy_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>6</td>
       <td>0.352941</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1697</th>
-      <td>[waste treatment engineer](waste treatment engineer.md)</td>
+      <td>&lt;span&gt;[waste treatment engineer](waste_treatment_engineer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>6</td>
       <td>0.352941</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1636</th>
-      <td>[aerodynamics engineer](aerodynamics engineer.md)</td>
+      <td>&lt;span&gt;[aerodynamics engineer](aerodynamics_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>6</td>
       <td>0.352941</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2828</th>
-      <td>[bioengineer](bioengineer.md)</td>
+      <td>&lt;span&gt;[bioengineer](bioengineer.md)&lt;/span&gt;</td>
       <td>8</td>
       <td>6</td>
       <td>0.352941</td>
       <td>2</td>
     </tr>
     <tr>
-      <th>2733</th>
-      <td>[satellite engineer](satellite engineer.md)</td>
+      <td>&lt;span&gt;[satellite engineer](satellite_engineer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>5</td>
       <td>0.294118</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1656</th>
-      <td>[wind energy engineer](wind energy engineer.md)</td>
+      <td>&lt;span&gt;[wind energy engineer](wind_energy_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>5</td>
       <td>0.294118</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1256</th>
-      <td>[mechatronics engineer](mechatronics engineer.md)</td>
+      <td>&lt;span&gt;[mechatronics engineer](mechatronics_engineer.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>5</td>
       <td>0.294118</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>2209</th>
-      <td>[electric power generation engineer](electric power generation engineer.md)</td>
+      <td>&lt;span&gt;[electric power generation engineer](electric_power_generation_engineer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>5</td>
       <td>0.294118</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2745</th>
-      <td>[thermal engineer](thermal engineer.md)</td>
+      <td>&lt;span&gt;[thermal engineer](thermal_engineer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>5</td>
       <td>0.294118</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2776</th>
-      <td>[test engineer](test engineer.md)</td>
+      <td>&lt;span&gt;[test engineer](test_engineer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>5</td>
       <td>0.294118</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>958</th>
-      <td>[water engineer](water engineer.md)</td>
+      <td>&lt;span&gt;[water engineer](water_engineer.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>5</td>
       <td>0.294118</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>731</th>
-      <td>[packing machinery engineer](packing machinery engineer.md)</td>
+      <td>&lt;span&gt;[packing machinery engineer](packing_machinery_engineer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>5</td>
       <td>0.294118</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1753</th>
-      <td>[transport engineer](transport engineer.md)</td>
+      <td>&lt;span&gt;[transport engineer](transport_engineer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>5</td>
       <td>0.294118</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1085</th>
-      <td>[drainage engineer](drainage engineer.md)</td>
+      <td>&lt;span&gt;[drainage engineer](drainage_engineer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>5</td>
       <td>0.294118</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>729</th>
-      <td>[rotating equipment engineer](rotating equipment engineer.md)</td>
+      <td>&lt;span&gt;[rotating equipment engineer](rotating_equipment_engineer.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>5</td>
       <td>0.294118</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1975</th>
-      <td>[welding engineer](welding engineer.md)</td>
+      <td>&lt;span&gt;[welding engineer](welding_engineer.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>5</td>
       <td>0.294118</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>2476</th>
-      <td>[civil engineer](civil engineer.md)</td>
+      <td>&lt;span&gt;[civil engineer](civil_engineer.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>5</td>
       <td>0.294118</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>2825</th>
-      <td>[acoustical engineer](acoustical engineer.md)</td>
+      <td>&lt;span&gt;[acoustical engineer](acoustical_engineer.md)&lt;/span&gt;</td>
       <td>7</td>
       <td>5</td>
       <td>0.294118</td>
       <td>2</td>
     </tr>
     <tr>
-      <th>2826</th>
-      <td>[energy engineer](energy engineer.md)</td>
+      <td>&lt;span&gt;[energy engineer](energy_engineer.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>5</td>
       <td>0.294118</td>
       <td>4</td>
     </tr>
     <tr>
-      <th>1082</th>
-      <td>[wastewater engineer](wastewater engineer.md)</td>
+      <td>&lt;span&gt;[wastewater engineer](wastewater_engineer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>5</td>
       <td>0.294118</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2782</th>
-      <td>[health and safety engineer](health and safety engineer.md)</td>
+      <td>&lt;span&gt;[health and safety engineer](health_and_safety_engineer.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>5</td>
       <td>0.294118</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>2473</th>
-      <td>[wood technology engineer](wood technology engineer.md)</td>
+      <td>&lt;span&gt;[wood technology engineer](wood_technology_engineer.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>5</td>
       <td>0.294118</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>2664</th>
-      <td>[fisheries refrigeration engineer](fisheries refrigeration engineer.md)</td>
+      <td>&lt;span&gt;[fisheries refrigeration engineer](fisheries_refrigeration_engineer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>5</td>
       <td>0.294118</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2750</th>
-      <td>[aerospace engineer](aerospace engineer.md)</td>
+      <td>&lt;span&gt;[aerospace engineer](aerospace_engineer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>5</td>
       <td>0.294118</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1080</th>
-      <td>[gas production engineer](gas production engineer.md)</td>
+      <td>&lt;span&gt;[gas production engineer](gas_production_engineer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>5</td>
       <td>0.294118</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>735</th>
-      <td>[fluid power engineer](fluid power engineer.md)</td>
+      <td>&lt;span&gt;[fluid power engineer](fluid_power_engineer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>5</td>
       <td>0.294118</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2736</th>
-      <td>[agricultural engineer](agricultural engineer.md)</td>
+      <td>&lt;span&gt;[agricultural engineer](agricultural_engineer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>5</td>
       <td>0.294118</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>740</th>
-      <td>[agricultural equipment design engineer](agricultural equipment design engineer.md)</td>
+      <td>&lt;span&gt;[agricultural equipment design engineer](agricultural_equipment_design_engineer.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>5</td>
       <td>0.294118</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1466</th>
-      <td>[automotive engineer](automotive engineer.md)</td>
+      <td>&lt;span&gt;[automotive engineer](automotive_engineer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.294118</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1097</th>
-      <td>[nuclear engineer](nuclear engineer.md)</td>
+      <td>&lt;span&gt;[nuclear engineer](nuclear_engineer.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>5</td>
       <td>0.294118</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1098</th>
-      <td>[substation engineer](substation engineer.md)</td>
+      <td>&lt;span&gt;[substation engineer](substation_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>5</td>
       <td>0.294118</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2822</th>
-      <td>[mechanical engineer](mechanical engineer.md)</td>
+      <td>&lt;span&gt;[mechanical engineer](mechanical_engineer.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>5</td>
       <td>0.294118</td>
       <td>4</td>
     </tr>
     <tr>
-      <th>2821</th>
-      <td>[robotics engineer](robotics engineer.md)</td>
+      <td>&lt;span&gt;[robotics engineer](robotics_engineer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>5</td>
       <td>0.294118</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1853</th>
-      <td>[land surveyor](land surveyor.md)</td>
+      <td>&lt;span&gt;[land surveyor](land_surveyor.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>5</td>
       <td>0.294118</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2820</th>
-      <td>[industrial engineer](industrial engineer.md)</td>
+      <td>&lt;span&gt;[industrial engineer](industrial_engineer.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>5</td>
       <td>0.294118</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>2823</th>
-      <td>[manufacturing engineer](manufacturing engineer.md)</td>
+      <td>&lt;span&gt;[manufacturing engineer](manufacturing_engineer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>5</td>
       <td>0.294118</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2819</th>
-      <td>[fire prevention and protection engineer](fire prevention and protection engineer.md)</td>
+      <td>&lt;span&gt;[fire prevention and protection engineer](fire_prevention_and_protection_engineer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>5</td>
       <td>0.294118</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2818</th>
-      <td>[heating, ventilation, air conditioning engineer](heating, ventilation, air conditioning engineer.md)</td>
+      <td>&lt;span&gt;[heating, ventilation, air conditioning engineer](heating,_ventilation,_air_conditioning_engineer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>5</td>
       <td>0.294118</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>554</th>
-      <td>[container equipment design engineer](container equipment design engineer.md)</td>
+      <td>&lt;span&gt;[container equipment design engineer](container_equipment_design_engineer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>5</td>
       <td>0.294118</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1245</th>
-      <td>[steam engineer](steam engineer.md)</td>
+      <td>&lt;span&gt;[steam engineer](steam_engineer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.294118</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2689</th>
-      <td>[marine engineer](marine engineer.md)</td>
+      <td>&lt;span&gt;[marine engineer](marine_engineer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>5</td>
       <td>0.294118</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1257</th>
-      <td>[automation engineer](automation engineer.md)</td>
+      <td>&lt;span&gt;[automation engineer](automation_engineer.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>5</td>
       <td>0.294118</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1631</th>
-      <td>[tooling engineer](tooling engineer.md)</td>
+      <td>&lt;span&gt;[tooling engineer](tooling_engineer.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>5</td>
       <td>0.294118</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>2663</th>
-      <td>[flight test engineer](flight test engineer.md)</td>
+      <td>&lt;span&gt;[flight test engineer](flight_test_engineer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>5</td>
       <td>0.294118</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>898</th>
-      <td>[medical device engineer](medical device engineer.md)</td>
+      <td>&lt;span&gt;[medical device engineer](medical_device_engineer.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>5</td>
       <td>0.294118</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>2691</th>
-      <td>[surface engineer](surface engineer.md)</td>
+      <td>&lt;span&gt;[surface engineer](surface_engineer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>5</td>
       <td>0.294118</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2385</th>
-      <td>[gas distribution engineer](gas distribution engineer.md)</td>
+      <td>&lt;span&gt;[gas distribution engineer](gas_distribution_engineer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>5</td>
       <td>0.294118</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1609</th>
-      <td>[production engineer](production engineer.md)</td>
+      <td>&lt;span&gt;[production engineer](production_engineer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>5</td>
       <td>0.294118</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>34</th>
-      <td>[rolling stock engineer](rolling stock engineer.md)</td>
+      <td>&lt;span&gt;[rolling stock engineer](rolling_stock_engineer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.294118</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2089</th>
-      <td>[shipwright](shipwright.md)</td>
+      <td>&lt;span&gt;[shipwright](shipwright.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>4</td>
       <td>0.235294</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1269</th>
-      <td>[biochemist](biochemist.md)</td>
+      <td>&lt;span&gt;[biochemist](biochemist.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.235294</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1088</th>
-      <td>[power distribution engineer](power distribution engineer.md)</td>
+      <td>&lt;span&gt;[power distribution engineer](power_distribution_engineer.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>4</td>
       <td>0.235294</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2495</th>
-      <td>[military engineer](military engineer.md)</td>
+      <td>&lt;span&gt;[military engineer](military_engineer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.235294</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2824</th>
-      <td>[electrical engineer](electrical engineer.md)</td>
+      <td>&lt;span&gt;[electrical engineer](electrical_engineer.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>4</td>
       <td>0.235294</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>775</th>
-      <td>[electronics engineer](electronics engineer.md)</td>
+      <td>&lt;span&gt;[electronics engineer](electronics_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>4</td>
       <td>0.235294</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2827</th>
-      <td>[instrumentation engineer](instrumentation engineer.md)</td>
+      <td>&lt;span&gt;[instrumentation engineer](instrumentation_engineer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.235294</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1374</th>
-      <td>[optical engineer](optical engineer.md)</td>
+      <td>&lt;span&gt;[optical engineer](optical_engineer.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>4</td>
       <td>0.235294</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1367</th>
-      <td>[electromagnetic engineer](electromagnetic engineer.md)</td>
+      <td>&lt;span&gt;[electromagnetic engineer](electromagnetic_engineer.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>4</td>
       <td>0.235294</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>1255</th>
-      <td>[electromechanical engineer](electromechanical engineer.md)</td>
+      <td>&lt;span&gt;[electromechanical engineer](electromechanical_engineer.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>4</td>
       <td>0.235294</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1375</th>
-      <td>[optomechanical engineer](optomechanical engineer.md)</td>
+      <td>&lt;span&gt;[optomechanical engineer](optomechanical_engineer.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>4</td>
       <td>0.235294</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1373</th>
-      <td>[computer hardware engineer](computer hardware engineer.md)</td>
+      <td>&lt;span&gt;[computer hardware engineer](computer_hardware_engineer.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>4</td>
       <td>0.235294</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>2205</th>
-      <td>[renewable energy engineer](renewable energy engineer.md)</td>
+      <td>&lt;span&gt;[renewable energy engineer](renewable_energy_engineer.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>4</td>
       <td>0.235294</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>1369</th>
-      <td>[sensor engineer](sensor engineer.md)</td>
+      <td>&lt;span&gt;[sensor engineer](sensor_engineer.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>4</td>
       <td>0.235294</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1370</th>
-      <td>[photonics engineer](photonics engineer.md)</td>
+      <td>&lt;span&gt;[photonics engineer](photonics_engineer.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>4</td>
       <td>0.235294</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1371</th>
-      <td>[microsystem engineer](microsystem engineer.md)</td>
+      <td>&lt;span&gt;[microsystem engineer](microsystem_engineer.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>4</td>
       <td>0.235294</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1368</th>
-      <td>[optoelectronic engineer](optoelectronic engineer.md)</td>
+      <td>&lt;span&gt;[optoelectronic engineer](optoelectronic_engineer.md)&lt;/span&gt;</td>
       <td>36</td>
       <td>4</td>
       <td>0.235294</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>1067</th>
-      <td>[chemical engineering technician](chemical engineering technician.md)</td>
+      <td>&lt;span&gt;[chemical engineering technician](chemical_engineering_technician.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>4</td>
       <td>0.235294</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1372</th>
-      <td>[microelectronics engineer](microelectronics engineer.md)</td>
+      <td>&lt;span&gt;[microelectronics engineer](microelectronics_engineer.md)&lt;/span&gt;</td>
       <td>36</td>
       <td>4</td>
       <td>0.235294</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>2294</th>
-      <td>[hydropower engineer](hydropower engineer.md)</td>
+      <td>&lt;span&gt;[hydropower engineer](hydropower_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>4</td>
       <td>0.235294</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>496</th>
-      <td>[product development engineering technician](product development engineering technician.md)</td>
+      <td>&lt;span&gt;[product development engineering technician](product_development_engineering_technician.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.176471</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>495</th>
-      <td>[corrosion technician](corrosion technician.md)</td>
+      <td>&lt;span&gt;[corrosion technician](corrosion_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.176471</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2685</th>
-      <td>[design engineer](design engineer.md)</td>
+      <td>&lt;span&gt;[design engineer](design_engineer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.176471</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>596</th>
-      <td>[industrial engineering technician](industrial engineering technician.md)</td>
+      <td>&lt;span&gt;[industrial engineering technician](industrial_engineering_technician.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.176471</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2690</th>
-      <td>[logistics engineer](logistics engineer.md)</td>
+      <td>&lt;span&gt;[logistics engineer](logistics_engineer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.176471</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1638</th>
-      <td>[mechanical engineering technician](mechanical engineering technician.md)</td>
+      <td>&lt;span&gt;[mechanical engineering technician](mechanical_engineering_technician.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.176471</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>551</th>
-      <td>[industrial tool design engineer](industrial tool design engineer.md)</td>
+      <td>&lt;span&gt;[industrial tool design engineer](industrial_tool_design_engineer.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>3</td>
       <td>0.176471</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2678</th>
-      <td>[component engineer](component engineer.md)</td>
+      <td>&lt;span&gt;[component engineer](component_engineer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.176471</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1100</th>
-      <td>[chemical processing supervisor](chemical processing supervisor.md)</td>
+      <td>&lt;span&gt;[chemical processing supervisor](chemical_processing_supervisor.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.176471</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1274</th>
-      <td>[chromatographer](chromatographer.md)</td>
+      <td>&lt;span&gt;[chromatographer](chromatographer.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>3</td>
       <td>0.176471</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>2861</th>
-      <td>[research engineer](research engineer.md)</td>
+      <td>&lt;span&gt;[research engineer](research_engineer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.176471</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>747</th>
-      <td>[software developer](software developer.md)</td>
+      <td>&lt;span&gt;[software developer](software_developer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.176471</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2425</th>
-      <td>[contract engineer](contract engineer.md)</td>
+      <td>&lt;span&gt;[contract engineer](contract_engineer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.176471</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1266</th>
-      <td>[analytical chemist](analytical chemist.md)</td>
+      <td>&lt;span&gt;[analytical chemist](analytical_chemist.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.176471</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2746</th>
-      <td>[process engineer](process engineer.md)</td>
+      <td>&lt;span&gt;[process engineer](process_engineer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.176471</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>41</th>
-      <td>[toxicologist](toxicologist.md)</td>
+      <td>&lt;span&gt;[toxicologist](toxicologist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.176471</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>455</th>
-      <td>[production engineering technician](production engineering technician.md)</td>
+      <td>&lt;span&gt;[production engineering technician](production_engineering_technician.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.176471</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1273</th>
-      <td>[chemistry technician](chemistry technician.md)</td>
+      <td>&lt;span&gt;[chemistry technician](chemistry_technician.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>3</td>
       <td>0.176471</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>2292</th>
-      <td>[hydropower technician](hydropower technician.md)</td>
+      <td>&lt;span&gt;[hydropower technician](hydropower_technician.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.176471</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1611</th>
-      <td>[marine engineering technician](marine engineering technician.md)</td>
+      <td>&lt;span&gt;[marine engineering technician](marine_engineering_technician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.176471</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1612</th>
-      <td>[aerospace engineering technician](aerospace engineering technician.md)</td>
+      <td>&lt;span&gt;[aerospace engineering technician](aerospace_engineering_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.176471</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1613</th>
-      <td>[rolling stock engineering technician](rolling stock engineering technician.md)</td>
+      <td>&lt;span&gt;[rolling stock engineering technician](rolling_stock_engineering_technician.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.176471</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>479</th>
-      <td>[pneumatic engineering technician](pneumatic engineering technician.md)</td>
+      <td>&lt;span&gt;[pneumatic engineering technician](pneumatic_engineering_technician.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.176471</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2291</th>
-      <td>[installation engineer](installation engineer.md)</td>
+      <td>&lt;span&gt;[installation engineer](installation_engineer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.176471</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2784</th>
-      <td>[language engineer](language engineer.md)</td>
+      <td>&lt;span&gt;[language engineer](language_engineer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.176471</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2675</th>
-      <td>[equipment engineer](equipment engineer.md)</td>
+      <td>&lt;span&gt;[equipment engineer](equipment_engineer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.176471</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1622</th>
-      <td>[automotive engineering technician](automotive engineering technician.md)</td>
+      <td>&lt;span&gt;[automotive engineering technician](automotive_engineering_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.176471</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2871</th>
-      <td>[application engineer](application engineer.md)</td>
+      <td>&lt;span&gt;[application engineer](application_engineer.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>3</td>
       <td>0.176471</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>2285</th>
-      <td>[compliance engineer](compliance engineer.md)</td>
+      <td>&lt;span&gt;[compliance engineer](compliance_engineer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.176471</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>511</th>
-      <td>[process engineering technician](process engineering technician.md)</td>
+      <td>&lt;span&gt;[process engineering technician](process_engineering_technician.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.176471</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2868</th>
-      <td>[precision engineer](precision engineer.md)</td>
+      <td>&lt;span&gt;[precision engineer](precision_engineer.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>3</td>
       <td>0.176471</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>832</th>
-      <td>[paper engineer](paper engineer.md)</td>
+      <td>&lt;span&gt;[paper engineer](paper_engineer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.176471</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1263</th>
-      <td>[botanical technician](botanical technician.md)</td>
+      <td>&lt;span&gt;[botanical technician](botanical_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.117647</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1267</th>
-      <td>[geneticist](geneticist.md)</td>
+      <td>&lt;span&gt;[geneticist](geneticist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.117647</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2765</th>
-      <td>[embalmer](embalmer.md)</td>
+      <td>&lt;span&gt;[embalmer](embalmer.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>2</td>
       <td>0.117647</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1264</th>
-      <td>[biology technician](biology technician.md)</td>
+      <td>&lt;span&gt;[biology technician](biology_technician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.117647</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1275</th>
-      <td>[biochemistry technician](biochemistry technician.md)</td>
+      <td>&lt;span&gt;[biochemistry technician](biochemistry_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.117647</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1262</th>
-      <td>[physiologist](physiologist.md)</td>
+      <td>&lt;span&gt;[physiologist](physiologist.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.117647</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1261</th>
-      <td>[kinesiologist](kinesiologist.md)</td>
+      <td>&lt;span&gt;[kinesiologist](kinesiologist.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.117647</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1271</th>
-      <td>[assayer](assayer.md)</td>
+      <td>&lt;span&gt;[assayer](assayer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.117647</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1259</th>
-      <td>[biotechnical technician](biotechnical technician.md)</td>
+      <td>&lt;span&gt;[biotechnical technician](biotechnical_technician.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.117647</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1285</th>
-      <td>[zoology technician](zoology technician.md)</td>
+      <td>&lt;span&gt;[zoology technician](zoology_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.117647</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1284</th>
-      <td>[bacteriology technician](bacteriology technician.md)</td>
+      <td>&lt;span&gt;[bacteriology technician](bacteriology_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.117647</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1841</th>
-      <td>[engineering lecturer](engineering lecturer.md)</td>
+      <td>&lt;span&gt;[engineering lecturer](engineering_lecturer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>2</td>
       <td>0.117647</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1282</th>
-      <td>[environmental technician](environmental technician.md)</td>
+      <td>&lt;span&gt;[environmental technician](environmental_technician.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.117647</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1278</th>
-      <td>[immunologist](immunologist.md)</td>
+      <td>&lt;span&gt;[immunologist](immunologist.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.117647</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2783</th>
-      <td>[behavioural scientist](behavioural scientist.md)</td>
+      <td>&lt;span&gt;[behavioural scientist](behavioural_scientist.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.117647</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2801</th>
-      <td>[heating, ventilation, air conditioning (and refrigeration) drafter](heating, ventilation, air conditioning (and refrigeration) drafter.md)</td>
+      <td>&lt;span&gt;[heating, ventilation, air conditioning (and refrigeration) drafter](heating,_ventilation,_air_conditioning_(and_refrigeration)_drafter.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.117647</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1069</th>
-      <td>[metallurgical manager](metallurgical manager.md)</td>
+      <td>&lt;span&gt;[metallurgical manager](metallurgical_manager.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.117647</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2796</th>
-      <td>[patent engineer](patent engineer.md)</td>
+      <td>&lt;span&gt;[patent engineer](patent_engineer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.117647</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2528</th>
-      <td>[industrial designer](industrial designer.md)</td>
+      <td>&lt;span&gt;[industrial designer](industrial_designer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.117647</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2203</th>
-      <td>[calculation engineer](calculation engineer.md)</td>
+      <td>&lt;span&gt;[calculation engineer](calculation_engineer.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.117647</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>952</th>
-      <td>[groundwater monitoring technician](groundwater monitoring technician.md)</td>
+      <td>&lt;span&gt;[groundwater monitoring technician](groundwater_monitoring_technician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.117647</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1286</th>
-      <td>[chemist](chemist.md)</td>
+      <td>&lt;span&gt;[chemist](chemist.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>2</td>
       <td>0.117647</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2244</th>
-      <td>[aircraft maintenance technician](aircraft maintenance technician.md)</td>
+      <td>&lt;span&gt;[aircraft maintenance technician](aircraft_maintenance_technician.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>2</td>
       <td>0.117647</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>1000</th>
-      <td>[nitroglycerin neutraliser](nitroglycerin neutraliser.md)</td>
+      <td>&lt;span&gt;[nitroglycerin neutraliser](nitroglycerin_neutraliser.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.117647</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1382</th>
-      <td>[bioinformatics scientist](bioinformatics scientist.md)</td>
+      <td>&lt;span&gt;[bioinformatics scientist](bioinformatics_scientist.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.117647</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1765</th>
-      <td>[science teacher secondary school](science teacher secondary school.md)</td>
+      <td>&lt;span&gt;[science teacher secondary school](science_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.117647</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>2243</th>
-      <td>[aircraft maintenance engineer](aircraft maintenance engineer.md)</td>
+      <td>&lt;span&gt;[aircraft maintenance engineer](aircraft_maintenance_engineer.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.117647</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>2471</th>
-      <td>[civil engineering technician](civil engineering technician.md)</td>
+      <td>&lt;span&gt;[civil engineering technician](civil_engineering_technician.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.117647</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>518</th>
-      <td>[maintenance and repair engineer](maintenance and repair engineer.md)</td>
+      <td>&lt;span&gt;[maintenance and repair engineer](maintenance_and_repair_engineer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.117647</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>53</th>
-      <td>[aquaculture biologist](aquaculture biologist.md)</td>
+      <td>&lt;span&gt;[aquaculture biologist](aquaculture_biologist.md)&lt;/span&gt;</td>
       <td>37</td>
       <td>2</td>
       <td>0.117647</td>
       <td>35</td>
     </tr>
     <tr>
-      <th>2913</th>
-      <td>[surface treatment operator](surface treatment operator.md)</td>
+      <td>&lt;span&gt;[surface treatment operator](surface_treatment_operator.md)&lt;/span&gt;</td>
       <td>8</td>
       <td>2</td>
       <td>0.117647</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>54</th>
-      <td>[nature conservation officer](nature conservation officer.md)</td>
+      <td>&lt;span&gt;[nature conservation officer](nature_conservation_officer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.117647</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1615</th>
-      <td>[automotive designer](automotive designer.md)</td>
+      <td>&lt;span&gt;[automotive designer](automotive_designer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.117647</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2830</th>
-      <td>[civil drafter](civil drafter.md)</td>
+      <td>&lt;span&gt;[civil drafter](civil_drafter.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.117647</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>55</th>
-      <td>[aquatic animal health professional](aquatic animal health professional.md)</td>
+      <td>&lt;span&gt;[aquatic animal health professional](aquatic_animal_health_professional.md)&lt;/span&gt;</td>
       <td>55</td>
       <td>2</td>
       <td>0.117647</td>
       <td>53</td>
     </tr>
     <tr>
-      <th>56</th>
-      <td>[microbiologist](microbiologist.md)</td>
+      <td>&lt;span&gt;[microbiologist](microbiologist.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.117647</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>57</th>
-      <td>[biologist](biologist.md)</td>
+      <td>&lt;span&gt;[biologist](biologist.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.117647</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>40</th>
-      <td>[biomedical scientist](biomedical scientist.md)</td>
+      <td>&lt;span&gt;[biomedical scientist](biomedical_scientist.md)&lt;/span&gt;</td>
       <td>90</td>
       <td>2</td>
       <td>0.117647</td>
       <td>88</td>
     </tr>
     <tr>
-      <th>2653</th>
-      <td>[sensory scientist](sensory scientist.md)</td>
+      <td>&lt;span&gt;[sensory scientist](sensory_scientist.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.117647</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2682</th>
-      <td>[rolling stock engineering drafter](rolling stock engineering drafter.md)</td>
+      <td>&lt;span&gt;[rolling stock engineering drafter](rolling_stock_engineering_drafter.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.117647</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2681</th>
-      <td>[automotive engineering drafter](automotive engineering drafter.md)</td>
+      <td>&lt;span&gt;[automotive engineering drafter](automotive_engineering_drafter.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.117647</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2832</th>
-      <td>[product development engineering drafter](product development engineering drafter.md)</td>
+      <td>&lt;span&gt;[product development engineering drafter](product_development_engineering_drafter.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.117647</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1287</th>
-      <td>[fragrance chemist](fragrance chemist.md)</td>
+      <td>&lt;span&gt;[fragrance chemist](fragrance_chemist.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.117647</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2676</th>
-      <td>[aerospace engineering drafter](aerospace engineering drafter.md)</td>
+      <td>&lt;span&gt;[aerospace engineering drafter](aerospace_engineering_drafter.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.117647</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>307</th>
-      <td>[chemical plant manager](chemical plant manager.md)</td>
+      <td>&lt;span&gt;[chemical plant manager](chemical_plant_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.117647</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1640</th>
-      <td>[material stress analyst](material stress analyst.md)</td>
+      <td>&lt;span&gt;[material stress analyst](material_stress_analyst.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.117647</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1149</th>
-      <td>[textile, leather and footwear researcher](textile, leather and footwear researcher.md)</td>
+      <td>&lt;span&gt;[textile, leather and footwear researcher](textile,_leather_and_footwear_researcher.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.117647</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2680</th>
-      <td>[marine engineering drafter](marine engineering drafter.md)</td>
+      <td>&lt;span&gt;[marine engineering drafter](marine_engineering_drafter.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.117647</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2384</th>
-      <td>[pipeline engineer](pipeline engineer.md)</td>
+      <td>&lt;span&gt;[pipeline engineer](pipeline_engineer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.117647</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2684</th>
-      <td>[naval architect](naval architect.md)</td>
+      <td>&lt;span&gt;[naval architect](naval_architect.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.117647</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2483</th>
-      <td>[synthetic materials engineer](synthetic materials engineer.md)</td>
+      <td>&lt;span&gt;[synthetic materials engineer](synthetic_materials_engineer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.117647</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1055</th>
-      <td>[foundry manager](foundry manager.md)</td>
+      <td>&lt;span&gt;[foundry manager](foundry_manager.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>2</td>
       <td>0.117647</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2860</th>
-      <td>[cosmetic chemist](cosmetic chemist.md)</td>
+      <td>&lt;span&gt;[cosmetic chemist](cosmetic_chemist.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.117647</td>

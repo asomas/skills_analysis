@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match boilermaker</th>
@@ -14,1448 +13,1267 @@
   </thead>
   <tbody>
     <tr>
-      <th>1976</th>
-      <td>[welder](welder.md)</td>
+      <td>&lt;span&gt;[welder](welder.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>14</td>
       <td>0.636364</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2565</th>
-      <td>[oxy fuel burning machine operator](oxy fuel burning machine operator.md)</td>
+      <td>&lt;span&gt;[oxy fuel burning machine operator](oxy_fuel_burning_machine_operator.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>9</td>
       <td>0.409091</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2093</th>
-      <td>[tool and die maker](tool and die maker.md)</td>
+      <td>&lt;span&gt;[tool and die maker](tool_and_die_maker.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>9</td>
       <td>0.409091</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>412</th>
-      <td>[electron beam welder](electron beam welder.md)</td>
+      <td>&lt;span&gt;[electron beam welder](electron_beam_welder.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>9</td>
       <td>0.409091</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1884</th>
-      <td>[solderer](solderer.md)</td>
+      <td>&lt;span&gt;[solderer](solderer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>9</td>
       <td>0.409091</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2091</th>
-      <td>[laser beam welder](laser beam welder.md)</td>
+      <td>&lt;span&gt;[laser beam welder](laser_beam_welder.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>9</td>
       <td>0.409091</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2090</th>
-      <td>[spot welder](spot welder.md)</td>
+      <td>&lt;span&gt;[spot welder](spot_welder.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>8</td>
       <td>0.363636</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1679</th>
-      <td>[brazier](brazier.md)</td>
+      <td>&lt;span&gt;[brazier](brazier.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>8</td>
       <td>0.363636</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2363</th>
-      <td>[laser cutting machine operator](laser cutting machine operator.md)</td>
+      <td>&lt;span&gt;[laser cutting machine operator](laser_cutting_machine_operator.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>8</td>
       <td>0.363636</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2343</th>
-      <td>[engraving machine operator](engraving machine operator.md)</td>
+      <td>&lt;span&gt;[engraving machine operator](engraving_machine_operator.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>8</td>
       <td>0.363636</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2651</th>
-      <td>[laser marking machine operator](laser marking machine operator.md)</td>
+      <td>&lt;span&gt;[laser marking machine operator](laser_marking_machine_operator.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>8</td>
       <td>0.363636</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2197</th>
-      <td>[welding coordinator](welding coordinator.md)</td>
+      <td>&lt;span&gt;[welding coordinator](welding_coordinator.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>8</td>
       <td>0.363636</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2352</th>
-      <td>[metal rolling mill operator](metal rolling mill operator.md)</td>
+      <td>&lt;span&gt;[metal rolling mill operator](metal_rolling_mill_operator.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>7</td>
       <td>0.318182</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2708</th>
-      <td>[upsetting machine operator](upsetting machine operator.md)</td>
+      <td>&lt;span&gt;[upsetting machine operator](upsetting_machine_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>7</td>
       <td>0.318182</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2362</th>
-      <td>[drill press operator](drill press operator.md)</td>
+      <td>&lt;span&gt;[drill press operator](drill_press_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>7</td>
       <td>0.318182</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2710</th>
-      <td>[milling machine operator](milling machine operator.md)</td>
+      <td>&lt;span&gt;[milling machine operator](milling_machine_operator.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>7</td>
       <td>0.318182</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2713</th>
-      <td>[mechanical forging press worker](mechanical forging press worker.md)</td>
+      <td>&lt;span&gt;[mechanical forging press worker](mechanical_forging_press_worker.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>7</td>
       <td>0.318182</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2270</th>
-      <td>[hydraulic forging press worker](hydraulic forging press worker.md)</td>
+      <td>&lt;span&gt;[hydraulic forging press worker](hydraulic_forging_press_worker.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>7</td>
       <td>0.318182</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2701</th>
-      <td>[grinding machine operator](grinding machine operator.md)</td>
+      <td>&lt;span&gt;[grinding machine operator](grinding_machine_operator.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>7</td>
       <td>0.318182</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2563</th>
-      <td>[surface grinding machine operator](surface grinding machine operator.md)</td>
+      <td>&lt;span&gt;[surface grinding machine operator](surface_grinding_machine_operator.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>7</td>
       <td>0.318182</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2212</th>
-      <td>[plasma cutting machine operator](plasma cutting machine operator.md)</td>
+      <td>&lt;span&gt;[plasma cutting machine operator](plasma_cutting_machine_operator.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>7</td>
       <td>0.318182</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2700</th>
-      <td>[tumbling machine operator](tumbling machine operator.md)</td>
+      <td>&lt;span&gt;[tumbling machine operator](tumbling_machine_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>7</td>
       <td>0.318182</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2077</th>
-      <td>[water jet cutter operator](water jet cutter operator.md)</td>
+      <td>&lt;span&gt;[water jet cutter operator](water_jet_cutter_operator.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>7</td>
       <td>0.318182</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2567</th>
-      <td>[drop forging hammer worker](drop forging hammer worker.md)</td>
+      <td>&lt;span&gt;[drop forging hammer worker](drop_forging_hammer_worker.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>7</td>
       <td>0.318182</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2348</th>
-      <td>[metal sawing machine operator](metal sawing machine operator.md)</td>
+      <td>&lt;span&gt;[metal sawing machine operator](metal_sawing_machine_operator.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>7</td>
       <td>0.318182</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2705</th>
-      <td>[lathe and turning machine operator](lathe and turning machine operator.md)</td>
+      <td>&lt;span&gt;[lathe and turning machine operator](lathe_and_turning_machine_operator.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>6</td>
       <td>0.272727</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2491</th>
-      <td>[ornamental metal worker](ornamental metal worker.md)</td>
+      <td>&lt;span&gt;[ornamental metal worker](ornamental_metal_worker.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>6</td>
       <td>0.272727</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2452</th>
-      <td>[stamping press operator](stamping press operator.md)</td>
+      <td>&lt;span&gt;[stamping press operator](stamping_press_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>6</td>
       <td>0.272727</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2720</th>
-      <td>[drilling machine operator](drilling machine operator.md)</td>
+      <td>&lt;span&gt;[drilling machine operator](drilling_machine_operator.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>6</td>
       <td>0.272727</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2358</th>
-      <td>[deburring machine operator](deburring machine operator.md)</td>
+      <td>&lt;span&gt;[deburring machine operator](deburring_machine_operator.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>6</td>
       <td>0.272727</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2342</th>
-      <td>[boring machine operator](boring machine operator.md)</td>
+      <td>&lt;span&gt;[boring machine operator](boring_machine_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>6</td>
       <td>0.272727</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2238</th>
-      <td>[coppersmith](coppersmith.md)</td>
+      <td>&lt;span&gt;[coppersmith](coppersmith.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>6</td>
       <td>0.272727</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2596</th>
-      <td>[rustproofer](rustproofer.md)</td>
+      <td>&lt;span&gt;[rustproofer](rustproofer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>6</td>
       <td>0.272727</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2351</th>
-      <td>[metal nibbling operator](metal nibbling operator.md)</td>
+      <td>&lt;span&gt;[metal nibbling operator](metal_nibbling_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>6</td>
       <td>0.272727</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2564</th>
-      <td>[cylindrical grinder operator](cylindrical grinder operator.md)</td>
+      <td>&lt;span&gt;[cylindrical grinder operator](cylindrical_grinder_operator.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>6</td>
       <td>0.272727</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2364</th>
-      <td>[spring maker](spring maker.md)</td>
+      <td>&lt;span&gt;[spring maker](spring_maker.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>6</td>
       <td>0.272727</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2350</th>
-      <td>[computer numerical control machine operator](computer numerical control machine operator.md)</td>
+      <td>&lt;span&gt;[computer numerical control machine operator](computer_numerical_control_machine_operator.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>6</td>
       <td>0.272727</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2367</th>
-      <td>[punch press operator](punch press operator.md)</td>
+      <td>&lt;span&gt;[punch press operator](punch_press_operator.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>5</td>
       <td>0.227273</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1975</th>
-      <td>[welding engineer](welding engineer.md)</td>
+      <td>&lt;span&gt;[welding engineer](welding_engineer.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>5</td>
       <td>0.227273</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>2347</th>
-      <td>[screw machine operator](screw machine operator.md)</td>
+      <td>&lt;span&gt;[screw machine operator](screw_machine_operator.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>5</td>
       <td>0.227273</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2349</th>
-      <td>[stone planer](stone planer.md)</td>
+      <td>&lt;span&gt;[stone planer](stone_planer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.227273</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2704</th>
-      <td>[filing machine operator](filing machine operator.md)</td>
+      <td>&lt;span&gt;[filing machine operator](filing_machine_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.227273</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>631</th>
-      <td>[metrology technician](metrology technician.md)</td>
+      <td>&lt;span&gt;[metrology technician](metrology_technician.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>5</td>
       <td>0.227273</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2703</th>
-      <td>[planer thicknesser operator](planer thicknesser operator.md)</td>
+      <td>&lt;span&gt;[planer thicknesser operator](planer_thicknesser_operator.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>5</td>
       <td>0.227273</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2353</th>
-      <td>[wire weaving machine operator](wire weaving machine operator.md)</td>
+      <td>&lt;span&gt;[wire weaving machine operator](wire_weaving_machine_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.227273</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2712</th>
-      <td>[electroplating machine operator](electroplating machine operator.md)</td>
+      <td>&lt;span&gt;[electroplating machine operator](electroplating_machine_operator.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>5</td>
       <td>0.227273</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2719</th>
-      <td>[anodising machine operator](anodising machine operator.md)</td>
+      <td>&lt;span&gt;[anodising machine operator](anodising_machine_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>5</td>
       <td>0.227273</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2698</th>
-      <td>[table saw operator](table saw operator.md)</td>
+      <td>&lt;span&gt;[table saw operator](table_saw_operator.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>5</td>
       <td>0.227273</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2092</th>
-      <td>[electromechanical equipment assembler](electromechanical equipment assembler.md)</td>
+      <td>&lt;span&gt;[electromechanical equipment assembler](electromechanical_equipment_assembler.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>5</td>
       <td>0.227273</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1878</th>
-      <td>[metal engraver](metal engraver.md)</td>
+      <td>&lt;span&gt;[metal engraver](metal_engraver.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>5</td>
       <td>0.227273</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>375</th>
-      <td>[heating engineer](heating engineer.md)</td>
+      <td>&lt;span&gt;[heating engineer](heating_engineer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>5</td>
       <td>0.227273</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>36</th>
-      <td>[rolling stock assembler](rolling stock assembler.md)</td>
+      <td>&lt;span&gt;[rolling stock assembler](rolling_stock_assembler.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>5</td>
       <td>0.227273</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2521</th>
-      <td>[vessel engine assembler](vessel engine assembler.md)</td>
+      <td>&lt;span&gt;[vessel engine assembler](vessel_engine_assembler.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>5</td>
       <td>0.227273</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2526</th>
-      <td>[chain making machine operator](chain making machine operator.md)</td>
+      <td>&lt;span&gt;[chain making machine operator](chain_making_machine_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>5</td>
       <td>0.227273</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2519</th>
-      <td>[aircraft engine assembler](aircraft engine assembler.md)</td>
+      <td>&lt;span&gt;[aircraft engine assembler](aircraft_engine_assembler.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.227273</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2562</th>
-      <td>[metal drawing machine operator](metal drawing machine operator.md)</td>
+      <td>&lt;span&gt;[metal drawing machine operator](metal_drawing_machine_operator.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>5</td>
       <td>0.227273</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2522</th>
-      <td>[motor vehicle engine assembler](motor vehicle engine assembler.md)</td>
+      <td>&lt;span&gt;[motor vehicle engine assembler](motor_vehicle_engine_assembler.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>5</td>
       <td>0.227273</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2088</th>
-      <td>[riveter](riveter.md)</td>
+      <td>&lt;span&gt;[riveter](riveter.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>5</td>
       <td>0.227273</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>2531</th>
-      <td>[aircraft assembler](aircraft assembler.md)</td>
+      <td>&lt;span&gt;[aircraft assembler](aircraft_assembler.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>5</td>
       <td>0.227273</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>999</th>
-      <td>[swaging machine operator](swaging machine operator.md)</td>
+      <td>&lt;span&gt;[swaging machine operator](swaging_machine_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.227273</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2734</th>
-      <td>[boat rigger](boat rigger.md)</td>
+      <td>&lt;span&gt;[boat rigger](boat_rigger.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.181818</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2739</th>
-      <td>[laminating machine operator](laminating machine operator.md)</td>
+      <td>&lt;span&gt;[laminating machine operator](laminating_machine_operator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.181818</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2737</th>
-      <td>[motorcycle assembler](motorcycle assembler.md)</td>
+      <td>&lt;span&gt;[motorcycle assembler](motorcycle_assembler.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>4</td>
       <td>0.181818</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2740</th>
-      <td>[marine electrician](marine electrician.md)</td>
+      <td>&lt;span&gt;[marine electrician](marine_electrician.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>4</td>
       <td>0.181818</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2735</th>
-      <td>[paper pulp moulding operator](paper pulp moulding operator.md)</td>
+      <td>&lt;span&gt;[paper pulp moulding operator](paper_pulp_moulding_operator.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.181818</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2738</th>
-      <td>[motor vehicle parts assembler](motor vehicle parts assembler.md)</td>
+      <td>&lt;span&gt;[motor vehicle parts assembler](motor_vehicle_parts_assembler.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.181818</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>219</th>
-      <td>[envelope maker](envelope maker.md)</td>
+      <td>&lt;span&gt;[envelope maker](envelope_maker.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.181818</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2732</th>
-      <td>[tissue paper perforating and rewinding operator](tissue paper perforating and rewinding operator.md)</td>
+      <td>&lt;span&gt;[tissue paper perforating and rewinding operator](tissue_paper_perforating_and_rewinding_operator.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.181818</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2598</th>
-      <td>[motor vehicle upholsterer](motor vehicle upholsterer.md)</td>
+      <td>&lt;span&gt;[motor vehicle upholsterer](motor_vehicle_upholsterer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.181818</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2361</th>
-      <td>[metal planer operator](metal planer operator.md)</td>
+      <td>&lt;span&gt;[metal planer operator](metal_planer_operator.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>4</td>
       <td>0.181818</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>435</th>
-      <td>[paper cutter operator](paper cutter operator.md)</td>
+      <td>&lt;span&gt;[paper cutter operator](paper_cutter_operator.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.181818</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2603</th>
-      <td>[band saw operator](band saw operator.md)</td>
+      <td>&lt;span&gt;[band saw operator](band_saw_operator.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>4</td>
       <td>0.181818</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2662</th>
-      <td>[precision instrument assembler](precision instrument assembler.md)</td>
+      <td>&lt;span&gt;[precision instrument assembler](precision_instrument_assembler.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.181818</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1540</th>
-      <td>[glass forming machine operator](glass forming machine operator.md)</td>
+      <td>&lt;span&gt;[glass forming machine operator](glass_forming_machine_operator.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.181818</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2742</th>
-      <td>[aircraft de-icer installer](aircraft de-icer installer.md)</td>
+      <td>&lt;span&gt;[aircraft de-icer installer](aircraft_de-icer_installer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.181818</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2722</th>
-      <td>[automotive electrician](automotive electrician.md)</td>
+      <td>&lt;span&gt;[automotive electrician](automotive_electrician.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>4</td>
       <td>0.181818</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1647</th>
-      <td>[welding inspector](welding inspector.md)</td>
+      <td>&lt;span&gt;[welding inspector](welding_inspector.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>4</td>
       <td>0.181818</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>2717</th>
-      <td>[metal polisher](metal polisher.md)</td>
+      <td>&lt;span&gt;[metal polisher](metal_polisher.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.181818</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2327</th>
-      <td>[blacksmith](blacksmith.md)</td>
+      <td>&lt;span&gt;[blacksmith](blacksmith.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.181818</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2297</th>
-      <td>[fluid power technician](fluid power technician.md)</td>
+      <td>&lt;span&gt;[fluid power technician](fluid_power_technician.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.181818</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2086</th>
-      <td>[corrugator operator](corrugator operator.md)</td>
+      <td>&lt;span&gt;[corrugator operator](corrugator_operator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.181818</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2344</th>
-      <td>[veneer slicer operator](veneer slicer operator.md)</td>
+      <td>&lt;span&gt;[veneer slicer operator](veneer_slicer_operator.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.181818</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2109</th>
-      <td>[wood fuel pelletiser](wood fuel pelletiser.md)</td>
+      <td>&lt;span&gt;[wood fuel pelletiser](wood_fuel_pelletiser.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>4</td>
       <td>0.181818</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2592</th>
-      <td>[coating machine operator](coating machine operator.md)</td>
+      <td>&lt;span&gt;[coating machine operator](coating_machine_operator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.181818</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1288</th>
-      <td>[paper bag machine operator](paper bag machine operator.md)</td>
+      <td>&lt;span&gt;[paper bag machine operator](paper_bag_machine_operator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.181818</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2594</th>
-      <td>[marine upholsterer](marine upholsterer.md)</td>
+      <td>&lt;span&gt;[marine upholsterer](marine_upholsterer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.181818</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2595</th>
-      <td>[railway car upholsterer](railway car upholsterer.md)</td>
+      <td>&lt;span&gt;[railway car upholsterer](railway_car_upholsterer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.181818</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2355</th>
-      <td>[thread rolling machine operator](thread rolling machine operator.md)</td>
+      <td>&lt;span&gt;[thread rolling machine operator](thread_rolling_machine_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>4</td>
       <td>0.181818</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2356</th>
-      <td>[metalworking lathe operator](metalworking lathe operator.md)</td>
+      <td>&lt;span&gt;[metalworking lathe operator](metalworking_lathe_operator.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.181818</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2753</th>
-      <td>[rolling stock electrician](rolling stock electrician.md)</td>
+      <td>&lt;span&gt;[rolling stock electrician](rolling_stock_electrician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.181818</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2752</th>
-      <td>[paperboard products assembler](paperboard products assembler.md)</td>
+      <td>&lt;span&gt;[paperboard products assembler](paperboard_products_assembler.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>4</td>
       <td>0.181818</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2751</th>
-      <td>[bicycle assembler](bicycle assembler.md)</td>
+      <td>&lt;span&gt;[bicycle assembler](bicycle_assembler.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>4</td>
       <td>0.181818</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2749</th>
-      <td>[pulp control operator](pulp control operator.md)</td>
+      <td>&lt;span&gt;[pulp control operator](pulp_control_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.181818</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2576</th>
-      <td>[wood pallet maker](wood pallet maker.md)</td>
+      <td>&lt;span&gt;[wood pallet maker](wood_pallet_maker.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>4</td>
       <td>0.181818</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2245</th>
-      <td>[bindery operator](bindery operator.md)</td>
+      <td>&lt;span&gt;[bindery operator](bindery_operator.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.181818</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2357</th>
-      <td>[wood boring machine operator](wood boring machine operator.md)</td>
+      <td>&lt;span&gt;[wood boring machine operator](wood_boring_machine_operator.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>4</td>
       <td>0.181818</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2597</th>
-      <td>[aircraft interior technician](aircraft interior technician.md)</td>
+      <td>&lt;span&gt;[aircraft interior technician](aircraft_interior_technician.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.181818</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2718</th>
-      <td>[wood router operator](wood router operator.md)</td>
+      <td>&lt;span&gt;[wood router operator](wood_router_operator.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>4</td>
       <td>0.181818</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2301</th>
-      <td>[pneumatic systems technician](pneumatic systems technician.md)</td>
+      <td>&lt;span&gt;[pneumatic systems technician](pneumatic_systems_technician.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.181818</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>654</th>
-      <td>[metrologist](metrologist.md)</td>
+      <td>&lt;span&gt;[metrologist](metrologist.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>4</td>
       <td>0.181818</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2707</th>
-      <td>[sawmill operator](sawmill operator.md)</td>
+      <td>&lt;span&gt;[sawmill operator](sawmill_operator.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>4</td>
       <td>0.181818</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1888</th>
-      <td>[electromechanical engineering technician](electromechanical engineering technician.md)</td>
+      <td>&lt;span&gt;[electromechanical engineering technician](electromechanical_engineering_technician.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>4</td>
       <td>0.181818</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1891</th>
-      <td>[electrical engineering technician](electrical engineering technician.md)</td>
+      <td>&lt;span&gt;[electrical engineering technician](electrical_engineering_technician.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>4</td>
       <td>0.181818</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1893</th>
-      <td>[avionics technician](avionics technician.md)</td>
+      <td>&lt;span&gt;[avionics technician](avionics_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.181818</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1395</th>
-      <td>[paper stationery machine operator](paper stationery machine operator.md)</td>
+      <td>&lt;span&gt;[paper stationery machine operator](paper_stationery_machine_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.181818</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2716</th>
-      <td>[nailing machine operator](nailing machine operator.md)</td>
+      <td>&lt;span&gt;[nailing machine operator](nailing_machine_operator.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>4</td>
       <td>0.181818</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1165</th>
-      <td>[motor vehicle assembler](motor vehicle assembler.md)</td>
+      <td>&lt;span&gt;[motor vehicle assembler](motor_vehicle_assembler.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>4</td>
       <td>0.181818</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2699</th>
-      <td>[spark erosion machine operator](spark erosion machine operator.md)</td>
+      <td>&lt;span&gt;[spark erosion machine operator](spark_erosion_machine_operator.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.181818</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2189</th>
-      <td>[tool grinder](tool grinder.md)</td>
+      <td>&lt;span&gt;[tool grinder](tool_grinder.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.181818</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2303</th>
-      <td>[moulding machine technician](moulding machine technician.md)</td>
+      <td>&lt;span&gt;[moulding machine technician](moulding_machine_technician.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>4</td>
       <td>0.181818</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2702</th>
-      <td>[abrasive blasting operator](abrasive blasting operator.md)</td>
+      <td>&lt;span&gt;[abrasive blasting operator](abrasive_blasting_operator.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>4</td>
       <td>0.181818</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>2520</th>
-      <td>[aircraft gas turbine engine overhaul technician](aircraft gas turbine engine overhaul technician.md)</td>
+      <td>&lt;span&gt;[aircraft gas turbine engine overhaul technician](aircraft_gas_turbine_engine_overhaul_technician.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.181818</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2706</th>
-      <td>[lacquer spray gun operator](lacquer spray gun operator.md)</td>
+      <td>&lt;span&gt;[lacquer spray gun operator](lacquer_spray_gun_operator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.181818</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2182</th>
-      <td>[instrumentation engineering technician](instrumentation engineering technician.md)</td>
+      <td>&lt;span&gt;[instrumentation engineering technician](instrumentation_engineering_technician.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>4</td>
       <td>0.181818</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>2709</th>
-      <td>[extrusion machine operator](extrusion machine operator.md)</td>
+      <td>&lt;span&gt;[extrusion machine operator](extrusion_machine_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.181818</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>250</th>
-      <td>[rotating equipment mechanic](rotating equipment mechanic.md)</td>
+      <td>&lt;span&gt;[rotating equipment mechanic](rotating_equipment_mechanic.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.181818</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2711</th>
-      <td>[straightening machine operator](straightening machine operator.md)</td>
+      <td>&lt;span&gt;[straightening machine operator](straightening_machine_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.181818</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2714</th>
-      <td>[engineered wood board machine operator](engineered wood board machine operator.md)</td>
+      <td>&lt;span&gt;[engineered wood board machine operator](engineered_wood_board_machine_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.181818</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2610</th>
-      <td>[absorbent pad machine operator](absorbent pad machine operator.md)</td>
+      <td>&lt;span&gt;[absorbent pad machine operator](absorbent_pad_machine_operator.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>4</td>
       <td>0.181818</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2202</th>
-      <td>[motor vehicle body assembler](motor vehicle body assembler.md)</td>
+      <td>&lt;span&gt;[motor vehicle body assembler](motor_vehicle_body_assembler.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.181818</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>579</th>
-      <td>[industrial assembly supervisor](industrial assembly supervisor.md)</td>
+      <td>&lt;span&gt;[industrial assembly supervisor](industrial_assembly_supervisor.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>3</td>
       <td>0.136364</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>2568</th>
-      <td>[chipper operator](chipper operator.md)</td>
+      <td>&lt;span&gt;[chipper operator](chipper_operator.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.136364</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2306</th>
-      <td>[agricultural machinery technician](agricultural machinery technician.md)</td>
+      <td>&lt;span&gt;[agricultural machinery technician](agricultural_machinery_technician.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.136364</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2532</th>
-      <td>[surgical instrument maker](surgical instrument maker.md)</td>
+      <td>&lt;span&gt;[surgical instrument maker](surgical_instrument_maker.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.136364</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>418</th>
-      <td>[filigree maker](filigree maker.md)</td>
+      <td>&lt;span&gt;[filigree maker](filigree_maker.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.136364</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1310</th>
-      <td>[metal products assembler](metal products assembler.md)</td>
+      <td>&lt;span&gt;[metal products assembler](metal_products_assembler.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.136364</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2578</th>
-      <td>[paper embosing press operator](paper embosing press operator.md)</td>
+      <td>&lt;span&gt;[paper embosing press operator](paper_embosing_press_operator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.136364</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>586</th>
-      <td>[motor vehicle engine tester](motor vehicle engine tester.md)</td>
+      <td>&lt;span&gt;[motor vehicle engine tester](motor_vehicle_engine_tester.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.136364</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2570</th>
-      <td>[metal production supervisor](metal production supervisor.md)</td>
+      <td>&lt;span&gt;[metal production supervisor](metal_production_supervisor.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>3</td>
       <td>0.136364</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2341</th>
-      <td>[gear machinist](gear machinist.md)</td>
+      <td>&lt;span&gt;[gear machinist](gear_machinist.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>3</td>
       <td>0.136364</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1885</th>
-      <td>[mechatronics assembler](mechatronics assembler.md)</td>
+      <td>&lt;span&gt;[mechatronics assembler](mechatronics_assembler.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.136364</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2345</th>
-      <td>[metal furniture machine operator](metal furniture machine operator.md)</td>
+      <td>&lt;span&gt;[metal furniture machine operator](metal_furniture_machine_operator.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.136364</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2715</th>
-      <td>[dip tank operator](dip tank operator.md)</td>
+      <td>&lt;span&gt;[dip tank operator](dip_tank_operator.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>3</td>
       <td>0.136364</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2330</th>
-      <td>[paper machine operator](paper machine operator.md)</td>
+      <td>&lt;span&gt;[paper machine operator](paper_machine_operator.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.136364</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>582</th>
-      <td>[aircraft engine tester](aircraft engine tester.md)</td>
+      <td>&lt;span&gt;[aircraft engine tester](aircraft_engine_tester.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.136364</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1887</th>
-      <td>[electrical equipment assembler](electrical equipment assembler.md)</td>
+      <td>&lt;span&gt;[electrical equipment assembler](electrical_equipment_assembler.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.136364</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1892</th>
-      <td>[wire harness assembler](wire harness assembler.md)</td>
+      <td>&lt;span&gt;[wire harness assembler](wire_harness_assembler.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>3</td>
       <td>0.136364</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>2414</th>
-      <td>[electric meter technician](electric meter technician.md)</td>
+      <td>&lt;span&gt;[electric meter technician](electric_meter_technician.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.136364</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1385</th>
-      <td>[printed circuit board test technician](printed circuit board test technician.md)</td>
+      <td>&lt;span&gt;[printed circuit board test technician](printed_circuit_board_test_technician.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>3</td>
       <td>0.136364</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>2743</th>
-      <td>[screen printer](screen printer.md)</td>
+      <td>&lt;span&gt;[screen printer](screen_printer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.136364</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2360</th>
-      <td>[router operator](router operator.md)</td>
+      <td>&lt;span&gt;[router operator](router_operator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.136364</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2528</th>
-      <td>[model maker](model maker.md)</td>
+      <td>&lt;span&gt;[model maker](model_maker.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.136364</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2551</th>
-      <td>[bleacher operator](bleacher operator.md)</td>
+      <td>&lt;span&gt;[bleacher operator](bleacher_operator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.136364</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>353</th>
-      <td>[transport equipment painter](transport equipment painter.md)</td>
+      <td>&lt;span&gt;[transport equipment painter](transport_equipment_painter.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>3</td>
       <td>0.136364</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>2741</th>
-      <td>[stone splitter](stone splitter.md)</td>
+      <td>&lt;span&gt;[stone splitter](stone_splitter.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.136364</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2726</th>
-      <td>[commissioning engineer](commissioning engineer.md)</td>
+      <td>&lt;span&gt;[commissioning engineer](commissioning_engineer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.136364</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1227</th>
-      <td>[lift engineer](lift engineer.md)</td>
+      <td>&lt;span&gt;[lift engineer](lift_engineer.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>3</td>
       <td>0.136364</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>2744</th>
-      <td>[hot foil operator](hot foil operator.md)</td>
+      <td>&lt;span&gt;[hot foil operator](hot_foil_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.136364</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1894</th>
-      <td>[electrical cable assembler](electrical cable assembler.md)</td>
+      <td>&lt;span&gt;[electrical cable assembler](electrical_cable_assembler.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.136364</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>629</th>
-      <td>[vessel engine tester](vessel engine tester.md)</td>
+      <td>&lt;span&gt;[vessel engine tester](vessel_engine_tester.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.136364</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2365</th>
-      <td>[stone polisher](stone polisher.md)</td>
+      <td>&lt;span&gt;[stone polisher](stone_polisher.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.136364</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2407</th>
-      <td>[flexographic press operator](flexographic press operator.md)</td>
+      <td>&lt;span&gt;[flexographic press operator](flexographic_press_operator.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.136364</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1397</th>
-      <td>[print folding operator](print folding operator.md)</td>
+      <td>&lt;span&gt;[print folding operator](print_folding_operator.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.136364</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2410</th>
-      <td>[digital printer](digital printer.md)</td>
+      <td>&lt;span&gt;[digital printer](digital_printer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.136364</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2411</th>
-      <td>[gravure press operator](gravure press operator.md)</td>
+      <td>&lt;span&gt;[gravure press operator](gravure_press_operator.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.136364</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2413</th>
-      <td>[offset printer](offset printer.md)</td>
+      <td>&lt;span&gt;[offset printer](offset_printer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.136364</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2661</th>
-      <td>[digester operator](digester operator.md)</td>
+      <td>&lt;span&gt;[digester operator](digester_operator.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.136364</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2747</th>
-      <td>[automotive brake technician](automotive brake technician.md)</td>
+      <td>&lt;span&gt;[automotive brake technician](automotive_brake_technician.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>3</td>
       <td>0.136364</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>1299</th>
-      <td>[construction equipment technician](construction equipment technician.md)</td>
+      <td>&lt;span&gt;[construction equipment technician](construction_equipment_technician.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.136364</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1006</th>
-      <td>[lacquer maker](lacquer maker.md)</td>
+      <td>&lt;span&gt;[lacquer maker](lacquer_maker.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.136364</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2302</th>
-      <td>[forge equipment technician](forge equipment technician.md)</td>
+      <td>&lt;span&gt;[forge equipment technician](forge_equipment_technician.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.136364</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2179</th>
-      <td>[electrical equipment inspector](electrical equipment inspector.md)</td>
+      <td>&lt;span&gt;[electrical equipment inspector](electrical_equipment_inspector.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>3</td>
       <td>0.136364</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2118</th>
-      <td>[precision device inspector](precision device inspector.md)</td>
+      <td>&lt;span&gt;[precision device inspector](precision_device_inspector.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.136364</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2120</th>
-      <td>[optical instrument production supervisor](optical instrument production supervisor.md)</td>
+      <td>&lt;span&gt;[optical instrument production supervisor](optical_instrument_production_supervisor.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.136364</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1534</th>
-      <td>[rubber products machine operator](rubber products machine operator.md)</td>
+      <td>&lt;span&gt;[rubber products machine operator](rubber_products_machine_operator.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>3</td>
       <td>0.136364</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2123</th>
-      <td>[battery assembler](battery assembler.md)</td>
+      <td>&lt;span&gt;[battery assembler](battery_assembler.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.136364</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1654</th>
-      <td>[fiberglass laminator](fiberglass laminator.md)</td>
+      <td>&lt;span&gt;[fiberglass laminator](fiberglass_laminator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.136364</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2244</th>
-      <td>[aircraft maintenance technician](aircraft maintenance technician.md)</td>
+      <td>&lt;span&gt;[aircraft maintenance technician](aircraft_maintenance_technician.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>3</td>
       <td>0.136364</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>2125</th>
-      <td>[electronics production supervisor](electronics production supervisor.md)</td>
+      <td>&lt;span&gt;[electronics production supervisor](electronics_production_supervisor.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>3</td>
       <td>0.136364</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>1057</th>
-      <td>[commissioning technician](commissioning technician.md)</td>
+      <td>&lt;span&gt;[commissioning technician](commissioning_technician.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>3</td>
       <td>0.136364</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1642</th>
-      <td>[metal product quality control inspector](metal product quality control inspector.md)</td>
+      <td>&lt;span&gt;[metal product quality control inspector](metal_product_quality_control_inspector.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>3</td>
       <td>0.136364</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1493</th>
-      <td>[record press operator](record press operator.md)</td>
+      <td>&lt;span&gt;[record press operator](record_press_operator.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>3</td>
       <td>0.136364</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2226</th>
-      <td>[container equipment assembler](container equipment assembler.md)</td>
+      <td>&lt;span&gt;[container equipment assembler](container_equipment_assembler.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.136364</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1628</th>
-      <td>[numerical tool and process control programmer](numerical tool and process control programmer.md)</td>
+      <td>&lt;span&gt;[numerical tool and process control programmer](numerical_tool_and_process_control_programmer.md)&lt;/span&gt;</td>
       <td>52</td>
       <td>3</td>
       <td>0.136364</td>
       <td>49</td>
     </tr>
     <tr>
-      <th>845</th>
-      <td>[heating, ventilation, air conditioning (and refrigeration) service engineer](heating, ventilation, air conditioning (and refrigeration) service engineer.md)</td>
+      <td>&lt;span&gt;[heating, ventilation, air conditioning (and refrigeration) service engineer](heating,_ventilation,_air_conditioning_(and_refrigeration)_service_engineer.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>3</td>
       <td>0.136364</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>831</th>
-      <td>[pulp technician](pulp technician.md)</td>
+      <td>&lt;span&gt;[pulp technician](pulp_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.136364</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>35</th>
-      <td>[rolling stock engine tester](rolling stock engine tester.md)</td>
+      <td>&lt;span&gt;[rolling stock engine tester](rolling_stock_engine_tester.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.136364</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1009</th>
-      <td>[varnish maker](varnish maker.md)</td>
+      <td>&lt;span&gt;[varnish maker](varnish_maker.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.136364</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2913</th>
-      <td>[surface treatment operator](surface treatment operator.md)</td>
+      <td>&lt;span&gt;[surface treatment operator](surface_treatment_operator.md)&lt;/span&gt;</td>
       <td>8</td>
       <td>3</td>
       <td>0.136364</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>2110</th>
-      <td>[debarker operator](debarker operator.md)</td>
+      <td>&lt;span&gt;[debarker operator](debarker_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.136364</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2299</th>
-      <td>[textile machinery technician](textile machinery technician.md)</td>
+      <td>&lt;span&gt;[textile machinery technician](textile_machinery_technician.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>3</td>
       <td>0.136364</td>

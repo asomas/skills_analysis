@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match coachbuilder</th>
@@ -14,40 +13,35 @@
   </thead>
   <tbody>
     <tr>
-      <th>728</th>
-      <td>[refurbishing technician](refurbishing technician.md)</td>
+      <td>&lt;span&gt;[refurbishing technician](refurbishing_technician.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>4</td>
       <td>0.173913</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>2722</th>
-      <td>[automotive electrician](automotive electrician.md)</td>
+      <td>&lt;span&gt;[automotive electrician](automotive_electrician.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>4</td>
       <td>0.173913</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>392</th>
-      <td>[vehicle technician](vehicle technician.md)</td>
+      <td>&lt;span&gt;[vehicle technician](vehicle_technician.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>4</td>
       <td>0.173913</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>2189</th>
-      <td>[fitter and turner](fitter and turner.md)</td>
+      <td>&lt;span&gt;[fitter and turner](fitter_and_turner.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.130435</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>94</th>
-      <td>[restoration technician](restoration technician.md)</td>
+      <td>&lt;span&gt;[restoration technician](restoration_technician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.130435</td>

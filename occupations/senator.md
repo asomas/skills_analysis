@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match senator</th>
@@ -14,104 +13,91 @@
   </thead>
   <tbody>
     <tr>
-      <th>2895</th>
-      <td>[government minister](government minister.md)</td>
+      <td>&lt;span&gt;[government minister](government_minister.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>9</td>
       <td>0.9</td>
       <td>4</td>
     </tr>
     <tr>
-      <th>2798</th>
-      <td>[member of parliament](member of parliament.md)</td>
+      <td>&lt;span&gt;[member of parliament](member_of_parliament.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>9</td>
       <td>0.9</td>
       <td>3</td>
     </tr>
     <tr>
-      <th>2548</th>
-      <td>[secretary of state](secretary of state.md)</td>
+      <td>&lt;span&gt;[secretary of state](secretary_of_state.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>5</td>
       <td>0.5</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2434</th>
-      <td>[provincial governor](provincial governor.md)</td>
+      <td>&lt;span&gt;[provincial governor](provincial_governor.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>4</td>
       <td>0.4</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>2218</th>
-      <td>[city councillor](city councillor.md)</td>
+      <td>&lt;span&gt;[city councillor](city_councillor.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>3</td>
       <td>0.3</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>45</th>
-      <td>[public affairs consultant](public affairs consultant.md)</td>
+      <td>&lt;span&gt;[public affairs consultant](public_affairs_consultant.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.3</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2924</th>
-      <td>[legislative drafter](legislative drafter.md)</td>
+      <td>&lt;span&gt;[legislative drafter](legislative_drafter.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>3</td>
       <td>0.3</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2217</th>
-      <td>[mayor](mayor.md)</td>
+      <td>&lt;span&gt;[mayor](mayor.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>2</td>
       <td>0.2</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2064</th>
-      <td>[consul](consul.md)</td>
+      <td>&lt;span&gt;[consul](consul.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.2</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>450</th>
-      <td>[public administration manager](public administration manager.md)</td>
+      <td>&lt;span&gt;[public administration manager](public_administration_manager.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>446</th>
-      <td>[housing policy officer](housing policy officer.md)</td>
+      <td>&lt;span&gt;[housing policy officer](housing_policy_officer.md)&lt;/span&gt;</td>
       <td>8</td>
       <td>2</td>
       <td>0.2</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>43</th>
-      <td>[ambassador](ambassador.md)</td>
+      <td>&lt;span&gt;[ambassador](ambassador.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>44</th>
-      <td>[diplomat](diplomat.md)</td>
+      <td>&lt;span&gt;[diplomat](diplomat.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.2</td>

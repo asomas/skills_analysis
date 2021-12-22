@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match gunsmith</th>
@@ -14,232 +13,203 @@
   </thead>
   <tbody>
     <tr>
-      <th>1186</th>
-      <td>[power tool repair technician](power tool repair technician.md)</td>
+      <td>&lt;span&gt;[power tool repair technician](power_tool_repair_technician.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>6</td>
       <td>0.315789</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>592</th>
-      <td>[computer hardware repair technician](computer hardware repair technician.md)</td>
+      <td>&lt;span&gt;[computer hardware repair technician](computer_hardware_repair_technician.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>6</td>
       <td>0.315789</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>584</th>
-      <td>[office equipment repair technician](office equipment repair technician.md)</td>
+      <td>&lt;span&gt;[office equipment repair technician](office_equipment_repair_technician.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>6</td>
       <td>0.315789</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>647</th>
-      <td>[household appliances repair technician](household appliances repair technician.md)</td>
+      <td>&lt;span&gt;[household appliances repair technician](household_appliances_repair_technician.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>6</td>
       <td>0.315789</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>426</th>
-      <td>[jewellery repairer](jewellery repairer.md)</td>
+      <td>&lt;span&gt;[jewellery repairer](jewellery_repairer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>5</td>
       <td>0.263158</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1175</th>
-      <td>[watch and clock repairer](watch and clock repairer.md)</td>
+      <td>&lt;span&gt;[watch and clock repairer](watch_and_clock_repairer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>5</td>
       <td>0.263158</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>651</th>
-      <td>[consumer electronics repair technician](consumer electronics repair technician.md)</td>
+      <td>&lt;span&gt;[consumer electronics repair technician](consumer_electronics_repair_technician.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>5</td>
       <td>0.263158</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>642</th>
-      <td>[mobile phone repair technician](mobile phone repair technician.md)</td>
+      <td>&lt;span&gt;[mobile phone repair technician](mobile_phone_repair_technician.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>5</td>
       <td>0.263158</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>502</th>
-      <td>[ATM repair technician](ATM repair technician.md)</td>
+      <td>&lt;span&gt;[ATM repair technician](ATM_repair_technician.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>4</td>
       <td>0.210526</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>221</th>
-      <td>[bicycle mechanic](bicycle mechanic.md)</td>
+      <td>&lt;span&gt;[bicycle mechanic](bicycle_mechanic.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.210526</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2110</th>
-      <td>[toymaker](toymaker.md)</td>
+      <td>&lt;span&gt;[toymaker](toymaker.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>4</td>
       <td>0.210526</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>462</th>
-      <td>[sports equipment repair technician](sports equipment repair technician.md)</td>
+      <td>&lt;span&gt;[sports equipment repair technician](sports_equipment_repair_technician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.210526</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2875</th>
-      <td>[shoe repairer](shoe repairer.md)</td>
+      <td>&lt;span&gt;[shoe repairer](shoe_repairer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.157895</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2117</th>
-      <td>[precision device inspector](precision device inspector.md)</td>
+      <td>&lt;span&gt;[precision device inspector](precision_device_inspector.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.157895</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1191</th>
-      <td>[tanning consultant](tanning consultant.md)</td>
+      <td>&lt;span&gt;[tanning consultant](tanning_consultant.md)&lt;/span&gt;</td>
       <td>8</td>
       <td>3</td>
       <td>0.157895</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>1195</th>
-      <td>[beauty salon attendant](beauty salon attendant.md)</td>
+      <td>&lt;span&gt;[beauty salon attendant](beauty_salon_attendant.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.105263</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>948</th>
-      <td>[handyman](handyman.md)</td>
+      <td>&lt;span&gt;[handyman](handyman.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.105263</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2035</th>
-      <td>[aesthetician](aesthetician.md)</td>
+      <td>&lt;span&gt;[aesthetician](aesthetician.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.105263</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1249</th>
-      <td>[hairdresser](hairdresser.md)</td>
+      <td>&lt;span&gt;[hairdresser](hairdresser.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.105263</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1250</th>
-      <td>[barber](barber.md)</td>
+      <td>&lt;span&gt;[barber](barber.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.105263</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2019</th>
-      <td>[hairdresser assistant](hairdresser assistant.md)</td>
+      <td>&lt;span&gt;[hairdresser assistant](hairdresser_assistant.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.105263</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2028</th>
-      <td>[hair removal technician](hair removal technician.md)</td>
+      <td>&lt;span&gt;[hair removal technician](hair_removal_technician.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>2</td>
       <td>0.105263</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2662</th>
-      <td>[precision instrument assembler](precision instrument assembler.md)</td>
+      <td>&lt;span&gt;[precision instrument assembler](precision_instrument_assembler.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.105263</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>415</th>
-      <td>[parking valet](parking valet.md)</td>
+      <td>&lt;span&gt;[parking valet](parking_valet.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.105263</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2648</th>
-      <td>[tote operator](tote operator.md)</td>
+      <td>&lt;span&gt;[tote operator](tote_operator.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.105263</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2868</th>
-      <td>[precision engineer](precision engineer.md)</td>
+      <td>&lt;span&gt;[precision engineer](precision_engineer.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>2</td>
       <td>0.105263</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>878</th>
-      <td>[manicurist](manicurist.md)</td>
+      <td>&lt;span&gt;[manicurist](manicurist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.105263</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>877</th>
-      <td>[pedicurist](pedicurist.md)</td>
+      <td>&lt;span&gt;[pedicurist](pedicurist.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.105263</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>876</th>
-      <td>[body artist](body artist.md)</td>
+      <td>&lt;span&gt;[body artist](body_artist.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.105263</td>

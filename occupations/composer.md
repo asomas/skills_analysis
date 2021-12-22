@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match composer</th>
@@ -14,40 +13,35 @@
   </thead>
   <tbody>
     <tr>
-      <th>1</th>
-      <td>[music director](music director.md)</td>
+      <td>&lt;span&gt;[music director](music_director.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>6</td>
       <td>0.461538</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2317</th>
-      <td>[music arranger](music arranger.md)</td>
+      <td>&lt;span&gt;[music arranger](music_arranger.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>5</td>
       <td>0.384615</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>1210</th>
-      <td>[répétiteur](répétiteur.md)</td>
+      <td>&lt;span&gt;[répétiteur](répétiteur.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>4</td>
       <td>0.307692</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>0</th>
-      <td>[musical conductor](musical conductor.md)</td>
+      <td>&lt;span&gt;[musical conductor](musical_conductor.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>3</td>
       <td>0.230769</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2</th>
-      <td>[choirmaster/choirmistress](choirmaster-choirmistress.md)</td>
+      <td>&lt;span&gt;[choirmaster/choirmistress](choirmaster-choirmistress.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.153846</td>

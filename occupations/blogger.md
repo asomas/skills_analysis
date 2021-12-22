@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match blogger</th>
@@ -14,312 +13,273 @@
   </thead>
   <tbody>
     <tr>
-      <th>1673</th>
-      <td>[vlogger](vlogger.md)</td>
+      <td>&lt;span&gt;[vlogger](vlogger.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>13</td>
       <td>0.8125</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2635</th>
-      <td>[entertainment journalist](entertainment journalist.md)</td>
+      <td>&lt;span&gt;[entertainment journalist](entertainment_journalist.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>9</td>
       <td>0.5625</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2637</th>
-      <td>[business journalist](business journalist.md)</td>
+      <td>&lt;span&gt;[business journalist](business_journalist.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>9</td>
       <td>0.5625</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>381</th>
-      <td>[foreign correspondent](foreign correspondent.md)</td>
+      <td>&lt;span&gt;[foreign correspondent](foreign_correspondent.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>9</td>
       <td>0.5625</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2640</th>
-      <td>[critic](critic.md)</td>
+      <td>&lt;span&gt;[critic](critic.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>9</td>
       <td>0.5625</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2638</th>
-      <td>[political journalist](political journalist.md)</td>
+      <td>&lt;span&gt;[political journalist](political_journalist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>9</td>
       <td>0.5625</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2636</th>
-      <td>[crime journalist](crime journalist.md)</td>
+      <td>&lt;span&gt;[crime journalist](crime_journalist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>9</td>
       <td>0.5625</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2634</th>
-      <td>[columnist](columnist.md)</td>
+      <td>&lt;span&gt;[columnist](columnist.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>9</td>
       <td>0.5625</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2630</th>
-      <td>[photojournalist](photojournalist.md)</td>
+      <td>&lt;span&gt;[photojournalist](photojournalist.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>9</td>
       <td>0.5625</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2632</th>
-      <td>[journalist](journalist.md)</td>
+      <td>&lt;span&gt;[journalist](journalist.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>9</td>
       <td>0.5625</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2631</th>
-      <td>[sports journalist](sports journalist.md)</td>
+      <td>&lt;span&gt;[sports journalist](sports_journalist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>9</td>
       <td>0.5625</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2629</th>
-      <td>[newspaper editor](newspaper editor.md)</td>
+      <td>&lt;span&gt;[newspaper editor](newspaper_editor.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>6</td>
       <td>0.3750</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>328</th>
-      <td>[script writer](script writer.md)</td>
+      <td>&lt;span&gt;[script writer](script_writer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>5</td>
       <td>0.3125</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2639</th>
-      <td>[magazine editor](magazine editor.md)</td>
+      <td>&lt;span&gt;[magazine editor](magazine_editor.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.2500</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2922</th>
-      <td>[writer](writer.md)</td>
+      <td>&lt;span&gt;[writer](writer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.2500</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2633</th>
-      <td>[broadcast news editor](broadcast news editor.md)</td>
+      <td>&lt;span&gt;[broadcast news editor](broadcast_news_editor.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.2500</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1314</th>
-      <td>[presenter](presenter.md)</td>
+      <td>&lt;span&gt;[presenter](presenter.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.2500</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2429</th>
-      <td>[editor-in-chief](editor-in-chief.md)</td>
+      <td>&lt;span&gt;[editor-in-chief](editor-in-chief.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2500</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1566</th>
-      <td>[picture editor](picture editor.md)</td>
+      <td>&lt;span&gt;[picture editor](picture_editor.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>4</td>
       <td>0.2500</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1160</th>
-      <td>[speechwriter](speechwriter.md)</td>
+      <td>&lt;span&gt;[speechwriter](speechwriter.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>4</td>
       <td>0.2500</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2892</th>
-      <td>[news anchor](news anchor.md)</td>
+      <td>&lt;span&gt;[news anchor](news_anchor.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.1875</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2870</th>
-      <td>[literary scholar](literary scholar.md)</td>
+      <td>&lt;span&gt;[literary scholar](literary_scholar.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.1875</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>826</th>
-      <td>[online community manager](online community manager.md)</td>
+      <td>&lt;span&gt;[online community manager](online_community_manager.md)&lt;/span&gt;</td>
       <td>47</td>
       <td>3</td>
       <td>0.1875</td>
       <td>44</td>
     </tr>
     <tr>
-      <th>1903</th>
-      <td>[book editor](book editor.md)</td>
+      <td>&lt;span&gt;[book editor](book_editor.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.1875</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2436</th>
-      <td>[book publisher](book publisher.md)</td>
+      <td>&lt;span&gt;[book publisher](book_publisher.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.1875</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2094</th>
-      <td>[advertising media buyer](advertising media buyer.md)</td>
+      <td>&lt;span&gt;[advertising media buyer](advertising_media_buyer.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.1250</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2915</th>
-      <td>[fact checker](fact checker.md)</td>
+      <td>&lt;span&gt;[fact checker](fact_checker.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.1250</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2315</th>
-      <td>[subtitler](subtitler.md)</td>
+      <td>&lt;span&gt;[subtitler](subtitler.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.1250</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2422</th>
-      <td>[music producer](music producer.md)</td>
+      <td>&lt;span&gt;[music producer](music_producer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.1250</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2159</th>
-      <td>[cartoonist](cartoonist.md)</td>
+      <td>&lt;span&gt;[cartoonist](cartoonist.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.1250</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2155</th>
-      <td>[copy editor](copy editor.md)</td>
+      <td>&lt;span&gt;[copy editor](copy_editor.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.1250</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1360</th>
-      <td>[advertising specialist](advertising specialist.md)</td>
+      <td>&lt;span&gt;[advertising specialist](advertising_specialist.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.1250</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2148</th>
-      <td>[publishing rights manager](publishing rights manager.md)</td>
+      <td>&lt;span&gt;[publishing rights manager](publishing_rights_manager.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>2</td>
       <td>0.1250</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1856</th>
-      <td>[video and motion picture producer](video and motion picture producer.md)</td>
+      <td>&lt;span&gt;[video and motion picture producer](video_and_motion_picture_producer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.1250</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2153</th>
-      <td>[desktop publisher](desktop publisher.md)</td>
+      <td>&lt;span&gt;[desktop publisher](desktop_publisher.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.1250</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2867</th>
-      <td>[media scientist](media scientist.md)</td>
+      <td>&lt;span&gt;[media scientist](media_scientist.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.1250</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2421</th>
-      <td>[producer](producer.md)</td>
+      <td>&lt;span&gt;[producer](producer.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.1250</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1221</th>
-      <td>[digital media designer](digital media designer.md)</td>
+      <td>&lt;span&gt;[digital media designer](digital_media_designer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.1250</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2152</th>
-      <td>[lexicographer](lexicographer.md)</td>
+      <td>&lt;span&gt;[lexicographer](lexicographer.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>2</td>
       <td>0.1250</td>

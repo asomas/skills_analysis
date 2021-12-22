@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match brewmaster</th>
@@ -14,392 +13,343 @@
   </thead>
   <tbody>
     <tr>
-      <th>959</th>
-      <td>[brew house operator](brew house operator.md)</td>
+      <td>&lt;span&gt;[brew house operator](brew_house_operator.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>16</td>
       <td>0.400</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1907</th>
-      <td>[malt master](malt master.md)</td>
+      <td>&lt;span&gt;[malt master](malt_master.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>16</td>
       <td>0.400</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1312</th>
-      <td>[cider master](cider master.md)</td>
+      <td>&lt;span&gt;[cider master](cider_master.md)&lt;/span&gt;</td>
       <td>36</td>
       <td>16</td>
       <td>0.400</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1155</th>
-      <td>[oenologist](oenologist.md)</td>
+      <td>&lt;span&gt;[oenologist](oenologist.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>10</td>
       <td>0.250</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1606</th>
-      <td>[food biotechnologist](food biotechnologist.md)</td>
+      <td>&lt;span&gt;[food biotechnologist](food_biotechnologist.md)&lt;/span&gt;</td>
       <td>39</td>
       <td>9</td>
       <td>0.225</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>2654</th>
-      <td>[beer sommelier](beer sommelier.md)</td>
+      <td>&lt;span&gt;[beer sommelier](beer_sommelier.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>9</td>
       <td>0.225</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1338</th>
-      <td>[animal feed supervisor](animal feed supervisor.md)</td>
+      <td>&lt;span&gt;[animal feed supervisor](animal_feed_supervisor.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>9</td>
       <td>0.225</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1335</th>
-      <td>[distillery miller](distillery miller.md)</td>
+      <td>&lt;span&gt;[distillery miller](distillery_miller.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>8</td>
       <td>0.200</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2863</th>
-      <td>[cider fermentation operator](cider fermentation operator.md)</td>
+      <td>&lt;span&gt;[cider fermentation operator](cider_fermentation_operator.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>8</td>
       <td>0.200</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1332</th>
-      <td>[cellar operator](cellar operator.md)</td>
+      <td>&lt;span&gt;[cellar operator](cellar_operator.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>8</td>
       <td>0.200</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1169</th>
-      <td>[distillery supervisor](distillery supervisor.md)</td>
+      <td>&lt;span&gt;[distillery supervisor](distillery_supervisor.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>8</td>
       <td>0.200</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1501</th>
-      <td>[chocolatier](chocolatier.md)</td>
+      <td>&lt;span&gt;[chocolatier](chocolatier.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>8</td>
       <td>0.200</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1605</th>
-      <td>[food technologist](food technologist.md)</td>
+      <td>&lt;span&gt;[food technologist](food_technologist.md)&lt;/span&gt;</td>
       <td>60</td>
       <td>8</td>
       <td>0.200</td>
       <td>52</td>
     </tr>
     <tr>
-      <th>1156</th>
-      <td>[wine fermenter](wine fermenter.md)</td>
+      <td>&lt;span&gt;[wine fermenter](wine_fermenter.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>7</td>
       <td>0.175</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>683</th>
-      <td>[baker](baker.md)</td>
+      <td>&lt;span&gt;[baker](baker.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>7</td>
       <td>0.175</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1333</th>
-      <td>[blender operator](blender operator.md)</td>
+      <td>&lt;span&gt;[blender operator](blender_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>6</td>
       <td>0.150</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>814</th>
-      <td>[food production manager](food production manager.md)</td>
+      <td>&lt;span&gt;[food production manager](food_production_manager.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>6</td>
       <td>0.150</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2311</th>
-      <td>[dairy processing technician](dairy processing technician.md)</td>
+      <td>&lt;span&gt;[dairy processing technician](dairy_processing_technician.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>6</td>
       <td>0.150</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1607</th>
-      <td>[food regulatory advisor](food regulatory advisor.md)</td>
+      <td>&lt;span&gt;[food regulatory advisor](food_regulatory_advisor.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>6</td>
       <td>0.150</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>862</th>
-      <td>[refining machine operator](refining machine operator.md)</td>
+      <td>&lt;span&gt;[refining machine operator](refining_machine_operator.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>6</td>
       <td>0.150</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>682</th>
-      <td>[pasta operator](pasta operator.md)</td>
+      <td>&lt;span&gt;[pasta operator](pasta_operator.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>6</td>
       <td>0.150</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2310</th>
-      <td>[food safety inspector](food safety inspector.md)</td>
+      <td>&lt;span&gt;[food safety inspector](food_safety_inspector.md)&lt;/span&gt;</td>
       <td>39</td>
       <td>6</td>
       <td>0.150</td>
       <td>33</td>
     </tr>
     <tr>
-      <th>2251</th>
-      <td>[food technician](food technician.md)</td>
+      <td>&lt;span&gt;[food technician](food_technician.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>6</td>
       <td>0.150</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1990</th>
-      <td>[malt kiln operator](malt kiln operator.md)</td>
+      <td>&lt;span&gt;[malt kiln operator](malt_kiln_operator.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>6</td>
       <td>0.150</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>222</th>
-      <td>[baking operator](baking operator.md)</td>
+      <td>&lt;span&gt;[baking operator](baking_operator.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>6</td>
       <td>0.150</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>261</th>
-      <td>[canning and bottling line operator](canning and bottling line operator.md)</td>
+      <td>&lt;span&gt;[canning and bottling line operator](canning_and_bottling_line_operator.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>5</td>
       <td>0.125</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1595</th>
-      <td>[germination operator](germination operator.md)</td>
+      <td>&lt;span&gt;[germination operator](germination_operator.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>5</td>
       <td>0.125</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>946</th>
-      <td>[chocolate moulding operator](chocolate moulding operator.md)</td>
+      <td>&lt;span&gt;[chocolate moulding operator](chocolate_moulding_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.125</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2312</th>
-      <td>[malt house supervisor](malt house supervisor.md)</td>
+      <td>&lt;span&gt;[malt house supervisor](malt_house_supervisor.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.125</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2652</th>
-      <td>[leaf sorter](leaf sorter.md)</td>
+      <td>&lt;span&gt;[leaf sorter](leaf_sorter.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.125</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1750</th>
-      <td>[beverage filtration technician](beverage filtration technician.md)</td>
+      <td>&lt;span&gt;[beverage filtration technician](beverage_filtration_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>5</td>
       <td>0.125</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>429</th>
-      <td>[wine sommelier](wine sommelier.md)</td>
+      <td>&lt;span&gt;[wine sommelier](wine_sommelier.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.125</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>870</th>
-      <td>[meat preparations operator](meat preparations operator.md)</td>
+      <td>&lt;span&gt;[meat preparations operator](meat_preparations_operator.md)&lt;/span&gt;</td>
       <td>36</td>
       <td>5</td>
       <td>0.125</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>195</th>
-      <td>[cigarette making machine operator](cigarette making machine operator.md)</td>
+      <td>&lt;span&gt;[cigarette making machine operator](cigarette_making_machine_operator.md)&lt;/span&gt;</td>
       <td>47</td>
       <td>5</td>
       <td>0.125</td>
       <td>42</td>
     </tr>
     <tr>
-      <th>1334</th>
-      <td>[fruit-press operator](fruit-press operator.md)</td>
+      <td>&lt;span&gt;[fruit-press operator](fruit-press_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.125</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2505</th>
-      <td>[cocoa press operator](cocoa press operator.md)</td>
+      <td>&lt;span&gt;[cocoa press operator](cocoa_press_operator.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>5</td>
       <td>0.125</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2886</th>
-      <td>[green coffee buyer](green coffee buyer.md)</td>
+      <td>&lt;span&gt;[green coffee buyer](green_coffee_buyer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.125</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1339</th>
-      <td>[food production operator](food production operator.md)</td>
+      <td>&lt;span&gt;[food production operator](food_production_operator.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>5</td>
       <td>0.125</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1170</th>
-      <td>[dairy processing operator](dairy processing operator.md)</td>
+      <td>&lt;span&gt;[dairy processing operator](dairy_processing_operator.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>5</td>
       <td>0.125</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>821</th>
-      <td>[raw material reception operator](raw material reception operator.md)</td>
+      <td>&lt;span&gt;[raw material reception operator](raw_material_reception_operator.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>5</td>
       <td>0.125</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>2655</th>
-      <td>[green coffee coordinator](green coffee coordinator.md)</td>
+      <td>&lt;span&gt;[green coffee coordinator](green coffee coordinator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>5</td>
       <td>0.125</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2250</th>
-      <td>[food production planner](food production planner.md)</td>
+      <td>&lt;span&gt;[food production planner](food_production_planner.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>5</td>
       <td>0.125</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>873</th>
-      <td>[fruit and vegetable canner](fruit and vegetable canner.md)</td>
+      <td>&lt;span&gt;[fruit and vegetable canner](fruit_and_vegetable_canner.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>5</td>
       <td>0.125</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>869</th>
-      <td>[fish canning operator](fish canning operator.md)</td>
+      <td>&lt;span&gt;[fish canning operator](fish_canning_operator.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>5</td>
       <td>0.125</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1060</th>
-      <td>[water treatment systems operator](water treatment systems operator.md)</td>
+      <td>&lt;span&gt;[water treatment systems operator](water_treatment_systems_operator.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>5</td>
       <td>0.125</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>848</th>
-      <td>[sugar refinery operator](sugar refinery operator.md)</td>
+      <td>&lt;span&gt;[sugar refinery operator](sugar_refinery_operator.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>5</td>
       <td>0.125</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1331</th>
-      <td>[chilling operator](chilling operator.md)</td>
+      <td>&lt;span&gt;[chilling operator](chilling_operator.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>5</td>
       <td>0.125</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2761</th>
-      <td>[cocoa mill operator](cocoa mill operator.md)</td>
+      <td>&lt;span&gt;[cocoa mill operator](cocoa_mill_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.125</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>867</th>
-      <td>[fish trimmer](fish trimmer.md)</td>
+      <td>&lt;span&gt;[fish trimmer](fish_trimmer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.125</td>

@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match demographer</th>
@@ -14,1088 +13,952 @@
   </thead>
   <tbody>
     <tr>
-      <th>1350</th>
-      <td>[climatologist](climatologist.md)</td>
+      <td>&lt;span&gt;[climatologist](climatologist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>8</td>
       <td>0.666667</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2687</th>
-      <td>[economist](economist.md)</td>
+      <td>&lt;span&gt;[economist](economist.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>7</td>
       <td>0.583333</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2619</th>
-      <td>[astronomer](astronomer.md)</td>
+      <td>&lt;span&gt;[astronomer](astronomer.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>7</td>
       <td>0.583333</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>2229</th>
-      <td>[criminologist](criminologist.md)</td>
+      <td>&lt;span&gt;[criminologist](criminologist.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>7</td>
       <td>0.583333</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2688</th>
-      <td>[seismologist](seismologist.md)</td>
+      <td>&lt;span&gt;[seismologist](seismologist.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>7</td>
       <td>0.583333</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>1266</th>
-      <td>[analytical chemist](analytical chemist.md)</td>
+      <td>&lt;span&gt;[analytical chemist](analytical_chemist.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>7</td>
       <td>0.583333</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1270</th>
-      <td>[physicist](physicist.md)</td>
+      <td>&lt;span&gt;[physicist](physicist.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>7</td>
       <td>0.583333</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2683</th>
-      <td>[oceanographer](oceanographer.md)</td>
+      <td>&lt;span&gt;[oceanographer](oceanographer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>7</td>
       <td>0.583333</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1280</th>
-      <td>[geologist](geologist.md)</td>
+      <td>&lt;span&gt;[geologist](geologist.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>7</td>
       <td>0.583333</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>376</th>
-      <td>[meteorology technician](meteorology technician.md)</td>
+      <td>&lt;span&gt;[meteorology technician](meteorology_technician.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>6</td>
       <td>0.500000</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2323</th>
-      <td>[biometrician](biometrician.md)</td>
+      <td>&lt;span&gt;[biometrician](biometrician.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>6</td>
       <td>0.500000</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>847</th>
-      <td>[statistician](statistician.md)</td>
+      <td>&lt;span&gt;[statistician](statistician.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>6</td>
       <td>0.500000</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2059</th>
-      <td>[geology technician](geology technician.md)</td>
+      <td>&lt;span&gt;[geology technician](geology_technician.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>6</td>
       <td>0.500000</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2620</th>
-      <td>[cosmologist](cosmologist.md)</td>
+      <td>&lt;span&gt;[cosmologist](cosmologist.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.416667</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1636</th>
-      <td>[aerodynamics engineer](aerodynamics engineer.md)</td>
+      <td>&lt;span&gt;[aerodynamics engineer](aerodynamics_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>5</td>
       <td>0.416667</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>534</th>
-      <td>[mathematician](mathematician.md)</td>
+      <td>&lt;span&gt;[mathematician](mathematician.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>5</td>
       <td>0.416667</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1381</th>
-      <td>[sociologist](sociologist.md)</td>
+      <td>&lt;span&gt;[sociologist](sociologist.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>5</td>
       <td>0.416667</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1382</th>
-      <td>[bioinformatics scientist](bioinformatics scientist.md)</td>
+      <td>&lt;span&gt;[bioinformatics scientist](bioinformatics_scientist.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>5</td>
       <td>0.416667</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1072</th>
-      <td>[hydrologist](hydrologist.md)</td>
+      <td>&lt;span&gt;[hydrologist](hydrologist.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>5</td>
       <td>0.416667</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2787</th>
-      <td>[epidemiologist](epidemiologist.md)</td>
+      <td>&lt;span&gt;[epidemiologist](epidemiologist.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>5</td>
       <td>0.416667</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2788</th>
-      <td>[geographer](geographer.md)</td>
+      <td>&lt;span&gt;[geographer](geographer.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>5</td>
       <td>0.416667</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2396</th>
-      <td>[biomedical engineer](biomedical engineer.md)</td>
+      <td>&lt;span&gt;[biomedical engineer](biomedical_engineer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>5</td>
       <td>0.416667</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2389</th>
-      <td>[meteorologist](meteorologist.md)</td>
+      <td>&lt;span&gt;[meteorologist](meteorologist.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>5</td>
       <td>0.416667</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>848</th>
-      <td>[statistical assistant](statistical assistant.md)</td>
+      <td>&lt;span&gt;[statistical assistant](statistical_assistant.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>5</td>
       <td>0.416667</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2785</th>
-      <td>[political scientist](political scientist.md)</td>
+      <td>&lt;span&gt;[political scientist](political_scientist.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>5</td>
       <td>0.416667</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>799</th>
-      <td>[mineralogist](mineralogist.md)</td>
+      <td>&lt;span&gt;[mineralogist](mineralogist.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>4</td>
       <td>0.333333</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2614</th>
-      <td>[geographic information systems specialist](geographic information systems specialist.md)</td>
+      <td>&lt;span&gt;[geographic information systems specialist](geographic_information_systems_specialist.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>4</td>
       <td>0.333333</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1631</th>
-      <td>[tooling engineer](tooling engineer.md)</td>
+      <td>&lt;span&gt;[tooling engineer](tooling_engineer.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>4</td>
       <td>0.333333</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>2783</th>
-      <td>[behavioural scientist](behavioural scientist.md)</td>
+      <td>&lt;span&gt;[behavioural scientist](behavioural_scientist.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.333333</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2231</th>
-      <td>[communication scientist](communication scientist.md)</td>
+      <td>&lt;span&gt;[communication scientist](communication_scientist.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>4</td>
       <td>0.333333</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2685</th>
-      <td>[design engineer](design engineer.md)</td>
+      <td>&lt;span&gt;[design engineer](design_engineer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.250000</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1376</th>
-      <td>[computer scientist](computer scientist.md)</td>
+      <td>&lt;span&gt;[computer scientist](computer_scientist.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.250000</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>436</th>
-      <td>[business economics researcher](business economics researcher.md)</td>
+      <td>&lt;span&gt;[business economics researcher](business_economics_researcher.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.250000</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2678</th>
-      <td>[component engineer](component engineer.md)</td>
+      <td>&lt;span&gt;[component engineer](component_engineer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.250000</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2675</th>
-      <td>[equipment engineer](equipment engineer.md)</td>
+      <td>&lt;span&gt;[equipment engineer](equipment_engineer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.250000</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2668</th>
-      <td>[archaeologist](archaeologist.md)</td>
+      <td>&lt;span&gt;[archaeologist](archaeologist.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>3</td>
       <td>0.250000</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2664</th>
-      <td>[fisheries refrigeration engineer](fisheries refrigeration engineer.md)</td>
+      <td>&lt;span&gt;[fisheries refrigeration engineer](fisheries_refrigeration_engineer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>3</td>
       <td>0.250000</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1752</th>
-      <td>[transport engineer](transport engineer.md)</td>
+      <td>&lt;span&gt;[transport engineer](transport_engineer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>3</td>
       <td>0.250000</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1615</th>
-      <td>[automotive designer](automotive designer.md)</td>
+      <td>&lt;span&gt;[automotive designer](automotive_designer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.250000</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2689</th>
-      <td>[marine engineer](marine engineer.md)</td>
+      <td>&lt;span&gt;[marine engineer](marine_engineer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.250000</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>554</th>
-      <td>[container equipment design engineer](container equipment design engineer.md)</td>
+      <td>&lt;span&gt;[container equipment design engineer](container_equipment_design_engineer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.250000</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1640</th>
-      <td>[material stress analyst](material stress analyst.md)</td>
+      <td>&lt;span&gt;[material stress analyst](material_stress_analyst.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.250000</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1612</th>
-      <td>[aerospace engineering technician](aerospace engineering technician.md)</td>
+      <td>&lt;span&gt;[aerospace engineering technician](aerospace_engineering_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.250000</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1613</th>
-      <td>[rolling stock engineering technician](rolling stock engineering technician.md)</td>
+      <td>&lt;span&gt;[rolling stock engineering technician](rolling_stock_engineering_technician.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.250000</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>740</th>
-      <td>[agricultural equipment design engineer](agricultural equipment design engineer.md)</td>
+      <td>&lt;span&gt;[agricultural equipment design engineer](agricultural_equipment_design_engineer.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>3</td>
       <td>0.250000</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>735</th>
-      <td>[fluid power engineer](fluid power engineer.md)</td>
+      <td>&lt;span&gt;[fluid power engineer](fluid_power_engineer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>3</td>
       <td>0.250000</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>733</th>
-      <td>[ICT research consultant](ICT research consultant.md)</td>
+      <td>&lt;span&gt;[ICT research consultant](ICT_research_consultant.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.250000</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2867</th>
-      <td>[media scientist](media scientist.md)</td>
+      <td>&lt;span&gt;[media scientist](media_scientist.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.250000</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2869</th>
-      <td>[anthropologist](anthropologist.md)</td>
+      <td>&lt;span&gt;[anthropologist](anthropologist.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>3</td>
       <td>0.250000</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>57</th>
-      <td>[biologist](biologist.md)</td>
+      <td>&lt;span&gt;[biologist](biologist.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.250000</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2870</th>
-      <td>[literary scholar](literary scholar.md)</td>
+      <td>&lt;span&gt;[literary scholar](literary_scholar.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.250000</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>731</th>
-      <td>[packing machinery engineer](packing machinery engineer.md)</td>
+      <td>&lt;span&gt;[packing machinery engineer](packing_machinery_engineer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.250000</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2795</th>
-      <td>[philosopher](philosopher.md)</td>
+      <td>&lt;span&gt;[philosopher](philosopher.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.250000</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>729</th>
-      <td>[rotating equipment engineer](rotating equipment engineer.md)</td>
+      <td>&lt;span&gt;[rotating equipment engineer](rotating_equipment_engineer.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>3</td>
       <td>0.250000</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>2691</th>
-      <td>[surface engineer](surface engineer.md)</td>
+      <td>&lt;span&gt;[surface engineer](surface_engineer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.250000</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2690</th>
-      <td>[logistics engineer](logistics engineer.md)</td>
+      <td>&lt;span&gt;[logistics engineer](logistics_engineer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.250000</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1292</th>
-      <td>[religion scientific researcher](religion scientific researcher.md)</td>
+      <td>&lt;span&gt;[religion scientific researcher](religion_scientific_researcher.md)&lt;/span&gt;</td>
       <td>7</td>
       <td>3</td>
       <td>0.250000</td>
       <td>4</td>
     </tr>
     <tr>
-      <th>55</th>
-      <td>[aquatic animal health professional](aquatic animal health professional.md)</td>
+      <td>&lt;span&gt;[aquatic animal health professional](aquatic_animal_health_professional.md)&lt;/span&gt;</td>
       <td>55</td>
       <td>3</td>
       <td>0.250000</td>
       <td>52</td>
     </tr>
     <tr>
-      <th>56</th>
-      <td>[microbiologist](microbiologist.md)</td>
+      <td>&lt;span&gt;[microbiologist](microbiologist.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.250000</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1275</th>
-      <td>[biochemistry technician](biochemistry technician.md)</td>
+      <td>&lt;span&gt;[biochemistry technician](biochemistry_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.250000</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1225</th>
-      <td>[historian](historian.md)</td>
+      <td>&lt;span&gt;[historian](historian.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>3</td>
       <td>0.250000</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>917</th>
-      <td>[assistant lecturer](assistant lecturer.md)</td>
+      <td>&lt;span&gt;[assistant lecturer](assistant_lecturer.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>3</td>
       <td>0.250000</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2839</th>
-      <td>[palaeontologist](palaeontologist.md)</td>
+      <td>&lt;span&gt;[palaeontologist](palaeontologist.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>3</td>
       <td>0.250000</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>654</th>
-      <td>[metrologist](metrologist.md)</td>
+      <td>&lt;span&gt;[metrologist](metrologist.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.250000</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>926</th>
-      <td>[data analyst](data analyst.md)</td>
+      <td>&lt;span&gt;[data analyst](data_analyst.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>3</td>
       <td>0.250000</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1261</th>
-      <td>[kinesiologist](kinesiologist.md)</td>
+      <td>&lt;span&gt;[kinesiologist](kinesiologist.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.250000</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1262</th>
-      <td>[physiologist](physiologist.md)</td>
+      <td>&lt;span&gt;[physiologist](physiologist.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.250000</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1263</th>
-      <td>[botanical technician](botanical technician.md)</td>
+      <td>&lt;span&gt;[botanical technician](botanical_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.250000</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1264</th>
-      <td>[biology technician](biology technician.md)</td>
+      <td>&lt;span&gt;[biology technician](biology_technician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.250000</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2501</th>
-      <td>[linguist](linguist.md)</td>
+      <td>&lt;span&gt;[linguist](linguist.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>3</td>
       <td>0.250000</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1267</th>
-      <td>[geneticist](geneticist.md)</td>
+      <td>&lt;span&gt;[geneticist](geneticist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.250000</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1269</th>
-      <td>[biochemist](biochemist.md)</td>
+      <td>&lt;span&gt;[biochemist](biochemist.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.250000</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>916</th>
-      <td>[educational researcher](educational researcher.md)</td>
+      <td>&lt;span&gt;[educational researcher](educational_researcher.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.250000</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1611</th>
-      <td>[marine engineering technician](marine engineering technician.md)</td>
+      <td>&lt;span&gt;[marine engineering technician](marine_engineering_technician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.250000</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1276</th>
-      <td>[physics technician](physics technician.md)</td>
+      <td>&lt;span&gt;[physics technician](physics_technician.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.250000</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1284</th>
-      <td>[bacteriology technician](bacteriology technician.md)</td>
+      <td>&lt;span&gt;[bacteriology technician](bacteriology_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.250000</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1286</th>
-      <td>[chemist](chemist.md)</td>
+      <td>&lt;span&gt;[chemist](chemist.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.250000</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1278</th>
-      <td>[immunologist](immunologist.md)</td>
+      <td>&lt;span&gt;[immunologist](immunologist.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.250000</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>53</th>
-      <td>[aquaculture biologist](aquaculture biologist.md)</td>
+      <td>&lt;span&gt;[aquaculture biologist](aquaculture_biologist.md)&lt;/span&gt;</td>
       <td>37</td>
       <td>3</td>
       <td>0.250000</td>
       <td>34</td>
     </tr>
     <tr>
-      <th>1285</th>
-      <td>[zoology technician](zoology technician.md)</td>
+      <td>&lt;span&gt;[zoology technician](zoology_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.250000</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1383</th>
-      <td>[thanatology researcher](thanatology researcher.md)</td>
+      <td>&lt;span&gt;[thanatology researcher](thanatology_researcher.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.250000</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1622</th>
-      <td>[automotive engineering technician](automotive engineering technician.md)</td>
+      <td>&lt;span&gt;[automotive engineering technician](automotive_engineering_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.250000</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>41</th>
-      <td>[toxicologist](toxicologist.md)</td>
+      <td>&lt;span&gt;[toxicologist](toxicologist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.250000</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1496</th>
-      <td>[university research assistant](university research assistant.md)</td>
+      <td>&lt;span&gt;[university research assistant](university_research_assistant.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.250000</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1372</th>
-      <td>[microelectronics engineer](microelectronics engineer.md)</td>
+      <td>&lt;span&gt;[microelectronics engineer](microelectronics_engineer.md)&lt;/span&gt;</td>
       <td>36</td>
       <td>2</td>
       <td>0.166667</td>
       <td>34</td>
     </tr>
     <tr>
-      <th>775</th>
-      <td>[electronics engineer](electronics engineer.md)</td>
+      <td>&lt;span&gt;[electronics engineer](electronics_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>2</td>
       <td>0.166667</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>2757</th>
-      <td>[research manager](research manager.md)</td>
+      <td>&lt;span&gt;[research manager](research_manager.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.166667</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>924</th>
-      <td>[data scientist](data scientist.md)</td>
+      <td>&lt;span&gt;[data scientist](data_scientist.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>2</td>
       <td>0.166667</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1371</th>
-      <td>[microsystem engineer](microsystem engineer.md)</td>
+      <td>&lt;span&gt;[microsystem engineer](microsystem_engineer.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.166667</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>1375</th>
-      <td>[optomechanical engineer](optomechanical engineer.md)</td>
+      <td>&lt;span&gt;[optomechanical engineer](optomechanical_engineer.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>2</td>
       <td>0.166667</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>1374</th>
-      <td>[optical engineer](optical engineer.md)</td>
+      <td>&lt;span&gt;[optical engineer](optical_engineer.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>2</td>
       <td>0.166667</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1373</th>
-      <td>[computer hardware engineer](computer hardware engineer.md)</td>
+      <td>&lt;span&gt;[computer hardware engineer](computer_hardware_engineer.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>2</td>
       <td>0.166667</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>2784</th>
-      <td>[language engineer](language engineer.md)</td>
+      <td>&lt;span&gt;[language engineer](language_engineer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.166667</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2676</th>
-      <td>[aerospace engineering drafter](aerospace engineering drafter.md)</td>
+      <td>&lt;span&gt;[aerospace engineering drafter](aerospace_engineering_drafter.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.166667</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1370</th>
-      <td>[photonics engineer](photonics engineer.md)</td>
+      <td>&lt;span&gt;[photonics engineer](photonics_engineer.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.166667</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>1369</th>
-      <td>[sensor engineer](sensor engineer.md)</td>
+      <td>&lt;span&gt;[sensor engineer](sensor_engineer.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>2</td>
       <td>0.166667</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>551</th>
-      <td>[industrial tool design engineer](industrial tool design engineer.md)</td>
+      <td>&lt;span&gt;[industrial tool design engineer](industrial_tool_design_engineer.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.166667</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1099</th>
-      <td>[biochemical engineer](biochemical engineer.md)</td>
+      <td>&lt;span&gt;[biochemical engineer](biochemical_engineer.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.166667</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1095</th>
-      <td>[pharmaceutical engineer](pharmaceutical engineer.md)</td>
+      <td>&lt;span&gt;[pharmaceutical engineer](pharmaceutical_engineer.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.166667</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>495</th>
-      <td>[corrosion technician](corrosion technician.md)</td>
+      <td>&lt;span&gt;[corrosion technician](corrosion_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.166667</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1852</th>
-      <td>[land surveyor](land surveyor.md)</td>
+      <td>&lt;span&gt;[land surveyor](land_surveyor.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>2</td>
       <td>0.166667</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1849</th>
-      <td>[surveying technician](surveying technician.md)</td>
+      <td>&lt;span&gt;[surveying technician](surveying_technician.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>2</td>
       <td>0.166667</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1066</th>
-      <td>[environmental mining engineer](environmental mining engineer.md)</td>
+      <td>&lt;span&gt;[environmental mining engineer](environmental_mining_engineer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>2</td>
       <td>0.166667</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1841</th>
-      <td>[mathematics teacher secondary school](mathematics teacher secondary school.md)</td>
+      <td>&lt;span&gt;[mathematics teacher secondary school](mathematics_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>2</td>
       <td>0.166667</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1836</th>
-      <td>[mathematics lecturer](mathematics lecturer.md)</td>
+      <td>&lt;span&gt;[mathematics lecturer](mathematics_lecturer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.166667</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1199</th>
-      <td>[actuarial assistant](actuarial assistant.md)</td>
+      <td>&lt;span&gt;[actuarial assistant](actuarial_assistant.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.166667</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2337</th>
-      <td>[remote sensing technician](remote sensing technician.md)</td>
+      <td>&lt;span&gt;[remote sensing technician](remote_sensing_technician.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.166667</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2558</th>
-      <td>[urban planner](urban planner.md)</td>
+      <td>&lt;span&gt;[urban planner](urban_planner.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.166667</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2583</th>
-      <td>[economic adviser](economic adviser.md)</td>
+      <td>&lt;span&gt;[economic adviser](economic_adviser.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.166667</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1255</th>
-      <td>[electromechanical engineer](electromechanical engineer.md)</td>
+      <td>&lt;span&gt;[electromechanical engineer](electromechanical_engineer.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>2</td>
       <td>0.166667</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>1256</th>
-      <td>[mechatronics engineer](mechatronics engineer.md)</td>
+      <td>&lt;span&gt;[mechatronics engineer](mechatronics_engineer.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>2</td>
       <td>0.166667</td>
       <td>33</td>
     </tr>
     <tr>
-      <th>1257</th>
-      <td>[automation engineer](automation engineer.md)</td>
+      <td>&lt;span&gt;[automation engineer](automation_engineer.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>2</td>
       <td>0.166667</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>1259</th>
-      <td>[biotechnical technician](biotechnical technician.md)</td>
+      <td>&lt;span&gt;[biotechnical technician](biotechnical_technician.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.166667</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1279</th>
-      <td>[agronomist](agronomist.md)</td>
+      <td>&lt;span&gt;[agronomist](agronomist.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.166667</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>2615</th>
-      <td>[cartographer](cartographer.md)</td>
+      <td>&lt;span&gt;[cartographer](cartographer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.166667</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2616</th>
-      <td>[architectural drafter](architectural drafter.md)</td>
+      <td>&lt;span&gt;[architectural drafter](architectural_drafter.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.166667</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2679</th>
-      <td>[manufacturing cost estimator](manufacturing cost estimator.md)</td>
+      <td>&lt;span&gt;[manufacturing cost estimator](manufacturing_cost_estimator.md)&lt;/span&gt;</td>
       <td>6</td>
       <td>2</td>
       <td>0.166667</td>
       <td>4</td>
     </tr>
     <tr>
-      <th>2680</th>
-      <td>[marine engineering drafter](marine engineering drafter.md)</td>
+      <td>&lt;span&gt;[marine engineering drafter](marine_engineering_drafter.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.166667</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2681</th>
-      <td>[automotive engineering drafter](automotive engineering drafter.md)</td>
+      <td>&lt;span&gt;[automotive engineering drafter](automotive_engineering_drafter.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.166667</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2682</th>
-      <td>[rolling stock engineering drafter](rolling stock engineering drafter.md)</td>
+      <td>&lt;span&gt;[rolling stock engineering drafter](rolling_stock_engineering_drafter.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.166667</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2684</th>
-      <td>[naval architect](naval architect.md)</td>
+      <td>&lt;span&gt;[naval architect](naval_architect.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.166667</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2686</th>
-      <td>[printed circuit board designer](printed circuit board designer.md)</td>
+      <td>&lt;span&gt;[printed circuit board designer](printed_circuit_board_designer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.166667</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>942</th>
-      <td>[ICT research manager](ICT research manager.md)</td>
+      <td>&lt;span&gt;[ICT research manager](ICT_research_manager.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.166667</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1367</th>
-      <td>[electromagnetic engineer](electromagnetic engineer.md)</td>
+      <td>&lt;span&gt;[electromagnetic engineer](electromagnetic_engineer.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>2</td>
       <td>0.166667</td>
       <td>33</td>
     </tr>
     <tr>
-      <th>1368</th>
-      <td>[optoelectronic engineer](optoelectronic engineer.md)</td>
+      <td>&lt;span&gt;[optoelectronic engineer](optoelectronic_engineer.md)&lt;/span&gt;</td>
       <td>36</td>
       <td>2</td>
       <td>0.166667</td>
       <td>34</td>
     </tr>
     <tr>
-      <th>1638</th>
-      <td>[mechanical engineering technician](mechanical engineering technician.md)</td>
+      <td>&lt;span&gt;[mechanical engineering technician](mechanical_engineering_technician.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.166667</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1115</th>
-      <td>[actuarial consultant](actuarial consultant.md)</td>
+      <td>&lt;span&gt;[actuarial consultant](actuarial_consultant.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.166667</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>52</th>
-      <td>[biophysicist](biophysicist.md)</td>
+      <td>&lt;span&gt;[biophysicist](biophysicist.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.166667</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2861</th>
-      <td>[research engineer](research engineer.md)</td>
+      <td>&lt;span&gt;[research engineer](research_engineer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.166667</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1624</th>
-      <td>[liquid fuel engineer](liquid fuel engineer.md)</td>
+      <td>&lt;span&gt;[liquid fuel engineer](liquid_fuel_engineer.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.166667</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>898</th>
-      <td>[medical device engineer](medical device engineer.md)</td>
+      <td>&lt;span&gt;[medical device engineer](medical_device_engineer.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>2</td>
       <td>0.166667</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>1610</th>
-      <td>[mine surveyor](mine surveyor.md)</td>
+      <td>&lt;span&gt;[mine surveyor](mine_surveyor.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.166667</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>8</th>
-      <td>[social work researcher](social work researcher.md)</td>
+      <td>&lt;span&gt;[social work researcher](social_work_researcher.md)&lt;/span&gt;</td>
       <td>68</td>
       <td>2</td>
       <td>0.166667</td>
       <td>66</td>
     </tr>
     <tr>
-      <th>2827</th>
-      <td>[instrumentation engineer](instrumentation engineer.md)</td>
+      <td>&lt;span&gt;[instrumentation engineer](instrumentation_engineer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.166667</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1630</th>
-      <td>[petroleum engineer](petroleum engineer.md)</td>
+      <td>&lt;span&gt;[petroleum engineer](petroleum_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>2</td>
       <td>0.166667</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>846</th>
-      <td>[transport planner](transport planner.md)</td>
+      <td>&lt;span&gt;[transport planner](transport_planner.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>2</td>
       <td>0.166667</td>

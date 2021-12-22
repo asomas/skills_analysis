@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match stevedore</th>
@@ -14,88 +13,77 @@
   </thead>
   <tbody>
     <tr>
-      <th>1168</th>
-      <td>[rail intermodal equipment operator](rail intermodal equipment operator.md)</td>
+      <td>&lt;span&gt;[rail intermodal equipment operator](rail_intermodal_equipment_operator.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>15</td>
       <td>0.405405</td>
       <td>2</td>
     </tr>
     <tr>
-      <th>778</th>
-      <td>[warehouse order picker](warehouse order picker.md)</td>
+      <td>&lt;span&gt;[warehouse order picker](warehouse_order_picker.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>5</td>
       <td>0.135135</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1202</th>
-      <td>[skipper](skipper.md)</td>
+      <td>&lt;span&gt;[skipper](skipper.md)&lt;/span&gt;</td>
       <td>51</td>
       <td>4</td>
       <td>0.108108</td>
       <td>47</td>
     </tr>
     <tr>
-      <th>349</th>
-      <td>[forklift operator](forklift operator.md)</td>
+      <td>&lt;span&gt;[forklift operator](forklift_operator.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>4</td>
       <td>0.108108</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1201</th>
-      <td>[helmsman](helmsman.md)</td>
+      <td>&lt;span&gt;[helmsman](helmsman.md)&lt;/span&gt;</td>
       <td>51</td>
       <td>4</td>
       <td>0.108108</td>
       <td>47</td>
     </tr>
     <tr>
-      <th>986</th>
-      <td>[trolley bus driver](trolley bus driver.md)</td>
+      <td>&lt;span&gt;[trolley bus driver](trolley_bus_driver.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>4</td>
       <td>0.108108</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>984</th>
-      <td>[tram driver](tram driver.md)</td>
+      <td>&lt;span&gt;[tram driver](tram_driver.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>4</td>
       <td>0.108108</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>983</th>
-      <td>[bus driver](bus driver.md)</td>
+      <td>&lt;span&gt;[bus driver](bus_driver.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>4</td>
       <td>0.108108</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1357</th>
-      <td>[logistics and distribution manager](logistics and distribution manager.md)</td>
+      <td>&lt;span&gt;[logistics and distribution manager](logistics_and_distribution_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>4</td>
       <td>0.108108</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1243</th>
-      <td>[matrose](matrose.md)</td>
+      <td>&lt;span&gt;[matrose](matrose.md)&lt;/span&gt;</td>
       <td>60</td>
       <td>4</td>
       <td>0.108108</td>
       <td>56</td>
     </tr>
     <tr>
-      <th>1420</th>
-      <td>[moving truck driver](moving truck driver.md)</td>
+      <td>&lt;span&gt;[moving truck driver](moving_truck_driver.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>4</td>
       <td>0.108108</td>

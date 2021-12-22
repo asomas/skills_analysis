@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match woodcarver</th>
@@ -14,288 +13,252 @@
   </thead>
   <tbody>
     <tr>
-      <th>2589</th>
-      <td>[woodturner](woodturner.md)</td>
+      <td>&lt;span&gt;[woodturner](woodturner.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>7</td>
       <td>0.411765</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1309</th>
-      <td>[manufactured wooden building assembler](manufactured wooden building assembler.md)</td>
+      <td>&lt;span&gt;[manufactured wooden building assembler](manufactured_wooden_building_assembler.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>6</td>
       <td>0.352941</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>410</th>
-      <td>[cooper](cooper.md)</td>
+      <td>&lt;span&gt;[cooper](cooper.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>6</td>
       <td>0.352941</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1684</th>
-      <td>[carpenter](carpenter.md)</td>
+      <td>&lt;span&gt;[carpenter](carpenter.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>6</td>
       <td>0.352941</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2555</th>
-      <td>[basketmaker](basketmaker.md)</td>
+      <td>&lt;span&gt;[basketmaker](basketmaker.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>6</td>
       <td>0.352941</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>2647</th>
-      <td>[cabinet maker](cabinet maker.md)</td>
+      <td>&lt;span&gt;[cabinet maker](cabinet_maker.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>6</td>
       <td>0.352941</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>73</th>
-      <td>[guitar maker](guitar maker.md)</td>
+      <td>&lt;span&gt;[guitar maker](guitar_maker.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.294118</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2603</th>
-      <td>[band saw operator](band saw operator.md)</td>
+      <td>&lt;span&gt;[band saw operator](band_saw_operator.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>5</td>
       <td>0.294118</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2707</th>
-      <td>[sawmill operator](sawmill operator.md)</td>
+      <td>&lt;span&gt;[sawmill operator](sawmill_operator.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>5</td>
       <td>0.294118</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2609</th>
-      <td>[wood sander](wood sander.md)</td>
+      <td>&lt;span&gt;[wood sander](wood_sander.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>5</td>
       <td>0.294118</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2625</th>
-      <td>[frame maker](frame maker.md)</td>
+      <td>&lt;span&gt;[frame maker](frame_maker.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>5</td>
       <td>0.294118</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1308</th>
-      <td>[wood products assembler](wood products assembler.md)</td>
+      <td>&lt;span&gt;[wood products assembler](wood_products_assembler.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>5</td>
       <td>0.294118</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2474</th>
-      <td>[wood technology engineer](wood technology engineer.md)</td>
+      <td>&lt;span&gt;[wood technology engineer](wood_technology_engineer.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>4</td>
       <td>0.235294</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>829</th>
-      <td>[hardwood floor layer](hardwood floor layer.md)</td>
+      <td>&lt;span&gt;[hardwood floor layer](hardwood_floor_layer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>4</td>
       <td>0.235294</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2267</th>
-      <td>[violin maker](violin maker.md)</td>
+      <td>&lt;span&gt;[violin maker](violin_maker.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.235294</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>901</th>
-      <td>[wood treater](wood treater.md)</td>
+      <td>&lt;span&gt;[wood treater](wood_treater.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.235294</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2718</th>
-      <td>[wood router operator](wood router operator.md)</td>
+      <td>&lt;span&gt;[wood router operator](wood_router_operator.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>4</td>
       <td>0.235294</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2698</th>
-      <td>[table saw operator](table saw operator.md)</td>
+      <td>&lt;span&gt;[table saw operator](table_saw_operator.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>4</td>
       <td>0.235294</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2600</th>
-      <td>[antique furniture reproducer](antique furniture reproducer.md)</td>
+      <td>&lt;span&gt;[antique furniture reproducer](antique_furniture_reproducer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>4</td>
       <td>0.235294</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2314</th>
-      <td>[furniture restorer](furniture restorer.md)</td>
+      <td>&lt;span&gt;[furniture restorer](furniture_restorer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>4</td>
       <td>0.235294</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2006</th>
-      <td>[staircase installer](staircase installer.md)</td>
+      <td>&lt;span&gt;[staircase installer](staircase_installer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.235294</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2406</th>
-      <td>[furniture finisher](furniture finisher.md)</td>
+      <td>&lt;span&gt;[furniture finisher](furniture_finisher.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.176471</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2140</th>
-      <td>[organ builder](organ builder.md)</td>
+      <td>&lt;span&gt;[organ builder](organ_builder.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.176471</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2135</th>
-      <td>[harpsichord maker](harpsichord maker.md)</td>
+      <td>&lt;span&gt;[harpsichord maker](harpsichord_maker.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.176471</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2137</th>
-      <td>[piano maker](piano maker.md)</td>
+      <td>&lt;span&gt;[piano maker](piano_maker.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.176471</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2703</th>
-      <td>[planer thicknesser operator](planer thicknesser operator.md)</td>
+      <td>&lt;span&gt;[planer thicknesser operator](planer_thicknesser_operator.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.176471</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2344</th>
-      <td>[veneer slicer operator](veneer slicer operator.md)</td>
+      <td>&lt;span&gt;[veneer slicer operator](veneer_slicer_operator.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.176471</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2222</th>
-      <td>[brush maker](brush maker.md)</td>
+      <td>&lt;span&gt;[brush maker](brush_maker.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>3</td>
       <td>0.176471</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2138</th>
-      <td>[harp maker](harp maker.md)</td>
+      <td>&lt;span&gt;[harp maker](harp_maker.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.176471</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>245</th>
-      <td>[carpenter supervisor](carpenter supervisor.md)</td>
+      <td>&lt;span&gt;[carpenter supervisor](carpenter_supervisor.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>3</td>
       <td>0.176471</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>2357</th>
-      <td>[wood boring machine operator](wood boring machine operator.md)</td>
+      <td>&lt;span&gt;[wood boring machine operator](wood_boring_machine_operator.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.117647</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2646</th>
-      <td>[furniture assembler](furniture assembler.md)</td>
+      <td>&lt;span&gt;[furniture assembler](furniture_assembler.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.117647</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2111</th>
-      <td>[toymaker](toymaker.md)</td>
+      <td>&lt;span&gt;[toymaker](toymaker.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.117647</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2110</th>
-      <td>[debarker operator](debarker operator.md)</td>
+      <td>&lt;span&gt;[debarker operator](debarker_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.117647</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>819</th>
-      <td>[crosscut saw operator](crosscut saw operator.md)</td>
+      <td>&lt;span&gt;[crosscut saw operator](crosscut_saw_operator.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.117647</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2767</th>
-      <td>[edge bander operator](edge bander operator.md)</td>
+      <td>&lt;span&gt;[edge bander operator](edge_bander_operator.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.117647</td>

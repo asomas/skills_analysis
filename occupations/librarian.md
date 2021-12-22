@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match librarian</th>
@@ -14,56 +13,49 @@
   </thead>
   <tbody>
     <tr>
-      <th>1969</th>
-      <td>[library manager](library manager.md)</td>
+      <td>&lt;span&gt;[library manager](library_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>5</td>
       <td>0.333333</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1970</th>
-      <td>[information manager](information manager.md)</td>
+      <td>&lt;span&gt;[information manager](information_manager.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.266667</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2590</th>
-      <td>[library assistant](library assistant.md)</td>
+      <td>&lt;span&gt;[library assistant](library_assistant.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>4</td>
       <td>0.266667</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>733</th>
-      <td>[ICT research consultant](ICT research consultant.md)</td>
+      <td>&lt;span&gt;[ICT research consultant](ICT_research_consultant.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.200000</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>942</th>
-      <td>[ICT research manager](ICT research manager.md)</td>
+      <td>&lt;span&gt;[ICT research manager](ICT_research_manager.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.133333</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1496</th>
-      <td>[university research assistant](university research assistant.md)</td>
+      <td>&lt;span&gt;[university research assistant](university_research_assistant.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.133333</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1376</th>
-      <td>[computer scientist](computer scientist.md)</td>
+      <td>&lt;span&gt;[computer scientist](computer_scientist.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.133333</td>

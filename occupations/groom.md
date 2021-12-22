@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match groom</th>
@@ -14,192 +13,168 @@
   </thead>
   <tbody>
     <tr>
-      <th>1479</th>
-      <td>[equine worker](equine worker.md)</td>
+      <td>&lt;span&gt;[equine worker](equine_worker.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>11</td>
       <td>0.423077</td>
       <td>3</td>
     </tr>
     <tr>
-      <th>78</th>
-      <td>[livestock worker](livestock worker.md)</td>
+      <td>&lt;span&gt;[livestock worker](livestock_worker.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>10</td>
       <td>0.384615</td>
       <td>4</td>
     </tr>
     <tr>
-      <th>1383</th>
-      <td>[horse breeder](horse breeder.md)</td>
+      <td>&lt;span&gt;[horse breeder](horse_breeder.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>9</td>
       <td>0.346154</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>2068</th>
-      <td>[equine yard manager](equine yard manager.md)</td>
+      <td>&lt;span&gt;[equine yard manager](equine_yard_manager.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>8</td>
       <td>0.307692</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1488</th>
-      <td>[pig breeder](pig breeder.md)</td>
+      <td>&lt;span&gt;[pig breeder](pig_breeder.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>7</td>
       <td>0.269231</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>1485</th>
-      <td>[cattle breeder](cattle breeder.md)</td>
+      <td>&lt;span&gt;[cattle breeder](cattle_breeder.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>7</td>
       <td>0.269231</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>1484</th>
-      <td>[sheep breeder](sheep breeder.md)</td>
+      <td>&lt;span&gt;[sheep breeder](sheep_breeder.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>7</td>
       <td>0.269231</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>1475</th>
-      <td>[fur animals breeder](fur animals breeder.md)</td>
+      <td>&lt;span&gt;[fur animals breeder](fur_animals_breeder.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>7</td>
       <td>0.269231</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1487</th>
-      <td>[poultry breeder](poultry breeder.md)</td>
+      <td>&lt;span&gt;[poultry breeder](poultry_breeder.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>6</td>
       <td>0.230769</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1473</th>
-      <td>[bee breeder](bee breeder.md)</td>
+      <td>&lt;span&gt;[bee breeder](bee_breeder.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>6</td>
       <td>0.230769</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1477</th>
-      <td>[dog breeder](dog breeder.md)</td>
+      <td>&lt;span&gt;[dog breeder](dog_breeder.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>5</td>
       <td>0.192308</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1675</th>
-      <td>[livestock advisor](livestock advisor.md)</td>
+      <td>&lt;span&gt;[livestock advisor](livestock_advisor.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>5</td>
       <td>0.192308</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2253</th>
-      <td>[farm milk controller](farm milk controller.md)</td>
+      <td>&lt;span&gt;[farm milk controller](farm_milk_controller.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.153846</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1474</th>
-      <td>[animal care attendant](animal care attendant.md)</td>
+      <td>&lt;span&gt;[animal care attendant](animal_care_attendant.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>4</td>
       <td>0.153846</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>1482</th>
-      <td>[pet sitter](pet sitter.md)</td>
+      <td>&lt;span&gt;[pet sitter](pet_sitter.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.115385</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1480</th>
-      <td>[animal shelter worker](animal shelter worker.md)</td>
+      <td>&lt;span&gt;[animal shelter worker](animal_shelter_worker.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.115385</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>840</th>
-      <td>[live animal transporter](live animal transporter.md)</td>
+      <td>&lt;span&gt;[live animal transporter](live_animal_transporter.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>3</td>
       <td>0.115385</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2560</th>
-      <td>[shepherd](shepherd.md)</td>
+      <td>&lt;span&gt;[shepherd](shepherd.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.115385</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1423</th>
-      <td>[kennel supervisor](kennel supervisor.md)</td>
+      <td>&lt;span&gt;[kennel supervisor](kennel_supervisor.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.115385</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1390</th>
-      <td>[zoo section leader](zoo section leader.md)</td>
+      <td>&lt;span&gt;[zoo section leader](zoo_section_leader.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>3</td>
       <td>0.115385</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>1391</th>
-      <td>[zookeeper](zookeeper.md)</td>
+      <td>&lt;span&gt;[zookeeper](zookeeper.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>3</td>
       <td>0.115385</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1278</th>
-      <td>[agronomist](agronomist.md)</td>
+      <td>&lt;span&gt;[agronomist](agronomist.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>3</td>
       <td>0.115385</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>76</th>
-      <td>[mixed farmer](mixed farmer.md)</td>
+      <td>&lt;span&gt;[mixed farmer](mixed_farmer.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>3</td>
       <td>0.115385</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>789</th>
-      <td>[animal handler](animal handler.md)</td>
+      <td>&lt;span&gt;[animal handler](animal_handler.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>3</td>
       <td>0.115385</td>

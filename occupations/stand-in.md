@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match stand-in</th>
@@ -14,216 +13,189 @@
   </thead>
   <tbody>
     <tr>
-      <th>1316</th>
-      <td>[voice-over artist](voice-over artist.md)</td>
+      <td>&lt;span&gt;[voice-over artist](voice-over_artist.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>9</td>
       <td>0.750000</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>2153</th>
-      <td>[stunt performer](stunt performer.md)</td>
+      <td>&lt;span&gt;[stunt performer](stunt_performer.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>8</td>
       <td>0.666667</td>
       <td>4</td>
     </tr>
     <tr>
-      <th>1675</th>
-      <td>[camera operator](camera operator.md)</td>
+      <td>&lt;span&gt;[camera operator](camera_operator.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>7</td>
       <td>0.583333</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>470</th>
-      <td>[actor/actress](actor-actress.md)</td>
+      <td>&lt;span&gt;[actor/actress](actor-actress.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>5</td>
       <td>0.416667</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2018</th>
-      <td>[boom operator](boom operator.md)</td>
+      <td>&lt;span&gt;[boom operator](boom_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.416667</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1855</th>
-      <td>[video and motion picture director](video and motion picture director.md)</td>
+      <td>&lt;span&gt;[video and motion picture director](video_and_motion_picture_director.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.416667</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2155</th>
-      <td>[animation layout artist](animation layout artist.md)</td>
+      <td>&lt;span&gt;[animation layout artist](animation_layout_artist.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.333333</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1858</th>
-      <td>[director of photography](director of photography.md)</td>
+      <td>&lt;span&gt;[director of photography](director_of_photography.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.333333</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2149</th>
-      <td>[stop-motion animator](stop-motion animator.md)</td>
+      <td>&lt;span&gt;[stop-motion animator](stop-motion_animator.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>4</td>
       <td>0.333333</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>1112</th>
-      <td>[storyboard artist](storyboard artist.md)</td>
+      <td>&lt;span&gt;[storyboard artist](storyboard_artist.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.333333</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2150</th>
-      <td>[animator](animator.md)</td>
+      <td>&lt;span&gt;[animator](animator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>4</td>
       <td>0.333333</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1315</th>
-      <td>[prompter](prompter.md)</td>
+      <td>&lt;span&gt;[prompter](prompter.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>4</td>
       <td>0.333333</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2157</th>
-      <td>[special effects artist](special effects artist.md)</td>
+      <td>&lt;span&gt;[special effects artist](special_effects_artist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>4</td>
       <td>0.333333</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2148</th>
-      <td>[sound editor](sound editor.md)</td>
+      <td>&lt;span&gt;[sound editor](sound_editor.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.250000</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2015</th>
-      <td>[make-up artist](make-up artist.md)</td>
+      <td>&lt;span&gt;[make-up artist](make-up_artist.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>3</td>
       <td>0.250000</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1681</th>
-      <td>[costume attendant](costume attendant.md)</td>
+      <td>&lt;span&gt;[costume attendant](costume_attendant.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>3</td>
       <td>0.250000</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1314</th>
-      <td>[presenter](presenter.md)</td>
+      <td>&lt;span&gt;[presenter](presenter.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.250000</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2158</th>
-      <td>[cartoonist](cartoonist.md)</td>
+      <td>&lt;span&gt;[cartoonist](cartoonist.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.250000</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2156</th>
-      <td>[video and motion picture editor](video and motion picture editor.md)</td>
+      <td>&lt;span&gt;[video and motion picture editor](video_and_motion_picture_editor.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.250000</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1252</th>
-      <td>[hair stylist](hair stylist.md)</td>
+      <td>&lt;span&gt;[hair stylist](hair_stylist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.250000</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1859</th>
-      <td>[script supervisor](script supervisor.md)</td>
+      <td>&lt;span&gt;[script supervisor](script_supervisor.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.250000</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>753</th>
-      <td>[puppeteer](puppeteer.md)</td>
+      <td>&lt;span&gt;[puppeteer](puppeteer.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.166667</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>976</th>
-      <td>[audio describer](audio describer.md)</td>
+      <td>&lt;span&gt;[audio describer](audio_describer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.166667</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2152</th>
-      <td>[desktop publisher](desktop publisher.md)</td>
+      <td>&lt;span&gt;[desktop publisher](desktop_publisher.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.166667</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1883</th>
-      <td>[animation director](animation director.md)</td>
+      <td>&lt;span&gt;[animation director](animation_director.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.166667</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>411</th>
-      <td>[variety artist](variety artist.md)</td>
+      <td>&lt;span&gt;[variety artist](variety_artist.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>2</td>
       <td>0.166667</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>268</th>
-      <td>[puppet designer](puppet designer.md)</td>
+      <td>&lt;span&gt;[puppet designer](puppet_designer.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.166667</td>

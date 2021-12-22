@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match producer</th>
@@ -14,1608 +13,1407 @@
   </thead>
   <tbody>
     <tr>
-      <th>1856</th>
-      <td>[video and motion picture producer](video and motion picture producer.md)</td>
+      <td>&lt;span&gt;[video and motion picture producer](video_and_motion_picture_producer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>5</td>
       <td>0.5</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2421</th>
-      <td>[music producer](music producer.md)</td>
+      <td>&lt;span&gt;[music producer](music_producer.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>5</td>
       <td>0.5</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2435</th>
-      <td>[book publisher](book publisher.md)</td>
+      <td>&lt;span&gt;[book publisher](book_publisher.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>5</td>
       <td>0.5</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>911</th>
-      <td>[special educational needs head teacher](special educational needs head teacher.md)</td>
+      <td>&lt;span&gt;[special educational needs head teacher](special_educational_needs_head_teacher.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>4</td>
       <td>0.4</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>317</th>
-      <td>[programme manager](programme manager.md)</td>
+      <td>&lt;span&gt;[programme manager](programme_manager.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>4</td>
       <td>0.4</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2148</th>
-      <td>[publishing rights manager](publishing rights manager.md)</td>
+      <td>&lt;span&gt;[publishing rights manager](publishing_rights_manager.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>4</td>
       <td>0.4</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>1903</th>
-      <td>[book editor](book editor.md)</td>
+      <td>&lt;span&gt;[book editor](book_editor.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.4</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2420</th>
-      <td>[production designer](production designer.md)</td>
+      <td>&lt;span&gt;[production designer](production_designer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.4</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>438</th>
-      <td>[research and development manager](research and development manager.md)</td>
+      <td>&lt;span&gt;[research and development manager](research_and_development_manager.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.4</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2428</th>
-      <td>[editor-in-chief](editor-in-chief.md)</td>
+      <td>&lt;span&gt;[editor-in-chief](editor-in-chief.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.4</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>320</th>
-      <td>[artistic director](artistic director.md)</td>
+      <td>&lt;span&gt;[artistic director](artistic_director.md)&lt;/span&gt;</td>
       <td>36</td>
       <td>4</td>
       <td>0.4</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>2426</th>
-      <td>[publications coordinator](publications coordinator.md)</td>
+      <td>&lt;span&gt;[publications coordinator](publications_coordinator.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.4</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1184</th>
-      <td>[assistant video and motion picture director](assistant video and motion picture director.md)</td>
+      <td>&lt;span&gt;[assistant video and motion picture director](assistant_video_and_motion_picture_director.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.3</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1415</th>
-      <td>[move manager](move manager.md)</td>
+      <td>&lt;span&gt;[move manager](move_manager.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.3</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2424</th>
-      <td>[broadcasting programme director](broadcasting programme director.md)</td>
+      <td>&lt;span&gt;[broadcasting programme director](broadcasting_programme_director.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.3</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1969</th>
-      <td>[library manager](library manager.md)</td>
+      <td>&lt;span&gt;[library manager](library_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.3</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2425</th>
-      <td>[contract engineer](contract engineer.md)</td>
+      <td>&lt;span&gt;[contract engineer](contract_engineer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.3</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1455</th>
-      <td>[funeral services director](funeral services director.md)</td>
+      <td>&lt;span&gt;[funeral services director](funeral_services_director.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.3</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2632</th>
-      <td>[broadcast news editor](broadcast news editor.md)</td>
+      <td>&lt;span&gt;[broadcast news editor](broadcast_news_editor.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.3</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>104</th>
-      <td>[beauty salon manager](beauty salon manager.md)</td>
+      <td>&lt;span&gt;[beauty salon manager](beauty_salon_manager.md)&lt;/span&gt;</td>
       <td>44</td>
       <td>3</td>
       <td>0.3</td>
       <td>41</td>
     </tr>
     <tr>
-      <th>1723</th>
-      <td>[resource manager](resource manager.md)</td>
+      <td>&lt;span&gt;[resource manager](resource_manager.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>3</td>
       <td>0.3</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1345</th>
-      <td>[archive manager](archive manager.md)</td>
+      <td>&lt;span&gt;[archive manager](archive_manager.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.3</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2149</th>
-      <td>[sound editor](sound editor.md)</td>
+      <td>&lt;span&gt;[sound editor](sound_editor.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.3</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>606</th>
-      <td>[art director](art director.md)</td>
+      <td>&lt;span&gt;[art director](art_director.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.3</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1582</th>
-      <td>[destination manager](destination manager.md)</td>
+      <td>&lt;span&gt;[destination manager](destination_manager.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>3</td>
       <td>0.3</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>918</th>
-      <td>[nursery school head teacher](nursery school head teacher.md)</td>
+      <td>&lt;span&gt;[nursery school head teacher](nursery_school_head_teacher.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.3</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1944</th>
-      <td>[rail operations manager](rail operations manager.md)</td>
+      <td>&lt;span&gt;[rail operations manager](rail_operations_manager.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.3</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1189</th>
-      <td>[equality and inclusion manager](equality and inclusion manager.md)</td>
+      <td>&lt;span&gt;[equality and inclusion manager](equality_and_inclusion_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>3</td>
       <td>0.3</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1190</th>
-      <td>[corporate training manager](corporate training manager.md)</td>
+      <td>&lt;span&gt;[corporate training manager](corporate_training_manager.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>3</td>
       <td>0.3</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>2638</th>
-      <td>[magazine editor](magazine editor.md)</td>
+      <td>&lt;span&gt;[magazine editor](magazine_editor.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.3</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1593</th>
-      <td>[travel agency manager](travel agency manager.md)</td>
+      <td>&lt;span&gt;[travel agency manager](travel_agency_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>3</td>
       <td>0.3</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>371</th>
-      <td>[headteacher](headteacher.md)</td>
+      <td>&lt;span&gt;[headteacher](headteacher.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>3</td>
       <td>0.3</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1112</th>
-      <td>[storyboard artist](storyboard artist.md)</td>
+      <td>&lt;span&gt;[storyboard artist](storyboard_artist.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.3</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2431</th>
-      <td>[creative director](creative director.md)</td>
+      <td>&lt;span&gt;[creative director](creative_director.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.3</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2094</th>
-      <td>[advertising media buyer](advertising media buyer.md)</td>
+      <td>&lt;span&gt;[advertising media buyer](advertising_media_buyer.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.3</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2430</th>
-      <td>[radio producer](radio producer.md)</td>
+      <td>&lt;span&gt;[radio producer](radio_producer.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>3</td>
       <td>0.3</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>908</th>
-      <td>[clothing shop manager](clothing shop manager.md)</td>
+      <td>&lt;span&gt;[clothing shop manager](clothing_shop_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.2</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>2757</th>
-      <td>[research manager](research manager.md)</td>
+      <td>&lt;span&gt;[research manager](research_manager.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.2</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2417</th>
-      <td>[telecommunications manager](telecommunications manager.md)</td>
+      <td>&lt;span&gt;[telecommunications manager](telecommunications_manager.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.2</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>827</th>
-      <td>[online marketer](online marketer.md)</td>
+      <td>&lt;span&gt;[online marketer](online_marketer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>2</td>
       <td>0.2</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>826</th>
-      <td>[online community manager](online community manager.md)</td>
+      <td>&lt;span&gt;[online community manager](online_community_manager.md)&lt;/span&gt;</td>
       <td>47</td>
       <td>2</td>
       <td>0.2</td>
       <td>45</td>
     </tr>
     <tr>
-      <th>2399</th>
-      <td>[fundraising manager](fundraising manager.md)</td>
+      <td>&lt;span&gt;[fundraising manager](fundraising_manager.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.2</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2326</th>
-      <td>[ICT operations manager](ICT operations manager.md)</td>
+      <td>&lt;span&gt;[ICT operations manager](ICT_operations_manager.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.2</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2419</th>
-      <td>[court administrator](court administrator.md)</td>
+      <td>&lt;span&gt;[court administrator](court_administrator.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.2</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>913</th>
-      <td>[further education principal](further education principal.md)</td>
+      <td>&lt;span&gt;[further education principal](further_education_principal.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2334</th>
-      <td>[interpretation agency manager](interpretation agency manager.md)</td>
+      <td>&lt;span&gt;[interpretation agency manager](interpretation_agency_manager.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>2</td>
       <td>0.2</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>2335</th>
-      <td>[translation agency manager](translation agency manager.md)</td>
+      <td>&lt;span&gt;[translation agency manager](translation_agency_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>251</th>
-      <td>[second-hand shop manager](second-hand shop manager.md)</td>
+      <td>&lt;span&gt;[second-hand shop manager](second-hand_shop_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>2310</th>
-      <td>[pipeline superintendent](pipeline superintendent.md)</td>
+      <td>&lt;span&gt;[pipeline superintendent](pipeline superintendent.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.2</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>915</th>
-      <td>[secondary school head teacher](secondary school head teacher.md)</td>
+      <td>&lt;span&gt;[secondary school head teacher](secondary_school_head_teacher.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.2</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1041</th>
-      <td>[advertising manager](advertising manager.md)</td>
+      <td>&lt;span&gt;[advertising manager](advertising_manager.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>2</td>
       <td>0.2</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>1957</th>
-      <td>[eyewear and optical equipment shop manager](eyewear and optical equipment shop manager.md)</td>
+      <td>&lt;span&gt;[eyewear and optical equipment shop manager](eyewear_and_optical_equipment_shop_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1194</th>
-      <td>[pension scheme manager](pension scheme manager.md)</td>
+      <td>&lt;span&gt;[pension scheme manager](pension_scheme_manager.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>2</td>
       <td>0.2</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1191</th>
-      <td>[shop supervisor](shop supervisor.md)</td>
+      <td>&lt;span&gt;[shop supervisor](shop_supervisor.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>2</td>
       <td>0.2</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1185</th>
-      <td>[licensing manager](licensing manager.md)</td>
+      <td>&lt;span&gt;[licensing manager](licensing_manager.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.2</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1123</th>
-      <td>[marketeer](marketeer.md)</td>
+      <td>&lt;span&gt;[marketeer](marketeer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.2</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1121</th>
-      <td>[tour operators manager](tour operators manager.md)</td>
+      <td>&lt;span&gt;[tour operators manager](tour_operators_manager.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>2</td>
       <td>0.2</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>2073</th>
-      <td>[drugstore manager](drugstore manager.md)</td>
+      <td>&lt;span&gt;[drugstore manager](drugstore_manager.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2096</th>
-      <td>[supermarket manager](supermarket manager.md)</td>
+      <td>&lt;span&gt;[supermarket manager](supermarket_manager.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>2</td>
       <td>0.2</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1054</th>
-      <td>[category manager](category manager.md)</td>
+      <td>&lt;span&gt;[category manager](category_manager.md)&lt;/span&gt;</td>
       <td>47</td>
       <td>2</td>
       <td>0.2</td>
       <td>45</td>
     </tr>
     <tr>
-      <th>1053</th>
-      <td>[promotion manager](promotion manager.md)</td>
+      <td>&lt;span&gt;[promotion manager](promotion_manager.md)&lt;/span&gt;</td>
       <td>36</td>
       <td>2</td>
       <td>0.2</td>
       <td>34</td>
     </tr>
     <tr>
-      <th>1049</th>
-      <td>[sales manager](sales manager.md)</td>
+      <td>&lt;span&gt;[sales manager](sales_manager.md)&lt;/span&gt;</td>
       <td>40</td>
       <td>2</td>
       <td>0.2</td>
       <td>38</td>
     </tr>
     <tr>
-      <th>1039</th>
-      <td>[budget manager](budget manager.md)</td>
+      <td>&lt;span&gt;[budget manager](budget_manager.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>2</td>
       <td>0.2</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>919</th>
-      <td>[primary school head teacher](primary school head teacher.md)</td>
+      <td>&lt;span&gt;[primary school head teacher](primary_school_head_teacher.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.2</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1037</th>
-      <td>[branch manager](branch manager.md)</td>
+      <td>&lt;span&gt;[branch manager](branch_manager.md)&lt;/span&gt;</td>
       <td>48</td>
       <td>2</td>
       <td>0.2</td>
       <td>46</td>
     </tr>
     <tr>
-      <th>1015</th>
-      <td>[countryside officer](countryside officer.md)</td>
+      <td>&lt;span&gt;[countryside officer](countryside_officer.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>2156</th>
-      <td>[animation layout artist](animation layout artist.md)</td>
+      <td>&lt;span&gt;[animation layout artist](animation_layout_artist.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.2</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2157</th>
-      <td>[video and motion picture editor](video and motion picture editor.md)</td>
+      <td>&lt;span&gt;[video and motion picture editor](video_and_motion_picture_editor.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.2</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2167</th>
-      <td>[public employment service manager](public employment service manager.md)</td>
+      <td>&lt;span&gt;[public employment service manager](public_employment_service_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.2</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>203</th>
-      <td>[housekeeping supervisor](housekeeping supervisor.md)</td>
+      <td>&lt;span&gt;[housekeeping supervisor](housekeeping_supervisor.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.2</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2423</th>
-      <td>[bank manager](bank manager.md)</td>
+      <td>&lt;span&gt;[bank manager](bank_manager.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>2</td>
       <td>0.2</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>930</th>
-      <td>[betting manager](betting manager.md)</td>
+      <td>&lt;span&gt;[betting manager](betting_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.2</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>927</th>
-      <td>[animal facility manager](animal facility manager.md)</td>
+      <td>&lt;span&gt;[animal facility manager](animal_facility_manager.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.2</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2777</th>
-      <td>[blogger](blogger.md)</td>
+      <td>&lt;span&gt;[blogger](blogger.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.2</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>921</th>
-      <td>[dean of faculty](dean of faculty.md)</td>
+      <td>&lt;span&gt;[dean of faculty](dean_of_faculty.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>682</th>
-      <td>[orthopaedic supply shop manager](orthopaedic supply shop manager.md)</td>
+      <td>&lt;span&gt;[orthopaedic supply shop manager](orthopaedic_supply_shop_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.2</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>2433</th>
-      <td>[provincial governor](provincial governor.md)</td>
+      <td>&lt;span&gt;[provincial governor](provincial_governor.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.2</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>679</th>
-      <td>[brewmaster](brewmaster.md)</td>
+      <td>&lt;span&gt;[brewmaster](brewmaster.md)&lt;/span&gt;</td>
       <td>40</td>
       <td>2</td>
       <td>0.2</td>
       <td>38</td>
     </tr>
     <tr>
-      <th>381</th>
-      <td>[foreign correspondent](foreign correspondent.md)</td>
+      <td>&lt;span&gt;[foreign correspondent](foreign_correspondent.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>2</td>
       <td>0.2</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>623</th>
-      <td>[rental manager](rental manager.md)</td>
+      <td>&lt;span&gt;[rental manager](rental_manager.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.2</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>604</th>
-      <td>[checkout supervisor](checkout supervisor.md)</td>
+      <td>&lt;span&gt;[checkout supervisor](checkout_supervisor.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>579</th>
-      <td>[industrial assembly supervisor](industrial assembly supervisor.md)</td>
+      <td>&lt;span&gt;[industrial assembly supervisor](industrial_assembly_supervisor.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>2</td>
       <td>0.2</td>
       <td>33</td>
     </tr>
     <tr>
-      <th>2685</th>
-      <td>[design engineer](design engineer.md)</td>
+      <td>&lt;span&gt;[design engineer](design_engineer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.2</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2678</th>
-      <td>[component engineer](component engineer.md)</td>
+      <td>&lt;span&gt;[component engineer](component_engineer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.2</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>540</th>
-      <td>[department store manager](department store manager.md)</td>
+      <td>&lt;span&gt;[department store manager](department_store_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.2</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2675</th>
-      <td>[equipment engineer](equipment engineer.md)</td>
+      <td>&lt;span&gt;[equipment engineer](equipment_engineer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.2</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>530</th>
-      <td>[exhibition curator](exhibition curator.md)</td>
+      <td>&lt;span&gt;[exhibition curator](exhibition_curator.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>512</th>
-      <td>[accommodation manager](accommodation manager.md)</td>
+      <td>&lt;span&gt;[accommodation manager](accommodation_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.2</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>505</th>
-      <td>[membership manager](membership manager.md)</td>
+      <td>&lt;span&gt;[membership manager](membership_manager.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.2</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>500</th>
-      <td>[laundry and dry cleaning manager](laundry and dry cleaning manager.md)</td>
+      <td>&lt;span&gt;[laundry and dry cleaning manager](laundry_and_dry_cleaning_manager.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.2</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>478</th>
-      <td>[warehouse manager](warehouse manager.md)</td>
+      <td>&lt;span&gt;[warehouse manager](warehouse_manager.md)&lt;/span&gt;</td>
       <td>41</td>
       <td>2</td>
       <td>0.2</td>
       <td>39</td>
     </tr>
     <tr>
-      <th>637</th>
-      <td>[hospitality establishment security officer](hospitality establishment security officer.md)</td>
+      <td>&lt;span&gt;[hospitality establishment security officer](hospitality_establishment_security_officer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.2</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>477</th>
-      <td>[lighting director](lighting director.md)</td>
+      <td>&lt;span&gt;[lighting director](lighting_director.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>450</th>
-      <td>[public administration manager](public administration manager.md)</td>
+      <td>&lt;span&gt;[public administration manager](public_administration_manager.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2628</th>
-      <td>[newspaper editor](newspaper editor.md)</td>
+      <td>&lt;span&gt;[newspaper editor](newspaper_editor.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2629</th>
-      <td>[photojournalist](photojournalist.md)</td>
+      <td>&lt;span&gt;[photojournalist](photojournalist.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>2</td>
       <td>0.2</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>2630</th>
-      <td>[sports journalist](sports journalist.md)</td>
+      <td>&lt;span&gt;[sports journalist](sports_journalist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.2</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2631</th>
-      <td>[journalist](journalist.md)</td>
+      <td>&lt;span&gt;[journalist](journalist.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.2</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2639</th>
-      <td>[critic](critic.md)</td>
+      <td>&lt;span&gt;[critic](critic.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.2</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2637</th>
-      <td>[political journalist](political journalist.md)</td>
+      <td>&lt;span&gt;[political journalist](political_journalist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.2</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2636</th>
-      <td>[business journalist](business journalist.md)</td>
+      <td>&lt;span&gt;[business journalist](business_journalist.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.2</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2635</th>
-      <td>[crime journalist](crime journalist.md)</td>
+      <td>&lt;span&gt;[crime journalist](crime_journalist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.2</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2634</th>
-      <td>[entertainment journalist](entertainment journalist.md)</td>
+      <td>&lt;span&gt;[entertainment journalist](entertainment_journalist.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>328</th>
-      <td>[script writer](script writer.md)</td>
+      <td>&lt;span&gt;[script writer](script_writer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.2</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>646</th>
-      <td>[tourist information centre manager](tourist information centre manager.md)</td>
+      <td>&lt;span&gt;[tourist information centre manager](tourist_information_centre_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>2427</th>
-      <td>[army general](army general.md)</td>
+      <td>&lt;span&gt;[army general](army_general.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.2</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>298</th>
-      <td>[botanist](botanist.md)</td>
+      <td>&lt;span&gt;[botanist](botanist.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>2</td>
       <td>0.2</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>2429</th>
-      <td>[museum director](museum director.md)</td>
+      <td>&lt;span&gt;[museum director](museum_director.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.2</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1956</th>
-      <td>[fuel station manager](fuel station manager.md)</td>
+      <td>&lt;span&gt;[fuel station manager](fuel_station_manager.md)&lt;/span&gt;</td>
       <td>37</td>
       <td>2</td>
       <td>0.2</td>
       <td>35</td>
     </tr>
     <tr>
-      <th>288</th>
-      <td>[performance production manager](performance production manager.md)</td>
+      <td>&lt;span&gt;[performance production manager](performance_production_manager.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>2</td>
       <td>0.2</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>289</th>
-      <td>[metal production manager](metal production manager.md)</td>
+      <td>&lt;span&gt;[metal production manager](metal_production_manager.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>2</td>
       <td>0.2</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>290</th>
-      <td>[auction house manager](auction house manager.md)</td>
+      <td>&lt;span&gt;[auction house manager](auction_house_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.2</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>291</th>
-      <td>[chemical production manager](chemical production manager.md)</td>
+      <td>&lt;span&gt;[chemical production manager](chemical_production_manager.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>2</td>
       <td>0.2</td>
       <td>33</td>
     </tr>
     <tr>
-      <th>292</th>
-      <td>[gambling manager](gambling manager.md)</td>
+      <td>&lt;span&gt;[gambling manager](gambling_manager.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>2</td>
       <td>0.2</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>293</th>
-      <td>[zoo curator](zoo curator.md)</td>
+      <td>&lt;span&gt;[zoo curator](zoo_curator.md)&lt;/span&gt;</td>
       <td>47</td>
       <td>2</td>
       <td>0.2</td>
       <td>45</td>
     </tr>
     <tr>
-      <th>295</th>
-      <td>[lottery manager](lottery manager.md)</td>
+      <td>&lt;span&gt;[lottery manager](lottery_manager.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.2</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>296</th>
-      <td>[print studio supervisor](print studio supervisor.md)</td>
+      <td>&lt;span&gt;[print studio supervisor](print_studio_supervisor.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>2</td>
       <td>0.2</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>297</th>
-      <td>[water treatment plant manager](water treatment plant manager.md)</td>
+      <td>&lt;span&gt;[water treatment plant manager](water_treatment_plant_manager.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.2</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>300</th>
-      <td>[cultural facilities manager](cultural facilities manager.md)</td>
+      <td>&lt;span&gt;[cultural facilities manager](cultural_facilities_manager.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.2</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>322</th>
-      <td>[industrial production manager](industrial production manager.md)</td>
+      <td>&lt;span&gt;[industrial production manager](industrial_production_manager.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.2</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>301</th>
-      <td>[manufacturing manager](manufacturing manager.md)</td>
+      <td>&lt;span&gt;[manufacturing manager](manufacturing_manager.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.2</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>307</th>
-      <td>[chemical plant manager](chemical plant manager.md)</td>
+      <td>&lt;span&gt;[chemical plant manager](chemical_plant_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>309</th>
-      <td>[sewerage systems manager](sewerage systems manager.md)</td>
+      <td>&lt;span&gt;[sewerage systems manager](sewerage_systems_manager.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.2</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>310</th>
-      <td>[energy manager](energy manager.md)</td>
+      <td>&lt;span&gt;[energy manager](energy_manager.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>2</td>
       <td>0.2</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>313</th>
-      <td>[facilities manager](facilities manager.md)</td>
+      <td>&lt;span&gt;[facilities manager](facilities_manager.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>2</td>
       <td>0.2</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>314</th>
-      <td>[wood factory manager](wood factory manager.md)</td>
+      <td>&lt;span&gt;[wood factory manager](wood_factory_manager.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.2</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>315</th>
-      <td>[project manager](project manager.md)</td>
+      <td>&lt;span&gt;[project manager](project_manager.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.2</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>316</th>
-      <td>[operations manager](operations manager.md)</td>
+      <td>&lt;span&gt;[operations manager](operations_manager.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.2</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>318</th>
-      <td>[power plant manager](power plant manager.md)</td>
+      <td>&lt;span&gt;[power plant manager](power_plant_manager.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>2</td>
       <td>0.2</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>319</th>
-      <td>[cultural centre director](cultural centre director.md)</td>
+      <td>&lt;span&gt;[cultural centre director](cultural_centre_director.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>321</th>
-      <td>[security manager](security manager.md)</td>
+      <td>&lt;span&gt;[security manager](security_manager.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.2</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>133</th>
-      <td>[client relations manager](client relations manager.md)</td>
+      <td>&lt;span&gt;[client relations manager](client_relations_manager.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.2</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2633</th>
-      <td>[columnist](columnist.md)</td>
+      <td>&lt;span&gt;[columnist](columnist.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.2</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1955</th>
-      <td>[bicycle shop manager](bicycle shop manager.md)</td>
+      <td>&lt;span&gt;[bicycle shop manager](bicycle_shop_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1902</th>
-      <td>[network marketer](network marketer.md)</td>
+      <td>&lt;span&gt;[network marketer](network_marketer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1459</th>
-      <td>[head pastry chef](head pastry chef.md)</td>
+      <td>&lt;span&gt;[head pastry chef](head_pastry_chef.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1931</th>
-      <td>[hardware and paint shop manager](hardware and paint shop manager.md)</td>
+      <td>&lt;span&gt;[hardware and paint shop manager](hardware_and_paint_shop_manager.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.2</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>1932</th>
-      <td>[pet and pet food shop manager](pet and pet food shop manager.md)</td>
+      <td>&lt;span&gt;[pet and pet food shop manager](pet_and_pet_food_shop_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1451</th>
-      <td>[medical laboratory manager](medical laboratory manager.md)</td>
+      <td>&lt;span&gt;[medical laboratory manager](medical_laboratory_manager.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1906</th>
-      <td>[retail department manager](retail department manager.md)</td>
+      <td>&lt;span&gt;[retail department manager](retail_department_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.2</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1933</th>
-      <td>[antique shop manager](antique shop manager.md)</td>
+      <td>&lt;span&gt;[antique shop manager](antique_shop_manager.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>2</td>
       <td>0.2</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>1934</th>
-      <td>[floor and wall coverings shop manager](floor and wall coverings shop manager.md)</td>
+      <td>&lt;span&gt;[floor and wall coverings shop manager](floor_and_wall_coverings_shop_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1935</th>
-      <td>[computer software and multimedia shop manager](computer software and multimedia shop manager.md)</td>
+      <td>&lt;span&gt;[computer software and multimedia shop manager](computer_software_and_multimedia_shop_manager.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>2</td>
       <td>0.2</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>1928</th>
-      <td>[audio and video equipment shop manager](audio and video equipment shop manager.md)</td>
+      <td>&lt;span&gt;[audio and video equipment shop manager](audio_and_video_equipment_shop_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1936</th>
-      <td>[photography shop manager](photography shop manager.md)</td>
+      <td>&lt;span&gt;[photography shop manager](photography_shop_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1937</th>
-      <td>[furniture shop manager](furniture shop manager.md)</td>
+      <td>&lt;span&gt;[furniture shop manager](furniture_shop_manager.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>2</td>
       <td>0.2</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>1938</th>
-      <td>[fruit and vegetables shop manager](fruit and vegetables shop manager.md)</td>
+      <td>&lt;span&gt;[fruit and vegetables shop manager](fruit_and_vegetables_shop_manager.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>2</td>
       <td>0.2</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>1293</th>
-      <td>[commercial director](commercial director.md)</td>
+      <td>&lt;span&gt;[commercial director](commercial_director.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.2</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1883</th>
-      <td>[animation director](animation director.md)</td>
+      <td>&lt;span&gt;[animation director](animation_director.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.2</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1939</th>
-      <td>[music and video shop manager](music and video shop manager.md)</td>
+      <td>&lt;span&gt;[music and video shop manager](music_and_video_shop_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1940</th>
-      <td>[kitchen and bathroom shop manager](kitchen and bathroom shop manager.md)</td>
+      <td>&lt;span&gt;[kitchen and bathroom shop manager](kitchen_and_bathroom_shop_manager.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>2</td>
       <td>0.2</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1929</th>
-      <td>[jewellery and watches shop manager](jewellery and watches shop manager.md)</td>
+      <td>&lt;span&gt;[jewellery and watches shop manager](jewellery_and_watches_shop_manager.md)&lt;/span&gt;</td>
       <td>37</td>
       <td>2</td>
       <td>0.2</td>
       <td>35</td>
     </tr>
     <tr>
-      <th>1927</th>
-      <td>[fish and seafood shop manager](fish and seafood shop manager.md)</td>
+      <td>&lt;span&gt;[fish and seafood shop manager](fish_and_seafood_shop_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1563</th>
-      <td>[production supervisor](production supervisor.md)</td>
+      <td>&lt;span&gt;[production supervisor](production_supervisor.md)&lt;/span&gt;</td>
       <td>39</td>
       <td>2</td>
       <td>0.2</td>
       <td>37</td>
     </tr>
     <tr>
-      <th>1922</th>
-      <td>[medical goods shop manager](medical goods shop manager.md)</td>
+      <td>&lt;span&gt;[medical goods shop manager](medical_goods_shop_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1916</th>
-      <td>[tobacco shop manager](tobacco shop manager.md)</td>
+      <td>&lt;span&gt;[tobacco shop manager](tobacco_shop_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.2</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>1506</th>
-      <td>[police commissioner](police commissioner.md)</td>
+      <td>&lt;span&gt;[police commissioner](police_commissioner.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1917</th>
-      <td>[shoe and leather accessories shop manager](shoe and leather accessories shop manager.md)</td>
+      <td>&lt;span&gt;[shoe and leather accessories shop manager](shoe_and_leather_accessories_shop_manager.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>2</td>
       <td>0.2</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>1918</th>
-      <td>[audiology equipment shop manager](audiology equipment shop manager.md)</td>
+      <td>&lt;span&gt;[audiology equipment shop manager](audiology_equipment_shop_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.2</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>1920</th>
-      <td>[telecommunication equipment shop manager](telecommunication equipment shop manager.md)</td>
+      <td>&lt;span&gt;[telecommunication equipment shop manager](telecommunication_equipment_shop_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1910</th>
-      <td>[elderly home manager](elderly home manager.md)</td>
+      <td>&lt;span&gt;[elderly home manager](elderly_home_manager.md)&lt;/span&gt;</td>
       <td>68</td>
       <td>2</td>
       <td>0.2</td>
       <td>66</td>
     </tr>
     <tr>
-      <th>1921</th>
-      <td>[domestic appliances shop manager](domestic appliances shop manager.md)</td>
+      <td>&lt;span&gt;[domestic appliances shop manager](domestic_appliances_shop_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.2</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>1923</th>
-      <td>[bakery shop manager](bakery shop manager.md)</td>
+      <td>&lt;span&gt;[bakery shop manager](bakery_shop_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.2</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>1663</th>
-      <td>[beverages shop manager](beverages shop manager.md)</td>
+      <td>&lt;span&gt;[beverages shop manager](beverages_shop_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.2</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>1909</th>
-      <td>[brand manager](brand manager.md)</td>
+      <td>&lt;span&gt;[brand manager](brand_manager.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>2</td>
       <td>0.2</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>1360</th>
-      <td>[advertising specialist](advertising specialist.md)</td>
+      <td>&lt;span&gt;[advertising specialist](advertising_specialist.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.2</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1252</th>
-      <td>[hair stylist](hair stylist.md)</td>
+      <td>&lt;span&gt;[hair stylist](hair_stylist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.2</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1925</th>
-      <td>[toys and games shop manager](toys and games shop manager.md)</td>
+      <td>&lt;span&gt;[toys and games shop manager](toys_and_games_shop_manager.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>2</td>
       <td>0.2</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>1722</th>
-      <td>[set buyer](set buyer.md)</td>
+      <td>&lt;span&gt;[set buyer](set_buyer.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>2</td>
       <td>0.2</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1926</th>
-      <td>[building materials shop manager](building materials shop manager.md)</td>
+      <td>&lt;span&gt;[building materials shop manager](building_materials_shop_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1673</th>
-      <td>[vlogger](vlogger.md)</td>
+      <td>&lt;span&gt;[vlogger](vlogger.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1941</th>
-      <td>[ammunition shop manager](ammunition shop manager.md)</td>
+      <td>&lt;span&gt;[ammunition shop manager](ammunition_shop_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1954</th>
-      <td>[flower and garden shop manager](flower and garden shop manager.md)</td>
+      <td>&lt;span&gt;[flower and garden shop manager](flower_and_garden_shop_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1942</th>
-      <td>[sporting and outdoor accessories shop manager](sporting and outdoor accessories shop manager.md)</td>
+      <td>&lt;span&gt;[sporting and outdoor accessories shop manager](sporting_and_outdoor_accessories_shop_manager.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.2</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>1859</th>
-      <td>[script supervisor](script supervisor.md)</td>
+      <td>&lt;span&gt;[script supervisor](script_supervisor.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.2</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1948</th>
-      <td>[delicatessen shop manager](delicatessen shop manager.md)</td>
+      <td>&lt;span&gt;[delicatessen shop manager](delicatessen_shop_manager.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>2</td>
       <td>0.2</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>1858</th>
-      <td>[director of photography](director of photography.md)</td>
+      <td>&lt;span&gt;[director of photography](director_of_photography.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1575</th>
-      <td>[head chef](head chef.md)</td>
+      <td>&lt;span&gt;[head chef](head_chef.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.2</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>1857</th>
-      <td>[post-production supervisor](post-production supervisor.md)</td>
+      <td>&lt;span&gt;[post-production supervisor](post-production_supervisor.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.2</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1566</th>
-      <td>[picture editor](picture editor.md)</td>
+      <td>&lt;span&gt;[picture editor](picture_editor.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.2</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1576</th>
-      <td>[rooms division manager](rooms division manager.md)</td>
+      <td>&lt;span&gt;[rooms division manager](rooms_division_manager.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1586</th>
-      <td>[camping ground manager](camping ground manager.md)</td>
+      <td>&lt;span&gt;[camping ground manager](camping_ground_manager.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.2</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1949</th>
-      <td>[motor vehicle shop manager](motor vehicle shop manager.md)</td>
+      <td>&lt;span&gt;[motor vehicle shop manager](motor_vehicle_shop_manager.md)&lt;/span&gt;</td>
       <td>39</td>
       <td>2</td>
       <td>0.2</td>
       <td>37</td>
     </tr>
     <tr>
-      <th>1950</th>
-      <td>[craft shop manager](craft shop manager.md)</td>
+      <td>&lt;span&gt;[craft shop manager](craft_shop_manager.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.2</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>1951</th>
-      <td>[cosmetics and perfume shop manager](cosmetics and perfume shop manager.md)</td>
+      <td>&lt;span&gt;[cosmetics and perfume shop manager](cosmetics_and_perfume_shop_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1952</th>
-      <td>[computer shop manager](computer shop manager.md)</td>
+      <td>&lt;span&gt;[computer shop manager](computer_shop_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.2</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>1953</th>
-      <td>[confectionery shop manager](confectionery shop manager.md)</td>
+      <td>&lt;span&gt;[confectionery shop manager](confectionery_shop_manager.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.2</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>128</th>
-      <td>[wedding planner](wedding planner.md)</td>
+      <td>&lt;span&gt;[wedding planner](wedding_planner.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1329</th>
-      <td>[location manager](location manager.md)</td>
+      <td>&lt;span&gt;[location manager](location_manager.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.2</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>61</th>
-      <td>[meat and meat products shop manager](meat and meat products shop manager.md)</td>
+      <td>&lt;span&gt;[meat and meat products shop manager](meat_and_meat_products_shop_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>3</th>
-      <td>[correctional services manager](correctional services manager.md)</td>
+      <td>&lt;span&gt;[correctional services manager](correctional_services_manager.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.2</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1349</th>
-      <td>[ICT project manager](ICT project manager.md)</td>
+      <td>&lt;span&gt;[ICT project manager](ICT_project_manager.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.2</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1947</th>
-      <td>[shop manager](shop manager.md)</td>
+      <td>&lt;span&gt;[shop manager](shop_manager.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>2</td>
       <td>0.2</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1911</th>
-      <td>[youth centre manager](youth centre manager.md)</td>
+      <td>&lt;span&gt;[youth centre manager](youth_centre_manager.md)&lt;/span&gt;</td>
       <td>71</td>
       <td>2</td>
       <td>0.2</td>
       <td>69</td>
     </tr>
     <tr>
-      <th>1313</th>
-      <td>[cider master](cider master.md)</td>
+      <td>&lt;span&gt;[cider master](cider_master.md)&lt;/span&gt;</td>
       <td>36</td>
       <td>2</td>
       <td>0.2</td>
       <td>34</td>
     </tr>
     <tr>
-      <th>1862</th>
-      <td>[casting director](casting director.md)</td>
+      <td>&lt;span&gt;[casting director](casting_director.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.2</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1945</th>
-      <td>[press and stationery shop manager](press and stationery shop manager.md)</td>
+      <td>&lt;span&gt;[press and stationery shop manager](press_and_stationery_shop_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1943</th>
-      <td>[bookshop manager](bookshop manager.md)</td>
+      <td>&lt;span&gt;[bookshop manager](bookshop_manager.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>2</td>
       <td>0.2</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>1319</th>
-      <td>[special-interest groups' official](special-interest groups' official.md)</td>
+      <td>&lt;span&gt;[special-interest groups' official](special-interest_groups'_official.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>2</td>
       <td>0.2</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1946</th>
-      <td>[textile shop manager](textile shop manager.md)</td>
+      <td>&lt;span&gt;[textile shop manager](textile_shop_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>2</td>
       <td>0.2</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1314</th>
-      <td>[presenter](presenter.md)</td>
+      <td>&lt;span&gt;[presenter](presenter.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.2</td>

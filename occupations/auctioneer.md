@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match auctioneer</th>
@@ -14,296 +13,259 @@
   </thead>
   <tbody>
     <tr>
-      <th>290</th>
-      <td>[auction house manager](auction house manager.md)</td>
+      <td>&lt;span&gt;[auction house manager](auction_house_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>6</td>
       <td>0.3</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1725</th>
-      <td>[wholesale merchant in textiles and textile semi-finished and raw materials](wholesale merchant in textiles and textile semi-finished and raw materials.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in textiles and textile semi-finished and raw materials](wholesale_merchant_in_textiles_and_textile_semi-finished_and_raw_materials.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1721</th>
-      <td>[wholesale merchant in machine tools](wholesale merchant in machine tools.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in machine tools](wholesale_merchant_in_machine_tools.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1709</th>
-      <td>[wholesale merchant in meat and meat products](wholesale merchant in meat and meat products.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in meat and meat products](wholesale_merchant_in_meat_and_meat_products.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1710</th>
-      <td>[wholesale merchant in dairy products and edible oils](wholesale merchant in dairy products and edible oils.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in dairy products and edible oils](wholesale_merchant_in_dairy_products_and_edible_oils.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1711</th>
-      <td>[wholesale merchant in machinery, industrial equipment, ships and aircraft](wholesale merchant in machinery, industrial equipment, ships and aircraft.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in machinery, industrial equipment, ships and aircraft](wholesale_merchant_in_machinery,_industrial_equipment,_ships_and_aircraft.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>4</td>
       <td>0.2</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1712</th>
-      <td>[wholesale merchant in furniture, carpets and lighting equipment](wholesale merchant in furniture, carpets and lighting equipment.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in furniture, carpets and lighting equipment](wholesale_merchant_in_furniture,_carpets_and_lighting_equipment.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1713</th>
-      <td>[wholesale merchant in sugar, chocolate and sugar confectionery](wholesale merchant in sugar, chocolate and sugar confectionery.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in sugar, chocolate and sugar confectionery](wholesale_merchant_in_sugar,_chocolate_and_sugar_confectionery.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1714</th>
-      <td>[wholesale merchant in textile industry machinery](wholesale merchant in textile industry machinery.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in textile industry machinery](wholesale_merchant_in_textile_industry_machinery.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1715</th>
-      <td>[wholesale merchant in coffee, tea, cocoa and spices](wholesale merchant in coffee, tea, cocoa and spices.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in coffee, tea, cocoa and spices](wholesale_merchant_in_coffee,_tea,_cocoa_and_spices.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1716</th>
-      <td>[wholesale merchant in waste and scrap](wholesale merchant in waste and scrap.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in waste and scrap](wholesale_merchant_in_waste_and_scrap.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1717</th>
-      <td>[wholesale merchant in office machinery and equipment](wholesale merchant in office machinery and equipment.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in office machinery and equipment](wholesale_merchant_in_office_machinery_and_equipment.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1718</th>
-      <td>[wholesale merchant in watches and jewellery](wholesale merchant in watches and jewellery.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in watches and jewellery](wholesale_merchant_in_watches_and_jewellery.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1719</th>
-      <td>[wholesale merchant in agricultural raw materials, seeds and animal feeds](wholesale merchant in agricultural raw materials, seeds and animal feeds.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in agricultural raw materials, seeds and animal feeds](wholesale_merchant_in_agricultural_raw_materials,_seeds_and_animal_feeds.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1720</th>
-      <td>[wholesale merchant in china and other glassware](wholesale merchant in china and other glassware.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in china and other glassware](wholesale_merchant_in_china_and_other_glassware.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1724</th>
-      <td>[wholesale merchant in electrical household appliances](wholesale merchant in electrical household appliances.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in electrical household appliances](wholesale_merchant_in_electrical_household_appliances.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1707</th>
-      <td>[wholesale merchant in hides, skins and leather products](wholesale merchant in hides, skins and leather products.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in hides, skins and leather products](wholesale_merchant_in_hides,_skins_and_leather_products.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1726</th>
-      <td>[wholesale merchant in office furniture](wholesale merchant in office furniture.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in office furniture](wholesale_merchant_in_office_furniture.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1727</th>
-      <td>[wholesale merchant in hardware, plumbing and heating equipment and supplies](wholesale merchant in hardware, plumbing and heating equipment and supplies.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in hardware, plumbing and heating equipment and supplies](wholesale_merchant_in_hardware,_plumbing_and_heating_equipment_and_supplies.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1728</th>
-      <td>[wholesale merchant in mining, construction and civil engineering machinery](wholesale merchant in mining, construction and civil engineering machinery.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in mining, construction and civil engineering machinery](wholesale_merchant_in_mining,_construction_and_civil_engineering_machinery.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1729</th>
-      <td>[wholesale merchant in metals and metal ores](wholesale merchant in metals and metal ores.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in metals and metal ores](wholesale_merchant_in_metals_and_metal_ores.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1731</th>
-      <td>[wholesale merchant in chemical products](wholesale merchant in chemical products.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in chemical products](wholesale_merchant_in_chemical_products.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1741</th>
-      <td>[wholesale merchant in fruit and vegetables](wholesale merchant in fruit and vegetables.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in fruit and vegetables](wholesale_merchant_in_fruit_and_vegetables.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1740</th>
-      <td>[wholesale merchant in flowers and plants](wholesale merchant in flowers and plants.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in flowers and plants](wholesale_merchant_in_flowers_and_plants.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1739</th>
-      <td>[wholesale merchant in agricultural machinery and equipment](wholesale merchant in agricultural machinery and equipment.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in agricultural machinery and equipment](wholesale_merchant_in_agricultural_machinery_and_equipment.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1737</th>
-      <td>[wholesale merchant in beverages](wholesale merchant in beverages.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in beverages](wholesale_merchant_in_beverages.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1736</th>
-      <td>[wholesale merchant in live animals](wholesale merchant in live animals.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in live animals](wholesale_merchant_in_live_animals.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1735</th>
-      <td>[wholesale merchant in wood and construction materials](wholesale merchant in wood and construction materials.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in wood and construction materials](wholesale_merchant_in_wood_and_construction_materials.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>4</td>
       <td>0.2</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1732</th>
-      <td>[wholesale merchant in tobacco products](wholesale merchant in tobacco products.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in tobacco products](wholesale_merchant_in_tobacco_products.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1708</th>
-      <td>[wholesale merchant in pharmaceutical goods](wholesale merchant in pharmaceutical goods.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in pharmaceutical goods](wholesale_merchant_in_pharmaceutical_goods.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1734</th>
-      <td>[wholesale merchant in clothing and footwear](wholesale merchant in clothing and footwear.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in clothing and footwear](wholesale_merchant_in_clothing_and_footwear.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1706</th>
-      <td>[wholesale merchant](wholesale merchant.md)</td>
+      <td>&lt;span&gt;[wholesale merchant](wholesale_merchant.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.2</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1699</th>
-      <td>[wholesale merchant in perfume and cosmetics](wholesale merchant in perfume and cosmetics.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in perfume and cosmetics](wholesale_merchant_in_perfume_and_cosmetics.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1704</th>
-      <td>[wholesale merchant in computers, computer peripheral equipment and software](wholesale merchant in computers, computer peripheral equipment and software.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in computers, computer peripheral equipment and software](wholesale_merchant_in_computers,_computer_peripheral_equipment_and_software.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1703</th>
-      <td>[wholesale merchant in fish, crustaceans and molluscs](wholesale merchant in fish, crustaceans and molluscs.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in fish, crustaceans and molluscs](wholesale_merchant_in_fish,_crustaceans_and_molluscs.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1702</th>
-      <td>[wholesale merchant in electronic and telecommunications equipment and parts](wholesale merchant in electronic and telecommunications equipment and parts.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in electronic and telecommunications equipment and parts](wholesale_merchant_in_electronic_and_telecommunications_equipment_and_parts.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1700</th>
-      <td>[wholesale merchant in household goods](wholesale merchant in household goods.md)</td>
+      <td>&lt;span&gt;[wholesale merchant in household goods](wholesale_merchant_in_household_goods.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>4</td>
       <td>0.2</td>

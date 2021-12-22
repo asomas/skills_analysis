@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match tutor</th>
@@ -14,1240 +13,1085 @@
   </thead>
   <tbody>
     <tr>
-      <th>894</th>
-      <td>[special educational needs teacher primary school](special educational needs teacher primary school.md)</td>
+      <td>&lt;span&gt;[special educational needs teacher primary school](special_educational_needs_teacher_primary_school.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>13</td>
       <td>0.684211</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>883</th>
-      <td>[teacher of talented and gifted students](teacher of talented and gifted students.md)</td>
+      <td>&lt;span&gt;[teacher of talented and gifted students](teacher_of_talented_and_gifted_students.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>13</td>
       <td>0.684211</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>885</th>
-      <td>[Steiner school teacher](Steiner school teacher.md)</td>
+      <td>&lt;span&gt;[Steiner school teacher](Steiner_school_teacher.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>12</td>
       <td>0.631579</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1762</th>
-      <td>[learning support teacher](learning support teacher.md)</td>
+      <td>&lt;span&gt;[learning support teacher](learning_support_teacher.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>12</td>
       <td>0.631579</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>889</th>
-      <td>[Montessori school teacher](Montessori school teacher.md)</td>
+      <td>&lt;span&gt;[Montessori school teacher](Montessori_school_teacher.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>12</td>
       <td>0.631579</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>881</th>
-      <td>[primary school teacher](primary school teacher.md)</td>
+      <td>&lt;span&gt;[primary school teacher](primary_school_teacher.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>12</td>
       <td>0.631579</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>891</th>
-      <td>[Freinet school teacher](Freinet school teacher.md)</td>
+      <td>&lt;span&gt;[Freinet school teacher](Freinet_school_teacher.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>12</td>
       <td>0.631579</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>893</th>
-      <td>[early years special educational needs teacher](early years special educational needs teacher.md)</td>
+      <td>&lt;span&gt;[early years special educational needs teacher](early_years_special_educational_needs_teacher.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>11</td>
       <td>0.578947</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1756</th>
-      <td>[adult literacy teacher](adult literacy teacher.md)</td>
+      <td>&lt;span&gt;[adult literacy teacher](adult_literacy_teacher.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>11</td>
       <td>0.578947</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1816</th>
-      <td>[language school teacher](language school teacher.md)</td>
+      <td>&lt;span&gt;[language school teacher](language_school_teacher.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>10</td>
       <td>0.526316</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>888</th>
-      <td>[early years teacher](early years teacher.md)</td>
+      <td>&lt;span&gt;[early years teacher](early_years_teacher.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>10</td>
       <td>0.526316</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>758</th>
-      <td>[nursing lecturer](nursing lecturer.md)</td>
+      <td>&lt;span&gt;[nursing lecturer](nursing_lecturer.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>10</td>
       <td>0.526316</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>892</th>
-      <td>[special educational needs teacher](special educational needs teacher.md)</td>
+      <td>&lt;span&gt;[special educational needs teacher](special_educational_needs_teacher.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>10</td>
       <td>0.526316</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1757</th>
-      <td>[special educational needs teacher secondary school](special educational needs teacher secondary school.md)</td>
+      <td>&lt;span&gt;[special educational needs teacher secondary school](special_educational_needs_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>10</td>
       <td>0.526316</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1802</th>
-      <td>[further education teacher](further education teacher.md)</td>
+      <td>&lt;span&gt;[further education teacher](further_education_teacher.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>10</td>
       <td>0.526316</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1028</th>
-      <td>[literature teacher secondary school](literature teacher secondary school.md)</td>
+      <td>&lt;span&gt;[literature teacher secondary school](literature_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>9</td>
       <td>0.473684</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1773</th>
-      <td>[religious education teacher secondary school](religious education teacher secondary school.md)</td>
+      <td>&lt;span&gt;[religious education teacher secondary school](religious_education_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>9</td>
       <td>0.473684</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1795</th>
-      <td>[secondary school teacher](secondary school teacher.md)</td>
+      <td>&lt;span&gt;[secondary school teacher](secondary_school_teacher.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>9</td>
       <td>0.473684</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1793</th>
-      <td>[lifeguard instructor](lifeguard instructor.md)</td>
+      <td>&lt;span&gt;[lifeguard instructor](lifeguard_instructor.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>9</td>
       <td>0.473684</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1803</th>
-      <td>[medical laboratory technology vocational teacher](medical laboratory technology vocational teacher.md)</td>
+      <td>&lt;span&gt;[medical laboratory technology vocational teacher](medical_laboratory_technology_vocational_teacher.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>9</td>
       <td>0.473684</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1765</th>
-      <td>[science teacher secondary school](science teacher secondary school.md)</td>
+      <td>&lt;span&gt;[science teacher secondary school](science_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>9</td>
       <td>0.473684</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1845</th>
-      <td>[chemistry teacher secondary school](chemistry teacher secondary school.md)</td>
+      <td>&lt;span&gt;[chemistry teacher secondary school](chemistry_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>9</td>
       <td>0.473684</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1768</th>
-      <td>[history teacher secondary school](history teacher secondary school.md)</td>
+      <td>&lt;span&gt;[history teacher secondary school](history_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>9</td>
       <td>0.473684</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1769</th>
-      <td>[classical languages teacher secondary school](classical languages teacher secondary school.md)</td>
+      <td>&lt;span&gt;[classical languages teacher secondary school](classical_languages_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>9</td>
       <td>0.473684</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>704</th>
-      <td>[auxiliary nursing and midwifery vocational teacher](auxiliary nursing and midwifery vocational teacher.md)</td>
+      <td>&lt;span&gt;[auxiliary nursing and midwifery vocational teacher](auxiliary_nursing_and_midwifery_vocational_teacher.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>9</td>
       <td>0.473684</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1791</th>
-      <td>[electronics and automation vocational teacher](electronics and automation vocational teacher.md)</td>
+      <td>&lt;span&gt;[electronics and automation vocational teacher](electronics_and_automation_vocational_teacher.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>9</td>
       <td>0.473684</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1841</th>
-      <td>[mathematics teacher secondary school](mathematics teacher secondary school.md)</td>
+      <td>&lt;span&gt;[mathematics teacher secondary school](mathematics_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>9</td>
       <td>0.473684</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1778</th>
-      <td>[business administration vocational teacher](business administration vocational teacher.md)</td>
+      <td>&lt;span&gt;[business administration vocational teacher](business_administration_vocational_teacher.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>9</td>
       <td>0.473684</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1780</th>
-      <td>[digital literacy teacher](digital literacy teacher.md)</td>
+      <td>&lt;span&gt;[digital literacy teacher](digital_literacy_teacher.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>9</td>
       <td>0.473684</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1790</th>
-      <td>[physics teacher secondary school](physics teacher secondary school.md)</td>
+      <td>&lt;span&gt;[physics teacher secondary school](physics_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>9</td>
       <td>0.473684</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1781</th>
-      <td>[electricity and energy vocational teacher](electricity and energy vocational teacher.md)</td>
+      <td>&lt;span&gt;[electricity and energy vocational teacher](electricity_and_energy_vocational_teacher.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>9</td>
       <td>0.473684</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1784</th>
-      <td>[industrial arts vocational teacher](industrial arts vocational teacher.md)</td>
+      <td>&lt;span&gt;[industrial arts vocational teacher](industrial_arts_vocational_teacher.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>9</td>
       <td>0.473684</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1843</th>
-      <td>[modern languages teacher secondary school](modern languages teacher secondary school.md)</td>
+      <td>&lt;span&gt;[modern languages teacher secondary school](modern_languages_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>9</td>
       <td>0.473684</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>1786</th>
-      <td>[beauty vocational teacher](beauty vocational teacher.md)</td>
+      <td>&lt;span&gt;[beauty vocational teacher](beauty_vocational_teacher.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>9</td>
       <td>0.473684</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1839</th>
-      <td>[philosophy teacher secondary school](philosophy teacher secondary school.md)</td>
+      <td>&lt;span&gt;[philosophy teacher secondary school](philosophy_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>9</td>
       <td>0.473684</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1806</th>
-      <td>[business studies and economics teacher secondary school](business studies and economics teacher secondary school.md)</td>
+      <td>&lt;span&gt;[business studies and economics teacher secondary school](business_studies_and_economics_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>9</td>
       <td>0.473684</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1797</th>
-      <td>[special educational needs itinerant teacher](special educational needs itinerant teacher.md)</td>
+      <td>&lt;span&gt;[special educational needs itinerant teacher](special_educational_needs_itinerant_teacher.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>9</td>
       <td>0.473684</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1821</th>
-      <td>[physical education teacher secondary school](physical education teacher secondary school.md)</td>
+      <td>&lt;span&gt;[physical education teacher secondary school](physical_education_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>9</td>
       <td>0.473684</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>910</th>
-      <td>[ICT teacher secondary school](ICT teacher secondary school.md)</td>
+      <td>&lt;span&gt;[ICT teacher secondary school](ICT_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>37</td>
       <td>9</td>
       <td>0.473684</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>1815</th>
-      <td>[hairdressing vocational teacher](hairdressing vocational teacher.md)</td>
+      <td>&lt;span&gt;[hairdressing vocational teacher](hairdressing_vocational_teacher.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>9</td>
       <td>0.473684</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1810</th>
-      <td>[geography teacher secondary school](geography teacher secondary school.md)</td>
+      <td>&lt;span&gt;[geography teacher secondary school](geography_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>9</td>
       <td>0.473684</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1814</th>
-      <td>[agriculture, forestry and fishery vocational teacher](agriculture, forestry and fishery vocational teacher.md)</td>
+      <td>&lt;span&gt;[agriculture, forestry and fishery vocational teacher](agriculture,_forestry_and_fishery_vocational_teacher.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>9</td>
       <td>0.473684</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1813</th>
-      <td>[transport technology vocational teacher](transport technology vocational teacher.md)</td>
+      <td>&lt;span&gt;[transport technology vocational teacher](transport_technology_vocational_teacher.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>9</td>
       <td>0.473684</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1812</th>
-      <td>[biology teacher secondary school](biology teacher secondary school.md)</td>
+      <td>&lt;span&gt;[biology teacher secondary school](biology_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>9</td>
       <td>0.473684</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1820</th>
-      <td>[design and applied arts vocational teacher](design and applied arts vocational teacher.md)</td>
+      <td>&lt;span&gt;[design and applied arts vocational teacher](design_and_applied_arts_vocational_teacher.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>9</td>
       <td>0.473684</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1819</th>
-      <td>[business and marketing vocational teacher](business and marketing vocational teacher.md)</td>
+      <td>&lt;span&gt;[business and marketing vocational teacher](business_and_marketing_vocational_teacher.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>9</td>
       <td>0.473684</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>810</th>
-      <td>[drama teacher](drama teacher.md)</td>
+      <td>&lt;span&gt;[drama teacher](drama_teacher.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>8</td>
       <td>0.421053</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1758</th>
-      <td>[maritime instructor](maritime instructor.md)</td>
+      <td>&lt;span&gt;[maritime instructor](maritime_instructor.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>8</td>
       <td>0.421053</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>811</th>
-      <td>[drama teacher secondary school](drama teacher secondary school.md)</td>
+      <td>&lt;span&gt;[drama teacher secondary school](drama_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>8</td>
       <td>0.421053</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1783</th>
-      <td>[photography teacher](photography teacher.md)</td>
+      <td>&lt;span&gt;[photography teacher](photography_teacher.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>8</td>
       <td>0.421053</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1804</th>
-      <td>[performing arts school dance instructor](performing arts school dance instructor.md)</td>
+      <td>&lt;span&gt;[performing arts school dance instructor](performing_arts_school_dance_instructor.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>8</td>
       <td>0.421053</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1838</th>
-      <td>[physical education vocational teacher](physical education vocational teacher.md)</td>
+      <td>&lt;span&gt;[physical education vocational teacher](physical_education_vocational_teacher.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>8</td>
       <td>0.421053</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1568</th>
-      <td>[fine arts instructor](fine arts instructor.md)</td>
+      <td>&lt;span&gt;[fine arts instructor](fine_arts_instructor.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>8</td>
       <td>0.421053</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1570</th>
-      <td>[art teacher secondary school](art teacher secondary school.md)</td>
+      <td>&lt;span&gt;[art teacher secondary school](art_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>8</td>
       <td>0.421053</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1755</th>
-      <td>[performing arts theatre instructor](performing arts theatre instructor.md)</td>
+      <td>&lt;span&gt;[performing arts theatre instructor](performing_arts_theatre_instructor.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>8</td>
       <td>0.421053</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1842</th>
-      <td>[music teacher](music teacher.md)</td>
+      <td>&lt;span&gt;[music teacher](music_teacher.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>8</td>
       <td>0.421053</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1774</th>
-      <td>[food service vocational teacher](food service vocational teacher.md)</td>
+      <td>&lt;span&gt;[food service vocational teacher](food_service_vocational_teacher.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>8</td>
       <td>0.421053</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1809</th>
-      <td>[music instructor](music instructor.md)</td>
+      <td>&lt;span&gt;[music instructor](music_instructor.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>8</td>
       <td>0.421053</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1764</th>
-      <td>[hospitality vocational teacher](hospitality vocational teacher.md)</td>
+      <td>&lt;span&gt;[hospitality vocational teacher](hospitality_vocational_teacher.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>8</td>
       <td>0.421053</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1794</th>
-      <td>[music teacher secondary school](music teacher secondary school.md)</td>
+      <td>&lt;span&gt;[music teacher secondary school](music_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>8</td>
       <td>0.421053</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>1824</th>
-      <td>[flight instructor](flight instructor.md)</td>
+      <td>&lt;span&gt;[flight instructor](flight_instructor.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>8</td>
       <td>0.421053</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1664</th>
-      <td>[communications lecturer](communications lecturer.md)</td>
+      <td>&lt;span&gt;[communications lecturer](communications_lecturer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>7</td>
       <td>0.368421</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1829</th>
-      <td>[driving instructor](driving instructor.md)</td>
+      <td>&lt;span&gt;[driving instructor](driving_instructor.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>7</td>
       <td>0.368421</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1569</th>
-      <td>[visual arts teacher](visual arts teacher.md)</td>
+      <td>&lt;span&gt;[visual arts teacher](visual_arts_teacher.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>7</td>
       <td>0.368421</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1800</th>
-      <td>[higher education lecturer](higher education lecturer.md)</td>
+      <td>&lt;span&gt;[higher education lecturer](higher_education_lecturer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>7</td>
       <td>0.368421</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1801</th>
-      <td>[occupational railway instructor](occupational railway instructor.md)</td>
+      <td>&lt;span&gt;[occupational railway instructor](occupational_railway_instructor.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>7</td>
       <td>0.368421</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1789</th>
-      <td>[outdoor activities instructor](outdoor activities instructor.md)</td>
+      <td>&lt;span&gt;[outdoor activities instructor](outdoor_activities_instructor.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>7</td>
       <td>0.368421</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1766</th>
-      <td>[dance teacher](dance teacher.md)</td>
+      <td>&lt;span&gt;[dance teacher](dance_teacher.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>7</td>
       <td>0.368421</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1767</th>
-      <td>[motorcycle instructor](motorcycle instructor.md)</td>
+      <td>&lt;span&gt;[motorcycle instructor](motorcycle_instructor.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>7</td>
       <td>0.368421</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1807</th>
-      <td>[vocational teacher](vocational teacher.md)</td>
+      <td>&lt;span&gt;[vocational teacher](vocational_teacher.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>7</td>
       <td>0.368421</td>
       <td>4</td>
     </tr>
     <tr>
-      <th>1831</th>
-      <td>[truck driving instructor](truck driving instructor.md)</td>
+      <td>&lt;span&gt;[truck driving instructor](truck_driving_instructor.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>7</td>
       <td>0.368421</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>809</th>
-      <td>[circus arts teacher](circus arts teacher.md)</td>
+      <td>&lt;span&gt;[circus arts teacher](circus_arts_teacher.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>7</td>
       <td>0.368421</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>890</th>
-      <td>[secondary school teaching assistant](secondary school teaching assistant.md)</td>
+      <td>&lt;span&gt;[secondary school teaching assistant](secondary_school_teaching_assistant.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>7</td>
       <td>0.368421</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2802</th>
-      <td>[public speaking coach](public speaking coach.md)</td>
+      <td>&lt;span&gt;[public speaking coach](public_speaking_coach.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>7</td>
       <td>0.368421</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1782</th>
-      <td>[bus driving instructor](bus driving instructor.md)</td>
+      <td>&lt;span&gt;[bus driving instructor](bus_driving_instructor.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>7</td>
       <td>0.368421</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1770</th>
-      <td>[vessel steering instructor](vessel steering instructor.md)</td>
+      <td>&lt;span&gt;[vessel steering instructor](vessel_steering_instructor.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>7</td>
       <td>0.368421</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1779</th>
-      <td>[sports coach](sports coach.md)</td>
+      <td>&lt;span&gt;[sports coach](sports_coach.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>7</td>
       <td>0.368421</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1808</th>
-      <td>[car driving instructor](car driving instructor.md)</td>
+      <td>&lt;span&gt;[car driving instructor](car_driving_instructor.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>7</td>
       <td>0.368421</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1844</th>
-      <td>[classical languages lecturer](classical languages lecturer.md)</td>
+      <td>&lt;span&gt;[classical languages lecturer](classical_languages_lecturer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>6</td>
       <td>0.315789</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1811</th>
-      <td>[space science lecturer](space science lecturer.md)</td>
+      <td>&lt;span&gt;[space science lecturer](space_science_lecturer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>6</td>
       <td>0.315789</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1805</th>
-      <td>[psychology lecturer](psychology lecturer.md)</td>
+      <td>&lt;span&gt;[psychology lecturer](psychology_lecturer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>6</td>
       <td>0.315789</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1830</th>
-      <td>[modern languages lecturer](modern languages lecturer.md)</td>
+      <td>&lt;span&gt;[modern languages lecturer](modern_languages_lecturer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>6</td>
       <td>0.315789</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1625</th>
-      <td>[architecture lecturer](architecture lecturer.md)</td>
+      <td>&lt;span&gt;[architecture lecturer](architecture_lecturer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>6</td>
       <td>0.315789</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1840</th>
-      <td>[engineering lecturer](engineering lecturer.md)</td>
+      <td>&lt;span&gt;[engineering lecturer](engineering_lecturer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>6</td>
       <td>0.315789</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1822</th>
-      <td>[history lecturer](history lecturer.md)</td>
+      <td>&lt;span&gt;[history lecturer](history_lecturer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>6</td>
       <td>0.315789</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1827</th>
-      <td>[law lecturer](law lecturer.md)</td>
+      <td>&lt;span&gt;[law lecturer](law_lecturer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>6</td>
       <td>0.315789</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1826</th>
-      <td>[first aid instructor](first aid instructor.md)</td>
+      <td>&lt;span&gt;[first aid instructor](first_aid_instructor.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>6</td>
       <td>0.315789</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1825</th>
-      <td>[healthcare specialist lecturer](healthcare specialist lecturer.md)</td>
+      <td>&lt;span&gt;[healthcare specialist lecturer](healthcare_specialist_lecturer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>6</td>
       <td>0.315789</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>850</th>
-      <td>[archaeology lecturer](archaeology lecturer.md)</td>
+      <td>&lt;span&gt;[archaeology lecturer](archaeology_lecturer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>6</td>
       <td>0.315789</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>884</th>
-      <td>[special educational needs assistant](special educational needs assistant.md)</td>
+      <td>&lt;span&gt;[special educational needs assistant](special_educational_needs_assistant.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>6</td>
       <td>0.315789</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1823</th>
-      <td>[philosophy lecturer](philosophy lecturer.md)</td>
+      <td>&lt;span&gt;[philosophy lecturer](philosophy_lecturer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>6</td>
       <td>0.315789</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1832</th>
-      <td>[computer science lecturer](computer science lecturer.md)</td>
+      <td>&lt;span&gt;[computer science lecturer](computer_science_lecturer.md)&lt;/span&gt;</td>
       <td>62</td>
       <td>6</td>
       <td>0.315789</td>
       <td>56</td>
     </tr>
     <tr>
-      <th>1817</th>
-      <td>[anthropology lecturer](anthropology lecturer.md)</td>
+      <td>&lt;span&gt;[anthropology lecturer](anthropology_lecturer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>6</td>
       <td>0.315789</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1833</th>
-      <td>[linguistics lecturer](linguistics lecturer.md)</td>
+      <td>&lt;span&gt;[linguistics lecturer](linguistics_lecturer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>6</td>
       <td>0.315789</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1834</th>
-      <td>[politics lecturer](politics lecturer.md)</td>
+      <td>&lt;span&gt;[politics lecturer](politics_lecturer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>6</td>
       <td>0.315789</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1835</th>
-      <td>[religious studies lecturer](religious studies lecturer.md)</td>
+      <td>&lt;span&gt;[religious studies lecturer](religious_studies_lecturer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>6</td>
       <td>0.315789</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>917</th>
-      <td>[assistant lecturer](assistant lecturer.md)</td>
+      <td>&lt;span&gt;[assistant lecturer](assistant_lecturer.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>6</td>
       <td>0.315789</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1818</th>
-      <td>[food science lecturer](food science lecturer.md)</td>
+      <td>&lt;span&gt;[food science lecturer](food_science_lecturer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>6</td>
       <td>0.315789</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1837</th>
-      <td>[chemistry lecturer](chemistry lecturer.md)</td>
+      <td>&lt;span&gt;[chemistry lecturer](chemistry_lecturer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>6</td>
       <td>0.315789</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1799</th>
-      <td>[art studies lecturer](art studies lecturer.md)</td>
+      <td>&lt;span&gt;[art studies lecturer](art_studies_lecturer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>6</td>
       <td>0.315789</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1836</th>
-      <td>[mathematics lecturer](mathematics lecturer.md)</td>
+      <td>&lt;span&gt;[mathematics lecturer](mathematics_lecturer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>6</td>
       <td>0.315789</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1687</th>
-      <td>[education studies lecturer](education studies lecturer.md)</td>
+      <td>&lt;span&gt;[education studies lecturer](education_studies_lecturer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>6</td>
       <td>0.315789</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1792</th>
-      <td>[physics lecturer](physics lecturer.md)</td>
+      <td>&lt;span&gt;[physics lecturer](physics_lecturer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>6</td>
       <td>0.315789</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1761</th>
-      <td>[university teaching assistant](university teaching assistant.md)</td>
+      <td>&lt;span&gt;[university teaching assistant](university_teaching_assistant.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>6</td>
       <td>0.315789</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>19</th>
-      <td>[social work lecturer](social work lecturer.md)</td>
+      <td>&lt;span&gt;[social work lecturer](social_work_lecturer.md)&lt;/span&gt;</td>
       <td>82</td>
       <td>6</td>
       <td>0.315789</td>
       <td>76</td>
     </tr>
     <tr>
-      <th>1771</th>
-      <td>[business lecturer](business lecturer.md)</td>
+      <td>&lt;span&gt;[business lecturer](business_lecturer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>6</td>
       <td>0.315789</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1772</th>
-      <td>[earth science lecturer](earth science lecturer.md)</td>
+      <td>&lt;span&gt;[earth science lecturer](earth_science_lecturer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>6</td>
       <td>0.315789</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1775</th>
-      <td>[occupational driving instructor](occupational driving instructor.md)</td>
+      <td>&lt;span&gt;[occupational driving instructor](occupational_driving_instructor.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>6</td>
       <td>0.315789</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1776</th>
-      <td>[veterinary medicine lecturer](veterinary medicine lecturer.md)</td>
+      <td>&lt;span&gt;[veterinary medicine lecturer](veterinary_medicine_lecturer.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>6</td>
       <td>0.315789</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1777</th>
-      <td>[dentistry lecturer](dentistry lecturer.md)</td>
+      <td>&lt;span&gt;[dentistry lecturer](dentistry_lecturer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>6</td>
       <td>0.315789</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1785</th>
-      <td>[journalism lecturer](journalism lecturer.md)</td>
+      <td>&lt;span&gt;[journalism lecturer](journalism_lecturer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>6</td>
       <td>0.315789</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1787</th>
-      <td>[survival instructor](survival instructor.md)</td>
+      <td>&lt;span&gt;[survival instructor](survival_instructor.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>6</td>
       <td>0.315789</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1788</th>
-      <td>[pharmacy lecturer](pharmacy lecturer.md)</td>
+      <td>&lt;span&gt;[pharmacy lecturer](pharmacy_lecturer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>6</td>
       <td>0.315789</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1027</th>
-      <td>[university literature lecturer](university literature lecturer.md)</td>
+      <td>&lt;span&gt;[university literature lecturer](university_literature_lecturer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>6</td>
       <td>0.315789</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1759</th>
-      <td>[economics lecturer](economics lecturer.md)</td>
+      <td>&lt;span&gt;[economics lecturer](economics_lecturer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>6</td>
       <td>0.315789</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1760</th>
-      <td>[medicine lecturer](medicine lecturer.md)</td>
+      <td>&lt;span&gt;[medicine lecturer](medicine_lecturer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>6</td>
       <td>0.315789</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1796</th>
-      <td>[biology lecturer](biology lecturer.md)</td>
+      <td>&lt;span&gt;[biology lecturer](biology_lecturer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>6</td>
       <td>0.315789</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1866</th>
-      <td>[travel and tourism vocational teacher](travel and tourism vocational teacher.md)</td>
+      <td>&lt;span&gt;[travel and tourism vocational teacher](travel_and_tourism_vocational_teacher.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>6</td>
       <td>0.315789</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1985</th>
-      <td>[learning mentor](learning mentor.md)</td>
+      <td>&lt;span&gt;[learning mentor](learning_mentor.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>5</td>
       <td>0.263158</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1346</th>
-      <td>[corporate trainer](corporate trainer.md)</td>
+      <td>&lt;span&gt;[corporate trainer](corporate_trainer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.263158</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1798</th>
-      <td>[prison instructor](prison instructor.md)</td>
+      <td>&lt;span&gt;[prison instructor](prison_instructor.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>5</td>
       <td>0.263158</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2084</th>
-      <td>[sign language teacher](sign language teacher.md)</td>
+      <td>&lt;span&gt;[sign language teacher](sign_language_teacher.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>5</td>
       <td>0.263158</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1763</th>
-      <td>[sociology lecturer](sociology lecturer.md)</td>
+      <td>&lt;span&gt;[sociology lecturer](sociology_lecturer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>5</td>
       <td>0.263158</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>886</th>
-      <td>[early years teaching assistant](early years teaching assistant.md)</td>
+      <td>&lt;span&gt;[early years teaching assistant](early_years_teaching_assistant.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.263158</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>914</th>
-      <td>[academic support officer](academic support officer.md)</td>
+      <td>&lt;span&gt;[academic support officer](academic_support_officer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.263158</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>6</th>
-      <td>[education welfare officer](education welfare officer.md)</td>
+      <td>&lt;span&gt;[education welfare officer](education_welfare_officer.md)&lt;/span&gt;</td>
       <td>79</td>
       <td>4</td>
       <td>0.210526</td>
       <td>75</td>
     </tr>
     <tr>
-      <th>206</th>
-      <td>[university department head](university department head.md)</td>
+      <td>&lt;span&gt;[university department head](university_department_head.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>4</td>
       <td>0.210526</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2264</th>
-      <td>[football coach](football coach.md)</td>
+      <td>&lt;span&gt;[football coach](football_coach.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.210526</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>880</th>
-      <td>[primary school teaching assistant](primary school teaching assistant.md)</td>
+      <td>&lt;span&gt;[primary school teaching assistant](primary_school_teaching_assistant.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.210526</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>920</th>
-      <td>[secondary school department head](secondary school department head.md)</td>
+      <td>&lt;span&gt;[secondary school department head](secondary_school_department_head.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>4</td>
       <td>0.210526</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1914</th>
-      <td>[academic advisor](academic advisor.md)</td>
+      <td>&lt;span&gt;[academic advisor](academic_advisor.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.210526</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>918</th>
-      <td>[nursery school head teacher](nursery school head teacher.md)</td>
+      <td>&lt;span&gt;[nursery school head teacher](nursery_school_head_teacher.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.157895</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>911</th>
-      <td>[special educational needs head teacher](special educational needs head teacher.md)</td>
+      <td>&lt;span&gt;[special educational needs head teacher](special_educational_needs_head_teacher.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>3</td>
       <td>0.157895</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>882</th>
-      <td>[nanny](nanny.md)</td>
+      <td>&lt;span&gt;[nanny](nanny.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.157895</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1441</th>
-      <td>[police trainer](police trainer.md)</td>
+      <td>&lt;span&gt;[police trainer](police_trainer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.157895</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1873</th>
-      <td>[au pair](au pair.md)</td>
+      <td>&lt;span&gt;[au pair](au_pair.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.157895</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1190</th>
-      <td>[corporate training manager](corporate training manager.md)</td>
+      <td>&lt;span&gt;[corporate training manager](corporate_training_manager.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>3</td>
       <td>0.157895</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>907</th>
-      <td>[special educational needs coordinator](special educational needs coordinator.md)</td>
+      <td>&lt;span&gt;[special educational needs coordinator](special_educational_needs_coordinator.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.157895</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1978</th>
-      <td>[golf instructor](golf instructor.md)</td>
+      <td>&lt;span&gt;[golf instructor](golf_instructor.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>3</td>
       <td>0.157895</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>1692</th>
-      <td>[armed forces training and education officer](armed forces training and education officer.md)</td>
+      <td>&lt;span&gt;[armed forces training and education officer](armed_forces_training_and_education_officer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.157895</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1913</th>
-      <td>[admissions coordinator](admissions coordinator.md)</td>
+      <td>&lt;span&gt;[admissions coordinator](admissions_coordinator.md)&lt;/span&gt;</td>
       <td>8</td>
       <td>2</td>
       <td>0.105263</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>909</th>
-      <td>[head of higher education institutions](head of higher education institutions.md)</td>
+      <td>&lt;span&gt;[head of higher education institutions](head_of_higher_education_institutions.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.105263</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1828</th>
-      <td>[firefighter instructor](firefighter instructor.md)</td>
+      <td>&lt;span&gt;[firefighter instructor](firefighter_instructor.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.105263</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>912</th>
-      <td>[deputy head teacher](deputy head teacher.md)</td>
+      <td>&lt;span&gt;[deputy head teacher](deputy_head_teacher.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.105263</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>913</th>
-      <td>[further education principal](further education principal.md)</td>
+      <td>&lt;span&gt;[further education principal](further_education_principal.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.105263</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2919</th>
-      <td>[snowboard instructor](snowboard instructor.md)</td>
+      <td>&lt;span&gt;[snowboard instructor](snowboard_instructor.md)&lt;/span&gt;</td>
       <td>8</td>
       <td>2</td>
       <td>0.105263</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>2918</th>
-      <td>[boxing instructor](boxing instructor.md)</td>
+      <td>&lt;span&gt;[boxing instructor](boxing_instructor.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>2</td>
       <td>0.105263</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>919</th>
-      <td>[primary school head teacher](primary school head teacher.md)</td>
+      <td>&lt;span&gt;[primary school head teacher](primary_school_head_teacher.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.105263</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1984</th>
-      <td>[educational counsellor](educational counsellor.md)</td>
+      <td>&lt;span&gt;[educational counsellor](educational_counsellor.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.105263</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2859</th>
-      <td>[horse riding instructor](horse riding instructor.md)</td>
+      <td>&lt;span&gt;[horse riding instructor](horse_riding_instructor.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.105263</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1872</th>
-      <td>[babysitter](babysitter.md)</td>
+      <td>&lt;span&gt;[babysitter](babysitter.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.105263</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2813</th>
-      <td>[career guidance advisor](career guidance advisor.md)</td>
+      <td>&lt;span&gt;[career guidance advisor](career_guidance_advisor.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.105263</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1318</th>
-      <td>[business coach](business coach.md)</td>
+      <td>&lt;span&gt;[business coach](business_coach.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>2</td>
       <td>0.105263</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>761</th>
-      <td>[child day care worker](child day care worker.md)</td>
+      <td>&lt;span&gt;[child day care worker](child_day_care_worker.md)&lt;/span&gt;</td>
       <td>74</td>
       <td>2</td>
       <td>0.105263</td>
       <td>72</td>
     </tr>
     <tr>
-      <th>915</th>
-      <td>[secondary school head teacher](secondary school head teacher.md)</td>
+      <td>&lt;span&gt;[secondary school head teacher](secondary_school_head_teacher.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.105263</td>

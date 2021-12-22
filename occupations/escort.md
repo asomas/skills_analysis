@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match escort</th>
@@ -14,16 +13,14 @@
   </thead>
   <tbody>
     <tr>
-      <th>688</th>
-      <td>[home care aide](home care aide.md)</td>
+      <td>&lt;span&gt;[home care aide](home_care_aide.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>1</td>
       <td>0.2</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>689</th>
-      <td>[companion](companion.md)</td>
+      <td>&lt;span&gt;[companion](companion.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>1</td>
       <td>0.2</td>

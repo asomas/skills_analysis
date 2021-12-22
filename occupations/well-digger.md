@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match well-digger</th>
@@ -14,96 +13,84 @@
   </thead>
   <tbody>
     <tr>
-      <th>1750</th>
-      <td>[drill operator](drill operator.md)</td>
+      <td>&lt;span&gt;[drill operator](drill_operator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>4</td>
       <td>0.4</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1624</th>
-      <td>[liquid fuel engineer](liquid fuel engineer.md)</td>
+      <td>&lt;span&gt;[liquid fuel engineer](liquid_fuel_engineer.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>3</td>
       <td>0.3</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1630</th>
-      <td>[petroleum engineer](petroleum engineer.md)</td>
+      <td>&lt;span&gt;[petroleum engineer](petroleum_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>3</td>
       <td>0.3</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>240</th>
-      <td>[construction quality manager](construction quality manager.md)</td>
+      <td>&lt;span&gt;[construction quality manager](construction_quality_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.2</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1242</th>
-      <td>[aquaculture site supervisor](aquaculture site supervisor.md)</td>
+      <td>&lt;span&gt;[aquaculture site supervisor](aquaculture_site_supervisor.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>2</td>
       <td>0.2</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>2432</th>
-      <td>[legal service manager](legal service manager.md)</td>
+      <td>&lt;span&gt;[legal service manager](legal_service_manager.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.2</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1134</th>
-      <td>[auditing clerk](auditing clerk.md)</td>
+      <td>&lt;span&gt;[auditing clerk](auditing_clerk.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.2</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2067</th>
-      <td>[airport chief executive](airport chief executive.md)</td>
+      <td>&lt;span&gt;[airport chief executive](airport_chief_executive.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>2</td>
       <td>0.2</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>248</th>
-      <td>[construction quality inspector](construction quality inspector.md)</td>
+      <td>&lt;span&gt;[construction quality inspector](construction_quality_inspector.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.2</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>55</th>
-      <td>[aquatic animal health professional](aquatic animal health professional.md)</td>
+      <td>&lt;span&gt;[aquatic animal health professional](aquatic_animal_health_professional.md)&lt;/span&gt;</td>
       <td>55</td>
       <td>2</td>
       <td>0.2</td>
       <td>53</td>
     </tr>
     <tr>
-      <th>2058</th>
-      <td>[desalination technician](desalination technician.md)</td>
+      <td>&lt;span&gt;[desalination technician](desalination_technician.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>2</td>
       <td>0.2</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>994</th>
-      <td>[management assistant](management assistant.md)</td>
+      <td>&lt;span&gt;[management assistant](management_assistant.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.2</td>

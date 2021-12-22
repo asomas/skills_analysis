@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match pipeline superintendent</th>
@@ -14,272 +13,238 @@
   </thead>
   <tbody>
     <tr>
-      <th>1182</th>
-      <td>[pipeline route manager](pipeline route manager.md)</td>
+      <td>&lt;span&gt;[pipeline route manager](pipeline_route_manager.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>9</td>
       <td>0.428571</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1186</th>
-      <td>[pipeline compliance coordinator](pipeline compliance coordinator.md)</td>
+      <td>&lt;span&gt;[pipeline compliance coordinator](pipeline_compliance_coordinator.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>7</td>
       <td>0.333333</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1073</th>
-      <td>[gas transmission system operator](gas transmission system operator.md)</td>
+      <td>&lt;span&gt;[gas transmission system operator](gas_transmission_system_operator.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>5</td>
       <td>0.238095</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1179</th>
-      <td>[pipeline environmental project manager](pipeline environmental project manager.md)</td>
+      <td>&lt;span&gt;[pipeline environmental project manager](pipeline_environmental_project_manager.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>5</td>
       <td>0.238095</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1415</th>
-      <td>[move manager](move manager.md)</td>
+      <td>&lt;span&gt;[move manager](move_manager.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.238095</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2386</th>
-      <td>[gas scheduling representative](gas scheduling representative.md)</td>
+      <td>&lt;span&gt;[gas scheduling representative](gas_scheduling_representative.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>4</td>
       <td>0.190476</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2385</th>
-      <td>[gas distribution engineer](gas distribution engineer.md)</td>
+      <td>&lt;span&gt;[gas distribution engineer](gas_distribution_engineer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>4</td>
       <td>0.190476</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>478</th>
-      <td>[warehouse manager](warehouse manager.md)</td>
+      <td>&lt;span&gt;[warehouse manager](warehouse_manager.md)&lt;/span&gt;</td>
       <td>41</td>
       <td>3</td>
       <td>0.142857</td>
       <td>38</td>
     </tr>
     <tr>
-      <th>2223</th>
-      <td>[air traffic instructor](air traffic instructor.md)</td>
+      <td>&lt;span&gt;[air traffic instructor](air_traffic_instructor.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>3</td>
       <td>0.142857</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>919</th>
-      <td>[primary school head teacher](primary school head teacher.md)</td>
+      <td>&lt;span&gt;[primary school head teacher](primary_school_head_teacher.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>3</td>
       <td>0.142857</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2426</th>
-      <td>[publications coordinator](publications coordinator.md)</td>
+      <td>&lt;span&gt;[publications coordinator](publications_coordinator.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.142857</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2309</th>
-      <td>[office manager](office manager.md)</td>
+      <td>&lt;span&gt;[office manager](office_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.142857</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>371</th>
-      <td>[headteacher](headteacher.md)</td>
+      <td>&lt;span&gt;[headteacher](headteacher.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>3</td>
       <td>0.142857</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>915</th>
-      <td>[secondary school head teacher](secondary school head teacher.md)</td>
+      <td>&lt;span&gt;[secondary school head teacher](secondary_school_head_teacher.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>3</td>
       <td>0.142857</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2292</th>
-      <td>[installation engineer](installation engineer.md)</td>
+      <td>&lt;span&gt;[installation engineer](installation_engineer.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.142857</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>913</th>
-      <td>[further education principal](further education principal.md)</td>
+      <td>&lt;span&gt;[further education principal](further_education_principal.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.142857</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2435</th>
-      <td>[book publisher](book publisher.md)</td>
+      <td>&lt;span&gt;[book publisher](book_publisher.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.142857</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2311</th>
-      <td>[dairy processing technician](dairy processing technician.md)</td>
+      <td>&lt;span&gt;[dairy processing technician](dairy_processing_technician.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>3</td>
       <td>0.142857</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1499</th>
-      <td>[secretary general](secretary general.md)</td>
+      <td>&lt;span&gt;[secretary general](secretary_general.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>3</td>
       <td>0.142857</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>623</th>
-      <td>[rental manager](rental manager.md)</td>
+      <td>&lt;span&gt;[rental manager](rental_manager.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.142857</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>911</th>
-      <td>[special educational needs head teacher](special educational needs head teacher.md)</td>
+      <td>&lt;span&gt;[special educational needs head teacher](special_educational_needs_head_teacher.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>3</td>
       <td>0.142857</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>1506</th>
-      <td>[police commissioner](police commissioner.md)</td>
+      <td>&lt;span&gt;[police commissioner](police_commissioner.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.142857</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1573</th>
-      <td>[ground lighting officer](ground lighting officer.md)</td>
+      <td>&lt;span&gt;[ground lighting officer](ground_lighting_officer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.142857</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1669</th>
-      <td>[sewerage network operative](sewerage network operative.md)</td>
+      <td>&lt;span&gt;[sewerage network operative](sewerage_network_operative.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.142857</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1060</th>
-      <td>[water engineering technician](water engineering technician.md)</td>
+      <td>&lt;span&gt;[water engineering technician](water_engineering_technician.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>3</td>
       <td>0.142857</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>315</th>
-      <td>[project manager](project manager.md)</td>
+      <td>&lt;span&gt;[project manager](project_manager.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>3</td>
       <td>0.142857</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>2731</th>
-      <td>[gas processing plant operator](gas processing plant operator.md)</td>
+      <td>&lt;span&gt;[gas processing plant operator](gas_processing_plant_operator.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>3</td>
       <td>0.142857</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>918</th>
-      <td>[nursery school head teacher](nursery school head teacher.md)</td>
+      <td>&lt;span&gt;[nursery school head teacher](nursery_school_head_teacher.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.142857</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1085</th>
-      <td>[drainage engineer](drainage engineer.md)</td>
+      <td>&lt;span&gt;[drainage engineer](drainage_engineer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.142857</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1049</th>
-      <td>[sales manager](sales manager.md)</td>
+      <td>&lt;span&gt;[sales manager](sales_manager.md)&lt;/span&gt;</td>
       <td>40</td>
       <td>3</td>
       <td>0.142857</td>
       <td>37</td>
     </tr>
     <tr>
-      <th>2384</th>
-      <td>[pipeline engineer](pipeline engineer.md)</td>
+      <td>&lt;span&gt;[pipeline engineer](pipeline_engineer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.142857</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1429</th>
-      <td>[cabin crew instructor](cabin crew instructor.md)</td>
+      <td>&lt;span&gt;[cabin crew instructor](cabin_crew_instructor.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.142857</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1349</th>
-      <td>[ICT project manager](ICT project manager.md)</td>
+      <td>&lt;span&gt;[ICT project manager](ICT_project_manager.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.142857</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2383</th>
-      <td>[drain technician](drain technician.md)</td>
+      <td>&lt;span&gt;[drain technician](drain_technician.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.142857</td>

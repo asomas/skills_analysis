@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match animator</th>
@@ -14,400 +13,350 @@
   </thead>
   <tbody>
     <tr>
-      <th>2157</th>
-      <td>[special effects artist](special effects artist.md)</td>
+      <td>&lt;span&gt;[special effects artist](special_effects_artist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>15</td>
       <td>0.9375</td>
       <td>1</td>
     </tr>
     <tr>
-      <th>2155</th>
-      <td>[animation layout artist](animation layout artist.md)</td>
+      <td>&lt;span&gt;[animation layout artist](animation_layout_artist.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>10</td>
       <td>0.6250</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1883</th>
-      <td>[animation director](animation director.md)</td>
+      <td>&lt;span&gt;[animation director](animation_director.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>9</td>
       <td>0.5625</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>2152</th>
-      <td>[desktop publisher](desktop publisher.md)</td>
+      <td>&lt;span&gt;[desktop publisher](desktop_publisher.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>7</td>
       <td>0.4375</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2150</th>
-      <td>[stop-motion animator](stop-motion animator.md)</td>
+      <td>&lt;span&gt;[stop-motion animator](stop-motion_animator.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>7</td>
       <td>0.4375</td>
       <td>3</td>
     </tr>
     <tr>
-      <th>2156</th>
-      <td>[video and motion picture editor](video and motion picture editor.md)</td>
+      <td>&lt;span&gt;[video and motion picture editor](video_and_motion_picture_editor.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>7</td>
       <td>0.4375</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2158</th>
-      <td>[cartoonist](cartoonist.md)</td>
+      <td>&lt;span&gt;[cartoonist](cartoonist.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>7</td>
       <td>0.4375</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>933</th>
-      <td>[graphic designer](graphic designer.md)</td>
+      <td>&lt;span&gt;[graphic designer](graphic_designer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>5</td>
       <td>0.3125</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2224</th>
-      <td>[video artist](video artist.md)</td>
+      <td>&lt;span&gt;[video artist](video_artist.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>5</td>
       <td>0.3125</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1855</th>
-      <td>[video and motion picture director](video and motion picture director.md)</td>
+      <td>&lt;span&gt;[video and motion picture director](video_and_motion_picture_director.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.3125</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1112</th>
-      <td>[storyboard artist](storyboard artist.md)</td>
+      <td>&lt;span&gt;[storyboard artist](storyboard_artist.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>5</td>
       <td>0.3125</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1858</th>
-      <td>[director of photography](director of photography.md)</td>
+      <td>&lt;span&gt;[director of photography](director_of_photography.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.3125</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1675</th>
-      <td>[camera operator](camera operator.md)</td>
+      <td>&lt;span&gt;[camera operator](camera_operator.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>5</td>
       <td>0.3125</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2147</th>
-      <td>[stand-in](stand-in.md)</td>
+      <td>&lt;span&gt;[stand-in](stand-in.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>4</td>
       <td>0.2500</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2146</th>
-      <td>[illustrator](illustrator.md)</td>
+      <td>&lt;span&gt;[illustrator](illustrator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>4</td>
       <td>0.2500</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1316</th>
-      <td>[voice-over artist](voice-over artist.md)</td>
+      <td>&lt;span&gt;[voice-over artist](voice-over_artist.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.2500</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2018</th>
-      <td>[boom operator](boom operator.md)</td>
+      <td>&lt;span&gt;[boom operator](boom_operator.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>4</td>
       <td>0.2500</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1566</th>
-      <td>[picture editor](picture editor.md)</td>
+      <td>&lt;span&gt;[picture editor](picture_editor.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>4</td>
       <td>0.2500</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2149</th>
-      <td>[sound editor](sound editor.md)</td>
+      <td>&lt;span&gt;[sound editor](sound_editor.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.1875</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2034</th>
-      <td>[miniature set designer](miniature set designer.md)</td>
+      <td>&lt;span&gt;[miniature set designer](miniature_set_designer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.1875</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2153</th>
-      <td>[stunt performer](stunt performer.md)</td>
+      <td>&lt;span&gt;[stunt performer](stunt_performer.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.1875</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2015</th>
-      <td>[make-up artist](make-up artist.md)</td>
+      <td>&lt;span&gt;[make-up artist](make-up_artist.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>3</td>
       <td>0.1875</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>544</th>
-      <td>[import export specialist in computers, peripheral equipment and software](import export specialist in computers, peripheral equipment and software.md)</td>
+      <td>&lt;span&gt;[import export specialist in computers, peripheral equipment and software](import_export_specialist_in_computers,_peripheral_equipment_and_software.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.1875</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1252</th>
-      <td>[hair stylist](hair stylist.md)</td>
+      <td>&lt;span&gt;[hair stylist](hair_stylist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.1875</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2314</th>
-      <td>[subtitler](subtitler.md)</td>
+      <td>&lt;span&gt;[subtitler](subtitler.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.1875</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1636</th>
-      <td>[aerodynamics engineer](aerodynamics engineer.md)</td>
+      <td>&lt;span&gt;[aerodynamics engineer](aerodynamics_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>2</td>
       <td>0.1250</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>2033</th>
-      <td>[prop maker](prop maker.md)</td>
+      <td>&lt;span&gt;[prop maker](prop_maker.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.1250</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1935</th>
-      <td>[computer software and multimedia shop manager](computer software and multimedia shop manager.md)</td>
+      <td>&lt;span&gt;[computer software and multimedia shop manager](computer_software_and_multimedia_shop_manager.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>2</td>
       <td>0.1250</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>109</th>
-      <td>[computer games, multimedia and software specialised seller](computer games, multimedia and software specialised seller.md)</td>
+      <td>&lt;span&gt;[computer games, multimedia and software specialised seller](computer_games,_multimedia_and_software_specialised_seller.md)&lt;/span&gt;</td>
       <td>38</td>
       <td>2</td>
       <td>0.1250</td>
       <td>36</td>
     </tr>
     <tr>
-      <th>111</th>
-      <td>[performance rental technician](performance rental technician.md)</td>
+      <td>&lt;span&gt;[performance rental technician](performance_rental_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.1250</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>477</th>
-      <td>[lighting director](lighting director.md)</td>
+      <td>&lt;span&gt;[lighting director](lighting_director.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.1250</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>328</th>
-      <td>[script writer](script writer.md)</td>
+      <td>&lt;span&gt;[script writer](script_writer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.1250</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1611</th>
-      <td>[marine engineering technician](marine engineering technician.md)</td>
+      <td>&lt;span&gt;[marine engineering technician](marine_engineering_technician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.1250</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1612</th>
-      <td>[aerospace engineering technician](aerospace engineering technician.md)</td>
+      <td>&lt;span&gt;[aerospace engineering technician](aerospace_engineering_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.1250</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1221</th>
-      <td>[digital media designer](digital media designer.md)</td>
+      <td>&lt;span&gt;[digital media designer](digital_media_designer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.1250</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1613</th>
-      <td>[rolling stock engineering technician](rolling stock engineering technician.md)</td>
+      <td>&lt;span&gt;[rolling stock engineering technician](rolling_stock_engineering_technician.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.1250</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>606</th>
-      <td>[art director](art director.md)</td>
+      <td>&lt;span&gt;[art director](art_director.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>2</td>
       <td>0.1250</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1622</th>
-      <td>[automotive engineering technician](automotive engineering technician.md)</td>
+      <td>&lt;span&gt;[automotive engineering technician](automotive_engineering_technician.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.1250</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2676</th>
-      <td>[aerospace engineering drafter](aerospace engineering drafter.md)</td>
+      <td>&lt;span&gt;[aerospace engineering drafter](aerospace_engineering_drafter.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.1250</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1952</th>
-      <td>[computer shop manager](computer shop manager.md)</td>
+      <td>&lt;span&gt;[computer shop manager](computer_shop_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>2</td>
       <td>0.1250</td>
       <td>30</td>
     </tr>
     <tr>
-      <th>1631</th>
-      <td>[tooling engineer](tooling engineer.md)</td>
+      <td>&lt;span&gt;[tooling engineer](tooling_engineer.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>2</td>
       <td>0.1250</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>2044</th>
-      <td>[costume maker](costume maker.md)</td>
+      <td>&lt;span&gt;[costume maker](costume_maker.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.1250</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>1329</th>
-      <td>[location manager](location manager.md)</td>
+      <td>&lt;span&gt;[location manager](location_manager.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.1250</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1640</th>
-      <td>[material stress analyst](material stress analyst.md)</td>
+      <td>&lt;span&gt;[material stress analyst](material_stress_analyst.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.1250</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2148</th>
-      <td>[publishing rights manager](publishing rights manager.md)</td>
+      <td>&lt;span&gt;[publishing rights manager](publishing_rights_manager.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>2</td>
       <td>0.1250</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1681</th>
-      <td>[costume attendant](costume attendant.md)</td>
+      <td>&lt;span&gt;[costume attendant](costume_attendant.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>2</td>
       <td>0.1250</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>737</th>
-      <td>[technical communicator](technical communicator.md)</td>
+      <td>&lt;span&gt;[technical communicator](technical_communicator.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>2</td>
       <td>0.1250</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>268</th>
-      <td>[puppet designer](puppet designer.md)</td>
+      <td>&lt;span&gt;[puppet designer](puppet_designer.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.1250</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>2010</th>
-      <td>[set builder](set builder.md)</td>
+      <td>&lt;span&gt;[set builder](set_builder.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.1250</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2154</th>
-      <td>[copy editor](copy editor.md)</td>
+      <td>&lt;span&gt;[copy editor](copy_editor.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.1250</td>

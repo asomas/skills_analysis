@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match pyrotechnician</th>
@@ -14,312 +13,273 @@
   </thead>
   <tbody>
     <tr>
-      <th>305</th>
-      <td>[head of workshop](head of workshop.md)</td>
+      <td>&lt;span&gt;[head of workshop](head_of_workshop.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>9</td>
       <td>0.391304</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>269</th>
-      <td>[stage manager](stage manager.md)</td>
+      <td>&lt;span&gt;[stage manager](stage_manager.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>9</td>
       <td>0.391304</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1365</th>
-      <td>[flying director](flying director.md)</td>
+      <td>&lt;span&gt;[flying director](flying_director.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>9</td>
       <td>0.391304</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2004</th>
-      <td>[high rigger](high rigger.md)</td>
+      <td>&lt;span&gt;[high rigger](high_rigger.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>9</td>
       <td>0.391304</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2009</th>
-      <td>[set builder](set builder.md)</td>
+      <td>&lt;span&gt;[set builder](set_builder.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>7</td>
       <td>0.304348</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>385</th>
-      <td>[stage machinist](stage machinist.md)</td>
+      <td>&lt;span&gt;[stage machinist](stage_machinist.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>6</td>
       <td>0.260870</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>1136</th>
-      <td>[tent installer](tent installer.md)</td>
+      <td>&lt;span&gt;[tent installer](tent_installer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>6</td>
       <td>0.260870</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1327</th>
-      <td>[instrument technician](instrument technician.md)</td>
+      <td>&lt;span&gt;[instrument technician](instrument_technician.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>6</td>
       <td>0.260870</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2021</th>
-      <td>[scenery technician](scenery technician.md)</td>
+      <td>&lt;span&gt;[scenery technician](scenery_technician.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>6</td>
       <td>0.260870</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2018</th>
-      <td>[scenic painter](scenic painter.md)</td>
+      <td>&lt;span&gt;[scenic painter](scenic_painter.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>6</td>
       <td>0.260870</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2032</th>
-      <td>[prop maker](prop maker.md)</td>
+      <td>&lt;span&gt;[prop maker](prop_maker.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>6</td>
       <td>0.260870</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2050</th>
-      <td>[stagehand](stagehand.md)</td>
+      <td>&lt;span&gt;[stagehand](stagehand.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>6</td>
       <td>0.260870</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>2041</th>
-      <td>[stage technician](stage technician.md)</td>
+      <td>&lt;span&gt;[stage technician](stage_technician.md)&lt;/span&gt;</td>
       <td>43</td>
       <td>6</td>
       <td>0.260870</td>
       <td>37</td>
     </tr>
     <tr>
-      <th>2008</th>
-      <td>[audio production technician](audio production technician.md)</td>
+      <td>&lt;span&gt;[audio production technician](audio_production_technician.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>5</td>
       <td>0.217391</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2330</th>
-      <td>[firework assembler](firework assembler.md)</td>
+      <td>&lt;span&gt;[firework assembler](firework_assembler.md)&lt;/span&gt;</td>
       <td>7</td>
       <td>5</td>
       <td>0.217391</td>
       <td>2</td>
     </tr>
     <tr>
-      <th>2045</th>
-      <td>[prop master/prop mistress](prop master-prop mistress.md)</td>
+      <td>&lt;span&gt;[prop master/prop mistress](prop_master-prop_mistress.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>5</td>
       <td>0.217391</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2038</th>
-      <td>[video technician](video technician.md)</td>
+      <td>&lt;span&gt;[video technician](video_technician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>5</td>
       <td>0.217391</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2034</th>
-      <td>[lighting technician](lighting technician.md)</td>
+      <td>&lt;span&gt;[lighting technician](lighting_technician.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>5</td>
       <td>0.217391</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>975</th>
-      <td>[followspot operator](followspot operator.md)</td>
+      <td>&lt;span&gt;[followspot operator](followspot_operator.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>5</td>
       <td>0.217391</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>383</th>
-      <td>[automated fly bar operator](automated fly bar operator.md)</td>
+      <td>&lt;span&gt;[automated fly bar operator](automated_fly_bar_operator.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>5</td>
       <td>0.217391</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>2049</th>
-      <td>[ground rigger](ground rigger.md)</td>
+      <td>&lt;span&gt;[ground rigger](ground_rigger.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>4</td>
       <td>0.173913</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>384</th>
-      <td>[sound operator](sound operator.md)</td>
+      <td>&lt;span&gt;[sound operator](sound_operator.md)&lt;/span&gt;</td>
       <td>36</td>
       <td>4</td>
       <td>0.173913</td>
       <td>32</td>
     </tr>
     <tr>
-      <th>386</th>
-      <td>[light board operator](light board operator.md)</td>
+      <td>&lt;span&gt;[light board operator](light_board_operator.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>4</td>
       <td>0.173913</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>2000</th>
-      <td>[intelligent lighting engineer](intelligent lighting engineer.md)</td>
+      <td>&lt;span&gt;[intelligent lighting engineer](intelligent_lighting_engineer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.173913</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>382</th>
-      <td>[video operator](video operator.md)</td>
+      <td>&lt;span&gt;[video operator](video_operator.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>4</td>
       <td>0.173913</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>2046</th>
-      <td>[mask maker](mask maker.md)</td>
+      <td>&lt;span&gt;[mask maker](mask_maker.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>4</td>
       <td>0.173913</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2044</th>
-      <td>[wig and hairpiece maker](wig and hairpiece maker.md)</td>
+      <td>&lt;span&gt;[wig and hairpiece maker](wig_and_hairpiece_maker.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.173913</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2043</th>
-      <td>[costume maker](costume maker.md)</td>
+      <td>&lt;span&gt;[costume maker](costume_maker.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>4</td>
       <td>0.173913</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1462</th>
-      <td>[event scaffolder](event scaffolder.md)</td>
+      <td>&lt;span&gt;[event scaffolder](event_scaffolder.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>4</td>
       <td>0.173913</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>273</th>
-      <td>[pyrotechnic designer](pyrotechnic designer.md)</td>
+      <td>&lt;span&gt;[pyrotechnic designer](pyrotechnic_designer.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>4</td>
       <td>0.173913</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2052</th>
-      <td>[event electrician](event electrician.md)</td>
+      <td>&lt;span&gt;[event electrician](event_electrician.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>3</td>
       <td>0.130435</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>2014</th>
-      <td>[make-up artist](make-up artist.md)</td>
+      <td>&lt;span&gt;[make-up artist](make-up_artist.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>3</td>
       <td>0.130435</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>327</th>
-      <td>[fight director](fight director.md)</td>
+      <td>&lt;span&gt;[fight director](fight_director.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.130435</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2056</th>
-      <td>[plasterer](plasterer.md)</td>
+      <td>&lt;span&gt;[plasterer](plasterer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.130435</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2057</th>
-      <td>[performance hairdresser](performance hairdresser.md)</td>
+      <td>&lt;span&gt;[performance hairdresser](performance_hairdresser.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.130435</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2002</th>
-      <td>[construction painter](construction painter.md)</td>
+      <td>&lt;span&gt;[construction painter](construction_painter.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.130435</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2006</th>
-      <td>[dresser](dresser.md)</td>
+      <td>&lt;span&gt;[dresser](dresser.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.130435</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>267</th>
-      <td>[lighting designer](lighting designer.md)</td>
+      <td>&lt;span&gt;[lighting designer](lighting_designer.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>3</td>
       <td>0.130435</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>2228</th>
-      <td>[front of house manager](front of house manager.md)</td>
+      <td>&lt;span&gt;[front of house manager](front_of_house_manager.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.130435</td>

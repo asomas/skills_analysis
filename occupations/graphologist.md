@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match graphologist</th>
@@ -14,800 +13,700 @@
   </thead>
   <tbody>
     <tr>
-      <th>713</th>
-      <td>[psychotherapist](psychotherapist.md)</td>
+      <td>&lt;span&gt;[psychotherapist](psychotherapist.md)&lt;/span&gt;</td>
       <td>69</td>
       <td>3</td>
       <td>0.333333</td>
       <td>66</td>
     </tr>
     <tr>
-      <th>903</th>
-      <td>[ICT usability tester](ICT usability tester.md)</td>
+      <td>&lt;span&gt;[ICT usability tester](ICT_usability_tester.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.222222</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2249</th>
-      <td>[social pedagogue](social pedagogue.md)</td>
+      <td>&lt;span&gt;[social pedagogue](social_pedagogue.md)&lt;/span&gt;</td>
       <td>42</td>
       <td>2</td>
       <td>0.222222</td>
       <td>40</td>
     </tr>
     <tr>
-      <th>902</th>
-      <td>[ICT accessibility tester](ICT accessibility tester.md)</td>
+      <td>&lt;span&gt;[ICT accessibility tester](ICT_accessibility_tester.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.222222</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1030</th>
-      <td>[drug and alcohol addiction counsellor](drug and alcohol addiction counsellor.md)</td>
+      <td>&lt;span&gt;[drug and alcohol addiction counsellor](drug_and_alcohol_addiction_counsellor.md)&lt;/span&gt;</td>
       <td>52</td>
       <td>2</td>
       <td>0.222222</td>
       <td>50</td>
     </tr>
     <tr>
-      <th>1031</th>
-      <td>[family planning counsellor](family planning counsellor.md)</td>
+      <td>&lt;span&gt;[family planning counsellor](family_planning_counsellor.md)&lt;/span&gt;</td>
       <td>51</td>
       <td>2</td>
       <td>0.222222</td>
       <td>49</td>
     </tr>
     <tr>
-      <th>1032</th>
-      <td>[marriage counsellor](marriage counsellor.md)</td>
+      <td>&lt;span&gt;[marriage counsellor](marriage_counsellor.md)&lt;/span&gt;</td>
       <td>48</td>
       <td>2</td>
       <td>0.222222</td>
       <td>46</td>
     </tr>
     <tr>
-      <th>1034</th>
-      <td>[bereavement counsellor](bereavement counsellor.md)</td>
+      <td>&lt;span&gt;[bereavement counsellor](bereavement_counsellor.md)&lt;/span&gt;</td>
       <td>46</td>
       <td>2</td>
       <td>0.222222</td>
       <td>44</td>
     </tr>
     <tr>
-      <th>2784</th>
-      <td>[behavioural scientist](behavioural scientist.md)</td>
+      <td>&lt;span&gt;[behavioural scientist](behavioural_scientist.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.222222</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1033</th>
-      <td>[sexual violence counsellor](sexual violence counsellor.md)</td>
+      <td>&lt;span&gt;[sexual violence counsellor](sexual_violence_counsellor.md)&lt;/span&gt;</td>
       <td>52</td>
       <td>2</td>
       <td>0.222222</td>
       <td>50</td>
     </tr>
     <tr>
-      <th>1806</th>
-      <td>[psychology lecturer](psychology lecturer.md)</td>
+      <td>&lt;span&gt;[psychology lecturer](psychology_lecturer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.222222</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2230</th>
-      <td>[criminologist](criminologist.md)</td>
+      <td>&lt;span&gt;[criminologist](criminologist.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.222222</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1164</th>
-      <td>[minister of religion](minister of religion.md)</td>
+      <td>&lt;span&gt;[minister of religion](minister_of_religion.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>1</td>
       <td>0.111111</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1163</th>
-      <td>[community health worker](community health worker.md)</td>
+      <td>&lt;span&gt;[community health worker](community_health_worker.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>1</td>
       <td>0.111111</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2636</th>
-      <td>[crime journalist](crime journalist.md)</td>
+      <td>&lt;span&gt;[crime journalist](crime_journalist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>1</td>
       <td>0.111111</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1160</th>
-      <td>[speechwriter](speechwriter.md)</td>
+      <td>&lt;span&gt;[speechwriter](speechwriter.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>1</td>
       <td>0.111111</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1799</th>
-      <td>[prison instructor](prison instructor.md)</td>
+      <td>&lt;span&gt;[prison instructor](prison_instructor.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>1</td>
       <td>0.111111</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>372</th>
-      <td>[physiotherapist](physiotherapist.md)</td>
+      <td>&lt;span&gt;[physiotherapist](physiotherapist.md)&lt;/span&gt;</td>
       <td>90</td>
       <td>1</td>
       <td>0.111111</td>
       <td>89</td>
     </tr>
     <tr>
-      <th>328</th>
-      <td>[script writer](script writer.md)</td>
+      <td>&lt;span&gt;[script writer](script_writer.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>1</td>
       <td>0.111111</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2629</th>
-      <td>[newspaper editor](newspaper editor.md)</td>
+      <td>&lt;span&gt;[newspaper editor](newspaper_editor.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>1</td>
       <td>0.111111</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2630</th>
-      <td>[photojournalist](photojournalist.md)</td>
+      <td>&lt;span&gt;[photojournalist](photojournalist.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>1</td>
       <td>0.111111</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>2631</th>
-      <td>[sports journalist](sports journalist.md)</td>
+      <td>&lt;span&gt;[sports journalist](sports_journalist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>1</td>
       <td>0.111111</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2632</th>
-      <td>[journalist](journalist.md)</td>
+      <td>&lt;span&gt;[journalist](journalist.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>1</td>
       <td>0.111111</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>373</th>
-      <td>[chiropractor](chiropractor.md)</td>
+      <td>&lt;span&gt;[chiropractor](chiropractor.md)&lt;/span&gt;</td>
       <td>136</td>
       <td>1</td>
       <td>0.111111</td>
       <td>135</td>
     </tr>
     <tr>
-      <th>2634</th>
-      <td>[columnist](columnist.md)</td>
+      <td>&lt;span&gt;[columnist](columnist.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>1</td>
       <td>0.111111</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2635</th>
-      <td>[entertainment journalist](entertainment journalist.md)</td>
+      <td>&lt;span&gt;[entertainment journalist](entertainment_journalist.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>1</td>
       <td>0.111111</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>748</th>
-      <td>[user experience analyst](user experience analyst.md)</td>
+      <td>&lt;span&gt;[user experience analyst](user_experience_analyst.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>1</td>
       <td>0.111111</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2637</th>
-      <td>[business journalist](business journalist.md)</td>
+      <td>&lt;span&gt;[business journalist](business_journalist.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>1</td>
       <td>0.111111</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>196</th>
-      <td>[occupational therapist](occupational therapist.md)</td>
+      <td>&lt;span&gt;[occupational therapist](occupational_therapist.md)&lt;/span&gt;</td>
       <td>73</td>
       <td>1</td>
       <td>0.111111</td>
       <td>72</td>
     </tr>
     <tr>
-      <th>1412</th>
-      <td>[taxi driver](taxi driver.md)</td>
+      <td>&lt;span&gt;[taxi driver](taxi_driver.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>1</td>
       <td>0.111111</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1383</th>
-      <td>[thanatology researcher](thanatology researcher.md)</td>
+      <td>&lt;span&gt;[thanatology researcher](thanatology_researcher.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>1</td>
       <td>0.111111</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>1381</th>
-      <td>[sociologist](sociologist.md)</td>
+      <td>&lt;span&gt;[sociologist](sociologist.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>1</td>
       <td>0.111111</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1618</th>
-      <td>[engineered wood board grader](engineered wood board grader.md)</td>
+      <td>&lt;span&gt;[engineered wood board grader](engineered_wood_board_grader.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>1</td>
       <td>0.111111</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1637</th>
-      <td>[lumber grader](lumber grader.md)</td>
+      <td>&lt;span&gt;[lumber grader](lumber_grader.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>1</td>
       <td>0.111111</td>
       <td>33</td>
     </tr>
     <tr>
-      <th>1641</th>
-      <td>[veneer grader](veneer grader.md)</td>
+      <td>&lt;span&gt;[veneer grader](veneer_grader.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>1</td>
       <td>0.111111</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2778</th>
-      <td>[blogger](blogger.md)</td>
+      <td>&lt;span&gt;[blogger](blogger.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>1</td>
       <td>0.111111</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1656</th>
-      <td>[wind energy engineer](wind energy engineer.md)</td>
+      <td>&lt;span&gt;[wind energy engineer](wind_energy_engineer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>1</td>
       <td>0.111111</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1682</th>
-      <td>[assistant clinical psychologist](assistant clinical psychologist.md)</td>
+      <td>&lt;span&gt;[assistant clinical psychologist](assistant_clinical_psychologist.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>1</td>
       <td>0.111111</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2638</th>
-      <td>[political journalist](political journalist.md)</td>
+      <td>&lt;span&gt;[political journalist](political_journalist.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>1</td>
       <td>0.111111</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>207</th>
-      <td>[food analyst](food analyst.md)</td>
+      <td>&lt;span&gt;[food analyst](food_analyst.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>1</td>
       <td>0.111111</td>
       <td>34</td>
     </tr>
     <tr>
-      <th>217</th>
-      <td>[paramedic in emergency responses](paramedic in emergency responses.md)</td>
+      <td>&lt;span&gt;[paramedic in emergency responses](paramedic_in_emergency_responses.md)&lt;/span&gt;</td>
       <td>74</td>
       <td>1</td>
       <td>0.111111</td>
       <td>73</td>
     </tr>
     <tr>
-      <th>1283</th>
-      <td>[material testing technician](material testing technician.md)</td>
+      <td>&lt;span&gt;[material testing technician](material_testing_technician.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>1</td>
       <td>0.111111</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1277</th>
-      <td>[fire safety tester](fire safety tester.md)</td>
+      <td>&lt;span&gt;[fire safety tester](fire_safety_tester.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>1</td>
       <td>0.111111</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1226</th>
-      <td>[genealogist](genealogist.md)</td>
+      <td>&lt;span&gt;[genealogist](genealogist.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>1</td>
       <td>0.111111</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2640</th>
-      <td>[critic](critic.md)</td>
+      <td>&lt;span&gt;[critic](critic.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>1</td>
       <td>0.111111</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2639</th>
-      <td>[magazine editor](magazine editor.md)</td>
+      <td>&lt;span&gt;[magazine editor](magazine_editor.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>1</td>
       <td>0.111111</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1114</th>
-      <td>[hospitality revenue manager](hospitality revenue manager.md)</td>
+      <td>&lt;span&gt;[hospitality revenue manager](hospitality_revenue_manager.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>1</td>
       <td>0.111111</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>381</th>
-      <td>[foreign correspondent](foreign correspondent.md)</td>
+      <td>&lt;span&gt;[foreign correspondent](foreign_correspondent.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>1</td>
       <td>0.111111</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>1911</th>
-      <td>[youth centre manager](youth centre manager.md)</td>
+      <td>&lt;span&gt;[youth centre manager](youth_centre_manager.md)&lt;/span&gt;</td>
       <td>71</td>
       <td>1</td>
       <td>0.111111</td>
       <td>70</td>
     </tr>
     <tr>
-      <th>2538</th>
-      <td>[intercultural communication consultant](intercultural communication consultant.md)</td>
+      <td>&lt;span&gt;[intercultural communication consultant](intercultural_communication_consultant.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>1</td>
       <td>0.111111</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>709</th>
-      <td>[midwife](midwife.md)</td>
+      <td>&lt;span&gt;[midwife](midwife.md)&lt;/span&gt;</td>
       <td>74</td>
       <td>1</td>
       <td>0.111111</td>
       <td>73</td>
     </tr>
     <tr>
-      <th>696</th>
-      <td>[music therapist](music therapist.md)</td>
+      <td>&lt;span&gt;[music therapist](music_therapist.md)&lt;/span&gt;</td>
       <td>98</td>
       <td>1</td>
       <td>0.111111</td>
       <td>97</td>
     </tr>
     <tr>
-      <th>700</th>
-      <td>[radiographer](radiographer.md)</td>
+      <td>&lt;span&gt;[radiographer](radiographer.md)&lt;/span&gt;</td>
       <td>51</td>
       <td>1</td>
       <td>0.111111</td>
       <td>50</td>
     </tr>
     <tr>
-      <th>701</th>
-      <td>[orthoptist](orthoptist.md)</td>
+      <td>&lt;span&gt;[orthoptist](orthoptist.md)&lt;/span&gt;</td>
       <td>63</td>
       <td>1</td>
       <td>0.111111</td>
       <td>62</td>
     </tr>
     <tr>
-      <th>703</th>
-      <td>[speech and language therapist](speech and language therapist.md)</td>
+      <td>&lt;span&gt;[speech and language therapist](speech_and_language_therapist.md)&lt;/span&gt;</td>
       <td>73</td>
       <td>1</td>
       <td>0.111111</td>
       <td>72</td>
     </tr>
     <tr>
-      <th>706</th>
-      <td>[dietitian](dietitian.md)</td>
+      <td>&lt;span&gt;[dietitian](dietitian.md)&lt;/span&gt;</td>
       <td>79</td>
       <td>1</td>
       <td>0.111111</td>
       <td>78</td>
     </tr>
     <tr>
-      <th>707</th>
-      <td>[nurse responsible for general care](nurse responsible for general care.md)</td>
+      <td>&lt;span&gt;[nurse responsible for general care](nurse_responsible_for_general_care.md)&lt;/span&gt;</td>
       <td>90</td>
       <td>1</td>
       <td>0.111111</td>
       <td>89</td>
     </tr>
     <tr>
-      <th>835</th>
-      <td>[ICT security consultant](ICT security consultant.md)</td>
+      <td>&lt;span&gt;[ICT security consultant](ICT_security_consultant.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>1</td>
       <td>0.111111</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>710</th>
-      <td>[health psychologist](health psychologist.md)</td>
+      <td>&lt;span&gt;[health psychologist](health_psychologist.md)&lt;/span&gt;</td>
       <td>82</td>
       <td>1</td>
       <td>0.111111</td>
       <td>81</td>
     </tr>
     <tr>
-      <th>1904</th>
-      <td>[public housing manager](public housing manager.md)</td>
+      <td>&lt;span&gt;[public housing manager](public_housing_manager.md)&lt;/span&gt;</td>
       <td>74</td>
       <td>1</td>
       <td>0.111111</td>
       <td>73</td>
     </tr>
     <tr>
-      <th>716</th>
-      <td>[clinical psychologist](clinical psychologist.md)</td>
+      <td>&lt;span&gt;[clinical psychologist](clinical_psychologist.md)&lt;/span&gt;</td>
       <td>95</td>
       <td>1</td>
       <td>0.111111</td>
       <td>94</td>
     </tr>
     <tr>
-      <th>830</th>
-      <td>[pulp grader](pulp grader.md)</td>
+      <td>&lt;span&gt;[pulp grader](pulp_grader.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>1</td>
       <td>0.111111</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>720</th>
-      <td>[art therapist](art therapist.md)</td>
+      <td>&lt;span&gt;[art therapist](art_therapist.md)&lt;/span&gt;</td>
       <td>52</td>
       <td>1</td>
       <td>0.111111</td>
       <td>51</td>
     </tr>
     <tr>
-      <th>827</th>
-      <td>[online marketer](online marketer.md)</td>
+      <td>&lt;span&gt;[online marketer](online_marketer.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>1</td>
       <td>0.111111</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2155</th>
-      <td>[copy editor](copy editor.md)</td>
+      <td>&lt;span&gt;[copy editor](copy_editor.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>1</td>
       <td>0.111111</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2168</th>
-      <td>[employment agent](employment agent.md)</td>
+      <td>&lt;span&gt;[employment agent](employment_agent.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>1</td>
       <td>0.111111</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2183</th>
-      <td>[quality engineer](quality engineer.md)</td>
+      <td>&lt;span&gt;[quality engineer](quality_engineer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>1</td>
       <td>0.111111</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2275</th>
-      <td>[court jury coordinator](court jury coordinator.md)</td>
+      <td>&lt;span&gt;[court jury coordinator](court_jury_coordinator.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>1</td>
       <td>0.111111</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2320</th>
-      <td>[intelligence officer](intelligence officer.md)</td>
+      <td>&lt;span&gt;[intelligence officer](intelligence_officer.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>1</td>
       <td>0.111111</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>955</th>
-      <td>[wastewater treatment technician](wastewater treatment technician.md)</td>
+      <td>&lt;span&gt;[wastewater treatment technician](wastewater_treatment_technician.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>1</td>
       <td>0.111111</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>574</th>
-      <td>[industrial maintenance supervisor](industrial maintenance supervisor.md)</td>
+      <td>&lt;span&gt;[industrial maintenance supervisor](industrial_maintenance_supervisor.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>1</td>
       <td>0.111111</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1905</th>
-      <td>[rescue centre manager](rescue centre manager.md)</td>
+      <td>&lt;span&gt;[rescue centre manager](rescue_centre_manager.md)&lt;/span&gt;</td>
       <td>76</td>
       <td>1</td>
       <td>0.111111</td>
       <td>75</td>
     </tr>
     <tr>
-      <th>1907</th>
-      <td>[social services manager](social services manager.md)</td>
+      <td>&lt;span&gt;[social services manager](social_services_manager.md)&lt;/span&gt;</td>
       <td>63</td>
       <td>1</td>
       <td>0.111111</td>
       <td>62</td>
     </tr>
     <tr>
-      <th>1910</th>
-      <td>[elderly home manager](elderly home manager.md)</td>
+      <td>&lt;span&gt;[elderly home manager](elderly_home_manager.md)&lt;/span&gt;</td>
       <td>68</td>
       <td>1</td>
       <td>0.111111</td>
       <td>67</td>
     </tr>
     <tr>
-      <th>1574</th>
-      <td>[weight loss consultant](weight loss consultant.md)</td>
+      <td>&lt;span&gt;[weight loss consultant](weight_loss_consultant.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>1</td>
       <td>0.111111</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1912</th>
-      <td>[child day care centre manager](child day care centre manager.md)</td>
+      <td>&lt;span&gt;[child day care centre manager](child_day_care_centre_manager.md)&lt;/span&gt;</td>
       <td>74</td>
       <td>1</td>
       <td>0.111111</td>
       <td>73</td>
     </tr>
     <tr>
-      <th>481</th>
-      <td>[call centre analyst](call centre analyst.md)</td>
+      <td>&lt;span&gt;[call centre analyst](call_centre_analyst.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>1</td>
       <td>0.111111</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>2454</th>
-      <td>[ICT test analyst](ICT test analyst.md)</td>
+      <td>&lt;span&gt;[ICT test analyst](ICT_test_analyst.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>1</td>
       <td>0.111111</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1028</th>
-      <td>[literature teacher secondary school](literature teacher secondary school.md)</td>
+      <td>&lt;span&gt;[literature teacher secondary school](literature_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>1</td>
       <td>0.111111</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1027</th>
-      <td>[university literature lecturer](university literature lecturer.md)</td>
+      <td>&lt;span&gt;[university literature lecturer](university_literature_lecturer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>1</td>
       <td>0.111111</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>1023</th>
-      <td>[juvenile correctional officer](juvenile correctional officer.md)</td>
+      <td>&lt;span&gt;[juvenile correctional officer](juvenile_correctional_officer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>1</td>
       <td>0.111111</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2438</th>
-      <td>[dance therapist](dance therapist.md)</td>
+      <td>&lt;span&gt;[dance therapist](dance_therapist.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>1</td>
       <td>0.111111</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>528</th>
-      <td>[ombudsman](ombudsman.md)</td>
+      <td>&lt;span&gt;[ombudsman](ombudsman.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>1</td>
       <td>0.111111</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2425</th>
-      <td>[broadcasting programme director](broadcasting programme director.md)</td>
+      <td>&lt;span&gt;[broadcasting programme director](broadcasting_programme_director.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>1</td>
       <td>0.111111</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>543</th>
-      <td>[non-destructive testing specialist](non-destructive testing specialist.md)</td>
+      <td>&lt;span&gt;[non-destructive testing specialist](non-destructive_testing_specialist.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>1</td>
       <td>0.111111</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1987</th>
-      <td>[educational psychologist](educational psychologist.md)</td>
+      <td>&lt;span&gt;[educational psychologist](educational_psychologist.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>1</td>
       <td>0.111111</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>91</th>
-      <td>[customer service representative](customer service representative.md)</td>
+      <td>&lt;span&gt;[customer service representative](customer_service_representative.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>1</td>
       <td>0.111111</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2192</th>
-      <td>[quality engineering technician](quality engineering technician.md)</td>
+      <td>&lt;span&gt;[quality engineering technician](quality_engineering_technician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>1</td>
       <td>0.111111</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2899</th>
-      <td>[ICT system tester](ICT system tester.md)</td>
+      <td>&lt;span&gt;[ICT system tester](ICT_system_tester.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>1</td>
       <td>0.111111</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2922</th>
-      <td>[writer](writer.md)</td>
+      <td>&lt;span&gt;[writer](writer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>1</td>
       <td>0.111111</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>68</th>
-      <td>[credit risk analyst](credit risk analyst.md)</td>
+      <td>&lt;span&gt;[credit risk analyst](credit_risk_analyst.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>1</td>
       <td>0.111111</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>22</th>
-      <td>[criminal justice social worker](criminal justice social worker.md)</td>
+      <td>&lt;span&gt;[criminal justice social worker](criminal_justice_social_worker.md)&lt;/span&gt;</td>
       <td>69</td>
       <td>1</td>
       <td>0.111111</td>
       <td>68</td>
     </tr>
     <tr>
-      <th>1559</th>
-      <td>[psychologist](psychologist.md)</td>
+      <td>&lt;span&gt;[psychologist](psychologist.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>1</td>
       <td>0.111111</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>39</th>
-      <td>[probation officer](probation officer.md)</td>
+      <td>&lt;span&gt;[probation officer](probation_officer.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>1</td>
       <td>0.111111</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>71</th>
-      <td>[specialist chiropractor](specialist chiropractor.md)</td>
+      <td>&lt;span&gt;[specialist chiropractor](specialist_chiropractor.md)&lt;/span&gt;</td>
       <td>75</td>
       <td>1</td>
       <td>0.111111</td>
       <td>74</td>
     </tr>
     <tr>
-      <th>2900</th>
-      <td>[ICT integration tester](ICT integration tester.md)</td>
+      <td>&lt;span&gt;[ICT integration tester](ICT_integration_tester.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>1</td>
       <td>0.111111</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2898</th>
-      <td>[digital games tester](digital games tester.md)</td>
+      <td>&lt;span&gt;[digital games tester](digital_games_tester.md)&lt;/span&gt;</td>
       <td>9</td>
       <td>1</td>
       <td>0.111111</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>2897</th>
-      <td>[software tester](software tester.md)</td>
+      <td>&lt;span&gt;[software tester](software_tester.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>1</td>
       <td>0.111111</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2871</th>
-      <td>[literary scholar](literary scholar.md)</td>
+      <td>&lt;span&gt;[literary scholar](literary_scholar.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>1</td>
       <td>0.111111</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1498</th>
-      <td>[mediator](mediator.md)</td>
+      <td>&lt;span&gt;[mediator](mediator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>1</td>
       <td>0.111111</td>

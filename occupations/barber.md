@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match barber</th>
@@ -14,520 +13,455 @@
   </thead>
   <tbody>
     <tr>
-      <th>1250</th>
-      <td>[hairdresser](hairdresser.md)</td>
+      <td>&lt;span&gt;[hairdresser](hairdresser.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>11</td>
       <td>0.6875</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>2019</th>
-      <td>[hairdresser assistant](hairdresser assistant.md)</td>
+      <td>&lt;span&gt;[hairdresser assistant](hairdresser_assistant.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>7</td>
       <td>0.4375</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>2028</th>
-      <td>[hair removal technician](hair removal technician.md)</td>
+      <td>&lt;span&gt;[hair removal technician](hair_removal_technician.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>4</td>
       <td>0.2500</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>1899</th>
-      <td>[personal stylist](personal stylist.md)</td>
+      <td>&lt;span&gt;[personal stylist](personal_stylist.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>4</td>
       <td>0.2500</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2057</th>
-      <td>[performance hairdresser](performance hairdresser.md)</td>
+      <td>&lt;span&gt;[performance hairdresser](performance_hairdresser.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.1875</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>877</th>
-      <td>[pedicurist](pedicurist.md)</td>
+      <td>&lt;span&gt;[pedicurist](pedicurist.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.1875</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1035</th>
-      <td>[life coach](life coach.md)</td>
+      <td>&lt;span&gt;[life coach](life_coach.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.1875</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2814</th>
-      <td>[medium](medium.md)</td>
+      <td>&lt;span&gt;[medium](medium.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.1875</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>878</th>
-      <td>[manicurist](manicurist.md)</td>
+      <td>&lt;span&gt;[manicurist](manicurist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.1875</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2263</th>
-      <td>[personal shopper](personal shopper.md)</td>
+      <td>&lt;span&gt;[personal shopper](personal_shopper.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.1875</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>876</th>
-      <td>[body artist](body artist.md)</td>
+      <td>&lt;span&gt;[body artist](body_artist.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.1875</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2035</th>
-      <td>[aesthetician](aesthetician.md)</td>
+      <td>&lt;span&gt;[aesthetician](aesthetician.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.1875</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2037</th>
-      <td>[terrazzo setter](terrazzo setter.md)</td>
+      <td>&lt;span&gt;[terrazzo setter](terrazzo_setter.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.1250</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>126</th>
-      <td>[ticket issuing clerk](ticket issuing clerk.md)</td>
+      <td>&lt;span&gt;[ticket issuing clerk](ticket_issuing_clerk.md)&lt;/span&gt;</td>
       <td>42</td>
       <td>2</td>
       <td>0.1250</td>
       <td>40</td>
     </tr>
     <tr>
-      <th>948</th>
-      <td>[handyman](handyman.md)</td>
+      <td>&lt;span&gt;[handyman](handyman.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.1250</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>128</th>
-      <td>[wedding planner](wedding planner.md)</td>
+      <td>&lt;span&gt;[wedding planner](wedding_planner.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.1250</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>642</th>
-      <td>[mobile phone repair technician](mobile phone repair technician.md)</td>
+      <td>&lt;span&gt;[mobile phone repair technician](mobile_phone_repair_technician.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.1250</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>462</th>
-      <td>[sports equipment repair technician](sports equipment repair technician.md)</td>
+      <td>&lt;span&gt;[sports equipment repair technician](sports_equipment_repair_technician.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.1250</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2014</th>
-      <td>[make-up artist](make-up artist.md)</td>
+      <td>&lt;span&gt;[make-up artist](make-up_artist.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>2</td>
       <td>0.1250</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>2400</th>
-      <td>[dating service consultant](dating service consultant.md)</td>
+      <td>&lt;span&gt;[dating service consultant](dating_service_consultant.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.1250</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1602</th>
-      <td>[cocktail bartender](cocktail bartender.md)</td>
+      <td>&lt;span&gt;[cocktail bartender](cocktail_bartender.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.1250</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>327</th>
-      <td>[fight director](fight director.md)</td>
+      <td>&lt;span&gt;[fight director](fight_director.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.1250</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2009</th>
-      <td>[set builder](set builder.md)</td>
+      <td>&lt;span&gt;[set builder](set_builder.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.1250</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>1460</th>
-      <td>[waiter/waitress](waiter-waitress.md)</td>
+      <td>&lt;span&gt;[waiter/waitress](waiter-waitress.md)&lt;/span&gt;</td>
       <td>30</td>
       <td>2</td>
       <td>0.1250</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>2056</th>
-      <td>[plasterer](plasterer.md)</td>
+      <td>&lt;span&gt;[plasterer](plasterer.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.1250</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>647</th>
-      <td>[household appliances repair technician](household appliances repair technician.md)</td>
+      <td>&lt;span&gt;[household appliances repair technician](household_appliances_repair_technician.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.1250</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2018</th>
-      <td>[scenic painter](scenic painter.md)</td>
+      <td>&lt;span&gt;[scenic painter](scenic_painter.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.1250</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2110</th>
-      <td>[toymaker](toymaker.md)</td>
+      <td>&lt;span&gt;[toymaker](toymaker.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.1250</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1586</th>
-      <td>[night auditor](night auditor.md)</td>
+      <td>&lt;span&gt;[night auditor](night_auditor.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.1250</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1251</th>
-      <td>[hair stylist](hair stylist.md)</td>
+      <td>&lt;span&gt;[hair stylist](hair_stylist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.1250</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1579</th>
-      <td>[bartender](bartender.md)</td>
+      <td>&lt;span&gt;[bartender](bartender.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.1250</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2044</th>
-      <td>[wig and hairpiece maker](wig and hairpiece maker.md)</td>
+      <td>&lt;span&gt;[wig and hairpiece maker](wig_and_hairpiece_maker.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.1250</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>651</th>
-      <td>[consumer electronics repair technician](consumer electronics repair technician.md)</td>
+      <td>&lt;span&gt;[consumer electronics repair technician](consumer_electronics_repair_technician.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.1250</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>221</th>
-      <td>[bicycle mechanic](bicycle mechanic.md)</td>
+      <td>&lt;span&gt;[bicycle mechanic](bicycle_mechanic.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.1250</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2032</th>
-      <td>[prop maker](prop maker.md)</td>
+      <td>&lt;span&gt;[prop maker](prop_maker.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>2</td>
       <td>0.1250</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>2648</th>
-      <td>[tote operator](tote operator.md)</td>
+      <td>&lt;span&gt;[tote operator](tote_operator.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.1250</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1126</th>
-      <td>[pyrotechnician](pyrotechnician.md)</td>
+      <td>&lt;span&gt;[pyrotechnician](pyrotechnician.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>2</td>
       <td>0.1250</td>
       <td>21</td>
     </tr>
     <tr>
-      <th>2875</th>
-      <td>[shoe repairer](shoe repairer.md)</td>
+      <td>&lt;span&gt;[shoe repairer](shoe_repairer.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.1250</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2030</th>
-      <td>[road marker](road marker.md)</td>
+      <td>&lt;span&gt;[road marker](road_marker.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.1250</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>99</th>
-      <td>[travel consultant](travel consultant.md)</td>
+      <td>&lt;span&gt;[travel consultant](travel_consultant.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.1250</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>1399</th>
-      <td>[masseur/masseuse](masseur-masseuse.md)</td>
+      <td>&lt;span&gt;[masseur/masseuse](masseur-masseuse.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.1250</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>101</th>
-      <td>[spa attendant](spa attendant.md)</td>
+      <td>&lt;span&gt;[spa attendant](spa_attendant.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.1250</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2450</th>
-      <td>[psychic](psychic.md)</td>
+      <td>&lt;span&gt;[psychic](psychic.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.1250</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>1172</th>
-      <td>[road construction worker](road construction worker.md)</td>
+      <td>&lt;span&gt;[road construction worker](road_construction_worker.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.1250</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2046</th>
-      <td>[mask maker](mask maker.md)</td>
+      <td>&lt;span&gt;[mask maker](mask_maker.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.1250</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>1424</th>
-      <td>[ticket sales agent](ticket sales agent.md)</td>
+      <td>&lt;span&gt;[ticket sales agent](ticket_sales_agent.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.1250</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>1105</th>
-      <td>[gunsmith](gunsmith.md)</td>
+      <td>&lt;span&gt;[gunsmith](gunsmith.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>2</td>
       <td>0.1250</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>305</th>
-      <td>[head of workshop](head of workshop.md)</td>
+      <td>&lt;span&gt;[head of workshop](head_of_workshop.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.1250</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>1107</th>
-      <td>[travel agent](travel agent.md)</td>
+      <td>&lt;span&gt;[travel agent](travel_agent.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.1250</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>2449</th>
-      <td>[fortune teller](fortune teller.md)</td>
+      <td>&lt;span&gt;[fortune teller](fortune_teller.md)&lt;/span&gt;</td>
       <td>11</td>
       <td>2</td>
       <td>0.1250</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>2448</th>
-      <td>[astrologer](astrologer.md)</td>
+      <td>&lt;span&gt;[astrologer](astrologer.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>2</td>
       <td>0.1250</td>
       <td>8</td>
     </tr>
     <tr>
-      <th>413</th>
-      <td>[head waiter/head waitress](head waiter-head waitress.md)</td>
+      <td>&lt;span&gt;[head waiter/head waitress](head_waiter-head_waitress.md)&lt;/span&gt;</td>
       <td>35</td>
       <td>2</td>
       <td>0.1250</td>
       <td>33</td>
     </tr>
     <tr>
-      <th>2002</th>
-      <td>[construction painter](construction painter.md)</td>
+      <td>&lt;span&gt;[construction painter](construction_painter.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.1250</td>
       <td>19</td>
     </tr>
     <tr>
-      <th>584</th>
-      <td>[office equipment repair technician](office equipment repair technician.md)</td>
+      <td>&lt;span&gt;[office equipment repair technician](office_equipment_repair_technician.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.1250</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1327</th>
-      <td>[instrument technician](instrument technician.md)</td>
+      <td>&lt;span&gt;[instrument technician](instrument_technician.md)&lt;/span&gt;</td>
       <td>27</td>
       <td>2</td>
       <td>0.1250</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1187</th>
-      <td>[power tool repair technician](power tool repair technician.md)</td>
+      <td>&lt;span&gt;[power tool repair technician](power_tool_repair_technician.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.1250</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>1196</th>
-      <td>[beauty salon attendant](beauty salon attendant.md)</td>
+      <td>&lt;span&gt;[beauty salon attendant](beauty_salon_attendant.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>2</td>
       <td>0.1250</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>426</th>
-      <td>[jewellery repairer](jewellery repairer.md)</td>
+      <td>&lt;span&gt;[jewellery repairer](jewellery_repairer.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.1250</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1176</th>
-      <td>[watch and clock repairer](watch and clock repairer.md)</td>
+      <td>&lt;span&gt;[watch and clock repairer](watch_and_clock_repairer.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.1250</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>689</th>
-      <td>[companion](companion.md)</td>
+      <td>&lt;span&gt;[companion](companion.md)&lt;/span&gt;</td>
       <td>15</td>
       <td>2</td>
       <td>0.1250</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1192</th>
-      <td>[tanning consultant](tanning consultant.md)</td>
+      <td>&lt;span&gt;[tanning consultant](tanning_consultant.md)&lt;/span&gt;</td>
       <td>8</td>
       <td>2</td>
       <td>0.1250</td>
       <td>6</td>
     </tr>
     <tr>
-      <th>2043</th>
-      <td>[costume maker](costume maker.md)</td>
+      <td>&lt;span&gt;[costume maker](costume_maker.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>2</td>
       <td>0.1250</td>
       <td>26</td>
     </tr>
     <tr>
-      <th>592</th>
-      <td>[computer hardware repair technician](computer hardware repair technician.md)</td>
+      <td>&lt;span&gt;[computer hardware repair technician](computer_hardware_repair_technician.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.1250</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1455</th>
-      <td>[quick service restaurant crew member](quick service restaurant crew member.md)</td>
+      <td>&lt;span&gt;[quick service restaurant crew member](quick_service_restaurant_crew_member.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>2</td>
       <td>0.1250</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1416</th>
-      <td>[massage therapist](massage therapist.md)</td>
+      <td>&lt;span&gt;[massage therapist](massage_therapist.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>2</td>
       <td>0.1250</td>

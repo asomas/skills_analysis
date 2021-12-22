@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match roustabout</th>
@@ -14,104 +13,91 @@
   </thead>
   <tbody>
     <tr>
-      <th>1671</th>
-      <td>[drainage worker](drainage worker.md)</td>
+      <td>&lt;span&gt;[drainage worker](drainage_worker.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.1875</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2241</th>
-      <td>[diesel engine mechanic](diesel engine mechanic.md)</td>
+      <td>&lt;span&gt;[diesel engine mechanic](diesel_engine_mechanic.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.1875</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>2519</th>
-      <td>[aircraft gas turbine engine overhaul technician](aircraft gas turbine engine overhaul technician.md)</td>
+      <td>&lt;span&gt;[aircraft gas turbine engine overhaul technician](aircraft_gas_turbine_engine_overhaul_technician.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.1875</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>264</th>
-      <td>[roughneck](roughneck.md)</td>
+      <td>&lt;span&gt;[roughneck](roughneck.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.1875</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1495</th>
-      <td>[oil rig motorhand](oil rig motorhand.md)</td>
+      <td>&lt;span&gt;[oil rig motorhand](oil_rig_motorhand.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.1250</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2082</th>
-      <td>[underground heavy equipment operator](underground heavy equipment operator.md)</td>
+      <td>&lt;span&gt;[underground heavy equipment operator](underground_heavy_equipment_operator.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>2</td>
       <td>0.1250</td>
       <td>12</td>
     </tr>
     <tr>
-      <th>2029</th>
-      <td>[sewer construction worker](sewer construction worker.md)</td>
+      <td>&lt;span&gt;[sewer construction worker](sewer_construction_worker.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>2</td>
       <td>0.1250</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>2499</th>
-      <td>[surface mine plant operator](surface mine plant operator.md)</td>
+      <td>&lt;span&gt;[surface mine plant operator](surface_mine_plant_operator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>2</td>
       <td>0.1250</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>257</th>
-      <td>[derrickhand](derrickhand.md)</td>
+      <td>&lt;span&gt;[derrickhand](derrickhand.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>2</td>
       <td>0.1250</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>2521</th>
-      <td>[motor vehicle engine assembler](motor vehicle engine assembler.md)</td>
+      <td>&lt;span&gt;[motor vehicle engine assembler](motor_vehicle_engine_assembler.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.1250</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1165</th>
-      <td>[motor vehicle assembler](motor vehicle assembler.md)</td>
+      <td>&lt;span&gt;[motor vehicle assembler](motor_vehicle_assembler.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>2</td>
       <td>0.1250</td>
       <td>24</td>
     </tr>
     <tr>
-      <th>2520</th>
-      <td>[vessel engine assembler](vessel engine assembler.md)</td>
+      <td>&lt;span&gt;[vessel engine assembler](vessel_engine_assembler.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>2</td>
       <td>0.1250</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2518</th>
-      <td>[aircraft engine assembler](aircraft engine assembler.md)</td>
+      <td>&lt;span&gt;[aircraft engine assembler](aircraft_engine_assembler.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>2</td>
       <td>0.1250</td>

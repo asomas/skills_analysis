@@ -4,7 +4,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>occupation</th>
       <th>skills in this occupation</th>
       <th>skills that match headteacher</th>
@@ -14,512 +13,448 @@
   </thead>
   <tbody>
     <tr>
-      <th>918</th>
-      <td>[primary school head teacher](primary school head teacher.md)</td>
+      <td>&lt;span&gt;[primary school head teacher](primary_school_head_teacher.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>11</td>
       <td>0.44</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>914</th>
-      <td>[secondary school head teacher](secondary school head teacher.md)</td>
+      <td>&lt;span&gt;[secondary school head teacher](secondary_school_head_teacher.md)&lt;/span&gt;</td>
       <td>24</td>
       <td>11</td>
       <td>0.44</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>917</th>
-      <td>[nursery school head teacher](nursery school head teacher.md)</td>
+      <td>&lt;span&gt;[nursery school head teacher](nursery_school_head_teacher.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>10</td>
       <td>0.40</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>910</th>
-      <td>[special educational needs head teacher](special educational needs head teacher.md)</td>
+      <td>&lt;span&gt;[special educational needs head teacher](special_educational_needs_head_teacher.md)&lt;/span&gt;</td>
       <td>26</td>
       <td>10</td>
       <td>0.40</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>911</th>
-      <td>[deputy head teacher](deputy head teacher.md)</td>
+      <td>&lt;span&gt;[deputy head teacher](deputy_head_teacher.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>10</td>
       <td>0.40</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>367</th>
-      <td>[education administrator](education administrator.md)</td>
+      <td>&lt;span&gt;[education administrator](education_administrator.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>9</td>
       <td>0.36</td>
       <td>3</td>
     </tr>
     <tr>
-      <th>912</th>
-      <td>[further education principal](further education principal.md)</td>
+      <td>&lt;span&gt;[further education principal](further_education_principal.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>9</td>
       <td>0.36</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>920</th>
-      <td>[dean of faculty](dean of faculty.md)</td>
+      <td>&lt;span&gt;[dean of faculty](dean_of_faculty.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>9</td>
       <td>0.36</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>908</th>
-      <td>[head of higher education institutions](head of higher education institutions.md)</td>
+      <td>&lt;span&gt;[head of higher education institutions](head_of_higher_education_institutions.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>8</td>
       <td>0.32</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>370</th>
-      <td>[bank treasurer](bank treasurer.md)</td>
+      <td>&lt;span&gt;[bank treasurer](bank_treasurer.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>7</td>
       <td>0.28</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>919</th>
-      <td>[secondary school department head](secondary school department head.md)</td>
+      <td>&lt;span&gt;[secondary school department head](secondary_school_department_head.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>6</td>
       <td>0.24</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>206</th>
-      <td>[university department head](university department head.md)</td>
+      <td>&lt;span&gt;[university department head](university_department_head.md)&lt;/span&gt;</td>
       <td>22</td>
       <td>6</td>
       <td>0.24</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>913</th>
-      <td>[academic support officer](academic support officer.md)</td>
+      <td>&lt;span&gt;[academic support officer](academic_support_officer.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.20</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>1418</th>
-      <td>[insurance clerk](insurance clerk.md)</td>
+      <td>&lt;span&gt;[insurance clerk](insurance_clerk.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>5</td>
       <td>0.20</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>66</th>
-      <td>[credit manager](credit manager.md)</td>
+      <td>&lt;span&gt;[credit manager](credit_manager.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>5</td>
       <td>0.20</td>
       <td>23</td>
     </tr>
     <tr>
-      <th>906</th>
-      <td>[special educational needs coordinator](special educational needs coordinator.md)</td>
+      <td>&lt;span&gt;[special educational needs coordinator](special_educational_needs_coordinator.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>5</td>
       <td>0.20</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2670</th>
-      <td>[investment clerk](investment clerk.md)</td>
+      <td>&lt;span&gt;[investment clerk](investment_clerk.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>5</td>
       <td>0.20</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>361</th>
-      <td>[property assistant](property assistant.md)</td>
+      <td>&lt;span&gt;[property assistant](property_assistant.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>4</td>
       <td>0.16</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>915</th>
-      <td>[educational researcher](educational researcher.md)</td>
+      <td>&lt;span&gt;[educational researcher](educational_researcher.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.16</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>921</th>
-      <td>[education policy officer](education policy officer.md)</td>
+      <td>&lt;span&gt;[education policy officer](education_policy_officer.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.16</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2423</th>
-      <td>[bank manager](bank manager.md)</td>
+      <td>&lt;span&gt;[bank manager](bank_manager.md)&lt;/span&gt;</td>
       <td>33</td>
       <td>4</td>
       <td>0.16</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1038</th>
-      <td>[budget manager](budget manager.md)</td>
+      <td>&lt;span&gt;[budget manager](budget_manager.md)&lt;/span&gt;</td>
       <td>29</td>
       <td>4</td>
       <td>0.16</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1909</th>
-      <td>[elderly home manager](elderly home manager.md)</td>
+      <td>&lt;span&gt;[elderly home manager](elderly_home_manager.md)&lt;/span&gt;</td>
       <td>68</td>
       <td>4</td>
       <td>0.16</td>
       <td>64</td>
     </tr>
     <tr>
-      <th>2334</th>
-      <td>[translation agency manager](translation agency manager.md)</td>
+      <td>&lt;span&gt;[translation agency manager](translation_agency_manager.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>4</td>
       <td>0.16</td>
       <td>27</td>
     </tr>
     <tr>
-      <th>1176</th>
-      <td>[middle office analyst](middle office analyst.md)</td>
+      <td>&lt;span&gt;[middle office analyst](middle_office_analyst.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.16</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>290</th>
-      <td>[auction house manager](auction house manager.md)</td>
+      <td>&lt;span&gt;[auction house manager](auction_house_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>4</td>
       <td>0.16</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>1344</th>
-      <td>[archive manager](archive manager.md)</td>
+      <td>&lt;span&gt;[archive manager](archive_manager.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.12</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1914</th>
-      <td>[academic advisor](academic advisor.md)</td>
+      <td>&lt;span&gt;[academic advisor](academic_advisor.md)&lt;/span&gt;</td>
       <td>14</td>
       <td>3</td>
       <td>0.12</td>
       <td>11</td>
     </tr>
     <tr>
-      <th>2813</th>
-      <td>[career guidance advisor](career guidance advisor.md)</td>
+      <td>&lt;span&gt;[career guidance advisor](career_guidance_advisor.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.12</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2420</th>
-      <td>[producer](producer.md)</td>
+      <td>&lt;span&gt;[producer](producer.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>3</td>
       <td>0.12</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>319</th>
-      <td>[cultural centre director](cultural centre director.md)</td>
+      <td>&lt;span&gt;[cultural centre director](cultural_centre_director.md)&lt;/span&gt;</td>
       <td>31</td>
       <td>3</td>
       <td>0.12</td>
       <td>28</td>
     </tr>
     <tr>
-      <th>854</th>
-      <td>[education programme coordinator](education programme coordinator.md)</td>
+      <td>&lt;span&gt;[education programme coordinator](education_programme_coordinator.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.12</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>317</th>
-      <td>[programme manager](programme manager.md)</td>
+      <td>&lt;span&gt;[programme manager](programme_manager.md)&lt;/span&gt;</td>
       <td>23</td>
       <td>3</td>
       <td>0.12</td>
       <td>20</td>
     </tr>
     <tr>
-      <th>909</th>
-      <td>[ICT teacher secondary school](ICT teacher secondary school.md)</td>
+      <td>&lt;span&gt;[ICT teacher secondary school](ICT_teacher_secondary_school.md)&lt;/span&gt;</td>
       <td>37</td>
       <td>3</td>
       <td>0.12</td>
       <td>34</td>
     </tr>
     <tr>
-      <th>1943</th>
-      <td>[rail operations manager](rail operations manager.md)</td>
+      <td>&lt;span&gt;[rail operations manager](rail_operations_manager.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.12</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>437</th>
-      <td>[research and development manager](research and development manager.md)</td>
+      <td>&lt;span&gt;[research and development manager](research_and_development_manager.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.12</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>2755</th>
-      <td>[defence administration officer](defence administration officer.md)</td>
+      <td>&lt;span&gt;[defence administration officer](defence_administration_officer.md)&lt;/span&gt;</td>
       <td>12</td>
       <td>3</td>
       <td>0.12</td>
       <td>9</td>
     </tr>
     <tr>
-      <th>1686</th>
-      <td>[education studies lecturer](education studies lecturer.md)</td>
+      <td>&lt;span&gt;[education studies lecturer](education_studies_lecturer.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.12</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>2308</th>
-      <td>[office manager](office manager.md)</td>
+      <td>&lt;span&gt;[office manager](office_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.12</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>2433</th>
-      <td>[provincial governor](provincial governor.md)</td>
+      <td>&lt;span&gt;[provincial governor](provincial_governor.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>3</td>
       <td>0.12</td>
       <td>7</td>
     </tr>
     <tr>
-      <th>449</th>
-      <td>[public administration manager](public administration manager.md)</td>
+      <td>&lt;span&gt;[public administration manager](public_administration_manager.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.12</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2309</th>
-      <td>[pipeline superintendent](pipeline superintendent.md)</td>
+      <td>&lt;span&gt;[pipeline superintendent](pipeline superintendent.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.12</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>295</th>
-      <td>[lottery manager](lottery manager.md)</td>
+      <td>&lt;span&gt;[lottery manager](lottery_manager.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>3</td>
       <td>0.12</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>293</th>
-      <td>[zoo curator](zoo curator.md)</td>
+      <td>&lt;span&gt;[zoo curator](zoo_curator.md)&lt;/span&gt;</td>
       <td>47</td>
       <td>3</td>
       <td>0.12</td>
       <td>44</td>
     </tr>
     <tr>
-      <th>1777</th>
-      <td>[business administration vocational teacher](business administration vocational teacher.md)</td>
+      <td>&lt;span&gt;[business administration vocational teacher](business_administration_vocational_teacher.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>3</td>
       <td>0.12</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1199</th>
-      <td>[insurance agency manager](insurance agency manager.md)</td>
+      <td>&lt;span&gt;[insurance agency manager](insurance_agency_manager.md)&lt;/span&gt;</td>
       <td>37</td>
       <td>3</td>
       <td>0.12</td>
       <td>34</td>
     </tr>
     <tr>
-      <th>622</th>
-      <td>[rental manager](rental manager.md)</td>
+      <td>&lt;span&gt;[rental manager](rental_manager.md)&lt;/span&gt;</td>
       <td>21</td>
       <td>3</td>
       <td>0.12</td>
       <td>18</td>
     </tr>
     <tr>
-      <th>104</th>
-      <td>[beauty salon manager](beauty salon manager.md)</td>
+      <td>&lt;span&gt;[beauty salon manager](beauty_salon_manager.md)&lt;/span&gt;</td>
       <td>44</td>
       <td>3</td>
       <td>0.12</td>
       <td>41</td>
     </tr>
     <tr>
-      <th>511</th>
-      <td>[accommodation manager](accommodation manager.md)</td>
+      <td>&lt;span&gt;[accommodation manager](accommodation_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.12</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>929</th>
-      <td>[betting manager](betting manager.md)</td>
+      <td>&lt;span&gt;[betting manager](betting_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>3</td>
       <td>0.12</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>933</th>
-      <td>[parliamentary assistant](parliamentary assistant.md)</td>
+      <td>&lt;span&gt;[parliamentary assistant](parliamentary_assistant.md)&lt;/span&gt;</td>
       <td>28</td>
       <td>3</td>
       <td>0.12</td>
       <td>25</td>
     </tr>
     <tr>
-      <th>1414</th>
-      <td>[move manager](move manager.md)</td>
+      <td>&lt;span&gt;[move manager](move_manager.md)&lt;/span&gt;</td>
       <td>20</td>
       <td>3</td>
       <td>0.12</td>
       <td>17</td>
     </tr>
     <tr>
-      <th>1454</th>
-      <td>[funeral services director](funeral services director.md)</td>
+      <td>&lt;span&gt;[funeral services director](funeral_services_director.md)&lt;/span&gt;</td>
       <td>19</td>
       <td>3</td>
       <td>0.12</td>
       <td>16</td>
     </tr>
     <tr>
-      <th>1910</th>
-      <td>[youth centre manager](youth centre manager.md)</td>
+      <td>&lt;span&gt;[youth centre manager](youth_centre_manager.md)&lt;/span&gt;</td>
       <td>71</td>
       <td>3</td>
       <td>0.12</td>
       <td>68</td>
     </tr>
     <tr>
-      <th>1189</th>
-      <td>[corporate training manager](corporate training manager.md)</td>
+      <td>&lt;span&gt;[corporate training manager](corporate_training_manager.md)&lt;/span&gt;</td>
       <td>34</td>
       <td>3</td>
       <td>0.12</td>
       <td>31</td>
     </tr>
     <tr>
-      <th>365</th>
-      <td>[real estate manager](real estate manager.md)</td>
+      <td>&lt;span&gt;[real estate manager](real_estate_manager.md)&lt;/span&gt;</td>
       <td>32</td>
       <td>3</td>
       <td>0.12</td>
       <td>29</td>
     </tr>
     <tr>
-      <th>1968</th>
-      <td>[library manager](library manager.md)</td>
+      <td>&lt;span&gt;[library manager](library_manager.md)&lt;/span&gt;</td>
       <td>17</td>
       <td>3</td>
       <td>0.12</td>
       <td>14</td>
     </tr>
     <tr>
-      <th>366</th>
-      <td>[bank teller](bank teller.md)</td>
+      <td>&lt;span&gt;[bank teller](bank_teller.md)&lt;/span&gt;</td>
       <td>13</td>
       <td>3</td>
       <td>0.12</td>
       <td>10</td>
     </tr>
     <tr>
-      <th>1505</th>
-      <td>[police commissioner](police commissioner.md)</td>
+      <td>&lt;span&gt;[police commissioner](police_commissioner.md)&lt;/span&gt;</td>
       <td>18</td>
       <td>3</td>
       <td>0.12</td>
       <td>15</td>
     </tr>
     <tr>
-      <th>2333</th>
-      <td>[interpretation agency manager](interpretation agency manager.md)</td>
+      <td>&lt;span&gt;[interpretation agency manager](interpretation_agency_manager.md)&lt;/span&gt;</td>
       <td>25</td>
       <td>3</td>
       <td>0.12</td>
       <td>22</td>
     </tr>
     <tr>
-      <th>1036</th>
-      <td>[branch manager](branch manager.md)</td>
+      <td>&lt;span&gt;[branch manager](branch_manager.md)&lt;/span&gt;</td>
       <td>48</td>
       <td>3</td>
       <td>0.12</td>
       <td>45</td>
     </tr>
     <tr>
-      <th>2669</th>
-      <td>[back office specialist](back office specialist.md)</td>
+      <td>&lt;span&gt;[back office specialist](back_office_specialist.md)&lt;/span&gt;</td>
       <td>16</td>
       <td>3</td>
       <td>0.12</td>
       <td>13</td>
     </tr>
     <tr>
-      <th>2916</th>
-      <td>[financial markets back office administrator](financial markets back office administrator.md)</td>
+      <td>&lt;span&gt;[financial markets back office administrator](financial_markets_back_office_administrator.md)&lt;/span&gt;</td>
       <td>8</td>
       <td>3</td>
       <td>0.12</td>
       <td>5</td>
     </tr>
     <tr>
-      <th>2917</th>
-      <td>[foreign exchange cashier](foreign exchange cashier.md)</td>
+      <td>&lt;span&gt;[foreign exchange cashier](foreign_exchange_cashier.md)&lt;/span&gt;</td>
       <td>10</td>
       <td>3</td>
       <td>0.12</td>
