@@ -1,6 +1,6 @@
-#Occupation knitter
-##Number skills 10
-###Similar occupations:
+# Occupation knitter
+## Number skills 10
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match knitter |   percentage match with knitter |   skills not in knitter |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [knitting machine operator](knitting_machine_operator.md)                               |                          20 |                           7 |                             0.7 |                      13 |

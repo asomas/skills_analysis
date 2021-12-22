@@ -1,6 +1,6 @@
-#Occupation design engineer
-##Number skills 16
-###Similar occupations:
+# Occupation design engineer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match design engineer |   percentage match with design engineer |   skills not in design engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [equipment engineer](equipment_engineer.md)                                                                                                 |                          15 |                                  13 |                                  0.8125 |                               2 |

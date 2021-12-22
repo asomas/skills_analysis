@@ -1,6 +1,6 @@
-#Occupation university research assistant
-##Number skills 12
-###Similar occupations:
+# Occupation university research assistant
+## Number skills 12
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match university research assistant |   percentage match with university research assistant |   skills not in university research assistant |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [thanatology researcher](thanatology_researcher.md)                         |                          12 |                                                 4 |                                              0.333333 |                                             8 |

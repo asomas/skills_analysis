@@ -1,6 +1,6 @@
-#Occupation banking products manager
-##Number skills 27
-###Similar occupations:
+# Occupation banking products manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match banking products manager |   percentage match with banking products manager |   skills not in banking products manager |
 |:--------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [insurance product manager](insurance_product_manager.md)                                   |                          27 |                                           16 |                                         0.592593 |                                       11 |

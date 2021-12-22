@@ -1,6 +1,6 @@
-#Occupation election agent
-##Number skills 10
-###Similar occupations:
+# Occupation election agent
+## Number skills 10
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match election agent |   percentage match with election agent |   skills not in election agent |
 |:--------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [political party agent](political_party_agent.md)                         |                          10 |                                  5 |                                    0.5 |                              5 |

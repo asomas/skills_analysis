@@ -1,6 +1,6 @@
-#Occupation wine fermenter
-##Number skills 17
-###Similar occupations:
+# Occupation wine fermenter
+## Number skills 17
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match wine fermenter |   percentage match with wine fermenter |   skills not in wine fermenter |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [oenologist](oenologist.md)                                                             |                          34 |                                 11 |                               0.647059 |                             23 |

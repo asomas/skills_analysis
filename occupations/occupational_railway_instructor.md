@@ -1,6 +1,6 @@
-#Occupation occupational railway instructor
-##Number skills 20
-###Similar occupations:
+# Occupation occupational railway instructor
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match occupational railway instructor |   percentage match with occupational railway instructor |   skills not in occupational railway instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [business and marketing vocational teacher](business_and_marketing_vocational_teacher.md)                             |                          27 |                                                  12 |                                                    0.6  |                                              15 |

@@ -1,6 +1,6 @@
-#Occupation hand luggage inspector
-##Number skills 15
-###Similar occupations:
+# Occupation hand luggage inspector
+## Number skills 15
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match hand luggage inspector |   percentage match with hand luggage inspector |   skills not in hand luggage inspector |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [security guard](security_guard.md)                                               |                          19 |                                          9 |                                       0.6      |                                     10 |

@@ -1,6 +1,6 @@
-#Occupation central bank governor
-##Number skills 17
-###Similar occupations:
+# Occupation central bank governor
+## Number skills 17
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match central bank governor |   percentage match with central bank governor |   skills not in central bank governor |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [foreign exchange broker](foreign_exchange_broker.md)                           |                          13 |                                         6 |                                      0.352941 |                                     7 |

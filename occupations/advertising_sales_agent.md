@@ -1,6 +1,6 @@
-#Occupation advertising sales agent
-##Number skills 26
-###Similar occupations:
+# Occupation advertising sales agent
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match advertising sales agent |   percentage match with advertising sales agent |   skills not in advertising sales agent |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [commercial sales representative](commercial_sales_representative.md)                                                                                             |                          30 |                                          23 |                                        0.884615 |                                       7 |

@@ -1,6 +1,6 @@
-#Occupation quarry manager
-##Number skills 20
-###Similar occupations:
+# Occupation quarry manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match quarry manager |   percentage match with quarry manager |   skills not in quarry manager |
 |:----------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [mine manager](mine_manager.md)                                       |                          28 |                                 17 |                                   0.85 |                             11 |

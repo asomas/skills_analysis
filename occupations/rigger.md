@@ -1,6 +1,6 @@
-#Occupation rigger
-##Number skills 16
-###Similar occupations:
+# Occupation rigger
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match rigger |   percentage match with rigger |   skills not in rigger |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [tower crane operator](tower_crane_operator.md)                                                                                                                       |                          15 |                         13 |                         0.8125 |                      2 |

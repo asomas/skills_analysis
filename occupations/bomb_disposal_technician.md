@@ -1,6 +1,6 @@
-#Occupation bomb disposal technician
-##Number skills 13
-###Similar occupations:
+# Occupation bomb disposal technician
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match bomb disposal technician |   percentage match with bomb disposal technician |   skills not in bomb disposal technician |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [special forces officer](special_forces_officer.md)                                           |                          22 |                                            4 |                                         0.307692 |                                       18 |

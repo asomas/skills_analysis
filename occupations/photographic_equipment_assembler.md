@@ -1,6 +1,6 @@
-#Occupation photographic equipment assembler
-##Number skills 31
-###Similar occupations:
+# Occupation photographic equipment assembler
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match photographic equipment assembler |   percentage match with photographic equipment assembler |   skills not in photographic equipment assembler |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [optical instrument assembler](optical_instrument_assembler.md)                           |                          28 |                                                   24 |                                                 0.774194 |                                                4 |

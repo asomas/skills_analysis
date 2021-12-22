@@ -1,6 +1,6 @@
-#Occupation mediation and education manager
-##Number skills 11
-###Similar occupations:
+# Occupation mediation and education manager
+## Number skills 11
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match mediation and education manager |   percentage match with mediation and education manager |   skills not in mediation and education manager |
 |:--------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [arts education officer](arts_education_officer.md)                 |                           9 |                                                   7 |                                                0.636364 |                                               2 |

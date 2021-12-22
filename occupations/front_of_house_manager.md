@@ -1,6 +1,6 @@
-#Occupation front of house manager
-##Number skills 13
-###Similar occupations:
+# Occupation front of house manager
+## Number skills 13
+### Similar occupations:
 | occupation                                            |   skills in this occupation |   skills that match front of house manager |   percentage match with front of house manager |   skills not in front of house manager |
 |:------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [stage manager](stage_manager.md)                     |                          27 |                                          4 |                                       0.307692 |                                     23 |

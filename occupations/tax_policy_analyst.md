@@ -1,6 +1,6 @@
-#Occupation tax policy analyst
-##Number skills 17
-###Similar occupations:
+# Occupation tax policy analyst
+## Number skills 17
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match tax policy analyst |   percentage match with tax policy analyst |   skills not in tax policy analyst |
 |:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [economic adviser](economic_adviser.md)                                               |                          22 |                                      8 |                                   0.470588 |                                 14 |

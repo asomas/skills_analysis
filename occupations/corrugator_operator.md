@@ -1,6 +1,6 @@
-#Occupation corrugator operator
-##Number skills 13
-###Similar occupations:
+# Occupation corrugator operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match corrugator operator |   percentage match with corrugator operator |   skills not in corrugator operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [tissue paper perforating and rewinding operator](tissue_paper_perforating_and_rewinding_operator.md) |                          15 |                                      10 |                                    0.769231 |                                   5 |

@@ -1,6 +1,6 @@
-#Occupation kinesiologist
-##Number skills 18
-###Similar occupations:
+# Occupation kinesiologist
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match kinesiologist |   percentage match with kinesiologist |   skills not in kinesiologist |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [physiologist](physiologist.md)                                                                             |                          13 |                                10 |                              0.555556 |                             3 |

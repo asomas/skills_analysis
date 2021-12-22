@@ -1,6 +1,6 @@
-#Occupation spokesperson
-##Number skills 15
-###Similar occupations:
+# Occupation spokesperson
+## Number skills 15
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match spokesperson |   percentage match with spokesperson |   skills not in spokesperson |
 |:--------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [public relations officer](public_relations_officer.md)                   |                          23 |                               15 |                             1        |                            8 |

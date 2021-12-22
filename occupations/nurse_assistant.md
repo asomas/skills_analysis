@@ -1,6 +1,6 @@
-#Occupation nurse assistant
-##Number skills 37
-###Similar occupations:
+# Occupation nurse assistant
+## Number skills 37
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match nurse assistant |   percentage match with nurse assistant |   skills not in nurse assistant |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [nurse responsible for general care](nurse_responsible_for_general_care.md)                                 |                          90 |                                  31 |                                0.837838 |                              59 |

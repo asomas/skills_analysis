@@ -1,6 +1,6 @@
-#Occupation dairy processing operator
-##Number skills 27
-###Similar occupations:
+# Occupation dairy processing operator
+## Number skills 27
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match dairy processing operator |   percentage match with dairy processing operator |   skills not in dairy processing operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [milk reception operator](milk_reception_operator.md)                                   |                          22 |                                            15 |                                          0.555556 |                                         7 |

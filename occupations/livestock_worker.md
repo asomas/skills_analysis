@@ -1,6 +1,6 @@
-#Occupation livestock worker
-##Number skills 14
-###Similar occupations:
+# Occupation livestock worker
+## Number skills 14
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match livestock worker |   percentage match with livestock worker |   skills not in livestock worker |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [groom](groom.md)                                                                 |                          26 |                                   10 |                                 0.714286 |                               16 |

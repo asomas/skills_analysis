@@ -1,6 +1,6 @@
-#Occupation corrosion technician
-##Number skills 19
-###Similar occupations:
+# Occupation corrosion technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match corrosion technician |   percentage match with corrosion technician |   skills not in corrosion technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [chemical engineering technician](chemical_engineering_technician.md)                                                                       |                          22 |                                        8 |                                     0.421053 |                                   14 |

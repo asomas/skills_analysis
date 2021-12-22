@@ -1,6 +1,6 @@
-#Occupation dairy products maker
-##Number skills 13
-###Similar occupations:
+# Occupation dairy products maker
+## Number skills 13
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match dairy products maker |   percentage match with dairy products maker |   skills not in dairy products maker |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [dairy products manufacturing worker](dairy_products_manufacturing_worker.md)           |                          27 |                                        8 |                                     0.615385 |                                   19 |

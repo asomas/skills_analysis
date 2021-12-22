@@ -1,6 +1,6 @@
-#Occupation aerospace engineering technician
-##Number skills 19
-###Similar occupations:
+# Occupation aerospace engineering technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match aerospace engineering technician |   percentage match with aerospace engineering technician |   skills not in aerospace engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [rolling stock engineering technician](rolling_stock_engineering_technician.md)                                                                         |                          16 |                                                   15 |                                                 0.789474 |                                                1 |

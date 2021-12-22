@@ -1,6 +1,6 @@
-#Occupation digital games designer
-##Number skills 17
-###Similar occupations:
+# Occupation digital games designer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match digital games designer |   percentage match with digital games designer |   skills not in digital games designer |
 |:--------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [ICT intelligent systems designer](ICT_intelligent_systems_designer.md)   |                          22 |                                          7 |                                       0.411765 |                                     15 |

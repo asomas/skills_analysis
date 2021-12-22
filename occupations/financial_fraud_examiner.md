@@ -1,6 +1,6 @@
-#Occupation financial fraud examiner
-##Number skills 14
-###Similar occupations:
+# Occupation financial fraud examiner
+## Number skills 14
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match financial fraud examiner |   percentage match with financial fraud examiner |   skills not in financial fraud examiner |
 |:----------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [insurance claims manager](insurance_claims_manager.md)         |                          24 |                                            5 |                                         0.357143 |                                       19 |

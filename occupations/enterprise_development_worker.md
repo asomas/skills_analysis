@@ -1,6 +1,6 @@
-#Occupation enterprise development worker
-##Number skills 66
-###Similar occupations:
+# Occupation enterprise development worker
+## Number skills 66
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match enterprise development worker |   percentage match with enterprise development worker |   skills not in enterprise development worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [criminal justice social worker](criminal_justice_social_worker.md)                       |                          69 |                                                64 |                                              0.969697 |                                             5 |

@@ -1,6 +1,6 @@
-#Occupation tile fitter
-##Number skills 17
-###Similar occupations:
+# Occupation tile fitter
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match tile fitter |   percentage match with tile fitter |   skills not in tile fitter |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [bricklayer](bricklayer.md)                                                                                                                                   |                          18 |                               8 |                            0.470588 |                          10 |

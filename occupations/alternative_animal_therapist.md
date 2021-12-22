@@ -1,6 +1,6 @@
-#Occupation alternative animal therapist
-##Number skills 22
-###Similar occupations:
+# Occupation alternative animal therapist
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match alternative animal therapist |   percentage match with alternative animal therapist |   skills not in alternative animal therapist |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [animal therapist](animal_therapist.md)                                                   |                          20 |                                               20 |                                             0.909091 |                                            0 |

@@ -1,6 +1,6 @@
-#Occupation market research interviewer
-##Number skills 17
-###Similar occupations:
+# Occupation market research interviewer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match market research interviewer |   percentage match with market research interviewer |   skills not in market research interviewer |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [survey enumerator](survey_enumerator.md)                                                               |                          13 |                                              10 |                                            0.588235 |                                           3 |

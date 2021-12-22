@@ -1,6 +1,6 @@
-#Occupation dentistry lecturer
-##Number skills 23
-###Similar occupations:
+# Occupation dentistry lecturer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match dentistry lecturer |   percentage match with dentistry lecturer |   skills not in dentistry lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [computer science lecturer](computer_science_lecturer.md)                                                             |                          62 |                                     16 |                                   0.695652 |                                 46 |

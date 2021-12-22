@@ -1,6 +1,6 @@
-#Occupation agronomic crop production team leader
-##Number skills 33
-###Similar occupations:
+# Occupation agronomic crop production team leader
+## Number skills 33
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match agronomic crop production team leader |   percentage match with agronomic crop production team leader |   skills not in agronomic crop production team leader |
 |:------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [horticulture production manager](horticulture_production_manager.md)         |                          43 |                                                        24 |                                                      0.727273 |                                                    19 |

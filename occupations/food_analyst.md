@@ -1,6 +1,6 @@
-#Occupation food analyst
-##Number skills 35
-###Similar occupations:
+# Occupation food analyst
+## Number skills 35
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match food analyst |   percentage match with food analyst |   skills not in food analyst |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [food technologist](food_technologist.md)                                               |                          60 |                               16 |                             0.457143 |                           44 |

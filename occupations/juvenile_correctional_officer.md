@@ -1,6 +1,6 @@
-#Occupation juvenile correctional officer
-##Number skills 13
-###Similar occupations:
+# Occupation juvenile correctional officer
+## Number skills 13
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match juvenile correctional officer |   percentage match with juvenile correctional officer |   skills not in juvenile correctional officer |
 |:--------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [prison officer](prison_officer.md)                                 |                          13 |                                                10 |                                              0.769231 |                                             3 |

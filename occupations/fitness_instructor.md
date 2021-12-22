@@ -1,6 +1,6 @@
-#Occupation fitness instructor
-##Number skills 12
-###Similar occupations:
+# Occupation fitness instructor
+## Number skills 12
+### Similar occupations:
 | occupation                                |   skills in this occupation |   skills that match fitness instructor |   percentage match with fitness instructor |   skills not in fitness instructor |
 |:------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [leisure attendant](leisure_attendant.md) |                           7 |                                      6 |                                   0.5      |                                  1 |

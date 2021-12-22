@@ -1,6 +1,6 @@
-#Occupation family support worker
-##Number skills 64
-###Similar occupations:
+# Occupation family support worker
+## Number skills 64
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match family support worker |   percentage match with family support worker |   skills not in family support worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [foster care support worker](foster_care_support_worker.md)                               |                          72 |                                        61 |                                      0.953125 |                                    11 |

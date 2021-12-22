@@ -1,6 +1,6 @@
-#Occupation building materials specialised seller
-##Number skills 34
-###Similar occupations:
+# Occupation building materials specialised seller
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match building materials specialised seller |   percentage match with building materials specialised seller |   skills not in building materials specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [textile specialised seller](textile_specialised_seller.md)                                                                                                       |                          33 |                                                        27 |                                                      0.794118 |                                                     6 |

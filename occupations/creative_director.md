@@ -1,6 +1,6 @@
-#Occupation creative director
-##Number skills 14
-###Similar occupations:
+# Occupation creative director
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match creative director |   percentage match with creative director |   skills not in creative director |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [advertising specialist](advertising_specialist.md)                                               |                          10 |                                     5 |                                  0.357143 |                                 5 |

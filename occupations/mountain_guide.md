@@ -1,6 +1,6 @@
-#Occupation mountain guide
-##Number skills 20
-###Similar occupations:
+# Occupation mountain guide
+## Number skills 20
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match mountain guide |   percentage match with mountain guide |   skills not in mountain guide |
 |:----------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [park guide](park_guide.md)                                                 |                          30 |                                 19 |                                   0.95 |                             11 |

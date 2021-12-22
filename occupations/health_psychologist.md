@@ -1,6 +1,6 @@
-#Occupation health psychologist
-##Number skills 82
-###Similar occupations:
+# Occupation health psychologist
+## Number skills 82
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match health psychologist |   percentage match with health psychologist |   skills not in health psychologist |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [clinical psychologist](clinical_psychologist.md)                           |                          95 |                                      60 |                                    0.731707 |                                  35 |

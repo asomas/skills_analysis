@@ -1,6 +1,6 @@
-#Occupation cost analyst
-##Number skills 12
-###Similar occupations:
+# Occupation cost analyst
+## Number skills 12
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match cost analyst |   percentage match with cost analyst |   skills not in cost analyst |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [budget manager](budget_manager.md)                                                     |                          29 |                                5 |                             0.416667 |                           24 |

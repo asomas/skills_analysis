@@ -1,6 +1,6 @@
-#Occupation drill operator
-##Number skills 13
-###Similar occupations:
+# Occupation drill operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match drill operator |   percentage match with drill operator |   skills not in drill operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [well-digger](well-digger.md)                                                                                                                                 |                          10 |                                  4 |                               0.307692 |                              6 |

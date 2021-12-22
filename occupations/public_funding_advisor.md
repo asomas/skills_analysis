@@ -1,6 +1,6 @@
-#Occupation public funding advisor
-##Number skills 11
-###Similar occupations:
+# Occupation public funding advisor
+## Number skills 11
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match public funding advisor |   percentage match with public funding advisor |   skills not in public funding advisor |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [business consultant](business_consultant.md)                                       |                          24 |                                          6 |                                       0.545455 |                                     18 |

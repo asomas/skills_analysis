@@ -1,6 +1,6 @@
-#Occupation pensions administrator
-##Number skills 14
-###Similar occupations:
+# Occupation pensions administrator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match pensions administrator |   percentage match with pensions administrator |   skills not in pensions administrator |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [social security officer](social_security_officer.md)                             |                          12 |                                          6 |                                       0.428571 |                                      6 |

@@ -1,6 +1,6 @@
-#Occupation fat-purification worker
-##Number skills 22
-###Similar occupations:
+# Occupation fat-purification worker
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match fat-purification worker |   percentage match with fat-purification worker |   skills not in fat-purification worker |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [hydrogenation machine operator](hydrogenation_machine_operator.md)                     |                          22 |                                           9 |                                        0.409091 |                                      13 |

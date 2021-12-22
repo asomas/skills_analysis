@@ -1,6 +1,6 @@
-#Occupation footwear patternmaker
-##Number skills 8
-###Similar occupations:
+# Occupation footwear patternmaker
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match footwear patternmaker |   percentage match with footwear patternmaker |   skills not in footwear patternmaker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [footwear designer](footwear_designer.md)                                                             |                          23 |                                         8 |                                         1     |                                    15 |

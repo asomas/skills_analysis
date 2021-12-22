@@ -1,6 +1,6 @@
-#Occupation archivist
-##Number skills 14
-###Similar occupations:
+# Occupation archivist
+## Number skills 14
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match archivist |   percentage match with archivist |   skills not in archivist |
 |:------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [file clerk](file_clerk.md)                                 |                          12 |                             3 |                          0.214286 |                         9 |

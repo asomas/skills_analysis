@@ -1,6 +1,6 @@
-#Occupation business studies and economics teacher secondary school
-##Number skills 28
-###Similar occupations:
+# Occupation business studies and economics teacher secondary school
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match business studies and economics teacher secondary school |   percentage match with business studies and economics teacher secondary school |   skills not in business studies and economics teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------------:|--------------------------------------------------------------------------------:|------------------------------------------------------------------------:|
 | [biology teacher secondary school](biology_teacher_secondary_school.md)                                         |                          28 |                                                                          24 |                                                                        0.857143 |                                                                       4 |

@@ -1,6 +1,6 @@
-#Occupation prompter
-##Number skills 16
-###Similar occupations:
+# Occupation prompter
+## Number skills 16
+### Similar occupations:
 | occupation                                |   skills in this occupation |   skills that match prompter |   percentage match with prompter |   skills not in prompter |
 |:------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [actor/actress](actor-actress.md)         |                          23 |                           12 |                           0.75   |                       11 |

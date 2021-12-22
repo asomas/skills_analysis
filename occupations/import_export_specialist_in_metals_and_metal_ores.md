@@ -1,6 +1,6 @@
-#Occupation import export specialist in metals and metal ores
-##Number skills 23
-###Similar occupations:
+# Occupation import export specialist in metals and metal ores
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in metals and metal ores |   percentage match with import export specialist in metals and metal ores |   skills not in import export specialist in metals and metal ores |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------:|--------------------------------------------------------------------------:|------------------------------------------------------------------:|
 | [import export specialist in pharmaceutical goods](import_export_specialist_in_pharmaceutical_goods.md)                                                                 |                          24 |                                                                    22 |                                                                  0.956522 |                                                                 2 |

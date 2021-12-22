@@ -1,6 +1,6 @@
-#Occupation mathematics teacher secondary school
-##Number skills 27
-###Similar occupations:
+# Occupation mathematics teacher secondary school
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match mathematics teacher secondary school |   percentage match with mathematics teacher secondary school |   skills not in mathematics teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [physical education teacher secondary school](physical_education_teacher_secondary_school.md)                         |                          33 |                                                       24 |                                                     0.888889 |                                                    9 |

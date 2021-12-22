@@ -1,6 +1,6 @@
-#Occupation physical education vocational teacher
-##Number skills 26
-###Similar occupations:
+# Occupation physical education vocational teacher
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match physical education vocational teacher |   percentage match with physical education vocational teacher |   skills not in physical education vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [hairdressing vocational teacher](hairdressing_vocational_teacher.md)                                                 |                          27 |                                                        20 |                                                      0.769231 |                                                     7 |

@@ -1,6 +1,6 @@
-#Occupation food science lecturer
-##Number skills 23
-###Similar occupations:
+# Occupation food science lecturer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match food science lecturer |   percentage match with food science lecturer |   skills not in food science lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [chemistry lecturer](chemistry_lecturer.md)                                                                           |                          23 |                                        17 |                                      0.73913  |                                     6 |

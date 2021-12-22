@@ -1,6 +1,6 @@
-#Occupation community development officer
-##Number skills 12
-###Similar occupations:
+# Occupation community development officer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match community development officer |   percentage match with community development officer |   skills not in community development officer |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [public housing manager](public_housing_manager.md)                           |                          74 |                                                 8 |                                              0.666667 |                                            66 |

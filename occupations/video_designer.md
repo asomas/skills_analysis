@@ -1,6 +1,6 @@
-#Occupation video designer
-##Number skills 27
-###Similar occupations:
+# Occupation video designer
+## Number skills 27
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match video designer |   percentage match with video designer |   skills not in video designer |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [lighting designer](lighting_designer.md)                         |                          30 |                                 23 |                               0.851852 |                              7 |

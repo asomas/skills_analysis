@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in china and other glassware
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in china and other glassware
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in china and other glassware |   percentage match with wholesale merchant in china and other glassware |   skills not in wholesale merchant in china and other glassware |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------:|
 | [wholesale merchant in meat and meat products](wholesale_merchant_in_meat_and_meat_products.md)                                                                     |                          20 |                                                                  19 |                                                                    0.95 |                                                               1 |

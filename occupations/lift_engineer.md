@@ -1,6 +1,6 @@
-#Occupation lift engineer
-##Number skills 31
-###Similar occupations:
+# Occupation lift engineer
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match lift engineer |   percentage match with lift engineer |   skills not in lift engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [lift installation supervisor](lift_installation_supervisor.md)                                                                                               |                          26 |                                15 |                              0.483871 |                            11 |

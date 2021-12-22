@@ -1,6 +1,6 @@
-#Occupation rental manager
-##Number skills 21
-###Similar occupations:
+# Occupation rental manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match rental manager |   percentage match with rental manager |   skills not in rental manager |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [exhibition curator](exhibition_curator.md)                                                                                                                         |                          31 |                                  5 |                               0.238095 |                             26 |

@@ -1,6 +1,6 @@
-#Occupation department store manager
-##Number skills 17
-###Similar occupations:
+# Occupation department store manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match department store manager |   percentage match with department store manager |   skills not in department store manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [accommodation manager](accommodation_manager.md)                                                                                                                       |                          17 |                                            6 |                                         0.352941 |                                       11 |

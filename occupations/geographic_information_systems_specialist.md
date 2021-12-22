@@ -1,6 +1,6 @@
-#Occupation geographic information systems specialist
-##Number skills 18
-###Similar occupations:
+# Occupation geographic information systems specialist
+## Number skills 18
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match geographic information systems specialist |   percentage match with geographic information systems specialist |   skills not in geographic information systems specialist |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [cartographer](cartographer.md)                                                       |                          16 |                                                            12 |                                                          0.666667 |                                                         4 |

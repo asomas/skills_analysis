@@ -1,6 +1,6 @@
-#Occupation fortune teller
-##Number skills 11
-###Similar occupations:
+# Occupation fortune teller
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match fortune teller |   percentage match with fortune teller |   skills not in fortune teller |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [psychic](psychic.md)                                                                                   |                          10 |                                  9 |                               0.818182 |                              1 |

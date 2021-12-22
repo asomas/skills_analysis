@@ -1,6 +1,6 @@
-#Occupation planer thicknesser operator
-##Number skills 21
-###Similar occupations:
+# Occupation planer thicknesser operator
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match planer thicknesser operator |   percentage match with planer thicknesser operator |   skills not in planer thicknesser operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [table saw operator](table_saw_operator.md)                                                           |                          22 |                                              16 |                                            0.761905 |                                           6 |

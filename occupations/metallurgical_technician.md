@@ -1,6 +1,6 @@
-#Occupation metallurgical technician
-##Number skills 17
-###Similar occupations:
+# Occupation metallurgical technician
+## Number skills 17
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match metallurgical technician |   percentage match with metallurgical technician |   skills not in metallurgical technician |
 |:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [chemical metallurgist](chemical_metallurgist.md)                                     |                          22 |                                            7 |                                         0.411765 |                                       15 |

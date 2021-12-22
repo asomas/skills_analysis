@@ -1,6 +1,6 @@
-#Occupation health and safety officer
-##Number skills 15
-###Similar occupations:
+# Occupation health and safety officer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match health and safety officer |   percentage match with health and safety officer |   skills not in health and safety officer |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [healthcare inspector](healthcare_inspector.md)                                         |                          14 |                                             4 |                                          0.266667 |                                        10 |

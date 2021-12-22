@@ -1,6 +1,6 @@
-#Occupation water conservation technician supervisor
-##Number skills 21
-###Similar occupations:
+# Occupation water conservation technician supervisor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match water conservation technician supervisor |   percentage match with water conservation technician supervisor |   skills not in water conservation technician supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [plumbing supervisor](plumbing_supervisor.md)                                                                   |                          23 |                                                           19 |                                                         0.904762 |                                                        4 |

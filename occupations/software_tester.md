@@ -1,6 +1,6 @@
-#Occupation software tester
-##Number skills 10
-###Similar occupations:
+# Occupation software tester
+## Number skills 10
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match software tester |   percentage match with software tester |   skills not in software tester |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [ICT integration tester](ICT_integration_tester.md)                     |                          10 |                                   7 |                                     0.7 |                               3 |

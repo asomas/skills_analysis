@@ -1,6 +1,6 @@
-#Occupation bakery specialised seller
-##Number skills 33
-###Similar occupations:
+# Occupation bakery specialised seller
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match bakery specialised seller |   percentage match with bakery specialised seller |   skills not in bakery specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [delicatessen specialised seller](delicatessen_specialised_seller.md)                                                                                             |                          31 |                                            29 |                                          0.878788 |                                         2 |

@@ -1,6 +1,6 @@
-#Occupation aquaculture cage mooring worker
-##Number skills 41
-###Similar occupations:
+# Occupation aquaculture cage mooring worker
+## Number skills 41
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match aquaculture cage mooring worker |   percentage match with aquaculture cage mooring worker |   skills not in aquaculture cage mooring worker |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [water-based aquaculture worker](water-based_aquaculture_worker.md)         |                          37 |                                                  15 |                                                0.365854 |                                              22 |

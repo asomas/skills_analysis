@@ -1,6 +1,6 @@
-#Occupation choirmaster/choirmistress
-##Number skills 22
-###Similar occupations:
+# Occupation choirmaster/choirmistress
+## Number skills 22
+### Similar occupations:
 | occupation                                |   skills in this occupation |   skills that match choirmaster/choirmistress |   percentage match with choirmaster/choirmistress |   skills not in choirmaster/choirmistress |
 |:------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [musical conductor](musical_conductor.md) |                          25 |                                            16 |                                          0.727273 |                                         9 |

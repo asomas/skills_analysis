@@ -1,6 +1,6 @@
-#Occupation communication scientist
-##Number skills 11
-###Similar occupations:
+# Occupation communication scientist
+## Number skills 11
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match communication scientist |   percentage match with communication scientist |   skills not in communication scientist |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [media scientist](media_scientist.md)                                       |                          12 |                                           6 |                                        0.545455 |                                       6 |

@@ -1,6 +1,6 @@
-#Occupation court bailiff
-##Number skills 11
-###Similar occupations:
+# Occupation court bailiff
+## Number skills 11
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match court bailiff |   percentage match with court bailiff |   skills not in court bailiff |
 |:------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [crowd controller](crowd_controller.md)                           |                          20 |                                 4 |                              0.363636 |                            16 |

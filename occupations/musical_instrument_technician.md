@@ -1,6 +1,6 @@
-#Occupation musical instrument technician
-##Number skills 12
-###Similar occupations:
+# Occupation musical instrument technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match musical instrument technician |   percentage match with musical instrument technician |   skills not in musical instrument technician |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [piano maker](piano_maker.md)                                                         |                          16 |                                                 8 |                                              0.666667 |                                             8 |

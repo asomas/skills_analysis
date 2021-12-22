@@ -1,6 +1,6 @@
-#Occupation land-based machinery operator
-##Number skills 15
-###Similar occupations:
+# Occupation land-based machinery operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match land-based machinery operator |   percentage match with land-based machinery operator |   skills not in land-based machinery operator |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [agronomic crop production team leader](agronomic_crop_production_team_leader.md) |                          33 |                                                 3 |                                              0.2      |                                            30 |

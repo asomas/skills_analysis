@@ -1,6 +1,6 @@
-#Occupation healthcare specialist lecturer
-##Number skills 17
-###Similar occupations:
+# Occupation healthcare specialist lecturer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match healthcare specialist lecturer |   percentage match with healthcare specialist lecturer |   skills not in healthcare specialist lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [nursing lecturer](nursing_lecturer.md)                                                                               |                          34 |                                                 16 |                                               0.941176 |                                             18 |

@@ -1,6 +1,6 @@
-#Occupation ICT teacher secondary school
-##Number skills 37
-###Similar occupations:
+# Occupation ICT teacher secondary school
+## Number skills 37
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match ICT teacher secondary school |   percentage match with ICT teacher secondary school |   skills not in ICT teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [biology teacher secondary school](biology_teacher_secondary_school.md)                                               |                          28 |                                               24 |                                             0.648649 |                                            4 |

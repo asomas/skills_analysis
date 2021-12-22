@@ -1,6 +1,6 @@
-#Occupation timber trader
-##Number skills 17
-###Similar occupations:
+# Occupation timber trader
+## Number skills 17
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match timber trader |   percentage match with timber trader |   skills not in timber trader |
 |:----------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [wood factory manager](wood_factory_manager.md)           |                          28 |                                 5 |                              0.294118 |                            23 |

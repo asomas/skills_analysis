@@ -1,6 +1,6 @@
-#Occupation online sales channel manager
-##Number skills 11
-###Similar occupations:
+# Occupation online sales channel manager
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match online sales channel manager |   percentage match with online sales channel manager |   skills not in online sales channel manager |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [travel agency manager](travel_agency_manager.md)                                                                                                             |                          30 |                                                4 |                                             0.363636 |                                           26 |

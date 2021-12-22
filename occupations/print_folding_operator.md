@@ -1,6 +1,6 @@
-#Occupation print folding operator
-##Number skills 15
-###Similar occupations:
+# Occupation print folding operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match print folding operator |   percentage match with print folding operator |   skills not in print folding operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [paper stationery machine operator](paper_stationery_machine_operator.md)                             |                          14 |                                          9 |                                       0.6      |                                      5 |

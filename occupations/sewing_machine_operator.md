@@ -1,6 +1,6 @@
-#Occupation sewing machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation sewing machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match sewing machine operator |   percentage match with sewing machine operator |   skills not in sewing machine operator |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [clothing alteration machinist](clothing_alteration_machinist.md)                         |                          26 |                                          13 |                                        0.928571 |                                      13 |

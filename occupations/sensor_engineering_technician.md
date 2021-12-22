@@ -1,6 +1,6 @@
-#Occupation sensor engineering technician
-##Number skills 21
-###Similar occupations:
+# Occupation sensor engineering technician
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match sensor engineering technician |   percentage match with sensor engineering technician |   skills not in sensor engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [electronics engineering technician](electronics_engineering_technician.md)                                                                 |                          29 |                                                17 |                                              0.809524 |                                            12 |

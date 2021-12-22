@@ -1,6 +1,6 @@
-#Occupation activity leader
-##Number skills 21
-###Similar occupations:
+# Occupation activity leader
+## Number skills 21
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match activity leader |   percentage match with activity leader |   skills not in activity leader |
 |:----------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [outdoor animator](outdoor_animator.md)                               |                          16 |                                  11 |                                0.52381  |                               5 |

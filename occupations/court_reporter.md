@@ -1,6 +1,6 @@
-#Occupation court reporter
-##Number skills 16
-###Similar occupations:
+# Occupation court reporter
+## Number skills 16
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match court reporter |   percentage match with court reporter |   skills not in court reporter |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [scopist](scopist.md)                                                             |                          13 |                                 10 |                                 0.625  |                              3 |

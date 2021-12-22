@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in textile industry machinery
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in textile industry machinery
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in textile industry machinery |   percentage match with wholesale merchant in textile industry machinery |   skills not in wholesale merchant in textile industry machinery |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------:|
 | [wholesale merchant in flowers and plants](wholesale_merchant_in_flowers_and_plants.md)                                                                             |                          20 |                                                                   19 |                                                                     0.95 |                                                                1 |

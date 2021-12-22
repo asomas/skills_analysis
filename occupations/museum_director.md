@@ -1,6 +1,6 @@
-#Occupation museum director
-##Number skills 21
-###Similar occupations:
+# Occupation museum director
+## Number skills 21
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match museum director |   percentage match with museum director |   skills not in museum director |
 |:--------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [archive manager](archive_manager.md)                               |                          19 |                                   8 |                                0.380952 |                              11 |

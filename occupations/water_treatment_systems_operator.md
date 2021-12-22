@@ -1,6 +1,6 @@
-#Occupation water treatment systems operator
-##Number skills 29
-###Similar occupations:
+# Occupation water treatment systems operator
+## Number skills 29
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match water treatment systems operator |   percentage match with water treatment systems operator |   skills not in water treatment systems operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [cellar operator](cellar_operator.md)                                                   |                          24 |                                                    9 |                                                 0.310345 |                                               15 |

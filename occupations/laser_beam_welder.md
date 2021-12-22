@@ -1,6 +1,6 @@
-#Occupation laser beam welder
-##Number skills 25
-###Similar occupations:
+# Occupation laser beam welder
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match laser beam welder |   percentage match with laser beam welder |   skills not in laser beam welder |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [electron beam welder](electron_beam_welder.md)                                                       |                          25 |                                    21 |                                      0.84 |                                 4 |

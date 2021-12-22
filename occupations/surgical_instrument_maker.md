@@ -1,6 +1,6 @@
-#Occupation surgical instrument maker
-##Number skills 18
-###Similar occupations:
+# Occupation surgical instrument maker
+## Number skills 18
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match surgical instrument maker |   percentage match with surgical instrument maker |   skills not in surgical instrument maker |
 |:--------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [metal furniture machine operator](metal_furniture_machine_operator.md)   |                          19 |                                             4 |                                          0.222222 |                                        15 |

@@ -1,6 +1,6 @@
-#Occupation chilling operator
-##Number skills 22
-###Similar occupations:
+# Occupation chilling operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match chilling operator |   percentage match with chilling operator |   skills not in chilling operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [meat preparations operator](meat_preparations_operator.md)                             |                          36 |                                    12 |                                  0.545455 |                                24 |

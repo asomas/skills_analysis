@@ -1,6 +1,6 @@
-#Occupation fishing net maker
-##Number skills 2
-###Similar occupations:
+# Occupation fishing net maker
+## Number skills 2
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match fishing net maker |   percentage match with fishing net maker |   skills not in fishing net maker |
 |:--------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [fisheries deckhand](fisheries_deckhand.md)                               |                          38 |                                     2 |                                       1   |                                36 |

@@ -1,6 +1,6 @@
-#Occupation ticket issuing clerk
-##Number skills 42
-###Similar occupations:
+# Occupation ticket issuing clerk
+## Number skills 42
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match ticket issuing clerk |   percentage match with ticket issuing clerk |   skills not in ticket issuing clerk |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [medical goods specialised seller](medical_goods_specialised_seller.md)                                                                                           |                          31 |                                       26 |                                     0.619048 |                                    5 |

@@ -1,6 +1,6 @@
-#Occupation fire service vehicle operator
-##Number skills 23
-###Similar occupations:
+# Occupation fire service vehicle operator
+## Number skills 23
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match fire service vehicle operator |   percentage match with fire service vehicle operator |   skills not in fire service vehicle operator |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [marine firefighter](marine_firefighter.md)                                           |                          22 |                                                15 |                                              0.652174 |                                             7 |

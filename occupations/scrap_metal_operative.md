@@ -1,6 +1,6 @@
-#Occupation scrap metal operative
-##Number skills 10
-###Similar occupations:
+# Occupation scrap metal operative
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match scrap metal operative |   percentage match with scrap metal operative |   skills not in scrap metal operative |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [briquetting machine operator](briquetting_machine_operator.md)                                                                                                       |                          10 |                                         8 |                                           0.8 |                                     2 |

@@ -1,6 +1,6 @@
-#Occupation green ICT consultant
-##Number skills 11
-###Similar occupations:
+# Occupation green ICT consultant
+## Number skills 11
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match green ICT consultant |   percentage match with green ICT consultant |   skills not in green ICT consultant |
 |:------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [ICT consultant](ICT_consultant.md)                                           |                          20 |                                        4 |                                     0.363636 |                                   16 |

@@ -1,6 +1,6 @@
-#Occupation Freinet school teacher
-##Number skills 32
-###Similar occupations:
+# Occupation Freinet school teacher
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match Freinet school teacher |   percentage match with Freinet school teacher |   skills not in Freinet school teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [Montessori school teacher](Montessori_school_teacher.md)                                                             |                          33 |                                         29 |                                        0.90625 |                                      4 |

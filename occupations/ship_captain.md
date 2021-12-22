@@ -1,6 +1,6 @@
-#Occupation ship captain
-##Number skills 32
-###Similar occupations:
+# Occupation ship captain
+## Number skills 32
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match ship captain |   percentage match with ship captain |   skills not in ship captain |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [deck officer](deck_officer.md)                                                   |                          21 |                               12 |                              0.375   |                            9 |

@@ -1,6 +1,6 @@
-#Occupation medical administrative assistant
-##Number skills 13
-###Similar occupations:
+# Occupation medical administrative assistant
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match medical administrative assistant |   percentage match with medical administrative assistant |   skills not in medical administrative assistant |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [front line medical receptionist](front_line_medical_receptionist.md)                                   |                          24 |                                                    7 |                                                 0.538462 |                                               17 |

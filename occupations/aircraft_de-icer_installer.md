@@ -1,6 +1,6 @@
-#Occupation aircraft de-icer installer
-##Number skills 14
-###Similar occupations:
+# Occupation aircraft de-icer installer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match aircraft de-icer installer |   percentage match with aircraft de-icer installer |   skills not in aircraft de-icer installer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [aircraft assembler](aircraft_assembler.md)                                                           |                          18 |                                             14 |                                           1        |                                          4 |

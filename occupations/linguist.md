@@ -1,6 +1,6 @@
-#Occupation linguist
-##Number skills 11
-###Similar occupations:
+# Occupation linguist
+## Number skills 11
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match linguist |   percentage match with linguist |   skills not in linguist |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [literary scholar](literary_scholar.md)                                           |                          17 |                            6 |                         0.545455 |                       11 |

@@ -1,6 +1,6 @@
-#Occupation sergeant
-##Number skills 13
-###Similar occupations:
+# Occupation sergeant
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match sergeant |   percentage match with sergeant |   skills not in sergeant |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [armed forces officer](armed_forces_officer.md)                                               |                          21 |                           11 |                         0.846154 |                       10 |

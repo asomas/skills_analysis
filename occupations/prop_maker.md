@@ -1,6 +1,6 @@
-#Occupation prop maker
-##Number skills 24
-###Similar occupations:
+# Occupation prop maker
+## Number skills 24
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match prop maker |   percentage match with prop maker |   skills not in prop maker |
 |:------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [set builder](set_builder.md)                                     |                          22 |                             17 |                           0.708333 |                          5 |

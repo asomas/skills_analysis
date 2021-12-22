@@ -1,6 +1,6 @@
-#Occupation user interface designer
-##Number skills 25
-###Similar occupations:
+# Occupation user interface designer
+## Number skills 25
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match user interface designer |   percentage match with user interface designer |   skills not in user interface designer |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [user interface developer](user_interface_developer.md)                 |                          16 |                                           8 |                                            0.32 |                                       8 |

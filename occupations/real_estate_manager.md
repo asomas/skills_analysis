@@ -1,6 +1,6 @@
-#Occupation real estate manager
-##Number skills 32
-###Similar occupations:
+# Occupation real estate manager
+## Number skills 32
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match real estate manager |   percentage match with real estate manager |   skills not in real estate manager |
 |:----------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [insurance agency manager](insurance_agency_manager.md)               |                          37 |                                      17 |                                     0.53125 |                                  20 |

@@ -1,6 +1,6 @@
-#Occupation enameller
-##Number skills 12
-###Similar occupations:
+# Occupation enameller
+## Number skills 12
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match enameller |   percentage match with enameller |   skills not in enameller |
 |:----------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [coating machine operator](coating_machine_operator.md)               |                          13 |                             3 |                          0.25     |                        10 |

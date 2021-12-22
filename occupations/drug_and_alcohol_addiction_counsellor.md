@@ -1,6 +1,6 @@
-#Occupation drug and alcohol addiction counsellor
-##Number skills 52
-###Similar occupations:
+# Occupation drug and alcohol addiction counsellor
+## Number skills 52
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match drug and alcohol addiction counsellor |   percentage match with drug and alcohol addiction counsellor |   skills not in drug and alcohol addiction counsellor |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [sexual violence counsellor](sexual_violence_counsellor.md)                               |                          52 |                                                        48 |                                                      0.923077 |                                                     4 |

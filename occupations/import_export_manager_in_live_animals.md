@@ -1,6 +1,6 @@
-#Occupation import export manager in live animals
-##Number skills 27
-###Similar occupations:
+# Occupation import export manager in live animals
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in live animals |   percentage match with import export manager in live animals |   skills not in import export manager in live animals |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [import export manager in fish, crustaceans and molluscs](import_export_manager_in_fish,_crustaceans_and_molluscs.md)                                                   |                          28 |                                                        26 |                                                      0.962963 |                                                     2 |

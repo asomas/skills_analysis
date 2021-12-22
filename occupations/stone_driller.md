@@ -1,6 +1,6 @@
-#Occupation stone driller
-##Number skills 14
-###Similar occupations:
+# Occupation stone driller
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match stone driller |   percentage match with stone driller |   skills not in stone driller |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [wood boring machine operator](wood_boring_machine_operator.md)                                                 |                          18 |                                 8 |                              0.571429 |                            10 |

@@ -1,6 +1,6 @@
-#Occupation mine geologist
-##Number skills 14
-###Similar occupations:
+# Occupation mine geologist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match mine geologist |   percentage match with mine geologist |   skills not in mine geologist |
 |:--------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [mining geotechnical engineer](mining_geotechnical_engineer.md)                 |                          12 |                                  6 |                               0.428571 |                              6 |

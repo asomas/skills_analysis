@@ -1,6 +1,6 @@
-#Occupation sewer construction supervisor
-##Number skills 27
-###Similar occupations:
+# Occupation sewer construction supervisor
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match sewer construction supervisor |   percentage match with sewer construction supervisor |   skills not in sewer construction supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [road construction supervisor](road_construction_supervisor.md)                                                 |                          25 |                                                19 |                                              0.703704 |                                             6 |

@@ -1,6 +1,6 @@
-#Occupation ski instructor
-##Number skills 9
-###Similar occupations:
+# Occupation ski instructor
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match ski instructor |   percentage match with ski instructor |   skills not in ski instructor |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [ice-skating coach](ice-skating_coach.md)                                                     |                          10 |                                  6 |                               0.666667 |                              4 |

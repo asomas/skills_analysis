@@ -1,6 +1,6 @@
-#Occupation outdoor activities coordinator
-##Number skills 16
-###Similar occupations:
+# Occupation outdoor activities coordinator
+## Number skills 16
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match outdoor activities coordinator |   percentage match with outdoor activities coordinator |   skills not in outdoor activities coordinator |
 |:----------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [assistant outdoor animator](assistant_outdoor_animator.md)           |                          16 |                                                 16 |                                                 1      |                                              0 |

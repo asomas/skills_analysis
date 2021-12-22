@@ -1,6 +1,6 @@
-#Occupation tourist information centre manager
-##Number skills 31
-###Similar occupations:
+# Occupation tourist information centre manager
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match tourist information centre manager |   percentage match with tourist information centre manager |   skills not in tourist information centre manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [tour operators manager](tour_operators_manager.md)                                                                                                         |                          29 |                                                     12 |                                                   0.387097 |                                                 17 |

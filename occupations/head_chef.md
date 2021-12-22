@@ -1,6 +1,6 @@
-#Occupation head chef
-##Number skills 28
-###Similar occupations:
+# Occupation head chef
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match head chef |   percentage match with head chef |   skills not in head chef |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [head pastry chef](head_pastry_chef.md)                                                           |                          31 |                            21 |                          0.75     |                        10 |

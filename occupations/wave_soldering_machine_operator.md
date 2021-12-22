@@ -1,6 +1,6 @@
-#Occupation wave soldering machine operator
-##Number skills 16
-###Similar occupations:
+# Occupation wave soldering machine operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match wave soldering machine operator |   percentage match with wave soldering machine operator |   skills not in wave soldering machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [surface-mount technology machine operator](surface-mount_technology_machine_operator.md)             |                          18 |                                                  12 |                                                  0.75   |                                               6 |

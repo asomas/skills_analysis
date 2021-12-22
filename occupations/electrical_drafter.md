@@ -1,6 +1,6 @@
-#Occupation electrical drafter
-##Number skills 24
-###Similar occupations:
+# Occupation electrical drafter
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match electrical drafter |   percentage match with electrical drafter |   skills not in electrical drafter |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [electromechanical drafter](electromechanical_drafter.md)                                                                                   |                          21 |                                     16 |                                   0.666667 |                                  5 |

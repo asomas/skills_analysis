@@ -1,6 +1,6 @@
-#Occupation student financial support coordinator
-##Number skills 11
-###Similar occupations:
+# Occupation student financial support coordinator
+## Number skills 11
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match student financial support coordinator |   percentage match with student financial support coordinator |   skills not in student financial support coordinator |
 |:----------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [financial planner](financial_planner.md)                       |                          23 |                                                         5 |                                                      0.454545 |                                                    18 |

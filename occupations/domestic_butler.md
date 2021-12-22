@@ -1,6 +1,6 @@
-#Occupation domestic butler
-##Number skills 16
-###Similar occupations:
+# Occupation domestic butler
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match domestic butler |   percentage match with domestic butler |   skills not in domestic butler |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [waiter/waitress](waiter-waitress.md)                                                             |                          30 |                                   7 |                                  0.4375 |                              23 |

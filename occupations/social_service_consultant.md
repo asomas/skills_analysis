@@ -1,6 +1,6 @@
-#Occupation social service consultant
-##Number skills 14
-###Similar occupations:
+# Occupation social service consultant
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match social service consultant |   percentage match with social service consultant |   skills not in social service consultant |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [public housing manager](public_housing_manager.md)                                       |                          74 |                                            11 |                                          0.785714 |                                        63 |

@@ -1,6 +1,6 @@
-#Occupation landscape designer
-##Number skills 20
-###Similar occupations:
+# Occupation landscape designer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match landscape designer |   percentage match with landscape designer |   skills not in landscape designer |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [interior landscaper](interior_landscaper.md)                                     |                          19 |                                      6 |                                       0.3  |                                 13 |

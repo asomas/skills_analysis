@@ -1,6 +1,6 @@
-#Occupation optical engineer
-##Number skills 26
-###Similar occupations:
+# Occupation optical engineer
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match optical engineer |   percentage match with optical engineer |   skills not in optical engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [optoelectronic engineer](optoelectronic_engineer.md)                                                                                       |                          36 |                                   26 |                                 1        |                               10 |

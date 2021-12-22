@@ -1,6 +1,6 @@
-#Occupation education administrator
-##Number skills 12
-###Similar occupations:
+# Occupation education administrator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match education administrator |   percentage match with education administrator |   skills not in education administrator |
 |:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [headteacher](headteacher.md)                                                                 |                          25 |                                           9 |                                        0.75     |                                      16 |

@@ -1,6 +1,6 @@
-#Occupation zoology technician
-##Number skills 19
-###Similar occupations:
+# Occupation zoology technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match zoology technician |   percentage match with zoology technician |   skills not in zoology technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [bacteriology technician](bacteriology_technician.md)                                     |                          19 |                                     16 |                                   0.842105 |                                  3 |

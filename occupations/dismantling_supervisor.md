@@ -1,6 +1,6 @@
-#Occupation dismantling supervisor
-##Number skills 20
-###Similar occupations:
+# Occupation dismantling supervisor
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match dismantling supervisor |   percentage match with dismantling supervisor |   skills not in dismantling supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [demolition supervisor](demolition_supervisor.md)                                                               |                          21 |                                         15 |                                           0.75 |                                      6 |

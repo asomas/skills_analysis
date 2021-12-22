@@ -1,6 +1,6 @@
-#Occupation intellectual property consultant
-##Number skills 10
-###Similar occupations:
+# Occupation intellectual property consultant
+## Number skills 10
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match intellectual property consultant |   percentage match with intellectual property consultant |   skills not in intellectual property consultant |
 |:------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [patent engineer](patent_engineer.md)                                   |                          14 |                                                    6 |                                                      0.6 |                                                8 |

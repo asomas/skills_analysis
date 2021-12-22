@@ -1,6 +1,6 @@
-#Occupation proofreader
-##Number skills 8
-###Similar occupations:
+# Occupation proofreader
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match proofreader |   percentage match with proofreader |   skills not in proofreader |
 |:--------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [translator](translator.md)                                                                 |                          24 |                               6 |                               0.75  |                          18 |

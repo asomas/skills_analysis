@@ -1,6 +1,6 @@
-#Occupation nitroglycerin separator operator
-##Number skills 5
-###Similar occupations:
+# Occupation nitroglycerin separator operator
+## Number skills 5
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match nitroglycerin separator operator |   percentage match with nitroglycerin separator operator |   skills not in nitroglycerin separator operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [coagulation operator](coagulation_operator.md)                                                                 |                          20 |                                                    2 |                                                      0.4 |                                               18 |

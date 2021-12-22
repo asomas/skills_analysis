@@ -1,6 +1,6 @@
-#Occupation make-up artist
-##Number skills 27
-###Similar occupations:
+# Occupation make-up artist
+## Number skills 27
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match make-up artist |   percentage match with make-up artist |   skills not in make-up artist |
 |:--------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [costume maker](costume_maker.md)                                         |                          28 |                                 10 |                               0.37037  |                             18 |

@@ -1,6 +1,6 @@
-#Occupation leather laboratory technician
-##Number skills 22
-###Similar occupations:
+# Occupation leather laboratory technician
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                          |   skills in this occupation |   skills that match leather laboratory technician |   percentage match with leather laboratory technician |   skills not in leather laboratory technician |
 |:----------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [leather production manager](leather_production_manager.md)                                         |                          35 |                                                21 |                                              0.954545 |                                            14 |

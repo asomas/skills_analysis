@@ -1,6 +1,6 @@
-#Occupation vessel assembly inspector
-##Number skills 16
-###Similar occupations:
+# Occupation vessel assembly inspector
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match vessel assembly inspector |   percentage match with vessel assembly inspector |   skills not in vessel assembly inspector |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [vessel engine inspector](vessel_engine_inspector.md)                                                                                                         |                          19 |                                            14 |                                            0.875  |                                         5 |

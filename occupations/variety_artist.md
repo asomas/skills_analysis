@@ -1,6 +1,6 @@
-#Occupation variety artist
-##Number skills 9
-###Similar occupations:
+# Occupation variety artist
+## Number skills 9
+### Similar occupations:
 | occupation                                  |   skills in this occupation |   skills that match variety artist |   percentage match with variety artist |   skills not in variety artist |
 |:--------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [singer](singer.md)                         |                          12 |                                  6 |                               0.666667 |                              6 |

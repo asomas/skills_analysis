@@ -1,6 +1,6 @@
-#Occupation research engineer
-##Number skills 13
-###Similar occupations:
+# Occupation research engineer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match research engineer |   percentage match with research engineer |   skills not in research engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [equipment engineer](equipment_engineer.md)                                                                                                 |                          15 |                                    10 |                                  0.769231 |                                 5 |

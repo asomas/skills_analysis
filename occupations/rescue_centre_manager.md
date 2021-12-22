@@ -1,6 +1,6 @@
-#Occupation rescue centre manager
-##Number skills 76
-###Similar occupations:
+# Occupation rescue centre manager
+## Number skills 76
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match rescue centre manager |   percentage match with rescue centre manager |   skills not in rescue centre manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [public housing manager](public_housing_manager.md)                                       |                          74 |                                        64 |                                      0.842105 |                                    10 |

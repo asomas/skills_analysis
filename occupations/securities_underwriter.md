@@ -1,6 +1,6 @@
-#Occupation securities underwriter
-##Number skills 14
-###Similar occupations:
+# Occupation securities underwriter
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match securities underwriter |   percentage match with securities underwriter |   skills not in securities underwriter |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [mutual fund broker](mutual_fund_broker.md)                                                   |                          17 |                                         11 |                                       0.785714 |                                      6 |

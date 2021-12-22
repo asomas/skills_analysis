@@ -1,6 +1,6 @@
-#Occupation mine supervisor
-##Number skills 11
-###Similar occupations:
+# Occupation mine supervisor
+## Number skills 11
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match mine supervisor |   percentage match with mine supervisor |   skills not in mine supervisor |
 |:----------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [quarry manager](quarry_manager.md)                                   |                          20 |                                   4 |                                0.363636 |                              16 |

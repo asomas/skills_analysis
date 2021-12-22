@@ -1,6 +1,6 @@
-#Occupation kennel worker
-##Number skills 16
-###Similar occupations:
+# Occupation kennel worker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match kennel worker |   percentage match with kennel worker |   skills not in kennel worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [kennel supervisor](kennel_supervisor.md)                                                 |                          21 |                                 8 |                                0.5    |                            13 |

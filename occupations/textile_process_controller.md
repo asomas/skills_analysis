@@ -1,6 +1,6 @@
-#Occupation textile process controller
-##Number skills 12
-###Similar occupations:
+# Occupation textile process controller
+## Number skills 12
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match textile process controller |   percentage match with textile process controller |   skills not in textile process controller |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [textile technologist](textile_technologist.md)                                         |                          29 |                                              9 |                                           0.75     |                                         20 |

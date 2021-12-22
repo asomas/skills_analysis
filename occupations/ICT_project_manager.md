@@ -1,6 +1,6 @@
-#Occupation ICT project manager
-##Number skills 20
-###Similar occupations:
+# Occupation ICT project manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match ICT project manager |   percentage match with ICT project manager |   skills not in ICT project manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [project manager](project_manager.md)                                                             |                          28 |                                      15 |                                        0.75 |                                  13 |

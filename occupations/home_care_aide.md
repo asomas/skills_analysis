@@ -1,6 +1,6 @@
-#Occupation home care aide
-##Number skills 23
-###Similar occupations:
+# Occupation home care aide
+## Number skills 23
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match home care aide |   percentage match with home care aide |   skills not in home care aide |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [companion](companion.md)                                                               |                          15 |                                  7 |                               0.304348 |                              8 |

@@ -1,6 +1,6 @@
-#Occupation personal trust officer
-##Number skills 12
-###Similar occupations:
+# Occupation personal trust officer
+## Number skills 12
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match personal trust officer |   percentage match with personal trust officer |   skills not in personal trust officer |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [mortgage broker](mortgage_broker.md)                                   |                          22 |                                          5 |                                       0.416667 |                                     17 |

@@ -1,6 +1,6 @@
-#Occupation monk/nun
-##Number skills 8
-###Similar occupations:
+# Occupation monk/nun
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match monk/nun |   percentage match with monk/nun |   skills not in monk/nun |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [minister of religion](minister_of_religion.md)                                                         |                          19 |                            4 |                            0.5   |                       15 |

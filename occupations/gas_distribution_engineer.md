@@ -1,6 +1,6 @@
-#Occupation gas distribution engineer
-##Number skills 21
-###Similar occupations:
+# Occupation gas distribution engineer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match gas distribution engineer |   percentage match with gas distribution engineer |   skills not in gas distribution engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [wastewater engineer](wastewater_engineer.md)                                                                                               |                          17 |                                            12 |                                          0.571429 |                                         5 |

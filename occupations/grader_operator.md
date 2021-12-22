@@ -1,6 +1,6 @@
-#Occupation grader operator
-##Number skills 12
-###Similar occupations:
+# Occupation grader operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match grader operator |   percentage match with grader operator |   skills not in grader operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [road roller operator](road_roller_operator.md)                                         |                          15 |                                  11 |                                0.916667 |                               4 |

@@ -1,6 +1,6 @@
-#Occupation puppeteer
-##Number skills 12
-###Similar occupations:
+# Occupation puppeteer
+## Number skills 12
+### Similar occupations:
 | occupation                                |   skills in this occupation |   skills that match puppeteer |   percentage match with puppeteer |   skills not in puppeteer |
 |:------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [actor/actress](actor-actress.md)         |                          23 |                             9 |                          0.75     |                        14 |

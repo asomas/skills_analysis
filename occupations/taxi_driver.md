@@ -1,6 +1,6 @@
-#Occupation taxi driver
-##Number skills 20
-###Similar occupations:
+# Occupation taxi driver
+## Number skills 20
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match taxi driver |   percentage match with taxi driver |   skills not in taxi driver |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [private chauffeur](private_chauffeur.md)                                     |                          26 |                              13 |                                0.65 |                          13 |

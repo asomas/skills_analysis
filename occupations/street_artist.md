@@ -1,6 +1,6 @@
-#Occupation street artist
-##Number skills 18
-###Similar occupations:
+# Occupation street artist
+## Number skills 18
+### Similar occupations:
 | occupation                                      |   skills in this occupation |   skills that match street artist |   percentage match with street artist |   skills not in street artist |
 |:------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [conceptual artist](conceptual_artist.md)       |                          15 |                                11 |                              0.611111 |                             4 |

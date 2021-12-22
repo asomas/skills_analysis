@@ -1,6 +1,6 @@
-#Occupation religious education teacher secondary school
-##Number skills 27
-###Similar occupations:
+# Occupation religious education teacher secondary school
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match religious education teacher secondary school |   percentage match with religious education teacher secondary school |   skills not in religious education teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------:|
 | [modern languages teacher secondary school](modern_languages_teacher_secondary_school.md)                             |                          32 |                                                               24 |                                                             0.888889 |                                                            8 |

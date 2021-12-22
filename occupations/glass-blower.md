@@ -1,6 +1,6 @@
-#Occupation glass-blower
-##Number skills 15
-###Similar occupations:
+# Occupation glass-blower
+## Number skills 15
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match glass-blower |   percentage match with glass-blower |   skills not in glass-blower |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [sculptor](sculptor.md)                                                 |                          12 |                                9 |                             0.6      |                            3 |

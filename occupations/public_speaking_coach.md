@@ -1,6 +1,6 @@
-#Occupation public speaking coach
-##Number skills 14
-###Similar occupations:
+# Occupation public speaking coach
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match public speaking coach |   percentage match with public speaking coach |   skills not in public speaking coach |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [adult literacy teacher](adult_literacy_teacher.md)                                                                   |                          27 |                                         9 |                                      0.642857 |                                    18 |

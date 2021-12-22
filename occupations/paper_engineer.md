@@ -1,6 +1,6 @@
-#Occupation paper engineer
-##Number skills 18
-###Similar occupations:
+# Occupation paper engineer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match paper engineer |   percentage match with paper engineer |   skills not in paper engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [wood technology engineer](wood_technology_engineer.md)                                                                                     |                          29 |                                  7 |                               0.388889 |                             22 |

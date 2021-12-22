@@ -1,6 +1,6 @@
-#Occupation wastewater treatment technician
-##Number skills 13
-###Similar occupations:
+# Occupation wastewater treatment technician
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match wastewater treatment technician |   percentage match with wastewater treatment technician |   skills not in wastewater treatment technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [heating, ventilation, air conditioning and refrigeration engineering technician](heating,_ventilation,_air_conditioning_and_refrigeration_engineering_technician.md) |                          14 |                                                   3 |                                                0.230769 |                                              11 |

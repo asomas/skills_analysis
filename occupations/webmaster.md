@@ -1,6 +1,6 @@
-#Occupation webmaster
-##Number skills 17
-###Similar occupations:
+# Occupation webmaster
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match webmaster |   percentage match with webmaster |   skills not in webmaster |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [instructional designer](instructional_designer.md)                                       |                          34 |                             5 |                          0.294118 |                        29 |

@@ -1,6 +1,6 @@
-#Occupation retail entrepreneur
-##Number skills 25
-###Similar occupations:
+# Occupation retail entrepreneur
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match retail entrepreneur |   percentage match with retail entrepreneur |   skills not in retail entrepreneur |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [trade regional manager](trade_regional_manager.md)                                                                                                               |                          27 |                                      10 |                                        0.4  |                                  17 |

@@ -1,6 +1,6 @@
-#Occupation mechanical engineer
-##Number skills 9
-###Similar occupations:
+# Occupation mechanical engineer
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match mechanical engineer |   percentage match with mechanical engineer |   skills not in mechanical engineer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [rotating equipment engineer](rotating_equipment_engineer.md)                                                                                                         |                          26 |                                       9 |                                    1        |                                  17 |

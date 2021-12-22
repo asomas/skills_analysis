@@ -1,6 +1,6 @@
-#Occupation excavator operator
-##Number skills 18
-###Similar occupations:
+# Occupation excavator operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match excavator operator |   percentage match with excavator operator |   skills not in excavator operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [bulldozer operator](bulldozer_operator.md)                                             |                          17 |                                     14 |                                   0.777778 |                                  3 |

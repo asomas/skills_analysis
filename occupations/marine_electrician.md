@@ -1,6 +1,6 @@
-#Occupation marine electrician
-##Number skills 18
-###Similar occupations:
+# Occupation marine electrician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match marine electrician |   percentage match with marine electrician |   skills not in marine electrician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [automotive electrician](automotive_electrician.md)                                                                                                           |                          25 |                                     11 |                                   0.611111 |                                 14 |

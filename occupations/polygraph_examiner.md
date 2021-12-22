@@ -1,6 +1,6 @@
-#Occupation polygraph examiner
-##Number skills 15
-###Similar occupations:
+# Occupation polygraph examiner
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match polygraph examiner |   percentage match with polygraph examiner |   skills not in polygraph examiner |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [human resources assistant](human_resources_assistant.md)                                               |                          16 |                                      5 |                                   0.333333 |                                 11 |

@@ -1,6 +1,6 @@
-#Occupation audiology technician
-##Number skills 10
-###Similar occupations:
+# Occupation audiology technician
+## Number skills 10
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match audiology technician |   percentage match with audiology technician |   skills not in audiology technician |
 |:------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [audiology equipment specialised seller](audiology_equipment_specialised_seller.md) |                          32 |                                        3 |                                          0.3 |                                   29 |

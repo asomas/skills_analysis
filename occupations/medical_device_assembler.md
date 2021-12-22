@@ -1,6 +1,6 @@
-#Occupation medical device assembler
-##Number skills 23
-###Similar occupations:
+# Occupation medical device assembler
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match medical device assembler |   percentage match with medical device assembler |   skills not in medical device assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [dental instrument assembler](dental_instrument_assembler.md)                                         |                          20 |                                           11 |                                         0.478261 |                                        9 |

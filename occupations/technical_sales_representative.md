@@ -1,6 +1,6 @@
-#Occupation technical sales representative
-##Number skills 28
-###Similar occupations:
+# Occupation technical sales representative
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match technical sales representative |   percentage match with technical sales representative |   skills not in technical sales representative |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [technical sales representative in agricultural machinery and equipment](technical_sales_representative_in_agricultural_machinery_and_equipment.md)               |                          29 |                                                 28 |                                               1        |                                              1 |

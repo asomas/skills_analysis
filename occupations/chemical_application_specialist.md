@@ -1,6 +1,6 @@
-#Occupation chemical application specialist
-##Number skills 13
-###Similar occupations:
+# Occupation chemical application specialist
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match chemical application specialist |   percentage match with chemical application specialist |   skills not in chemical application specialist |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [chemist](chemist.md)                                                                                                                                             |                          23 |                                                   3 |                                                0.230769 |                                              20 |

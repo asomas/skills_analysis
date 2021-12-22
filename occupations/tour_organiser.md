@@ -1,6 +1,6 @@
-#Occupation tour organiser
-##Number skills 20
-###Similar occupations:
+# Occupation tour organiser
+## Number skills 20
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match tour organiser |   percentage match with tour organiser |   skills not in tour organiser |
 |:----------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [park guide](park_guide.md)                                                 |                          30 |                                  7 |                                   0.35 |                             23 |

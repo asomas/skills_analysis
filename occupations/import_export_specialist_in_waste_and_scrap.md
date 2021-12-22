@@ -1,6 +1,6 @@
-#Occupation import export specialist in waste and scrap
-##Number skills 23
-###Similar occupations:
+# Occupation import export specialist in waste and scrap
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in waste and scrap |   percentage match with import export specialist in waste and scrap |   skills not in import export specialist in waste and scrap |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [import export specialist in pharmaceutical goods](import_export_specialist_in_pharmaceutical_goods.md)                                                                 |                          24 |                                                              22 |                                                            0.956522 |                                                           2 |

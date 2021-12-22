@@ -1,6 +1,6 @@
-#Occupation animal therapist
-##Number skills 20
-###Similar occupations:
+# Occupation animal therapist
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match animal therapist |   percentage match with animal therapist |   skills not in animal therapist |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [animal hydrotherapist](animal_hydrotherapist.md)                                         |                          22 |                                   20 |                                     1    |                                2 |

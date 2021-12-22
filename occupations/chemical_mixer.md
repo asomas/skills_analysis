@@ -1,6 +1,6 @@
-#Occupation chemical mixer
-##Number skills 12
-###Similar occupations:
+# Occupation chemical mixer
+## Number skills 12
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match chemical mixer |   percentage match with chemical mixer |   skills not in chemical mixer |
 |:----------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [nitroglycerin neutraliser](nitroglycerin_neutraliser.md) |                          12 |                                  3 |                               0.25     |                              9 |

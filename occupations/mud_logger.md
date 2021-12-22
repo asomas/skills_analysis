@@ -1,6 +1,6 @@
-#Occupation mud logger
-##Number skills 17
-###Similar occupations:
+# Occupation mud logger
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match mud logger |   percentage match with mud logger |   skills not in mud logger |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [geotechnician](geotechnician.md)                                                           |                          10 |                              5 |                           0.294118 |                          5 |

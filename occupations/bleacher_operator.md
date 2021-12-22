@@ -1,6 +1,6 @@
-#Occupation bleacher operator
-##Number skills 13
-###Similar occupations:
+# Occupation bleacher operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match bleacher operator |   percentage match with bleacher operator |   skills not in bleacher operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [tissue paper perforating and rewinding operator](tissue_paper_perforating_and_rewinding_operator.md) |                          15 |                                     8 |                                  0.615385 |                                 7 |

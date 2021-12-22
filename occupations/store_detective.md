@@ -1,6 +1,6 @@
-#Occupation store detective
-##Number skills 14
-###Similar occupations:
+# Occupation store detective
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match store detective |   percentage match with store detective |   skills not in store detective |
 |:----------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [hand luggage inspector](hand_luggage_inspector.md)                                           |                          15 |                                   6 |                                0.428571 |                               9 |

@@ -1,6 +1,6 @@
-#Occupation ICT presales engineer
-##Number skills 12
-###Similar occupations:
+# Occupation ICT presales engineer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match ICT presales engineer |   percentage match with ICT presales engineer |   skills not in ICT presales engineer |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [wholesale merchant in fish, crustaceans and molluscs](wholesale_merchant_in_fish,_crustaceans_and_molluscs.md)                                                   |                          20 |                                         3 |                                      0.25     |                                    17 |

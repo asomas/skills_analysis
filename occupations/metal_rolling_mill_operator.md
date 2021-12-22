@@ -1,6 +1,6 @@
-#Occupation metal rolling mill operator
-##Number skills 15
-###Similar occupations:
+# Occupation metal rolling mill operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match metal rolling mill operator |   percentage match with metal rolling mill operator |   skills not in metal rolling mill operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [drop forging hammer worker](drop_forging_hammer_worker.md)                                                     |                          18 |                                              13 |                                            0.866667 |                                           5 |

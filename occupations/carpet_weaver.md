@@ -1,6 +1,6 @@
-#Occupation carpet weaver
-##Number skills 17
-###Similar occupations:
+# Occupation carpet weaver
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match carpet weaver |   percentage match with carpet weaver |   skills not in carpet weaver |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [knitting machine operator](knitting_machine_operator.md)                                 |                          20 |                                 8 |                              0.470588 |                            12 |

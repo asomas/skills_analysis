@@ -1,6 +1,6 @@
-#Occupation rental service representative in machinery, equipment and tangible goods
-##Number skills 22
-###Similar occupations:
+# Occupation rental service representative in machinery, equipment and tangible goods
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match rental service representative in machinery, equipment and tangible goods |   percentage match with rental service representative in machinery, equipment and tangible goods |   skills not in rental service representative in machinery, equipment and tangible goods |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
 | [rental service representative in cars and light motor vehicles](rental_service_representative_in_cars_and_light_motor_vehicles.md)                               |                          22 |                                                                                           22 |                                                                                         1        |                                                                                        0 |

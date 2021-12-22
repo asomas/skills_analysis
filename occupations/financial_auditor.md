@@ -1,6 +1,6 @@
-#Occupation financial auditor
-##Number skills 22
-###Similar occupations:
+# Occupation financial auditor
+## Number skills 22
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match financial auditor |   percentage match with financial auditor |   skills not in financial auditor |
 |:----------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [audit supervisor](audit_supervisor.md)                   |                          18 |                                     7 |                                  0.318182 |                                11 |

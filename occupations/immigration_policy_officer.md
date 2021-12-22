@@ -1,6 +1,6 @@
-#Occupation immigration policy officer
-##Number skills 16
-###Similar occupations:
+# Occupation immigration policy officer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match immigration policy officer |   percentage match with immigration policy officer |   skills not in immigration policy officer |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [regional development policy officer](regional_development_policy_officer.md)                                                                                           |                          10 |                                              7 |                                             0.4375 |                                          3 |

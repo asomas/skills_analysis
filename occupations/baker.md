@@ -1,6 +1,6 @@
-#Occupation baker
-##Number skills 35
-###Similar occupations:
+# Occupation baker
+## Number skills 35
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match baker |   percentage match with baker |   skills not in baker |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
 | [pastry maker](pastry_maker.md)                                                         |                          28 |                        24 |                      0.685714 |                     4 |

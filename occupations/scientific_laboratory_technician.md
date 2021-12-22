@@ -1,6 +1,6 @@
-#Occupation scientific laboratory technician
-##Number skills 14
-###Similar occupations:
+# Occupation scientific laboratory technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match scientific laboratory technician |   percentage match with scientific laboratory technician |   skills not in scientific laboratory technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [medical laboratory assistant](medical_laboratory_assistant.md)                           |                          27 |                                                   14 |                                                 1        |                                               13 |

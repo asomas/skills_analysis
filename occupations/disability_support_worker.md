@@ -1,6 +1,6 @@
-#Occupation disability support worker
-##Number skills 65
-###Similar occupations:
+# Occupation disability support worker
+## Number skills 65
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match disability support worker |   percentage match with disability support worker |   skills not in disability support worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [residential home young people care worker](residential_home_young_people_care_worker.md) |                          66 |                                            59 |                                          0.907692 |                                         7 |

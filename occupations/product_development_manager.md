@@ -1,6 +1,6 @@
-#Occupation product development manager
-##Number skills 17
-###Similar occupations:
+# Occupation product development manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match product development manager |   percentage match with product development manager |   skills not in product development manager |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [product manager](product_manager.md)                                       |                          24 |                                              10 |                                            0.588235 |                                          14 |

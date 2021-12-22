@@ -1,6 +1,6 @@
-#Occupation frame maker
-##Number skills 13
-###Similar occupations:
+# Occupation frame maker
+## Number skills 13
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match frame maker |   percentage match with frame maker |   skills not in frame maker |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [antique furniture reproducer](antique_furniture_reproducer.md)                       |                          16 |                               6 |                            0.461538 |                          10 |

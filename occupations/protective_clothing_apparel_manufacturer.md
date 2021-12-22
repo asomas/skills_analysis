@@ -1,6 +1,6 @@
-#Occupation protective clothing apparel manufacturer
-##Number skills 10
-###Similar occupations:
+# Occupation protective clothing apparel manufacturer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match protective clothing apparel manufacturer |   percentage match with protective clothing apparel manufacturer |   skills not in protective clothing apparel manufacturer |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [clothing alteration machinist](clothing_alteration_machinist.md)                         |                          26 |                                                            7 |                                                              0.7 |                                                       19 |

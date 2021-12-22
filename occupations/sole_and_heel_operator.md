@@ -1,6 +1,6 @@
-#Occupation sole and heel operator
-##Number skills 10
-###Similar occupations:
+# Occupation sole and heel operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match sole and heel operator |   percentage match with sole and heel operator |   skills not in sole and heel operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [pre-lasting operator](pre-lasting_operator.md)                                                       |                          14 |                                         10 |                                            1   |                                      4 |

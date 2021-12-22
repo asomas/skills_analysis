@@ -1,6 +1,6 @@
-#Occupation satellite engineer
-##Number skills 19
-###Similar occupations:
+# Occupation satellite engineer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match satellite engineer |   percentage match with satellite engineer |   skills not in satellite engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [aerospace engineer](aerospace_engineer.md)                                                                                                 |                          17 |                                     13 |                                   0.684211 |                                  4 |

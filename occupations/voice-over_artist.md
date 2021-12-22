@@ -1,6 +1,6 @@
-#Occupation voice-over artist
-##Number skills 15
-###Similar occupations:
+# Occupation voice-over artist
+## Number skills 15
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match voice-over artist |   percentage match with voice-over artist |   skills not in voice-over artist |
 |:--------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [stand-in](stand-in.md)                                                   |                          12 |                                     9 |                                  0.6      |                                 3 |

@@ -1,6 +1,6 @@
-#Occupation travel and tourism vocational teacher
-##Number skills 28
-###Similar occupations:
+# Occupation travel and tourism vocational teacher
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match travel and tourism vocational teacher |   percentage match with travel and tourism vocational teacher |   skills not in travel and tourism vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [hairdressing vocational teacher](hairdressing_vocational_teacher.md)                                                 |                          27 |                                                        21 |                                                      0.75     |                                                     6 |

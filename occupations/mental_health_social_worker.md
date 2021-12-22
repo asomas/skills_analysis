@@ -1,6 +1,6 @@
-#Occupation mental health social worker
-##Number skills 77
-###Similar occupations:
+# Occupation mental health social worker
+## Number skills 77
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match mental health social worker |   percentage match with mental health social worker |   skills not in mental health social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [family social worker](family_social_worker.md)                                           |                          74 |                                              70 |                                            0.909091 |                                           4 |

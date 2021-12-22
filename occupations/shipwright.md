@@ -1,6 +1,6 @@
-#Occupation shipwright
-##Number skills 16
-###Similar occupations:
+# Occupation shipwright
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match shipwright |   percentage match with shipwright |   skills not in shipwright |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [boat rigger](boat_rigger.md)                                                                                                               |                          15 |                             10 |                             0.625  |                          5 |

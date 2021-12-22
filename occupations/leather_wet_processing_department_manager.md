@@ -1,6 +1,6 @@
-#Occupation leather wet processing department manager
-##Number skills 29
-###Similar occupations:
+# Occupation leather wet processing department manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                          |   skills in this occupation |   skills that match leather wet processing department manager |   percentage match with leather wet processing department manager |   skills not in leather wet processing department manager |
 |:----------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [leather production manager](leather_production_manager.md)                                         |                          35 |                                                            27 |                                                          0.931034 |                                                         8 |

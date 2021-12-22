@@ -1,6 +1,6 @@
-#Occupation barista
-##Number skills 20
-###Similar occupations:
+# Occupation barista
+## Number skills 20
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match barista |   percentage match with barista |   skills not in barista |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [quick service restaurant crew member](quick_service_restaurant_crew_member.md)     |                          17 |                           8 |                            0.4  |                       9 |

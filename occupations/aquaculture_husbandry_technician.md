@@ -1,6 +1,6 @@
-#Occupation aquaculture husbandry technician
-##Number skills 35
-###Similar occupations:
+# Occupation aquaculture husbandry technician
+## Number skills 35
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match aquaculture husbandry technician |   percentage match with aquaculture husbandry technician |   skills not in aquaculture husbandry technician |
 |:--------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [water-based aquaculture technician](water-based_aquaculture_technician.md)     |                          23 |                                                   15 |                                                 0.428571 |                                                8 |

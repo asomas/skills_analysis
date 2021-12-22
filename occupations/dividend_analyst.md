@@ -1,6 +1,6 @@
-#Occupation dividend analyst
-##Number skills 15
-###Similar occupations:
+# Occupation dividend analyst
+## Number skills 15
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match dividend analyst |   percentage match with dividend analyst |   skills not in dividend analyst |
 |:--------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [investment fund manager](investment_fund_manager.md)                           |                          30 |                                    8 |                                 0.533333 |                               22 |

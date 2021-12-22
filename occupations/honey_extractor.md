@@ -1,6 +1,6 @@
-#Occupation honey extractor
-##Number skills 15
-###Similar occupations:
+# Occupation honey extractor
+## Number skills 15
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match honey extractor |   percentage match with honey extractor |   skills not in honey extractor |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [centrifuge operator](centrifuge_operator.md)                                           |                          20 |                                   5 |                                0.333333 |                              15 |

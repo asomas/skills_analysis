@@ -1,6 +1,6 @@
-#Occupation mutual fund broker
-##Number skills 17
-###Similar occupations:
+# Occupation mutual fund broker
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match mutual fund broker |   percentage match with mutual fund broker |   skills not in mutual fund broker |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [securities analyst](securities_analyst.md)                                                   |                          18 |                                     13 |                                   0.764706 |                                  5 |

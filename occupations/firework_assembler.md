@@ -1,6 +1,6 @@
-#Occupation firework assembler
-##Number skills 7
-###Similar occupations:
+# Occupation firework assembler
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match firework assembler |   percentage match with firework assembler |   skills not in firework assembler |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [pyrotechnician](pyrotechnician.md)                                                       |                          23 |                                      5 |                                   0.714286 |                                 18 |

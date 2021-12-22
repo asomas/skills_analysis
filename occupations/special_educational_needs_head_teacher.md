@@ -1,6 +1,6 @@
-#Occupation special educational needs head teacher
-##Number skills 26
-###Similar occupations:
+# Occupation special educational needs head teacher
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match special educational needs head teacher |   percentage match with special educational needs head teacher |   skills not in special educational needs head teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [nursery school head teacher](nursery_school_head_teacher.md)                                                         |                          23 |                                                         18 |                                                       0.692308 |                                                      5 |

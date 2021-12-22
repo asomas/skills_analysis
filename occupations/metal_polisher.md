@@ -1,6 +1,6 @@
-#Occupation metal polisher
-##Number skills 13
-###Similar occupations:
+# Occupation metal polisher
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match metal polisher |   percentage match with metal polisher |   skills not in metal polisher |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [surface grinding machine operator](surface_grinding_machine_operator.md)                             |                          18 |                                 11 |                               0.846154 |                              7 |

@@ -1,6 +1,6 @@
-#Occupation religious studies lecturer
-##Number skills 19
-###Similar occupations:
+# Occupation religious studies lecturer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match religious studies lecturer |   percentage match with religious studies lecturer |   skills not in religious studies lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [religious education teacher secondary school](religious_education_teacher_secondary_school.md)                       |                          27 |                                             17 |                                           0.894737 |                                         10 |

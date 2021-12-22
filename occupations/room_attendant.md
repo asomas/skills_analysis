@@ -1,6 +1,6 @@
-#Occupation room attendant
-##Number skills 9
-###Similar occupations:
+# Occupation room attendant
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                    |   skills in this occupation |   skills that match room attendant |   percentage match with room attendant |   skills not in room attendant |
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [kitchen assistant](kitchen_assistant.md)                                                                                     |                          19 |                                  3 |                               0.333333 |                             16 |

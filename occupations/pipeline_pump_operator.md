@@ -1,6 +1,6 @@
-#Occupation pipeline pump operator
-##Number skills 18
-###Similar occupations:
+# Occupation pipeline pump operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match pipeline pump operator |   percentage match with pipeline pump operator |   skills not in pipeline pump operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [pipeline maintenance worker](pipeline_maintenance_worker.md)                                                                                                         |                          17 |                                          5 |                                       0.277778 |                                     12 |

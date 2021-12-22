@@ -1,6 +1,6 @@
-#Occupation level crossing signalperson
-##Number skills 24
-###Similar occupations:
+# Occupation level crossing signalperson
+## Number skills 24
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match level crossing signalperson |   percentage match with level crossing signalperson |   skills not in level crossing signalperson |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [rail switchperson](rail_switchperson.md)                                   |                          19 |                                               8 |                                            0.333333 |                                          11 |

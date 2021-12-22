@@ -1,6 +1,6 @@
-#Occupation footwear stitching machine operator
-##Number skills 10
-###Similar occupations:
+# Occupation footwear stitching machine operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match footwear stitching machine operator |   percentage match with footwear stitching machine operator |   skills not in footwear stitching machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [pre-stitching machine operator](pre-stitching_machine_operator.md)                                   |                          13 |                                                       9 |                                                         0.9 |                                                   4 |

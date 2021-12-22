@@ -1,6 +1,6 @@
-#Occupation food grader
-##Number skills 29
-###Similar occupations:
+# Occupation food grader
+## Number skills 29
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match food grader |   percentage match with food grader |   skills not in food grader |
 |:--------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [food regulatory advisor](food_regulatory_advisor.md)                           |                          35 |                              18 |                            0.62069  |                          17 |

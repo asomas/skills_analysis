@@ -1,6 +1,6 @@
-#Occupation heating, ventilation, air conditioning engineer
-##Number skills 13
-###Similar occupations:
+# Occupation heating, ventilation, air conditioning engineer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match heating, ventilation, air conditioning engineer |   percentage match with heating, ventilation, air conditioning engineer |   skills not in heating, ventilation, air conditioning engineer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------:|
 | [fluid power engineer](fluid_power_engineer.md)                                                                                                                       |                          22 |                                                                  11 |                                                                0.846154 |                                                              11 |

@@ -1,6 +1,6 @@
-#Occupation child care coordinator
-##Number skills 18
-###Similar occupations:
+# Occupation child care coordinator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match child care coordinator |   percentage match with child care coordinator |   skills not in child care coordinator |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [child day care worker](child_day_care_worker.md)                                                       |                          74 |                                          9 |                                       0.5      |                                     65 |

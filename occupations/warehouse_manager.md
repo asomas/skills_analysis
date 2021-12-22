@@ -1,6 +1,6 @@
-#Occupation warehouse manager
-##Number skills 41
-###Similar occupations:
+# Occupation warehouse manager
+## Number skills 41
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match warehouse manager |   percentage match with warehouse manager |   skills not in warehouse manager |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [logistics and distribution manager](logistics_and_distribution_manager.md)       |                          32 |                                     8 |                                  0.195122 |                                24 |

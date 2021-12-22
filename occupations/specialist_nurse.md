@@ -1,6 +1,6 @@
-#Occupation specialist nurse
-##Number skills 62
-###Similar occupations:
+# Occupation specialist nurse
+## Number skills 62
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match specialist nurse |   percentage match with specialist nurse |   skills not in specialist nurse |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [nurse responsible for general care](nurse_responsible_for_general_care.md)               |                          90 |                                   52 |                                 0.83871  |                               38 |

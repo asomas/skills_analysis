@@ -1,6 +1,6 @@
-#Occupation hospitality vocational teacher
-##Number skills 24
-###Similar occupations:
+# Occupation hospitality vocational teacher
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match hospitality vocational teacher |   percentage match with hospitality vocational teacher |   skills not in hospitality vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [hairdressing vocational teacher](hairdressing_vocational_teacher.md)                                                 |                          27 |                                                 23 |                                               0.958333 |                                              4 |

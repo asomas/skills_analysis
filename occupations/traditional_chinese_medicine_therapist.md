@@ -1,6 +1,6 @@
-#Occupation traditional chinese medicine therapist
-##Number skills 23
-###Similar occupations:
+# Occupation traditional chinese medicine therapist
+## Number skills 23
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match traditional chinese medicine therapist |   percentage match with traditional chinese medicine therapist |   skills not in traditional chinese medicine therapist |
 |:----------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [acupuncturist](acupuncturist.md)                                           |                          33 |                                                         14 |                                                       0.608696 |                                                     19 |

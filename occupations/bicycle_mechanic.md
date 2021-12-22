@@ -1,6 +1,6 @@
-#Occupation bicycle mechanic
-##Number skills 13
-###Similar occupations:
+# Occupation bicycle mechanic
+## Number skills 13
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match bicycle mechanic |   percentage match with bicycle mechanic |   skills not in bicycle mechanic |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [computer hardware repair technician](computer_hardware_repair_technician.md)       |                          18 |                                    5 |                                 0.384615 |                               13 |

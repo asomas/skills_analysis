@@ -1,6 +1,6 @@
-#Occupation venture capitalist
-##Number skills 14
-###Similar occupations:
+# Occupation venture capitalist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match venture capitalist |   percentage match with venture capitalist |   skills not in venture capitalist |
 |:------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [mergers and acquisitions analyst](mergers_and_acquisitions_analyst.md)       |                          15 |                                      6 |                                   0.428571 |                                  9 |

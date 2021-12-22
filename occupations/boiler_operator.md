@@ -1,6 +1,6 @@
-#Occupation boiler operator
-##Number skills 12
-###Similar occupations:
+# Occupation boiler operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match boiler operator |   percentage match with boiler operator |   skills not in boiler operator |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [fossil-fuel power plant operator](fossil-fuel_power_plant_operator.md)           |                          17 |                                   4 |                                0.333333 |                              13 |

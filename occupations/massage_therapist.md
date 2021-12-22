@@ -1,6 +1,6 @@
-#Occupation massage therapist
-##Number skills 21
-###Similar occupations:
+# Occupation massage therapist
+## Number skills 21
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match massage therapist |   percentage match with massage therapist |   skills not in massage therapist |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [masseur/masseuse](masseur-masseuse.md)                                             |                          14 |                                    13 |                                  0.619048 |                                 1 |

@@ -1,6 +1,6 @@
-#Occupation casting machine operator
-##Number skills 24
-###Similar occupations:
+# Occupation casting machine operator
+## Number skills 24
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match casting machine operator |   percentage match with casting machine operator |   skills not in casting machine operator |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [foundry operative](foundry_operative.md)                                   |                          13 |                                            7 |                                         0.291667 |                                        6 |

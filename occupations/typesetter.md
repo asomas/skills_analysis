@@ -1,6 +1,6 @@
-#Occupation typesetter
-##Number skills 26
-###Similar occupations:
+# Occupation typesetter
+## Number skills 26
+### Similar occupations:
 | occupation                                                    |   skills in this occupation |   skills that match typesetter |   percentage match with typesetter |   skills not in typesetter |
 |:--------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [imagesetter](imagesetter.md)                                 |                          28 |                             19 |                           0.730769 |                          9 |

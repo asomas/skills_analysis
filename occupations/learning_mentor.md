@@ -1,6 +1,6 @@
-#Occupation learning mentor
-##Number skills 17
-###Similar occupations:
+# Occupation learning mentor
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match learning mentor |   percentage match with learning mentor |   skills not in learning mentor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [educational counsellor](educational_counsellor.md)                                                                   |                          19 |                                   9 |                                0.529412 |                              10 |

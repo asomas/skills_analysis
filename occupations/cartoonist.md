@@ -1,6 +1,6 @@
-#Occupation cartoonist
-##Number skills 17
-###Similar occupations:
+# Occupation cartoonist
+## Number skills 17
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match cartoonist |   percentage match with cartoonist |   skills not in cartoonist |
 |:--------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [illustrator](illustrator.md)                                             |                          16 |                              9 |                           0.529412 |                          7 |

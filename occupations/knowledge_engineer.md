@@ -1,6 +1,6 @@
-#Occupation knowledge engineer
-##Number skills 21
-###Similar occupations:
+# Occupation knowledge engineer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match knowledge engineer |   percentage match with knowledge engineer |   skills not in knowledge engineer |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [ICT intelligent systems designer](ICT_intelligent_systems_designer.md)           |                          22 |                                     17 |                                   0.809524 |                                  5 |

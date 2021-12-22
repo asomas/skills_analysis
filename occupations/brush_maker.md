@@ -1,6 +1,6 @@
-#Occupation brush maker
-##Number skills 11
-###Similar occupations:
+# Occupation brush maker
+## Number skills 11
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match brush maker |   percentage match with brush maker |   skills not in brush maker |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [frame maker](frame_maker.md)                                               |                          13 |                               5 |                            0.454545 |                           8 |

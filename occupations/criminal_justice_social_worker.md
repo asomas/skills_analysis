@@ -1,6 +1,6 @@
-#Occupation criminal justice social worker
-##Number skills 69
-###Similar occupations:
+# Occupation criminal justice social worker
+## Number skills 69
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match criminal justice social worker |   percentage match with criminal justice social worker |   skills not in criminal justice social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [youth offending team worker](youth_offending_team_worker.md)                             |                          75 |                                                 67 |                                               0.971014 |                                              8 |

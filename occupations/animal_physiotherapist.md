@@ -1,6 +1,6 @@
-#Occupation animal physiotherapist
-##Number skills 22
-###Similar occupations:
+# Occupation animal physiotherapist
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match animal physiotherapist |   percentage match with animal physiotherapist |   skills not in animal physiotherapist |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [animal massage therapist](animal_massage_therapist.md)                                   |                          22 |                                         21 |                                       0.954545 |                                      1 |

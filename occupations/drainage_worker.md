@@ -1,6 +1,6 @@
-#Occupation drainage worker
-##Number skills 19
-###Similar occupations:
+# Occupation drainage worker
+## Number skills 19
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match drainage worker |   percentage match with drainage worker |   skills not in drainage worker |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [sewer construction worker](sewer_construction_worker.md)                               |                          22 |                                   9 |                                0.473684 |                              13 |

@@ -1,6 +1,6 @@
-#Occupation production designer
-##Number skills 13
-###Similar occupations:
+# Occupation production designer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match production designer |   percentage match with production designer |   skills not in production designer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [producer](producer.md)                                                                                                                     |                          10 |                                       4 |                                    0.307692 |                                   6 |

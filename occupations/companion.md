@@ -1,6 +1,6 @@
-#Occupation companion
-##Number skills 15
-###Similar occupations:
+# Occupation companion
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match companion |   percentage match with companion |   skills not in companion |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [home care aide](home_care_aide.md)                                                       |                          23 |                             7 |                          0.466667 |                        16 |

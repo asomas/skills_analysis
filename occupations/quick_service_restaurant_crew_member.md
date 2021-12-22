@@ -1,6 +1,6 @@
-#Occupation quick service restaurant crew member
-##Number skills 17
-###Similar occupations:
+# Occupation quick service restaurant crew member
+## Number skills 17
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match quick service restaurant crew member |   percentage match with quick service restaurant crew member |   skills not in quick service restaurant crew member |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [barista](barista.md)                                                               |                          20 |                                                        8 |                                                     0.470588 |                                                   12 |

@@ -1,6 +1,6 @@
-#Occupation venue director
-##Number skills 29
-###Similar occupations:
+# Occupation venue director
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match venue director |   percentage match with venue director |   skills not in venue director |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [restaurant manager](restaurant_manager.md)                                                       |                          29 |                                 20 |                               0.689655 |                              9 |

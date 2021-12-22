@@ -1,6 +1,6 @@
-#Occupation ICT environmental manager
-##Number skills 20
-###Similar occupations:
+# Occupation ICT environmental manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match ICT environmental manager |   percentage match with ICT environmental manager |   skills not in ICT environmental manager |
 |:------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [environmental expert](environmental_expert.md)                               |                          21 |                                             5 |                                              0.25 |                                        16 |

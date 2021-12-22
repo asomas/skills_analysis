@@ -1,6 +1,6 @@
-#Occupation graphic designer
-##Number skills 15
-###Similar occupations:
+# Occupation graphic designer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match graphic designer |   percentage match with graphic designer |   skills not in graphic designer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [desktop publisher](desktop_publisher.md)                                                                                                                     |                          17 |                                    7 |                                 0.466667 |                               10 |

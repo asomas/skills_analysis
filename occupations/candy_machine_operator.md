@@ -1,6 +1,6 @@
-#Occupation candy machine operator
-##Number skills 18
-###Similar occupations:
+# Occupation candy machine operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match candy machine operator |   percentage match with candy machine operator |   skills not in candy machine operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [meat preparations operator](meat_preparations_operator.md)                             |                          36 |                                         10 |                                       0.555556 |                                     26 |

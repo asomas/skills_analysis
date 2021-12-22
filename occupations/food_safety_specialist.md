@@ -1,6 +1,6 @@
-#Occupation food safety specialist
-##Number skills 14
-###Similar occupations:
+# Occupation food safety specialist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match food safety specialist |   percentage match with food safety specialist |   skills not in food safety specialist |
 |:--------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [food technologist](food_technologist.md)                                       |                          60 |                                          3 |                                       0.214286 |                                     57 |

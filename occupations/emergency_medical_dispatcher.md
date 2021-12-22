@@ -1,6 +1,6 @@
-#Occupation emergency medical dispatcher
-##Number skills 18
-###Similar occupations:
+# Occupation emergency medical dispatcher
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match emergency medical dispatcher |   percentage match with emergency medical dispatcher |   skills not in emergency medical dispatcher |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [paramedic in emergency responses](paramedic_in_emergency_responses.md)                   |                          74 |                                                8 |                                             0.444444 |                                           66 |

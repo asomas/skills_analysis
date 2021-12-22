@@ -1,6 +1,6 @@
-#Occupation after-sales service technician
-##Number skills 16
-###Similar occupations:
+# Occupation after-sales service technician
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match after-sales service technician |   percentage match with after-sales service technician |   skills not in after-sales service technician |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [commercial sales representative](commercial_sales_representative.md)                                                                                             |                          30 |                                                 11 |                                                 0.6875 |                                             19 |

@@ -1,6 +1,6 @@
-#Occupation columnist
-##Number skills 19
-###Similar occupations:
+# Occupation columnist
+## Number skills 19
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match columnist |   percentage match with columnist |   skills not in columnist |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [foreign correspondent](foreign_correspondent.md)                                 |                          25 |                            18 |                          0.947368 |                         7 |

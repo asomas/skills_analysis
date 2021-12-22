@@ -1,6 +1,6 @@
-#Occupation psychology lecturer
-##Number skills 20
-###Similar occupations:
+# Occupation psychology lecturer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match psychology lecturer |   percentage match with psychology lecturer |   skills not in psychology lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [computer science lecturer](computer_science_lecturer.md)                                                             |                          62 |                                      15 |                                        0.75 |                                  47 |

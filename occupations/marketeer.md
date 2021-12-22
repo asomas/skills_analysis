@@ -1,6 +1,6 @@
-#Occupation marketeer
-##Number skills 22
-###Similar occupations:
+# Occupation marketeer
+## Number skills 22
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match marketeer |   percentage match with marketeer |   skills not in marketeer |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [online community manager](online_community_manager.md)                 |                          47 |                            10 |                          0.454545 |                        37 |

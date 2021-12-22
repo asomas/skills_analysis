@@ -1,6 +1,6 @@
-#Occupation lawyer linguist
-##Number skills 14
-###Similar occupations:
+# Occupation lawyer linguist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match lawyer linguist |   percentage match with lawyer linguist |   skills not in lawyer linguist |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [localiser](localiser.md)                                                         |                          20 |                                   5 |                                0.357143 |                              15 |

@@ -1,6 +1,6 @@
-#Occupation technical communicator
-##Number skills 23
-###Similar occupations:
+# Occupation technical communicator
+## Number skills 23
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match technical communicator |   percentage match with technical communicator |   skills not in technical communicator |
 |:----------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [instructional designer](instructional_designer.md)       |                          34 |                                         11 |                                       0.478261 |                                     23 |

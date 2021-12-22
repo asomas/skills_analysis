@@ -1,6 +1,6 @@
-#Occupation bank account manager
-##Number skills 21
-###Similar occupations:
+# Occupation bank account manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match bank account manager |   percentage match with bank account manager |   skills not in bank account manager |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [relationship banking manager](relationship_banking_manager.md)                   |                          25 |                                       12 |                                     0.571429 |                                   13 |

@@ -1,6 +1,6 @@
-#Occupation train dispatcher
-##Number skills 8
-###Similar occupations:
+# Occupation train dispatcher
+## Number skills 8
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match train dispatcher |   percentage match with train dispatcher |   skills not in train dispatcher |
 |:----------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [train driver](train_driver.md)                                             |                          26 |                                    4 |                                    0.5   |                               22 |

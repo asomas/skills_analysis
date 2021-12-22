@@ -1,6 +1,6 @@
-#Occupation electrical equipment production supervisor
-##Number skills 21
-###Similar occupations:
+# Occupation electrical equipment production supervisor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match electrical equipment production supervisor |   percentage match with electrical equipment production supervisor |   skills not in electrical equipment production supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [electronics production supervisor](electronics_production_supervisor.md)                                       |                          26 |                                                             17 |                                                           0.809524 |                                                          9 |

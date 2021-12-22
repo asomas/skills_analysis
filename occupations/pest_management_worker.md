@@ -1,6 +1,6 @@
-#Occupation pest management worker
-##Number skills 18
-###Similar occupations:
+# Occupation pest management worker
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match pest management worker |   percentage match with pest management worker |   skills not in pest management worker |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [pesticides sprayer](pesticides_sprayer.md)                                                                   |                          14 |                                          7 |                                       0.388889 |                                      7 |

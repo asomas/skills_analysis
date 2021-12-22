@@ -1,6 +1,6 @@
-#Occupation hand brick moulder
-##Number skills 11
-###Similar occupations:
+# Occupation hand brick moulder
+## Number skills 11
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match hand brick moulder |   percentage match with hand brick moulder |   skills not in hand brick moulder |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [casting machine operator](casting_machine_operator.md)                           |                          24 |                                      4 |                                   0.363636 |                                 20 |

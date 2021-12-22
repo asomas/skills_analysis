@@ -1,6 +1,6 @@
-#Occupation publications coordinator
-##Number skills 19
-###Similar occupations:
+# Occupation publications coordinator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match publications coordinator |   percentage match with publications coordinator |   skills not in publications coordinator |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [book publisher](book_publisher.md)                                                               |                          15 |                                            9 |                                         0.473684 |                                        6 |

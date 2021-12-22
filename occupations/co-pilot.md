@@ -1,6 +1,6 @@
-#Occupation co-pilot
-##Number skills 43
-###Similar occupations:
+# Occupation co-pilot
+## Number skills 43
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match co-pilot |   percentage match with co-pilot |   skills not in co-pilot |
 |:--------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [helicopter pilot](helicopter_pilot.md)                                               |                          39 |                           33 |                         0.767442 |                        6 |

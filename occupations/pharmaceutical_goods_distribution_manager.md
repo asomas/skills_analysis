@@ -1,6 +1,6 @@
-#Occupation pharmaceutical goods distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation pharmaceutical goods distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match pharmaceutical goods distribution manager |   percentage match with pharmaceutical goods distribution manager |   skills not in pharmaceutical goods distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [mining, construction and civil engineering machinery distribution manager](mining,_construction_and_civil_engineering_machinery_distribution_manager.md)               |                          26 |                                                            25 |                                                          0.961538 |                                                         1 |

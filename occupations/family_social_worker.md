@@ -1,6 +1,6 @@
-#Occupation family social worker
-##Number skills 74
-###Similar occupations:
+# Occupation family social worker
+## Number skills 74
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match family social worker |   percentage match with family social worker |   skills not in family social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [consultant social worker](consultant_social_worker.md)                                   |                          75 |                                       70 |                                     0.945946 |                                    5 |

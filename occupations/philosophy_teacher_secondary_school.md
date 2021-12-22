@@ -1,6 +1,6 @@
-#Occupation philosophy teacher secondary school
-##Number skills 29
-###Similar occupations:
+# Occupation philosophy teacher secondary school
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match philosophy teacher secondary school |   percentage match with philosophy teacher secondary school |   skills not in philosophy teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [religious education teacher secondary school](religious_education_teacher_secondary_school.md)                       |                          27 |                                                      24 |                                                    0.827586 |                                                   3 |

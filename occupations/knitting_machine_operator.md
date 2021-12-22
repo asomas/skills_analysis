@@ -1,6 +1,6 @@
-#Occupation knitting machine operator
-##Number skills 20
-###Similar occupations:
+# Occupation knitting machine operator
+## Number skills 20
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match knitting machine operator |   percentage match with knitting machine operator |   skills not in knitting machine operator |
 |:------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [carpet weaver](carpet_weaver.md)                                             |                          17 |                                             8 |                                              0.4  |                                         9 |

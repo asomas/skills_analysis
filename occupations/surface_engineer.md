@@ -1,6 +1,6 @@
-#Occupation surface engineer
-##Number skills 14
-###Similar occupations:
+# Occupation surface engineer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match surface engineer |   percentage match with surface engineer |   skills not in surface engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [tooling engineer](tooling_engineer.md)                                                                                                     |                          29 |                                   12 |                                 0.857143 |                               17 |

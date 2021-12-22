@@ -1,6 +1,6 @@
-#Occupation forestry technician
-##Number skills 19
-###Similar occupations:
+# Occupation forestry technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match forestry technician |   percentage match with forestry technician |   skills not in forestry technician |
 |:------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [forest worker](forest_worker.md)                                 |                          23 |                                       5 |                                    0.263158 |                                  18 |

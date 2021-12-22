@@ -1,6 +1,6 @@
-#Occupation wedding planner
-##Number skills 20
-###Similar occupations:
+# Occupation wedding planner
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match wedding planner |   percentage match with wedding planner |   skills not in wedding planner |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [beauty salon manager](beauty_salon_manager.md)                                                                                                                   |                          44 |                                   5 |                                    0.25 |                              39 |

@@ -1,6 +1,6 @@
-#Occupation health and safety engineer
-##Number skills 11
-###Similar occupations:
+# Occupation health and safety engineer
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match health and safety engineer |   percentage match with health and safety engineer |   skills not in health and safety engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [agricultural equipment design engineer](agricultural_equipment_design_engineer.md)                                                         |                          26 |                                              7 |                                           0.636364 |                                         19 |

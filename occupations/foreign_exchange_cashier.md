@@ -1,6 +1,6 @@
-#Occupation foreign exchange cashier
-##Number skills 10
-###Similar occupations:
+# Occupation foreign exchange cashier
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match foreign exchange cashier |   percentage match with foreign exchange cashier |   skills not in foreign exchange cashier |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [investment clerk](investment_clerk.md)                                                       |                          19 |                                            7 |                                              0.7 |                                       12 |

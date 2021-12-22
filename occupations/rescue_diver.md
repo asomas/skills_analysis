@@ -1,6 +1,6 @@
-#Occupation rescue diver
-##Number skills 25
-###Similar occupations:
+# Occupation rescue diver
+## Number skills 25
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match rescue diver |   percentage match with rescue diver |   skills not in rescue diver |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [underwater construction supervisor](underwater_construction_supervisor.md) |                          28 |                               10 |                                 0.4  |                           18 |

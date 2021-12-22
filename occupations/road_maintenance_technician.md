@@ -1,6 +1,6 @@
-#Occupation road maintenance technician
-##Number skills 17
-###Similar occupations:
+# Occupation road maintenance technician
+## Number skills 17
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match road maintenance technician |   percentage match with road maintenance technician |   skills not in road maintenance technician |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [road sign installer](road_sign_installer.md)                                           |                          13 |                                               8 |                                            0.470588 |                                           5 |

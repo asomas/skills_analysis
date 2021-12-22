@@ -1,6 +1,6 @@
-#Occupation house sitter
-##Number skills 9
-###Similar occupations:
+# Occupation house sitter
+## Number skills 9
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match house sitter |   percentage match with house sitter |   skills not in house sitter |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [aircraft fuel system operator](aircraft_fuel_system_operator.md)                 |                          10 |                                2 |                             0.222222 |                            8 |

@@ -1,6 +1,6 @@
-#Occupation import export manager in tobacco products
-##Number skills 26
-###Similar occupations:
+# Occupation import export manager in tobacco products
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in tobacco products |   percentage match with import export manager in tobacco products |   skills not in import export manager in tobacco products |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [import export manager in coffee, tea, cocoa and spices](import_export_manager_in_coffee,_tea,_cocoa_and_spices.md)                                                     |                          28 |                                                            25 |                                                          0.961538 |                                                         3 |

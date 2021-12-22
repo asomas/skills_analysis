@@ -1,6 +1,6 @@
-#Occupation emergency ambulance driver
-##Number skills 33
-###Similar occupations:
+# Occupation emergency ambulance driver
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match emergency ambulance driver |   percentage match with emergency ambulance driver |   skills not in emergency ambulance driver |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [paramedic in emergency responses](paramedic_in_emergency_responses.md)                                     |                          74 |                                             19 |                                           0.575758 |                                         55 |

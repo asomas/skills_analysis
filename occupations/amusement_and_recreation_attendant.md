@@ -1,6 +1,6 @@
-#Occupation amusement and recreation attendant
-##Number skills 9
-###Similar occupations:
+# Occupation amusement and recreation attendant
+## Number skills 9
+### Similar occupations:
 | occupation                                          |   skills in this occupation |   skills that match amusement and recreation attendant |   percentage match with amusement and recreation attendant |   skills not in amusement and recreation attendant |
 |:----------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [attraction operator](attraction_operator.md)       |                           9 |                                                      2 |                                                   0.222222 |                                                  7 |

@@ -1,6 +1,6 @@
-#Occupation audio-visual technician
-##Number skills 11
-###Similar occupations:
+# Occupation audio-visual technician
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match audio-visual technician |   percentage match with audio-visual technician |   skills not in audio-visual technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [broadcast technician](broadcast_technician.md)                                                                                                               |                          19 |                                           5 |                                        0.454545 |                                      14 |

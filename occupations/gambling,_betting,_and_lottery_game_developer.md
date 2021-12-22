@@ -1,6 +1,6 @@
-#Occupation gambling, betting, and lottery game developer
-##Number skills 19
-###Similar occupations:
+# Occupation gambling, betting, and lottery game developer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                    |   skills in this occupation |   skills that match gambling, betting, and lottery game developer |   percentage match with gambling, betting, and lottery game developer |   skills not in gambling, betting, and lottery game developer |
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------:|----------------------------------------------------------------------:|--------------------------------------------------------------:|
 | [gambling, betting, and lottery games designer](gambling,_betting,_and_lottery_games_designer.md)                             |                          11 |                                                                 4 |                                                              0.210526 |                                                             7 |

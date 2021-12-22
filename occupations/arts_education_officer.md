@@ -1,6 +1,6 @@
-#Occupation arts education officer
-##Number skills 9
-###Similar occupations:
+# Occupation arts education officer
+## Number skills 9
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match arts education officer |   percentage match with arts education officer |   skills not in arts education officer |
 |:----------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [mediation and education manager](mediation_and_education_manager.md) |                          11 |                                          7 |                                       0.777778 |                                      4 |

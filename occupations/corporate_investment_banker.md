@@ -1,6 +1,6 @@
-#Occupation corporate investment banker
-##Number skills 17
-###Similar occupations:
+# Occupation corporate investment banker
+## Number skills 17
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match corporate investment banker |   percentage match with corporate investment banker |   skills not in corporate investment banker |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [investment fund manager](investment_fund_manager.md)                           |                          30 |                                               9 |                                            0.529412 |                                          21 |

@@ -1,6 +1,6 @@
-#Occupation tent installer
-##Number skills 13
-###Similar occupations:
+# Occupation tent installer
+## Number skills 13
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match tent installer |   percentage match with tent installer |   skills not in tent installer |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [high rigger](high_rigger.md)                                     |                          22 |                                 11 |                               0.846154 |                             11 |

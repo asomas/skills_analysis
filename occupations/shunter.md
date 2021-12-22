@@ -1,6 +1,6 @@
-#Occupation shunter
-##Number skills 33
-###Similar occupations:
+# Occupation shunter
+## Number skills 33
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match shunter |   percentage match with shunter |   skills not in shunter |
 |:----------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [railway electronic technician](railway_electronic_technician.md)     |                          23 |                           7 |                        0.212121 |                      16 |

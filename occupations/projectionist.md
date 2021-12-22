@@ -1,6 +1,6 @@
-#Occupation projectionist
-##Number skills 8
-###Similar occupations:
+# Occupation projectionist
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match projectionist |   percentage match with projectionist |   skills not in projectionist |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [land-based machinery technician](land-based_machinery_technician.md)                                                                                                 |                          12 |                                 2 |                                 0.25  |                            10 |

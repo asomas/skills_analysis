@@ -1,6 +1,6 @@
-#Occupation lieutenant
-##Number skills 14
-###Similar occupations:
+# Occupation lieutenant
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match lieutenant |   percentage match with lieutenant |   skills not in lieutenant |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [armed forces officer](armed_forces_officer.md)                                               |                          21 |                              9 |                           0.642857 |                         12 |

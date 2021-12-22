@@ -1,6 +1,6 @@
-#Occupation carpet fitter
-##Number skills 15
-###Similar occupations:
+# Occupation carpet fitter
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match carpet fitter |   percentage match with carpet fitter |   skills not in carpet fitter |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [resilient floor layer](resilient_floor_layer.md)                                                                                                                     |                          15 |                                10 |                              0.666667 |                             5 |

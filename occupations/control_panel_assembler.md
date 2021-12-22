@@ -1,6 +1,6 @@
-#Occupation control panel assembler
-##Number skills 26
-###Similar occupations:
+# Occupation control panel assembler
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match control panel assembler |   percentage match with control panel assembler |   skills not in control panel assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [wire harness assembler](wire_harness_assembler.md)                                                   |                          27 |                                          15 |                                        0.576923 |                                      12 |

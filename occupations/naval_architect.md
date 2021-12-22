@@ -1,6 +1,6 @@
-#Occupation naval architect
-##Number skills 10
-###Similar occupations:
+# Occupation naval architect
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match naval architect |   percentage match with naval architect |   skills not in naval architect |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [fisheries refrigeration engineer](fisheries_refrigeration_engineer.md)                                                                     |                          22 |                                   8 |                                     0.8 |                              14 |

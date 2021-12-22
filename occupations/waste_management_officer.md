@@ -1,6 +1,6 @@
-#Occupation waste management officer
-##Number skills 17
-###Similar occupations:
+# Occupation waste management officer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match waste management officer |   percentage match with waste management officer |   skills not in waste management officer |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [waste management supervisor](waste_management_supervisor.md)                                 |                          14 |                                            7 |                                         0.411765 |                                        7 |

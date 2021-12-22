@@ -1,6 +1,6 @@
-#Occupation spot welder
-##Number skills 18
-###Similar occupations:
+# Occupation spot welder
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match spot welder |   percentage match with spot welder |   skills not in spot welder |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [laser beam welder](laser_beam_welder.md)                                                                       |                          25 |                              14 |                            0.777778 |                          11 |

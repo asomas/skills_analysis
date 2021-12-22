@@ -1,6 +1,6 @@
-#Occupation pet and pet food specialised seller
-##Number skills 36
-###Similar occupations:
+# Occupation pet and pet food specialised seller
+## Number skills 36
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match pet and pet food specialised seller |   percentage match with pet and pet food specialised seller |   skills not in pet and pet food specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [medical goods specialised seller](medical_goods_specialised_seller.md)                                                                                           |                          31 |                                                      27 |                                                    0.75     |                                                   4 |

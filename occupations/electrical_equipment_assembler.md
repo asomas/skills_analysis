@@ -1,6 +1,6 @@
-#Occupation electrical equipment assembler
-##Number skills 21
-###Similar occupations:
+# Occupation electrical equipment assembler
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match electrical equipment assembler |   percentage match with electrical equipment assembler |   skills not in electrical equipment assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [wire harness assembler](wire_harness_assembler.md)                                                   |                          27 |                                                 14 |                                               0.666667 |                                             13 |

@@ -1,6 +1,6 @@
-#Occupation footwear assembly supervisor
-##Number skills 17
-###Similar occupations:
+# Occupation footwear assembly supervisor
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match footwear assembly supervisor |   percentage match with footwear assembly supervisor |   skills not in footwear assembly supervisor |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [footwear production technician](footwear_production_technician.md)                                   |                          23 |                                               15 |                                             0.882353 |                                            8 |

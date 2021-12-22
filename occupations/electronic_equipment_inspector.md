@@ -1,6 +1,6 @@
-#Occupation electronic equipment inspector
-##Number skills 20
-###Similar occupations:
+# Occupation electronic equipment inspector
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match electronic equipment inspector |   percentage match with electronic equipment inspector |   skills not in electronic equipment inspector |
 |:--------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [computer hardware test technician](computer_hardware_test_technician.md)                   |                          24 |                                                 14 |                                                   0.7  |                                             10 |

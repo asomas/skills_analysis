@@ -1,6 +1,6 @@
-#Occupation rental service representative in construction and civil engineering machinery
-##Number skills 23
-###Similar occupations:
+# Occupation rental service representative in construction and civil engineering machinery
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match rental service representative in construction and civil engineering machinery |   percentage match with rental service representative in construction and civil engineering machinery |   skills not in rental service representative in construction and civil engineering machinery |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------:|
 | [rental service representative in machinery, equipment and tangible goods](rental_service_representative_in_machinery,_equipment_and_tangible_goods.md)           |                          22 |                                                                                                22 |                                                                                              0.956522 |                                                                                             0 |

@@ -1,6 +1,6 @@
-#Occupation power tool repair technician
-##Number skills 20
-###Similar occupations:
+# Occupation power tool repair technician
+## Number skills 20
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match power tool repair technician |   percentage match with power tool repair technician |   skills not in power tool repair technician |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [household appliances repair technician](household_appliances_repair_technician.md) |                          16 |                                                9 |                                                 0.45 |                                            7 |

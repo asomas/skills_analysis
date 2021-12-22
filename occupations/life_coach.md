@@ -1,6 +1,6 @@
-#Occupation life coach
-##Number skills 13
-###Similar occupations:
+# Occupation life coach
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match life coach |   percentage match with life coach |   skills not in life coach |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [dating service consultant](dating_service_consultant.md)                                                                                                         |                          15 |                              5 |                           0.384615 |                         10 |

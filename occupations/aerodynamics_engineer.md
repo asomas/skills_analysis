@@ -1,6 +1,6 @@
-#Occupation aerodynamics engineer
-##Number skills 25
-###Similar occupations:
+# Occupation aerodynamics engineer
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match aerodynamics engineer |   percentage match with aerodynamics engineer |   skills not in aerodynamics engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [tooling engineer](tooling_engineer.md)                                                                                                     |                          29 |                                        16 |                                          0.64 |                                    13 |

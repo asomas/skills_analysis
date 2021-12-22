@@ -1,6 +1,6 @@
-#Occupation process engineering technician
-##Number skills 15
-###Similar occupations:
+# Occupation process engineering technician
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match process engineering technician |   percentage match with process engineering technician |   skills not in process engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [industrial engineering technician](industrial_engineering_technician.md)                                                                                     |                          15 |                                                 14 |                                               0.933333 |                                              1 |

@@ -1,6 +1,6 @@
-#Occupation data warehouse designer
-##Number skills 26
-###Similar occupations:
+# Occupation data warehouse designer
+## Number skills 26
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match data warehouse designer |   percentage match with data warehouse designer |   skills not in data warehouse designer |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [database designer](database_designer.md)                               |                          27 |                                          25 |                                        0.961538 |                                       2 |

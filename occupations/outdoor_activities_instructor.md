@@ -1,6 +1,6 @@
-#Occupation outdoor activities instructor
-##Number skills 18
-###Similar occupations:
+# Occupation outdoor activities instructor
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match outdoor activities instructor |   percentage match with outdoor activities instructor |   skills not in outdoor activities instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [survival instructor](survival_instructor.md)                                                                         |                          28 |                                                11 |                                              0.611111 |                                            17 |

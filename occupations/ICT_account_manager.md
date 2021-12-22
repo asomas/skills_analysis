@@ -1,6 +1,6 @@
-#Occupation ICT account manager
-##Number skills 21
-###Similar occupations:
+# Occupation ICT account manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match ICT account manager |   percentage match with ICT account manager |   skills not in ICT account manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [sales account manager](sales_account_manager.md)                                                                                                                 |                          21 |                                      10 |                                    0.47619  |                                  11 |

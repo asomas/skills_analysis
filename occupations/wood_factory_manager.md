@@ -1,6 +1,6 @@
-#Occupation wood factory manager
-##Number skills 28
-###Similar occupations:
+# Occupation wood factory manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                    |   skills in this occupation |   skills that match wood factory manager |   percentage match with wood factory manager |   skills not in wood factory manager |
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [print studio supervisor](print_studio_supervisor.md)                                                                         |                          26 |                                       15 |                                     0.535714 |                                   11 |

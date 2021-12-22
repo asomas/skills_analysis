@@ -1,6 +1,6 @@
-#Occupation sawmill operator
-##Number skills 22
-###Similar occupations:
+# Occupation sawmill operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match sawmill operator |   percentage match with sawmill operator |   skills not in sawmill operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [band saw operator](band_saw_operator.md)                                                             |                          22 |                                   18 |                                 0.818182 |                                4 |

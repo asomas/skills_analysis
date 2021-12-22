@@ -1,6 +1,6 @@
-#Occupation non-vessel operating common carrier
-##Number skills 24
-###Similar occupations:
+# Occupation non-vessel operating common carrier
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match non-vessel operating common carrier |   percentage match with non-vessel operating common carrier |   skills not in non-vessel operating common carrier |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [forwarding manager](forwarding_manager.md)                                                           |                          25 |                                                       9 |                                                    0.375    |                                                  16 |

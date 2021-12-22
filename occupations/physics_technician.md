@@ -1,6 +1,6 @@
-#Occupation physics technician
-##Number skills 13
-###Similar occupations:
+# Occupation physics technician
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match physics technician |   percentage match with physics technician |   skills not in physics technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [physicist](physicist.md)                                                                 |                          14 |                                      9 |                                   0.692308 |                                  5 |

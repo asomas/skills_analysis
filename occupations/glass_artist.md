@@ -1,6 +1,6 @@
-#Occupation glass artist
-##Number skills 16
-###Similar occupations:
+# Occupation glass artist
+## Number skills 16
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match glass artist |   percentage match with glass artist |   skills not in glass artist |
 |:----------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [digital artist](digital_artist.md)                       |                          15 |                                7 |                               0.4375 |                            8 |

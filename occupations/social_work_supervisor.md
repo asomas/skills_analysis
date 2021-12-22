@@ -1,6 +1,6 @@
-#Occupation social work supervisor
-##Number skills 66
-###Similar occupations:
+# Occupation social work supervisor
+## Number skills 66
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match social work supervisor |   percentage match with social work supervisor |   skills not in social work supervisor |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [social work practice educator](social_work_practice_educator.md)                         |                          71 |                                         66 |                                       1        |                                      5 |

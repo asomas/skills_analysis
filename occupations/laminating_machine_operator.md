@@ -1,6 +1,6 @@
-#Occupation laminating machine operator
-##Number skills 13
-###Similar occupations:
+# Occupation laminating machine operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match laminating machine operator |   percentage match with laminating machine operator |   skills not in laminating machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [corrugator operator](corrugator_operator.md)                                                         |                          13 |                                               9 |                                            0.692308 |                                           4 |

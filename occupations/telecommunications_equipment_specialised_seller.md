@@ -1,6 +1,6 @@
-#Occupation telecommunications equipment specialised seller
-##Number skills 31
-###Similar occupations:
+# Occupation telecommunications equipment specialised seller
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match telecommunications equipment specialised seller |   percentage match with telecommunications equipment specialised seller |   skills not in telecommunications equipment specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------:|
 | [delicatessen specialised seller](delicatessen_specialised_seller.md)                                                                                             |                          31 |                                                                  27 |                                                                0.870968 |                                                               4 |

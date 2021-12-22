@@ -1,6 +1,6 @@
-#Occupation automotive engineering drafter
-##Number skills 17
-###Similar occupations:
+# Occupation automotive engineering drafter
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match automotive engineering drafter |   percentage match with automotive engineering drafter |   skills not in automotive engineering drafter |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [rolling stock engineering drafter](rolling_stock_engineering_drafter.md)                                                                   |                          16 |                                                 16 |                                               0.941176 |                                              0 |

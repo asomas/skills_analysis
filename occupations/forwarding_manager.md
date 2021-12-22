@@ -1,6 +1,6 @@
-#Occupation forwarding manager
-##Number skills 25
-###Similar occupations:
+# Occupation forwarding manager
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match forwarding manager |   percentage match with forwarding manager |   skills not in forwarding manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [non-vessel operating common carrier](non-vessel_operating_common_carrier.md)                                                                               |                          24 |                                      9 |                                       0.36 |                                 15 |

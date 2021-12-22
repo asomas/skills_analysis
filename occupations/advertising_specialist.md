@@ -1,6 +1,6 @@
-#Occupation advertising specialist
-##Number skills 10
-###Similar occupations:
+# Occupation advertising specialist
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match advertising specialist |   percentage match with advertising specialist |   skills not in advertising specialist |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [advertising copywriter](advertising_copywriter.md)                                                                                                           |                          11 |                                          5 |                                            0.5 |                                      6 |

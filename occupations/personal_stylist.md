@@ -1,6 +1,6 @@
-#Occupation personal stylist
-##Number skills 18
-###Similar occupations:
+# Occupation personal stylist
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match personal stylist |   percentage match with personal stylist |   skills not in personal stylist |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [personal shopper](personal_shopper.md)                                                                                                                           |                          13 |                                   11 |                                 0.611111 |                                2 |

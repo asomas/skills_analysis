@@ -1,6 +1,6 @@
-#Occupation computer-aided design operator
-##Number skills 49
-###Similar occupations:
+# Occupation computer-aided design operator
+## Number skills 49
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match computer-aided design operator |   percentage match with computer-aided design operator |   skills not in computer-aided design operator |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [numerical tool and process control programmer](numerical_tool_and_process_control_programmer.md) |                          52 |                                                 40 |                                               0.816327 |                                             12 |

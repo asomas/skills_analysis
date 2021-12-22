@@ -1,6 +1,6 @@
-#Occupation environmental engineer
-##Number skills 28
-###Similar occupations:
+# Occupation environmental engineer
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match environmental engineer |   percentage match with environmental engineer |   skills not in environmental engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [environmental mining engineer](environmental_mining_engineer.md)                                                                           |                          23 |                                         11 |                                       0.392857 |                                     12 |

@@ -1,6 +1,6 @@
-#Occupation genealogist
-##Number skills 10
-###Similar occupations:
+# Occupation genealogist
+## Number skills 10
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match genealogist |   percentage match with genealogist |   skills not in genealogist |
 |:------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [educational researcher](educational_researcher.md)         |                          17 |                               3 |                                 0.3 |                          14 |

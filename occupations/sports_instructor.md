@@ -1,6 +1,6 @@
-#Occupation sports instructor
-##Number skills 10
-###Similar occupations:
+# Occupation sports instructor
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match sports instructor |   percentage match with sports instructor |   skills not in sports instructor |
 |:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [tennis coach](tennis_coach.md)                                                               |                          12 |                                    10 |                                       1   |                                 2 |

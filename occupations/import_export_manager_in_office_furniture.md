@@ -1,6 +1,6 @@
-#Occupation import export manager in office furniture
-##Number skills 24
-###Similar occupations:
+# Occupation import export manager in office furniture
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in office furniture |   percentage match with import export manager in office furniture |   skills not in import export manager in office furniture |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [import export manager in clothing and footwear](import_export_manager_in_clothing_and_footwear.md)                                                                     |                          25 |                                                            23 |                                                          0.958333 |                                                         2 |

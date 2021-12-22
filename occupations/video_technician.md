@@ -1,6 +1,6 @@
-#Occupation video technician
-##Number skills 17
-###Similar occupations:
+# Occupation video technician
+## Number skills 17
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match video technician |   percentage match with video technician |   skills not in video technician |
 |:------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [stage technician](stage_technician.md)                           |                          43 |                                   14 |                                 0.823529 |                               29 |

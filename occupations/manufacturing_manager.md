@@ -1,6 +1,6 @@
-#Occupation manufacturing manager
-##Number skills 12
-###Similar occupations:
+# Occupation manufacturing manager
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match manufacturing manager |   percentage match with manufacturing manager |   skills not in manufacturing manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [print studio supervisor](print_studio_supervisor.md)                                                                                                       |                          26 |                                        12 |                                      1        |                                    14 |

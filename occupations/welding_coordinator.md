@@ -1,6 +1,6 @@
-#Occupation welding coordinator
-##Number skills 23
-###Similar occupations:
+# Occupation welding coordinator
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match welding coordinator |   percentage match with welding coordinator |   skills not in welding coordinator |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [metal production supervisor](metal_production_supervisor.md)                               |                          22 |                                      13 |                                    0.565217 |                                   9 |

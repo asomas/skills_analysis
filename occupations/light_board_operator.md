@@ -1,6 +1,6 @@
-#Occupation light board operator
-##Number skills 29
-###Similar occupations:
+# Occupation light board operator
+## Number skills 29
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match light board operator |   percentage match with light board operator |   skills not in light board operator |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [video operator](video_operator.md)                               |                          30 |                                       23 |                                     0.793103 |                                    7 |

@@ -1,6 +1,6 @@
-#Occupation food safety inspector
-##Number skills 39
-###Similar occupations:
+# Occupation food safety inspector
+## Number skills 39
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match food safety inspector |   percentage match with food safety inspector |   skills not in food safety inspector |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [food technologist](food_technologist.md)                                               |                          60 |                                        17 |                                      0.435897 |                                    43 |

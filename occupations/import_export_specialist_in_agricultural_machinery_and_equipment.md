@@ -1,6 +1,6 @@
-#Occupation import export specialist in agricultural machinery and equipment
-##Number skills 22
-###Similar occupations:
+# Occupation import export specialist in agricultural machinery and equipment
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in agricultural machinery and equipment |   percentage match with import export specialist in agricultural machinery and equipment |   skills not in import export specialist in agricultural machinery and equipment |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------:|
 | [import export specialist in pharmaceutical goods](import_export_specialist_in_pharmaceutical_goods.md)                                                                 |                          24 |                                                                                   21 |                                                                                 0.954545 |                                                                                3 |

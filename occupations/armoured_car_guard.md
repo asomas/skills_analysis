@@ -1,6 +1,6 @@
-#Occupation armoured car guard
-##Number skills 14
-###Similar occupations:
+# Occupation armoured car guard
+## Number skills 14
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match armoured car guard |   percentage match with armoured car guard |   skills not in armoured car guard |
 |:----------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [armoured car driver](armoured_car_driver.md)             |                          20 |                                      8 |                                   0.571429 |                                 12 |

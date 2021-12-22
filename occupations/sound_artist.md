@@ -1,6 +1,6 @@
-#Occupation sound artist
-##Number skills 21
-###Similar occupations:
+# Occupation sound artist
+## Number skills 21
+### Similar occupations:
 | occupation                                                    |   skills in this occupation |   skills that match sound artist |   percentage match with sound artist |   skills not in sound artist |
 |:--------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [sound operator](sound_operator.md)                           |                          36 |                                8 |                             0.380952 |                           28 |

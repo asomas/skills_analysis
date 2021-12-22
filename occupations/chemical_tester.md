@@ -1,6 +1,6 @@
-#Occupation chemical tester
-##Number skills 11
-###Similar occupations:
+# Occupation chemical tester
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match chemical tester |   percentage match with chemical tester |   skills not in chemical tester |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [metal product quality control inspector](metal_product_quality_control_inspector.md)     |                          28 |                                   5 |                                0.454545 |                              23 |

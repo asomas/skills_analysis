@@ -1,6 +1,6 @@
-#Occupation quality engineer
-##Number skills 17
-###Similar occupations:
+# Occupation quality engineer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match quality engineer |   percentage match with quality engineer |   skills not in quality engineer |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [quality engineering technician](quality_engineering_technician.md)                         |                          17 |                                   10 |                                 0.588235 |                                7 |

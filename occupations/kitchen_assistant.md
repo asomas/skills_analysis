@@ -1,6 +1,6 @@
-#Occupation kitchen assistant
-##Number skills 19
-###Similar occupations:
+# Occupation kitchen assistant
+## Number skills 19
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match kitchen assistant |   percentage match with kitchen assistant |   skills not in kitchen assistant |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [kitchen porter](kitchen_porter.md)                                                 |                          14 |                                    10 |                                  0.526316 |                                 4 |

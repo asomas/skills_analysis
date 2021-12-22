@@ -1,6 +1,6 @@
-#Occupation gas production engineer
-##Number skills 22
-###Similar occupations:
+# Occupation gas production engineer
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match gas production engineer |   percentage match with gas production engineer |   skills not in gas production engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [rolling stock engineer](rolling_stock_engineer.md)                                                                                         |                          16 |                                          10 |                                        0.454545 |                                       6 |

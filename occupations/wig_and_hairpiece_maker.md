@@ -1,6 +1,6 @@
-#Occupation wig and hairpiece maker
-##Number skills 17
-###Similar occupations:
+# Occupation wig and hairpiece maker
+## Number skills 17
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match wig and hairpiece maker |   percentage match with wig and hairpiece maker |   skills not in wig and hairpiece maker |
 |:------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [mask maker](mask_maker.md)                                       |                          14 |                                          13 |                                        0.764706 |                                       1 |

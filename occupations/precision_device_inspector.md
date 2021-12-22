@@ -1,6 +1,6 @@
-#Occupation precision device inspector
-##Number skills 14
-###Similar occupations:
+# Occupation precision device inspector
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match precision device inspector |   percentage match with precision device inspector |   skills not in precision device inspector |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [automated optical inspection operator](automated_optical_inspection_operator.md)                               |                          17 |                                              8 |                                           0.571429 |                                          9 |

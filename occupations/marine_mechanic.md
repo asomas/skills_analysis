@@ -1,6 +1,6 @@
-#Occupation marine mechanic
-##Number skills 37
-###Similar occupations:
+# Occupation marine mechanic
+## Number skills 37
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match marine mechanic |   percentage match with marine mechanic |   skills not in marine mechanic |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [engine minder](engine_minder.md)                                                                     |                          26 |                                  20 |                                0.540541 |                               6 |

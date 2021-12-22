@@ -1,6 +1,6 @@
-#Occupation truck driving instructor
-##Number skills 26
-###Similar occupations:
+# Occupation truck driving instructor
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match truck driving instructor |   percentage match with truck driving instructor |   skills not in truck driving instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [motorcycle instructor](motorcycle_instructor.md)                                                                     |                          25 |                                           24 |                                         0.923077 |                                        1 |

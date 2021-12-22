@@ -1,6 +1,6 @@
-#Occupation screw machine operator
-##Number skills 18
-###Similar occupations:
+# Occupation screw machine operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match screw machine operator |   percentage match with screw machine operator |   skills not in screw machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [deburring machine operator](deburring_machine_operator.md)                                           |                          20 |                                         14 |                                       0.777778 |                                      6 |

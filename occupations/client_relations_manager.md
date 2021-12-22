@@ -1,6 +1,6 @@
-#Occupation client relations manager
-##Number skills 24
-###Similar occupations:
+# Occupation client relations manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match client relations manager |   percentage match with client relations manager |   skills not in client relations manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [beauty salon manager](beauty_salon_manager.md)                                                                                                                   |                          44 |                                           14 |                                         0.583333 |                                       30 |

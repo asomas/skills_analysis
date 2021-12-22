@@ -1,6 +1,6 @@
-#Occupation pension scheme manager
-##Number skills 27
-###Similar occupations:
+# Occupation pension scheme manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match pension scheme manager |   percentage match with pension scheme manager |   skills not in pension scheme manager |
 |:--------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [corporate training manager](corporate_training_manager.md)               |                          34 |                                         16 |                                       0.592593 |                                     18 |

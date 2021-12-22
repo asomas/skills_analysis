@@ -1,6 +1,6 @@
-#Occupation refining machine operator
-##Number skills 22
-###Similar occupations:
+# Occupation refining machine operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match refining machine operator |   percentage match with refining machine operator |   skills not in refining machine operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [centrifuge operator](centrifuge_operator.md)                                           |                          20 |                                            11 |                                          0.5      |                                         9 |

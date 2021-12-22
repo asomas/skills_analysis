@@ -1,6 +1,6 @@
-#Occupation distillery worker
-##Number skills 17
-###Similar occupations:
+# Occupation distillery worker
+## Number skills 17
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match distillery worker |   percentage match with distillery worker |   skills not in distillery worker |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [yeast distiller](yeast_distiller.md)                                                   |                          14 |                                    12 |                                  0.705882 |                                 2 |

@@ -1,6 +1,6 @@
-#Occupation robotics engineering technician
-##Number skills 27
-###Similar occupations:
+# Occupation robotics engineering technician
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match robotics engineering technician |   percentage match with robotics engineering technician |   skills not in robotics engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [mechatronics engineering technician](mechatronics_engineering_technician.md)                                                               |                          28 |                                                  21 |                                                0.777778 |                                               7 |

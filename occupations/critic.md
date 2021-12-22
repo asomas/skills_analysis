@@ -1,6 +1,6 @@
-#Occupation critic
-##Number skills 21
-###Similar occupations:
+# Occupation critic
+## Number skills 21
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match critic |   percentage match with critic |   skills not in critic |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [entertainment journalist](entertainment_journalist.md)                           |                          20 |                         20 |                       0.952381 |                      0 |

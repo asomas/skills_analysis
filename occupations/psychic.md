@@ -1,6 +1,6 @@
-#Occupation psychic
-##Number skills 10
-###Similar occupations:
+# Occupation psychic
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match psychic |   percentage match with psychic |   skills not in psychic |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [fortune teller](fortune_teller.md)                                                                     |                          11 |                           9 |                             0.9 |                       2 |

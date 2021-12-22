@@ -1,6 +1,6 @@
-#Occupation carpenter supervisor
-##Number skills 26
-###Similar occupations:
+# Occupation carpenter supervisor
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match carpenter supervisor |   percentage match with carpenter supervisor |   skills not in carpenter supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [bricklaying supervisor](bricklaying_supervisor.md)                                                             |                          24 |                                       22 |                                     0.846154 |                                    2 |

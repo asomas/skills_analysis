@@ -1,6 +1,6 @@
-#Occupation picture editor
-##Number skills 22
-###Similar occupations:
+# Occupation picture editor
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match picture editor |   percentage match with picture editor |   skills not in picture editor |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [broadcast news editor](broadcast_news_editor.md)                                                                                                       |                          19 |                                  9 |                               0.409091 |                             10 |

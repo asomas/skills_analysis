@@ -1,6 +1,6 @@
-#Occupation scraper operator
-##Number skills 16
-###Similar occupations:
+# Occupation scraper operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match scraper operator |   percentage match with scraper operator |   skills not in scraper operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [bulldozer operator](bulldozer_operator.md)                                             |                          17 |                                   15 |                                   0.9375 |                                2 |

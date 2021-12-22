@@ -1,6 +1,6 @@
-#Occupation seismologist
-##Number skills 13
-###Similar occupations:
+# Occupation seismologist
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match seismologist |   percentage match with seismologist |   skills not in seismologist |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [oceanographer](oceanographer.md)                                                         |                          15 |                                9 |                             0.692308 |                            6 |

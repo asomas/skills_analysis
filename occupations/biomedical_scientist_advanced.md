@@ -1,6 +1,6 @@
-#Occupation biomedical scientist advanced
-##Number skills 17
-###Similar occupations:
+# Occupation biomedical scientist advanced
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match biomedical scientist advanced |   percentage match with biomedical scientist advanced |   skills not in biomedical scientist advanced |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [biomedical scientist](biomedical_scientist.md)                                           |                          90 |                                                14 |                                              0.823529 |                                            76 |

@@ -1,6 +1,6 @@
-#Occupation distribution centre dispatcher
-##Number skills 16
-###Similar occupations:
+# Occupation distribution centre dispatcher
+## Number skills 16
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match distribution centre dispatcher |   percentage match with distribution centre dispatcher |   skills not in distribution centre dispatcher |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [warehouse worker](warehouse_worker.md)                                             |                          39 |                                                  4 |                                                  0.25  |                                             35 |

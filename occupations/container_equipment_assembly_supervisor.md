@@ -1,6 +1,6 @@
-#Occupation container equipment assembly supervisor
-##Number skills 18
-###Similar occupations:
+# Occupation container equipment assembly supervisor
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match container equipment assembly supervisor |   percentage match with container equipment assembly supervisor |   skills not in container equipment assembly supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [machinery assembly supervisor](machinery_assembly_supervisor.md)                                               |                          16 |                                                          15 |                                                        0.833333 |                                                       1 |

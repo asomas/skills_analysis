@@ -1,6 +1,6 @@
-#Occupation stone splitter
-##Number skills 13
-###Similar occupations:
+# Occupation stone splitter
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match stone splitter |   percentage match with stone splitter |   skills not in stone splitter |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [stone planer](stone_planer.md)                                                                       |                          20 |                                  8 |                               0.615385 |                             12 |

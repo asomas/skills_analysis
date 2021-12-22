@@ -1,6 +1,6 @@
-#Occupation cutting machine operator
-##Number skills 15
-###Similar occupations:
+# Occupation cutting machine operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match cutting machine operator |   percentage match with cutting machine operator |   skills not in cutting machine operator |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [automated cutting machine operator](automated_cutting_machine_operator.md)                                   |                          14 |                                           11 |                                         0.733333 |                                        3 |

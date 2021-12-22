@@ -1,6 +1,6 @@
-#Occupation complementary therapist
-##Number skills 6
-###Similar occupations:
+# Occupation complementary therapist
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match complementary therapist |   percentage match with complementary therapist |   skills not in complementary therapist |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [shiatsu practitioner](shiatsu_practitioner.md)                                                             |                          22 |                                           6 |                                        1        |                                      16 |

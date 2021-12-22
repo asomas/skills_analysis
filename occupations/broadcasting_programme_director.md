@@ -1,6 +1,6 @@
-#Occupation broadcasting programme director
-##Number skills 15
-###Similar occupations:
+# Occupation broadcasting programme director
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match broadcasting programme director |   percentage match with broadcasting programme director |   skills not in broadcasting programme director |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [publications coordinator](publications_coordinator.md)                                           |                          19 |                                                   8 |                                                0.533333 |                                              11 |

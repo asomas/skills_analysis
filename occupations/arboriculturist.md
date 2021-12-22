@@ -1,6 +1,6 @@
-#Occupation arboriculturist
-##Number skills 25
-###Similar occupations:
+# Occupation arboriculturist
+## Number skills 25
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match arboriculturist |   percentage match with arboriculturist |   skills not in arboriculturist |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [tree surgeon](tree_surgeon.md)                                                   |                          11 |                                  10 |                                    0.4  |                               1 |

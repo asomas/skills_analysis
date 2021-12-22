@@ -1,6 +1,6 @@
-#Occupation composer
-##Number skills 13
-###Similar occupations:
+# Occupation composer
+## Number skills 13
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match composer |   percentage match with composer |   skills not in composer |
 |:----------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [music director](music_director.md)                       |                          21 |                            6 |                         0.461538 |                       15 |

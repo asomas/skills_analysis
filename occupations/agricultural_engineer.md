@@ -1,6 +1,6 @@
-#Occupation agricultural engineer
-##Number skills 13
-###Similar occupations:
+# Occupation agricultural engineer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match agricultural engineer |   percentage match with agricultural engineer |   skills not in agricultural engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [agricultural equipment design engineer](agricultural_equipment_design_engineer.md)                                                         |                          26 |                                        12 |                                      0.923077 |                                    14 |

@@ -1,6 +1,6 @@
-#Occupation aircraft engine tester
-##Number skills 19
-###Similar occupations:
+# Occupation aircraft engine tester
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match aircraft engine tester |   percentage match with aircraft engine tester |   skills not in aircraft engine tester |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [motor vehicle engine tester](motor_vehicle_engine_tester.md)                                                                                                 |                          20 |                                         17 |                                       0.894737 |                                      3 |

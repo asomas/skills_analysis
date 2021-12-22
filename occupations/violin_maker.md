@@ -1,6 +1,6 @@
-#Occupation violin maker
-##Number skills 20
-###Similar occupations:
+# Occupation violin maker
+## Number skills 20
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match violin maker |   percentage match with violin maker |   skills not in violin maker |
 |:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [guitar maker](guitar_maker.md)                                                       |                          20 |                               16 |                                 0.8  |                            4 |

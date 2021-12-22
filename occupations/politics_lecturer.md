@@ -1,6 +1,6 @@
-#Occupation politics lecturer
-##Number skills 23
-###Similar occupations:
+# Occupation politics lecturer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match politics lecturer |   percentage match with politics lecturer |   skills not in politics lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [social work lecturer](social_work_lecturer.md)                                                                       |                          82 |                                    16 |                                  0.695652 |                                66 |

@@ -1,6 +1,6 @@
-#Occupation vessel engine assembler
-##Number skills 18
-###Similar occupations:
+# Occupation vessel engine assembler
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match vessel engine assembler |   percentage match with vessel engine assembler |   skills not in vessel engine assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [aircraft engine assembler](aircraft_engine_assembler.md)                                             |                          20 |                                          16 |                                        0.888889 |                                       4 |

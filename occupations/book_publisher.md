@@ -1,6 +1,6 @@
-#Occupation book publisher
-##Number skills 15
-###Similar occupations:
+# Occupation book publisher
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match book publisher |   percentage match with book publisher |   skills not in book publisher |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [publications coordinator](publications_coordinator.md)                                           |                          19 |                                  9 |                               0.6      |                             10 |

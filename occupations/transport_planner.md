@@ -1,6 +1,6 @@
-#Occupation transport planner
-##Number skills 25
-###Similar occupations:
+# Occupation transport planner
+## Number skills 25
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match transport planner |   percentage match with transport planner |   skills not in transport planner |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [environmental scientist](environmental_scientist.md)                         |                          26 |                                     5 |                                      0.2  |                                21 |

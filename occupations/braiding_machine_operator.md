@@ -1,6 +1,6 @@
-#Occupation braiding machine operator
-##Number skills 12
-###Similar occupations:
+# Occupation braiding machine operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match braiding machine operator |   percentage match with braiding machine operator |   skills not in braiding machine operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [textile technologist](textile_technologist.md)                                         |                          29 |                                             7 |                                          0.583333 |                                        22 |

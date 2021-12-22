@@ -1,6 +1,6 @@
-#Occupation chief executive officer
-##Number skills 30
-###Similar occupations:
+# Occupation chief executive officer
+## Number skills 30
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match chief executive officer |   percentage match with chief executive officer |   skills not in chief executive officer |
 |:------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [chief operating officer](chief_operating_officer.md)             |                          22 |                                          17 |                                        0.566667 |                                       5 |

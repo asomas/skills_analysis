@@ -1,6 +1,6 @@
-#Occupation footwear hand sewer
-##Number skills 8
-###Similar occupations:
+# Occupation footwear hand sewer
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match footwear hand sewer |   percentage match with footwear hand sewer |   skills not in footwear hand sewer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [footwear stitching machine operator](footwear_stitching_machine_operator.md)                         |                          10 |                                       7 |                                       0.875 |                                   3 |

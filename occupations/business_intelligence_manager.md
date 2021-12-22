@@ -1,6 +1,6 @@
-#Occupation business intelligence manager
-##Number skills 29
-###Similar occupations:
+# Occupation business intelligence manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match business intelligence manager |   percentage match with business intelligence manager |   skills not in business intelligence manager |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [strategic planning manager](strategic_planning_manager.md)                           |                          25 |                                                12 |                                              0.413793 |                                            13 |

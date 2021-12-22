@@ -1,6 +1,6 @@
-#Occupation mobile crane operator
-##Number skills 17
-###Similar occupations:
+# Occupation mobile crane operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match mobile crane operator |   percentage match with mobile crane operator |   skills not in mobile crane operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [rigger](rigger.md)                                                                                                                                                   |                          16 |                                        11 |                                      0.647059 |                                     5 |

@@ -1,6 +1,6 @@
-#Occupation flowers and plants distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation flowers and plants distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match flowers and plants distribution manager |   percentage match with flowers and plants distribution manager |   skills not in flowers and plants distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [tobacco products distribution manager](tobacco_products_distribution_manager.md)                                                                                       |                          26 |                                                          25 |                                                        0.961538 |                                                       1 |

@@ -1,6 +1,6 @@
-#Occupation private chef
-##Number skills 21
-###Similar occupations:
+# Occupation private chef
+## Number skills 21
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match private chef |   percentage match with private chef |   skills not in private chef |
 |:--------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [fish cook](fish_cook.md)                                                       |                          17 |                                7 |                             0.333333 |                           10 |

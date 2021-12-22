@@ -1,6 +1,6 @@
-#Occupation food regulatory advisor
-##Number skills 35
-###Similar occupations:
+# Occupation food regulatory advisor
+## Number skills 35
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match food regulatory advisor |   percentage match with food regulatory advisor |   skills not in food regulatory advisor |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [food technologist](food_technologist.md)                                               |                          60 |                                          26 |                                        0.742857 |                                      34 |

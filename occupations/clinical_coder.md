@@ -1,6 +1,6 @@
-#Occupation clinical coder
-##Number skills 12
-###Similar occupations:
+# Occupation clinical coder
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match clinical coder |   percentage match with clinical coder |   skills not in clinical coder |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [medical records clerk](medical_records_clerk.md)                                                                         |                          30 |                                 10 |                               0.833333 |                             20 |

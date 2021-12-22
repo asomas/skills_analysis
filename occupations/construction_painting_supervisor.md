@@ -1,6 +1,6 @@
-#Occupation construction painting supervisor
-##Number skills 23
-###Similar occupations:
+# Occupation construction painting supervisor
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match construction painting supervisor |   percentage match with construction painting supervisor |   skills not in construction painting supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [carpenter supervisor](carpenter_supervisor.md)                                                                 |                          26 |                                                   20 |                                                 0.869565 |                                                6 |

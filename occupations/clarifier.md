@@ -1,6 +1,6 @@
-#Occupation clarifier
-##Number skills 19
-###Similar occupations:
+# Occupation clarifier
+## Number skills 19
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match clarifier |   percentage match with clarifier |   skills not in clarifier |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [hydrogenation machine operator](hydrogenation_machine_operator.md)                     |                          22 |                            12 |                          0.631579 |                        10 |

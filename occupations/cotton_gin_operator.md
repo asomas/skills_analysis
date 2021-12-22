@@ -1,6 +1,6 @@
-#Occupation cotton gin operator
-##Number skills 12
-###Similar occupations:
+# Occupation cotton gin operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match cotton gin operator |   percentage match with cotton gin operator |   skills not in cotton gin operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [cosmetics production machine operator](cosmetics_production_machine_operator.md)                     |                          13 |                                       5 |                                    0.416667 |                                   8 |

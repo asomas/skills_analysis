@@ -1,6 +1,6 @@
-#Occupation jewellery mounter
-##Number skills 12
-###Similar occupations:
+# Occupation jewellery mounter
+## Number skills 12
+### Similar occupations:
 | occupation                                              |   skills in this occupation |   skills that match jewellery mounter |   percentage match with jewellery mounter |   skills not in jewellery mounter |
 |:--------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [jewellery designer](jewellery_designer.md)             |                          26 |                                     8 |                                  0.666667 |                                18 |

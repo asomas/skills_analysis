@@ -1,6 +1,6 @@
-#Occupation script supervisor
-##Number skills 13
-###Similar occupations:
+# Occupation script supervisor
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match script supervisor |   percentage match with script supervisor |   skills not in script supervisor |
 |:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [video and motion picture director](video_and_motion_picture_director.md)                     |                          20 |                                     7 |                                  0.538462 |                                13 |

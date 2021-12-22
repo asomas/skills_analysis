@@ -1,6 +1,6 @@
-#Occupation granulator machine operator
-##Number skills 16
-###Similar occupations:
+# Occupation granulator machine operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match granulator machine operator |   percentage match with granulator machine operator |   skills not in granulator machine operator |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [chemical production manager](chemical_production_manager.md)                             |                          35 |                                               2 |                                               0.125 |                                          33 |

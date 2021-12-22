@@ -1,6 +1,6 @@
-#Occupation event electrician
-##Number skills 9
-###Similar occupations:
+# Occupation event electrician
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match event electrician |   percentage match with event electrician |   skills not in event electrician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [ground rigger](ground_rigger.md)                                                                                                                             |                          12 |                                     8 |                                  0.888889 |                                 4 |

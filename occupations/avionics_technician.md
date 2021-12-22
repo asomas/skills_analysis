@@ -1,6 +1,6 @@
-#Occupation avionics technician
-##Number skills 19
-###Similar occupations:
+# Occupation avionics technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match avionics technician |   percentage match with avionics technician |   skills not in avionics technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [aircraft maintenance technician](aircraft_maintenance_technician.md)                                                                                         |                          29 |                                      11 |                                    0.578947 |                                  18 |

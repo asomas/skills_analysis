@@ -1,6 +1,6 @@
-#Occupation jewellery assembler
-##Number skills 12
-###Similar occupations:
+# Occupation jewellery assembler
+## Number skills 12
+### Similar occupations:
 | occupation                                        |   skills in this occupation |   skills that match jewellery assembler |   percentage match with jewellery assembler |   skills not in jewellery assembler |
 |:--------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [filigree maker](filigree_maker.md)               |                          19 |                                      10 |                                    0.833333 |                                   9 |

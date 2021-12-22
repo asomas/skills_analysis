@@ -1,6 +1,6 @@
-#Occupation cultural centre director
-##Number skills 31
-###Similar occupations:
+# Occupation cultural centre director
+## Number skills 31
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match cultural centre director |   percentage match with cultural centre director |   skills not in cultural centre director |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [cultural facilities manager](cultural_facilities_manager.md)           |                          22 |                                           21 |                                         0.677419 |                                        1 |

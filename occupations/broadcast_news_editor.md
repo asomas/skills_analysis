@@ -1,6 +1,6 @@
-#Occupation broadcast news editor
-##Number skills 19
-###Similar occupations:
+# Occupation broadcast news editor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match broadcast news editor |   percentage match with broadcast news editor |   skills not in broadcast news editor |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [editor-in-chief](editor-in-chief.md)                                                                                                                   |                          20 |                                        15 |                                      0.789474 |                                     5 |

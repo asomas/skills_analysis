@@ -1,6 +1,6 @@
-#Occupation clothing quality inspector
-##Number skills 17
-###Similar occupations:
+# Occupation clothing quality inspector
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match clothing quality inspector |   percentage match with clothing quality inspector |   skills not in clothing quality inspector |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [clothing product grader](clothing_product_grader.md)                                     |                          18 |                                             16 |                                           0.941176 |                                          2 |

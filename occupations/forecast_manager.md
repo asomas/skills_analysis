@@ -1,6 +1,6 @@
-#Occupation forecast manager
-##Number skills 24
-###Similar occupations:
+# Occupation forecast manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match forecast manager |   percentage match with forecast manager |   skills not in forecast manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [supply chain manager](supply_chain_manager.md)                                                   |                          17 |                                   17 |                                 0.708333 |                                0 |

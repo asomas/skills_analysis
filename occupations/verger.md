@@ -1,6 +1,6 @@
-#Occupation verger
-##Number skills 9
-###Similar occupations:
+# Occupation verger
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match verger |   percentage match with verger |   skills not in verger |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [defence administration officer](defence_administration_officer.md)                               |                          12 |                          4 |                       0.444444 |                      8 |

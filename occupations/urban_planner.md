@@ -1,6 +1,6 @@
-#Occupation urban planner
-##Number skills 14
-###Similar occupations:
+# Occupation urban planner
+## Number skills 14
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match urban planner |   percentage match with urban planner |   skills not in urban planner |
 |:------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [architect](architect.md)                                                     |                          32 |                                 6 |                              0.428571 |                            26 |

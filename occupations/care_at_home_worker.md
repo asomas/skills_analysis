@@ -1,6 +1,6 @@
-#Occupation care at home worker
-##Number skills 64
-###Similar occupations:
+# Occupation care at home worker
+## Number skills 64
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match care at home worker |   percentage match with care at home worker |   skills not in care at home worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [adult community care worker](adult_community_care_worker.md)                             |                          63 |                                      63 |                                    0.984375 |                                   0 |

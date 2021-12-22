@@ -1,6 +1,6 @@
-#Occupation chemist
-##Number skills 23
-###Similar occupations:
+# Occupation chemist
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match chemist |   percentage match with chemist |   skills not in chemist |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [chromatographer](chromatographer.md)                                                     |                          31 |                          11 |                        0.478261 |                      20 |

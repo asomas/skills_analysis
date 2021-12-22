@@ -1,6 +1,6 @@
-#Occupation rolling stock electrician
-##Number skills 17
-###Similar occupations:
+# Occupation rolling stock electrician
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match rolling stock electrician |   percentage match with rolling stock electrician |   skills not in rolling stock electrician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [electromechanical equipment assembler](electromechanical_equipment_assembler.md)                                                                                     |                          22 |                                            12 |                                          0.705882 |                                        10 |

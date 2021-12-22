@@ -1,6 +1,6 @@
-#Occupation body artist
-##Number skills 12
-###Similar occupations:
+# Occupation body artist
+## Number skills 12
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match body artist |   percentage match with body artist |   skills not in body artist |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [pedicurist](pedicurist.md)                                                         |                          18 |                               4 |                            0.333333 |                          14 |

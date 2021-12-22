@@ -1,6 +1,6 @@
-#Occupation dip tank operator
-##Number skills 11
-###Similar occupations:
+# Occupation dip tank operator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match dip tank operator |   percentage match with dip tank operator |   skills not in dip tank operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [coating machine operator](coating_machine_operator.md)                                               |                          13 |                                     8 |                                  0.727273 |                                 5 |

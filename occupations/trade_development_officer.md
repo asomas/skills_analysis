@@ -1,6 +1,6 @@
-#Occupation trade development officer
-##Number skills 15
-###Similar occupations:
+# Occupation trade development officer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match trade development officer |   percentage match with trade development officer |   skills not in trade development officer |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [competition policy officer](competition_policy_officer.md)                                                                                                             |                          15 |                                             6 |                                          0.4      |                                         9 |

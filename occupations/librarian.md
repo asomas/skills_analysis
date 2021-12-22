@@ -1,6 +1,6 @@
-#Occupation librarian
-##Number skills 15
-###Similar occupations:
+# Occupation librarian
+## Number skills 15
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match librarian |   percentage match with librarian |   skills not in librarian |
 |:------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [library manager](library_manager.md)                             |                          17 |                             5 |                          0.333333 |                        12 |

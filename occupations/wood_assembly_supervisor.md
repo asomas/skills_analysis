@@ -1,6 +1,6 @@
-#Occupation wood assembly supervisor
-##Number skills 16
-###Similar occupations:
+# Occupation wood assembly supervisor
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match wood assembly supervisor |   percentage match with wood assembly supervisor |   skills not in wood assembly supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [machinery assembly supervisor](machinery_assembly_supervisor.md)                                               |                          16 |                                           15 |                                           0.9375 |                                        1 |

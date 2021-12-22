@@ -1,6 +1,6 @@
-#Occupation corporate training manager
-##Number skills 34
-###Similar occupations:
+# Occupation corporate training manager
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match corporate training manager |   percentage match with corporate training manager |   skills not in corporate training manager |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [human resources manager](human_resources_manager.md)                                                           |                          23 |                                             19 |                                           0.558824 |                                          4 |

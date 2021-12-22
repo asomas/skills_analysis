@@ -1,6 +1,6 @@
-#Occupation curator of horticulture
-##Number skills 16
-###Similar occupations:
+# Occupation curator of horticulture
+## Number skills 16
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match curator of horticulture |   percentage match with curator of horticulture |   skills not in curator of horticulture |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [botanist](botanist.md)                                                       |                          27 |                                           5 |                                          0.3125 |                                      22 |

@@ -1,6 +1,6 @@
-#Occupation tobacco specialised seller
-##Number skills 32
-###Similar occupations:
+# Occupation tobacco specialised seller
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match tobacco specialised seller |   percentage match with tobacco specialised seller |   skills not in tobacco specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [delicatessen specialised seller](delicatessen_specialised_seller.md)                                                                                             |                          31 |                                             28 |                                            0.875   |                                          3 |

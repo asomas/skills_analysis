@@ -1,6 +1,6 @@
-#Occupation rail construction supervisor
-##Number skills 22
-###Similar occupations:
+# Occupation rail construction supervisor
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match rail construction supervisor |   percentage match with rail construction supervisor |   skills not in rail construction supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [road construction supervisor](road_construction_supervisor.md)                                                 |                          25 |                                               21 |                                             0.954545 |                                            4 |

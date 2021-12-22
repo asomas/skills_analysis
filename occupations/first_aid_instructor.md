@@ -1,6 +1,6 @@
-#Occupation first aid instructor
-##Number skills 23
-###Similar occupations:
+# Occupation first aid instructor
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match first aid instructor |   percentage match with first aid instructor |   skills not in first aid instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [nursing lecturer](nursing_lecturer.md)                                                                               |                          34 |                                       15 |                                     0.652174 |                                   19 |

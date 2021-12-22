@@ -1,6 +1,6 @@
-#Occupation telecommunications manager
-##Number skills 10
-###Similar occupations:
+# Occupation telecommunications manager
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match telecommunications manager |   percentage match with telecommunications manager |   skills not in telecommunications manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [audiology equipment shop manager](audiology_equipment_shop_manager.md)                           |                          32 |                                              3 |                                                0.3 |                                         29 |

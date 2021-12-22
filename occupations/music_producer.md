@@ -1,6 +1,6 @@
-#Occupation music producer
-##Number skills 14
-###Similar occupations:
+# Occupation music producer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match music producer |   percentage match with music producer |   skills not in music producer |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [video and motion picture producer](video_and_motion_picture_producer.md)                                                                                   |                          18 |                                  7 |                               0.5      |                             11 |

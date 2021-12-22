@@ -1,6 +1,6 @@
-#Occupation mining geotechnical engineer
-##Number skills 12
-###Similar occupations:
+# Occupation mining geotechnical engineer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match mining geotechnical engineer |   percentage match with mining geotechnical engineer |   skills not in mining geotechnical engineer |
 |:--------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [mine planning engineer](mine_planning_engineer.md)                                   |                          14 |                                                7 |                                             0.583333 |                                            7 |

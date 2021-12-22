@@ -1,6 +1,6 @@
-#Occupation sound designer
-##Number skills 30
-###Similar occupations:
+# Occupation sound designer
+## Number skills 30
+### Similar occupations:
 | occupation                                                    |   skills in this occupation |   skills that match sound designer |   percentage match with sound designer |   skills not in sound designer |
 |:--------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [set designer](set_designer.md)                               |                          32 |                                 23 |                               0.766667 |                              9 |

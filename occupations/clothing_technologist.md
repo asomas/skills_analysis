@@ -1,6 +1,6 @@
-#Occupation clothing technologist
-##Number skills 21
-###Similar occupations:
+# Occupation clothing technologist
+## Number skills 21
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match clothing technologist |   percentage match with clothing technologist |   skills not in clothing technologist |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [clothing alteration machinist](clothing_alteration_machinist.md)                       |                          26 |                                        17 |                                      0.809524 |                                     9 |

@@ -1,6 +1,6 @@
-#Occupation merchandiser
-##Number skills 27
-###Similar occupations:
+# Occupation merchandiser
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match merchandiser |   percentage match with merchandiser |   skills not in merchandiser |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [visual merchandiser](visual_merchandiser.md)                                                                                                                           |                          14 |                                8 |                             0.296296 |                            6 |

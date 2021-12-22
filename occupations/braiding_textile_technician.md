@@ -1,6 +1,6 @@
-#Occupation braiding textile technician
-##Number skills 8
-###Similar occupations:
+# Occupation braiding textile technician
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match braiding textile technician |   percentage match with braiding textile technician |   skills not in braiding textile technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [knitting textile technician](knitting_textile_technician.md)                             |                          11 |                                               7 |                                               0.875 |                                           4 |

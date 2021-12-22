@@ -1,6 +1,6 @@
-#Occupation bank treasurer
-##Number skills 25
-###Similar occupations:
+# Occupation bank treasurer
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match bank treasurer |   percentage match with bank treasurer |   skills not in bank treasurer |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [credit manager](credit_manager.md)                                                         |                          28 |                                 15 |                                   0.6  |                             13 |

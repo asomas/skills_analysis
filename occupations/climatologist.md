@@ -1,6 +1,6 @@
-#Occupation climatologist
-##Number skills 16
-###Similar occupations:
+# Occupation climatologist
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match climatologist |   percentage match with climatologist |   skills not in climatologist |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [meteorology technician](meteorology_technician.md)                                       |                          23 |                                 9 |                                0.5625 |                            14 |

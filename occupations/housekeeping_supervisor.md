@@ -1,6 +1,6 @@
-#Occupation housekeeping supervisor
-##Number skills 19
-###Similar occupations:
+# Occupation housekeeping supervisor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match housekeeping supervisor |   percentage match with housekeeping supervisor |   skills not in housekeeping supervisor |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [rooms division manager](rooms_division_manager.md)                                               |                          20 |                                          13 |                                        0.684211 |                                       7 |

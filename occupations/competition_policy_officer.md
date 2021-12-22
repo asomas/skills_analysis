@@ -1,6 +1,6 @@
-#Occupation competition policy officer
-##Number skills 15
-###Similar occupations:
+# Occupation competition policy officer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match competition policy officer |   percentage match with competition policy officer |   skills not in competition policy officer |
 |:------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [cultural policy officer](cultural_policy_officer.md)                         |                          15 |                                              7 |                                           0.466667 |                                          8 |

@@ -1,6 +1,6 @@
-#Occupation computer hardware repair technician
-##Number skills 18
-###Similar occupations:
+# Occupation computer hardware repair technician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match computer hardware repair technician |   percentage match with computer hardware repair technician |   skills not in computer hardware repair technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [office equipment repair technician](office_equipment_repair_technician.md)                                                                                   |                          18 |                                                      13 |                                                    0.722222 |                                                   5 |

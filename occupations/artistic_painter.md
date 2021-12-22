@@ -1,6 +1,6 @@
-#Occupation artistic painter
-##Number skills 18
-###Similar occupations:
+# Occupation artistic painter
+## Number skills 18
+### Similar occupations:
 | occupation                                      |   skills in this occupation |   skills that match artistic painter |   percentage match with artistic painter |   skills not in artistic painter |
 |:------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [decorative painter](decorative_painter.md)     |                          20 |                                   13 |                                 0.722222 |                                7 |

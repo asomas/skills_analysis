@@ -1,6 +1,6 @@
-#Occupation window installer
-##Number skills 15
-###Similar occupations:
+# Occupation window installer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match window installer |   percentage match with window installer |   skills not in window installer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [door installer](door_installer.md)                                                                                                                           |                          14 |                                   12 |                                 0.8      |                                2 |

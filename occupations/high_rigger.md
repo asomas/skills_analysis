@@ -1,6 +1,6 @@
-#Occupation high rigger
-##Number skills 22
-###Similar occupations:
+# Occupation high rigger
+## Number skills 22
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match high rigger |   percentage match with high rigger |   skills not in high rigger |
 |:------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [ground rigger](ground_rigger.md)                                 |                          12 |                              12 |                            0.545455 |                           0 |

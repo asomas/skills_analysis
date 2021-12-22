@@ -1,6 +1,6 @@
-#Occupation fur animals breeder
-##Number skills 29
-###Similar occupations:
+# Occupation fur animals breeder
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match fur animals breeder |   percentage match with fur animals breeder |   skills not in fur animals breeder |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [pig breeder](pig_breeder.md)                                                             |                          30 |                                      27 |                                    0.931034 |                                   3 |

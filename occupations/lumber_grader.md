@@ -1,6 +1,6 @@
-#Occupation lumber grader
-##Number skills 34
-###Similar occupations:
+# Occupation lumber grader
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match lumber grader |   percentage match with lumber grader |   skills not in lumber grader |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [engineered wood board grader](engineered_wood_board_grader.md)                           |                          25 |                                22 |                              0.647059 |                             3 |

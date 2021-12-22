@@ -1,6 +1,6 @@
-#Occupation supermarket manager
-##Number skills 26
-###Similar occupations:
+# Occupation supermarket manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match supermarket manager |   percentage match with supermarket manager |   skills not in supermarket manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [beverages shop manager](beverages_shop_manager.md)                                               |                          32 |                                      20 |                                    0.769231 |                                  12 |

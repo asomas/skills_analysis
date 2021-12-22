@@ -1,6 +1,6 @@
-#Occupation intercultural communication consultant
-##Number skills 14
-###Similar occupations:
+# Occupation intercultural communication consultant
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match intercultural communication consultant |   percentage match with intercultural communication consultant |   skills not in intercultural communication consultant |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [business consultant](business_consultant.md)                                                           |                          24 |                                                          3 |                                                       0.214286 |                                                     21 |

@@ -1,6 +1,6 @@
-#Occupation dating service consultant
-##Number skills 15
-###Similar occupations:
+# Occupation dating service consultant
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match dating service consultant |   percentage match with dating service consultant |   skills not in dating service consultant |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [life coach](life_coach.md)                                                                             |                          13 |                                             5 |                                          0.333333 |                                         8 |

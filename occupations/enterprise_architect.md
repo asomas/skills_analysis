@@ -1,6 +1,6 @@
-#Occupation enterprise architect
-##Number skills 20
-###Similar occupations:
+# Occupation enterprise architect
+## Number skills 20
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match enterprise architect |   percentage match with enterprise architect |   skills not in enterprise architect |
 |:------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [software architect](software_architect.md)                             |                          18 |                                        4 |                                         0.2  |                                   14 |

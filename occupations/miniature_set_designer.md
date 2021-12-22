@@ -1,6 +1,6 @@
-#Occupation miniature set designer
-##Number skills 17
-###Similar occupations:
+# Occupation miniature set designer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match miniature set designer |   percentage match with miniature set designer |   skills not in miniature set designer |
 |:--------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [animation layout artist](animation_layout_artist.md)                     |                          17 |                                          4 |                                       0.235294 |                                     13 |

@@ -1,6 +1,6 @@
-#Occupation reprographics technician
-##Number skills 16
-###Similar occupations:
+# Occupation reprographics technician
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match reprographics technician |   percentage match with reprographics technician |   skills not in reprographics technician |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [imagesetter](imagesetter.md)                                                                         |                          28 |                                            6 |                                           0.375  |                                       22 |

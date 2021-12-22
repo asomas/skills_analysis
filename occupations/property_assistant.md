@@ -1,6 +1,6 @@
-#Occupation property assistant
-##Number skills 19
-###Similar occupations:
+# Occupation property assistant
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match property assistant |   percentage match with property assistant |   skills not in property assistant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [investment clerk](investment_clerk.md)                                                                                                                           |                          19 |                                      8 |                                   0.421053 |                                 11 |

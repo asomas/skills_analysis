@@ -1,6 +1,6 @@
-#Occupation food and beverage packaging technologist
-##Number skills 19
-###Similar occupations:
+# Occupation food and beverage packaging technologist
+## Number skills 19
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match food and beverage packaging technologist |   percentage match with food and beverage packaging technologist |   skills not in food and beverage packaging technologist |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [food technologist](food_technologist.md)                                           |                          60 |                                                            7 |                                                         0.368421 |                                                       53 |

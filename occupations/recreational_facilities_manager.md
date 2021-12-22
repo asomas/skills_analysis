@@ -1,6 +1,6 @@
-#Occupation recreational facilities manager
-##Number skills 13
-###Similar occupations:
+# Occupation recreational facilities manager
+## Number skills 13
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match recreational facilities manager |   percentage match with recreational facilities manager |   skills not in recreational facilities manager |
 |:--------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [botanist](botanist.md)                                             |                          27 |                                                  13 |                                                1        |                                              14 |

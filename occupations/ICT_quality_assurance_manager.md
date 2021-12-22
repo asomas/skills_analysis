@@ -1,6 +1,6 @@
-#Occupation ICT quality assurance manager
-##Number skills 16
-###Similar occupations:
+# Occupation ICT quality assurance manager
+## Number skills 16
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match ICT quality assurance manager |   percentage match with ICT quality assurance manager |   skills not in ICT quality assurance manager |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [quality engineering technician](quality_engineering_technician.md)                   |                          17 |                                                 5 |                                                0.3125 |                                            12 |

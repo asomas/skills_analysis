@@ -1,6 +1,6 @@
-#Occupation podiatry assistant
-##Number skills 29
-###Similar occupations:
+# Occupation podiatry assistant
+## Number skills 29
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match podiatry assistant |   percentage match with podiatry assistant |   skills not in podiatry assistant |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [podiatrist](podiatrist.md)                                                 |                          28 |                                     12 |                                   0.413793 |                                 16 |

@@ -1,6 +1,6 @@
-#Occupation electromechanical engineer
-##Number skills 33
-###Similar occupations:
+# Occupation electromechanical engineer
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match electromechanical engineer |   percentage match with electromechanical engineer |   skills not in electromechanical engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [microsystem engineer](microsystem_engineer.md)                                                                                             |                          32 |                                             22 |                                           0.666667 |                                         10 |

@@ -1,6 +1,6 @@
-#Occupation corporate social responsibility manager
-##Number skills 18
-###Similar occupations:
+# Occupation corporate social responsibility manager
+## Number skills 18
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match corporate social responsibility manager |   percentage match with corporate social responsibility manager |   skills not in corporate social responsibility manager |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [branch manager](branch_manager.md)                                     |                          48 |                                                           4 |                                                        0.222222 |                                                      44 |

@@ -1,6 +1,6 @@
-#Occupation customer experience manager
-##Number skills 18
-###Similar occupations:
+# Occupation customer experience manager
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match customer experience manager |   percentage match with customer experience manager |   skills not in customer experience manager |
 |:--------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [camping ground manager](camping_ground_manager.md)                                         |                          24 |                                               6 |                                            0.333333 |                                          18 |

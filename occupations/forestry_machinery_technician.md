@@ -1,6 +1,6 @@
-#Occupation forestry machinery technician
-##Number skills 19
-###Similar occupations:
+# Occupation forestry machinery technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match forestry machinery technician |   percentage match with forestry machinery technician |   skills not in forestry machinery technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [rotating equipment mechanic](rotating_equipment_mechanic.md)                                                                                                 |                          17 |                                                 4 |                                              0.210526 |                                            13 |

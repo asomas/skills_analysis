@@ -1,6 +1,6 @@
-#Occupation fruit and vegetables shop manager
-##Number skills 33
-###Similar occupations:
+# Occupation fruit and vegetables shop manager
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match fruit and vegetables shop manager |   percentage match with fruit and vegetables shop manager |   skills not in fruit and vegetables shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [confectionery shop manager](confectionery_shop_manager.md)                                       |                          30 |                                                    28 |                                                  0.848485 |                                                 2 |

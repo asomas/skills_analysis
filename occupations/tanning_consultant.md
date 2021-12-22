@@ -1,6 +1,6 @@
-#Occupation tanning consultant
-##Number skills 8
-###Similar occupations:
+# Occupation tanning consultant
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match tanning consultant |   percentage match with tanning consultant |   skills not in tanning consultant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [beauty salon attendant](beauty_salon_attendant.md)                                                                                                               |                          16 |                                      4 |                                      0.5   |                                 12 |

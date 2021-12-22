@@ -1,6 +1,6 @@
-#Occupation electromechanical equipment assembler
-##Number skills 22
-###Similar occupations:
+# Occupation electromechanical equipment assembler
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match electromechanical equipment assembler |   percentage match with electromechanical equipment assembler |   skills not in electromechanical equipment assembler |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [motor vehicle parts assembler](motor_vehicle_parts_assembler.md)                                                                                             |                          17 |                                                        15 |                                                      0.681818 |                                                     2 |

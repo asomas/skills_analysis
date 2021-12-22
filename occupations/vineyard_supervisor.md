@@ -1,6 +1,6 @@
-#Occupation vineyard supervisor
-##Number skills 22
-###Similar occupations:
+# Occupation vineyard supervisor
+## Number skills 22
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match vineyard supervisor |   percentage match with vineyard supervisor |   skills not in vineyard supervisor |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [horticulture production manager](horticulture_production_manager.md)             |                          43 |                                       9 |                                    0.409091 |                                  34 |

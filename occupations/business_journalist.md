@@ -1,6 +1,6 @@
-#Occupation business journalist
-##Number skills 21
-###Similar occupations:
+# Occupation business journalist
+## Number skills 21
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match business journalist |   percentage match with business journalist |   skills not in business journalist |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [critic](critic.md)                                                               |                          21 |                                      20 |                                    0.952381 |                                   1 |

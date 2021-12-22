@@ -1,6 +1,6 @@
-#Occupation road transport maintenance scheduler
-##Number skills 18
-###Similar occupations:
+# Occupation road transport maintenance scheduler
+## Number skills 18
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match road transport maintenance scheduler |   percentage match with road transport maintenance scheduler |   skills not in road transport maintenance scheduler |
 |:------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [vehicle technician](vehicle_technician.md)                       |                          34 |                                                        3 |                                                     0.166667 |                                                   31 |

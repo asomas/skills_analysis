@@ -1,6 +1,6 @@
-#Occupation data scientist
-##Number skills 23
-###Similar occupations:
+# Occupation data scientist
+## Number skills 23
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match data scientist |   percentage match with data scientist |   skills not in data scientist |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [data analyst](data_analyst.md)                                                   |                          28 |                                 16 |                               0.695652 |                             12 |

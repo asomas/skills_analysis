@@ -1,6 +1,6 @@
-#Occupation space science lecturer
-##Number skills 21
-###Similar occupations:
+# Occupation space science lecturer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match space science lecturer |   percentage match with space science lecturer |   skills not in space science lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [earth science lecturer](earth_science_lecturer.md)                                                                   |                          22 |                                         17 |                                       0.809524 |                                      5 |

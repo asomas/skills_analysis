@@ -1,6 +1,6 @@
-#Occupation ride technician
-##Number skills 14
-###Similar occupations:
+# Occupation ride technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match ride technician |   percentage match with ride technician |   skills not in ride technician |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [attraction operator](attraction_operator.md)                                     |                           9 |                                   6 |                                0.428571 |                               3 |

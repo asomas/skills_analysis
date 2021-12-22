@@ -1,6 +1,6 @@
-#Occupation travel agent
-##Number skills 28
-###Similar occupations:
+# Occupation travel agent
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match travel agent |   percentage match with travel agent |   skills not in travel agent |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [travel consultant](travel_consultant.md)                                                                                                                         |                          21 |                               15 |                             0.535714 |                            6 |

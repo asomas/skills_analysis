@@ -1,6 +1,6 @@
-#Occupation economic adviser
-##Number skills 22
-###Similar occupations:
+# Occupation economic adviser
+## Number skills 22
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match economic adviser |   percentage match with economic adviser |   skills not in economic adviser |
 |:--------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [tax policy analyst](tax_policy_analyst.md)                                     |                          17 |                                    8 |                                 0.363636 |                                9 |

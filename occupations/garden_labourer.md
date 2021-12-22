@@ -1,6 +1,6 @@
-#Occupation garden labourer
-##Number skills 26
-###Similar occupations:
+# Occupation garden labourer
+## Number skills 26
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match garden labourer |   percentage match with garden labourer |   skills not in garden labourer |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [landscape gardener](landscape_gardener.md)                                       |                          33 |                                  15 |                                0.576923 |                              18 |

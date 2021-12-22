@@ -1,6 +1,6 @@
-#Occupation medical laboratory technology vocational teacher
-##Number skills 26
-###Similar occupations:
+# Occupation medical laboratory technology vocational teacher
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match medical laboratory technology vocational teacher |   percentage match with medical laboratory technology vocational teacher |   skills not in medical laboratory technology vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------:|
 | [electricity and energy vocational teacher](electricity_and_energy_vocational_teacher.md)                             |                          28 |                                                                   24 |                                                                 0.923077 |                                                                4 |

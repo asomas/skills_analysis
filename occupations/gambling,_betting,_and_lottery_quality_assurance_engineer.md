@@ -1,6 +1,6 @@
-#Occupation gambling, betting, and lottery quality assurance engineer
-##Number skills 9
-###Similar occupations:
+# Occupation gambling, betting, and lottery quality assurance engineer
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match gambling, betting, and lottery quality assurance engineer |   percentage match with gambling, betting, and lottery quality assurance engineer |   skills not in gambling, betting, and lottery quality assurance engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------------:|----------------------------------------------------------------------------------:|--------------------------------------------------------------------------:|
 | [odds compiler](odds_compiler.md)                                                                                                           |                           8 |                                                                             4 |                                                                          0.444444 |                                                                         4 |

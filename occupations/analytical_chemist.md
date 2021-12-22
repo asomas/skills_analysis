@@ -1,6 +1,6 @@
-#Occupation analytical chemist
-##Number skills 17
-###Similar occupations:
+# Occupation analytical chemist
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match analytical chemist |   percentage match with analytical chemist |   skills not in analytical chemist |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [assayer](assayer.md)                                                                     |                          17 |                                     10 |                                   0.588235 |                                  7 |

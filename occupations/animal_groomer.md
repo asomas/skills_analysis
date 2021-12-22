@@ -1,6 +1,6 @@
-#Occupation animal groomer
-##Number skills 25
-###Similar occupations:
+# Occupation animal groomer
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match animal groomer |   percentage match with animal groomer |   skills not in animal groomer |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [animal care attendant](animal_care_attendant.md)                                         |                          27 |                                 17 |                                   0.68 |                             10 |

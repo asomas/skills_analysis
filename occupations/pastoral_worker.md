@@ -1,6 +1,6 @@
-#Occupation pastoral worker
-##Number skills 9
-###Similar occupations:
+# Occupation pastoral worker
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match pastoral worker |   percentage match with pastoral worker |   skills not in pastoral worker |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [minister of religion](minister_of_religion.md)                                                         |                          19 |                                   6 |                                0.666667 |                              13 |

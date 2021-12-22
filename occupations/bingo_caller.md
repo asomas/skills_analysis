@@ -1,6 +1,6 @@
-#Occupation bingo caller
-##Number skills 11
-###Similar occupations:
+# Occupation bingo caller
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match bingo caller |   percentage match with bingo caller |   skills not in bingo caller |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [bookmaker](bookmaker.md)                                                                         |                          13 |                                4 |                             0.363636 |                            9 |

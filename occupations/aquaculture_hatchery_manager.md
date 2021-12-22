@@ -1,6 +1,6 @@
-#Occupation aquaculture hatchery manager
-##Number skills 32
-###Similar occupations:
+# Occupation aquaculture hatchery manager
+## Number skills 32
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match aquaculture hatchery manager |   percentage match with aquaculture hatchery manager |   skills not in aquaculture hatchery manager |
 |:--------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [aquaculture production manager](aquaculture_production_manager.md)             |                          38 |                                               15 |                                              0.46875 |                                           23 |

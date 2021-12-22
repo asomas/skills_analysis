@@ -1,6 +1,6 @@
-#Occupation construction scaffolding supervisor
-##Number skills 25
-###Similar occupations:
+# Occupation construction scaffolding supervisor
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match construction scaffolding supervisor |   percentage match with construction scaffolding supervisor |   skills not in construction scaffolding supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [bridge construction supervisor](bridge_construction_supervisor.md)                                             |                          26 |                                                      19 |                                                        0.76 |                                                   7 |

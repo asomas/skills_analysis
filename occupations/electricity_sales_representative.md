@@ -1,6 +1,6 @@
-#Occupation electricity sales representative
-##Number skills 14
-###Similar occupations:
+# Occupation electricity sales representative
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match electricity sales representative |   percentage match with electricity sales representative |   skills not in electricity sales representative |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [renewable energy sales representative](renewable_energy_sales_representative.md)                                                                                 |                          19 |                                                   11 |                                                 0.785714 |                                                8 |

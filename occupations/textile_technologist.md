@@ -1,6 +1,6 @@
-#Occupation textile technologist
-##Number skills 29
-###Similar occupations:
+# Occupation textile technologist
+## Number skills 29
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match textile technologist |   percentage match with textile technologist |   skills not in textile technologist |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [textile product developer](textile_product_developer.md)                               |                          24 |                                       15 |                                     0.517241 |                                    9 |

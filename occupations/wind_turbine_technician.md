@@ -1,6 +1,6 @@
-#Occupation wind turbine technician
-##Number skills 15
-###Similar occupations:
+# Occupation wind turbine technician
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match wind turbine technician |   percentage match with wind turbine technician |   skills not in wind turbine technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [electrical mechanic](electrical_mechanic.md)                                                                                                                 |                          22 |                                           6 |                                        0.4      |                                      16 |

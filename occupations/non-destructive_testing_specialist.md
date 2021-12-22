@@ -1,6 +1,6 @@
-#Occupation non-destructive testing specialist
-##Number skills 10
-###Similar occupations:
+# Occupation non-destructive testing specialist
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match non-destructive testing specialist |   percentage match with non-destructive testing specialist |   skills not in non-destructive testing specialist |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [material testing technician](material_testing_technician.md)                                                                                                 |                          10 |                                                      5 |                                                        0.5 |                                                  5 |

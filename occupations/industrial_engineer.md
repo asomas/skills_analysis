@@ -1,6 +1,6 @@
-#Occupation industrial engineer
-##Number skills 10
-###Similar occupations:
+# Occupation industrial engineer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match industrial engineer |   percentage match with industrial engineer |   skills not in industrial engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [surface engineer](surface_engineer.md)                                                                                                     |                          14 |                                      10 |                                         1   |                                   4 |

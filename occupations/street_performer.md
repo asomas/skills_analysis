@@ -1,6 +1,6 @@
-#Occupation street performer
-##Number skills 17
-###Similar occupations:
+# Occupation street performer
+## Number skills 17
+### Similar occupations:
 | occupation                                  |   skills in this occupation |   skills that match street performer |   percentage match with street performer |   skills not in street performer |
 |:--------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [actor/actress](actor-actress.md)           |                          23 |                                    6 |                                 0.352941 |                               17 |

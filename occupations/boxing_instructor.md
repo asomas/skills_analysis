@@ -1,6 +1,6 @@
-#Occupation boxing instructor
-##Number skills 9
-###Similar occupations:
+# Occupation boxing instructor
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match boxing instructor |   percentage match with boxing instructor |   skills not in boxing instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [sports coach](sports_coach.md)                                                                                       |                          26 |                                     8 |                                  0.888889 |                                18 |

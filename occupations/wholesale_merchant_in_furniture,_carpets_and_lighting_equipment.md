@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in furniture, carpets and lighting equipment
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in furniture, carpets and lighting equipment
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in furniture, carpets and lighting equipment |   percentage match with wholesale merchant in furniture, carpets and lighting equipment |   skills not in wholesale merchant in furniture, carpets and lighting equipment |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------:|
 | [wholesale merchant in office furniture](wholesale_merchant_in_office_furniture.md)                                                                                 |                          20 |                                                                                  19 |                                                                                    0.95 |                                                                               1 |

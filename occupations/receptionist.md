@@ -1,6 +1,6 @@
-#Occupation receptionist
-##Number skills 13
-###Similar occupations:
+# Occupation receptionist
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match receptionist |   percentage match with receptionist |   skills not in receptionist |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [office clerk](office_clerk.md)                                                                                                                                   |                          24 |                                5 |                             0.384615 |                           19 |

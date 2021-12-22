@@ -1,6 +1,6 @@
-#Occupation import export specialist in machinery, industrial equipment, ships and aircraft
-##Number skills 26
-###Similar occupations:
+# Occupation import export specialist in machinery, industrial equipment, ships and aircraft
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in machinery, industrial equipment, ships and aircraft |   percentage match with import export specialist in machinery, industrial equipment, ships and aircraft |   skills not in import export specialist in machinery, industrial equipment, ships and aircraft |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------:|
 | [import export specialist in textile industry machinery](import_export_specialist_in_textile_industry_machinery.md)                                                     |                          23 |                                                                                                  22 |                                                                                                0.846154 |                                                                                               1 |

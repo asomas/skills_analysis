@@ -1,6 +1,6 @@
-#Occupation auctioneer
-##Number skills 20
-###Similar occupations:
+# Occupation auctioneer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match auctioneer |   percentage match with auctioneer |   skills not in auctioneer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [auction house manager](auction_house_manager.md)                                                                                                             |                          17 |                              6 |                                0.3 |                         11 |

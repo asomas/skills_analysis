@@ -1,6 +1,6 @@
-#Occupation pipeline compliance coordinator
-##Number skills 19
-###Similar occupations:
+# Occupation pipeline compliance coordinator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match pipeline compliance coordinator |   percentage match with pipeline compliance coordinator |   skills not in pipeline compliance coordinator |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [pipeline environmental project manager](pipeline_environmental_project_manager.md)                                         |                          16 |                                                   7 |                                                0.368421 |                                               9 |

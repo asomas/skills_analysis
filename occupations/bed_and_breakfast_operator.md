@@ -1,6 +1,6 @@
-#Occupation bed and breakfast operator
-##Number skills 14
-###Similar occupations:
+# Occupation bed and breakfast operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match bed and breakfast operator |   percentage match with bed and breakfast operator |   skills not in bed and breakfast operator |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [rooms division manager](rooms_division_manager.md)                                                                                                               |                          20 |                                              6 |                                           0.428571 |                                         14 |

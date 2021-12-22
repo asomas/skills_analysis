@@ -1,6 +1,6 @@
-#Occupation journalist
-##Number skills 19
-###Similar occupations:
+# Occupation journalist
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match journalist |   percentage match with journalist |   skills not in journalist |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [photojournalist](photojournalist.md)                                                                   |                          25 |                             19 |                           1        |                          6 |

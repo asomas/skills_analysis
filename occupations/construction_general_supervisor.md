@@ -1,6 +1,6 @@
-#Occupation construction general supervisor
-##Number skills 19
-###Similar occupations:
+# Occupation construction general supervisor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match construction general supervisor |   percentage match with construction general supervisor |   skills not in construction general supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [bridge construction supervisor](bridge_construction_supervisor.md)                                             |                          26 |                                                  15 |                                                0.789474 |                                              11 |

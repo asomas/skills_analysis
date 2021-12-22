@@ -1,6 +1,6 @@
-#Occupation camping ground operative
-##Number skills 10
-###Similar occupations:
+# Occupation camping ground operative
+## Number skills 10
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match camping ground operative |   percentage match with camping ground operative |   skills not in camping ground operative |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [hospitality establishment receptionist](hospitality_establishment_receptionist.md) |                          17 |                                            7 |                                              0.7 |                                       10 |

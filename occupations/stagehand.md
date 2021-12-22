@@ -1,6 +1,6 @@
-#Occupation stagehand
-##Number skills 13
-###Similar occupations:
+# Occupation stagehand
+## Number skills 13
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match stagehand |   percentage match with stagehand |   skills not in stagehand |
 |:------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [stage technician](stage_technician.md)                           |                          43 |                            13 |                          1        |                        30 |

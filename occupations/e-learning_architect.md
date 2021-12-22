@@ -1,6 +1,6 @@
-#Occupation e-learning architect
-##Number skills 14
-###Similar occupations:
+# Occupation e-learning architect
+## Number skills 14
+### Similar occupations:
 | occupation                                          |   skills in this occupation |   skills that match e-learning architect |   percentage match with e-learning architect |   skills not in e-learning architect |
 |:----------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [e-learning developer](e-learning_developer.md)     |                          23 |                                        8 |                                     0.571429 |                                   15 |

@@ -1,6 +1,6 @@
-#Occupation meteorology technician
-##Number skills 23
-###Similar occupations:
+# Occupation meteorology technician
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match meteorology technician |   percentage match with meteorology technician |   skills not in meteorology technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [meteorologist](meteorologist.md)                                                         |                          11 |                                         11 |                                       0.478261 |                                      0 |

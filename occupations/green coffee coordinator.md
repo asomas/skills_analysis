@@ -1,6 +1,6 @@
-#Occupation green coffee coordinator
-##Number skills 14
-###Similar occupations:
+# Occupation green coffee coordinator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match green coffee coordinator |   percentage match with green coffee coordinator |   skills not in green coffee coordinator |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [food biotechnologist](food_biotechnologist.md)                                         |                          39 |                                            6 |                                         0.428571 |                                       33 |

@@ -1,6 +1,6 @@
-#Occupation judge
-##Number skills 11
-###Similar occupations:
+# Occupation judge
+## Number skills 11
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match judge |   percentage match with judge |   skills not in judge |
 |:--------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
 | [supreme court judge](supreme_court_judge.md)                       |                          16 |                        11 |                      1        |                     5 |

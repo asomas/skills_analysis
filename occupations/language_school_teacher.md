@@ -1,6 +1,6 @@
-#Occupation language school teacher
-##Number skills 25
-###Similar occupations:
+# Occupation language school teacher
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match language school teacher |   percentage match with language school teacher |   skills not in language school teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [adult literacy teacher](adult_literacy_teacher.md)                                                                   |                          27 |                                          20 |                                            0.8  |                                       7 |

@@ -1,6 +1,6 @@
-#Occupation nanoengineer
-##Number skills 17
-###Similar occupations:
+# Occupation nanoengineer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match nanoengineer |   percentage match with nanoengineer |   skills not in nanoengineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [materials engineer](materials_engineer.md)                                                                                                 |                          23 |                               14 |                             0.823529 |                            9 |

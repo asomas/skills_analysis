@@ -1,6 +1,6 @@
-#Occupation artistic director
-##Number skills 36
-###Similar occupations:
+# Occupation artistic director
+## Number skills 36
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match artistic director |   percentage match with artistic director |   skills not in artistic director |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [performance production manager](performance_production_manager.md)     |                          34 |                                    22 |                                  0.611111 |                                12 |

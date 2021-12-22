@@ -1,6 +1,6 @@
-#Occupation costume attendant
-##Number skills 11
-###Similar occupations:
+# Occupation costume attendant
+## Number skills 11
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match costume attendant |   percentage match with costume attendant |   skills not in costume attendant |
 |:--------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [make-up artist](make-up_artist.md)                                       |                          27 |                                     4 |                                  0.363636 |                                23 |

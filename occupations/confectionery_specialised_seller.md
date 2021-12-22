@@ -1,6 +1,6 @@
-#Occupation confectionery specialised seller
-##Number skills 33
-###Similar occupations:
+# Occupation confectionery specialised seller
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match confectionery specialised seller |   percentage match with confectionery specialised seller |   skills not in confectionery specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [fruit and vegetables specialised seller](fruit_and_vegetables_specialised_seller.md)                                                                             |                          35 |                                                   29 |                                                 0.878788 |                                                6 |

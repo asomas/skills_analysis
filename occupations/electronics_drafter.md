@@ -1,6 +1,6 @@
-#Occupation electronics drafter
-##Number skills 22
-###Similar occupations:
+# Occupation electronics drafter
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match electronics drafter |   percentage match with electronics drafter |   skills not in electronics drafter |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [integrated circuit design engineer](integrated_circuit_design_engineer.md)                                                                 |                          17 |                                      14 |                                    0.636364 |                                   3 |

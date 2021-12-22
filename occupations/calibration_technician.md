@@ -1,6 +1,6 @@
-#Occupation calibration technician
-##Number skills 22
-###Similar occupations:
+# Occupation calibration technician
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match calibration technician |   percentage match with calibration technician |   skills not in calibration technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [electronic equipment inspector](electronic_equipment_inspector.md)                       |                          20 |                                         11 |                                       0.5      |                                      9 |

@@ -1,6 +1,6 @@
-#Occupation digital forensics expert
-##Number skills 20
-###Similar occupations:
+# Occupation digital forensics expert
+## Number skills 20
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match digital forensics expert |   percentage match with digital forensics expert |   skills not in digital forensics expert |
 |:------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [ICT security consultant](ICT_security_consultant.md)             |                          24 |                                            6 |                                             0.3  |                                       18 |

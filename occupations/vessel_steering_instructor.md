@@ -1,6 +1,6 @@
-#Occupation vessel steering instructor
-##Number skills 19
-###Similar occupations:
+# Occupation vessel steering instructor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match vessel steering instructor |   percentage match with vessel steering instructor |   skills not in vessel steering instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [driving instructor](driving_instructor.md)                                                                           |                          23 |                                             12 |                                           0.631579 |                                         11 |

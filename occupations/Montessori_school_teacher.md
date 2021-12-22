@@ -1,6 +1,6 @@
-#Occupation Montessori school teacher
-##Number skills 33
-###Similar occupations:
+# Occupation Montessori school teacher
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match Montessori school teacher |   percentage match with Montessori school teacher |   skills not in Montessori school teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [Freinet school teacher](Freinet_school_teacher.md)                                                                   |                          32 |                                            29 |                                          0.878788 |                                         3 |

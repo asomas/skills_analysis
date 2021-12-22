@@ -1,6 +1,6 @@
-#Occupation bulk filler
-##Number skills 14
-###Similar occupations:
+# Occupation bulk filler
+## Number skills 14
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match bulk filler |   percentage match with bulk filler |   skills not in bulk filler |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [dryer attendant](dryer_attendant.md)                                                   |                          30 |                               9 |                            0.642857 |                          21 |

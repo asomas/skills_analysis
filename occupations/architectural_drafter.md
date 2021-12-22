@@ -1,6 +1,6 @@
-#Occupation architectural drafter
-##Number skills 20
-###Similar occupations:
+# Occupation architectural drafter
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match architectural drafter |   percentage match with architectural drafter |   skills not in architectural drafter |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [civil drafter](civil_drafter.md)                                                                                                           |                          14 |                                         9 |                                          0.45 |                                     5 |

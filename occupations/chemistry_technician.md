@@ -1,6 +1,6 @@
-#Occupation chemistry technician
-##Number skills 26
-###Similar occupations:
+# Occupation chemistry technician
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match chemistry technician |   percentage match with chemistry technician |   skills not in chemistry technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [chromatographer](chromatographer.md)                                                     |                          31 |                                       20 |                                     0.769231 |                                   11 |

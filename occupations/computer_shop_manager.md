@@ -1,6 +1,6 @@
-#Occupation computer shop manager
-##Number skills 32
-###Similar occupations:
+# Occupation computer shop manager
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match computer shop manager |   percentage match with computer shop manager |   skills not in computer shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [computer software and multimedia shop manager](computer_software_and_multimedia_shop_manager.md) |                          34 |                                        31 |                                       0.96875 |                                     3 |

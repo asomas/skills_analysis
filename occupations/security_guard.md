@@ -1,6 +1,6 @@
-#Occupation security guard
-##Number skills 19
-###Similar occupations:
+# Occupation security guard
+## Number skills 19
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match security guard |   percentage match with security guard |   skills not in security guard |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [bodyguard](bodyguard.md)                                         |                          24 |                                 11 |                               0.578947 |                             13 |

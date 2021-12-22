@@ -1,6 +1,6 @@
-#Occupation water plant technician
-##Number skills 12
-###Similar occupations:
+# Occupation water plant technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match water plant technician |   percentage match with water plant technician |   skills not in water plant technician |
 |:--------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [water treatment systems operator](water_treatment_systems_operator.md)         |                          29 |                                          4 |                                       0.333333 |                                     25 |

@@ -1,6 +1,6 @@
-#Occupation amusement park cleaner
-##Number skills 6
-###Similar occupations:
+# Occupation amusement park cleaner
+## Number skills 6
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match amusement park cleaner |   percentage match with amusement park cleaner |   skills not in amusement park cleaner |
 |:--------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [ride technician](ride_technician.md)                                           |                          14 |                                          3 |                                       0.5      |                                     11 |

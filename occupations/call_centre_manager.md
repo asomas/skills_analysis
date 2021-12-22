@@ -1,6 +1,6 @@
-#Occupation call centre manager
-##Number skills 29
-###Similar occupations:
+# Occupation call centre manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match call centre manager |   percentage match with call centre manager |   skills not in call centre manager |
 |:--------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [spa manager](spa_manager.md)                                                         |                          47 |                                      13 |                                    0.448276 |                                  34 |

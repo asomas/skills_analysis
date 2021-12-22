@@ -1,6 +1,6 @@
-#Occupation animal facility manager
-##Number skills 21
-###Similar occupations:
+# Occupation animal facility manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match animal facility manager |   percentage match with animal facility manager |   skills not in animal facility manager |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [zoo curator](zoo_curator.md)                                           |                          47 |                                          13 |                                        0.619048 |                                      34 |

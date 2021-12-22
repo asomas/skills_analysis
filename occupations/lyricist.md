@@ -1,6 +1,6 @@
-#Occupation lyricist
-##Number skills 10
-###Similar occupations:
+# Occupation lyricist
+## Number skills 10
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match lyricist |   percentage match with lyricist |   skills not in lyricist |
 |:--------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [musical conductor](musical_conductor.md)                           |                          25 |                            3 |                              0.3 |                       22 |

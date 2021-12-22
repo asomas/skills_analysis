@@ -1,6 +1,6 @@
-#Occupation engine minder
-##Number skills 26
-###Similar occupations:
+# Occupation engine minder
+## Number skills 26
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match engine minder |   percentage match with engine minder |   skills not in engine minder |
 |:----------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [marine mechanic](marine_mechanic.md)                                 |                          37 |                                20 |                              0.769231 |                            17 |

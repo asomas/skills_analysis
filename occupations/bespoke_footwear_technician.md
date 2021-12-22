@@ -1,6 +1,6 @@
-#Occupation bespoke footwear technician
-##Number skills 22
-###Similar occupations:
+# Occupation bespoke footwear technician
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match bespoke footwear technician |   percentage match with bespoke footwear technician |   skills not in bespoke footwear technician |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [shoemaker](shoemaker.md)                                                                             |                          17 |                                              16 |                                            0.727273 |                                           1 |

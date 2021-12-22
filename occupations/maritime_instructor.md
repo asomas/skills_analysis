@@ -1,6 +1,6 @@
-#Occupation maritime instructor
-##Number skills 22
-###Similar occupations:
+# Occupation maritime instructor
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match maritime instructor |   percentage match with maritime instructor |   skills not in maritime instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [geography teacher secondary school](geography_teacher_secondary_school.md)                                           |                          28 |                                      12 |                                    0.545455 |                                  16 |

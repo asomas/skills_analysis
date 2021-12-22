@@ -1,6 +1,6 @@
-#Occupation liquid waste treatment plant operator
-##Number skills 14
-###Similar occupations:
+# Occupation liquid waste treatment plant operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match liquid waste treatment plant operator |   percentage match with liquid waste treatment plant operator |   skills not in liquid waste treatment plant operator |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [chromatographer](chromatographer.md)                                                     |                          31 |                                                         5 |                                                      0.357143 |                                                    26 |

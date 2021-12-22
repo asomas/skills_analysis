@@ -1,6 +1,6 @@
-#Occupation book-sewing machine operator
-##Number skills 13
-###Similar occupations:
+# Occupation book-sewing machine operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match book-sewing machine operator |   percentage match with book-sewing machine operator |   skills not in book-sewing machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [paper cutter operator](paper_cutter_operator.md)                                                     |                          17 |                                                7 |                                             0.538462 |                                           10 |

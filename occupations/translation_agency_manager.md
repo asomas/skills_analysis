@@ -1,6 +1,6 @@
-#Occupation translation agency manager
-##Number skills 31
-###Similar occupations:
+# Occupation translation agency manager
+## Number skills 31
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match translation agency manager |   percentage match with translation agency manager |   skills not in translation agency manager |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [translator](translator.md)                                                       |                          24 |                                             18 |                                           0.580645 |                                          6 |

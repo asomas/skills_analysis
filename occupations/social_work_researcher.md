@@ -1,6 +1,6 @@
-#Occupation social work researcher
-##Number skills 68
-###Similar occupations:
+# Occupation social work researcher
+## Number skills 68
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match social work researcher |   percentage match with social work researcher |   skills not in social work researcher |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [social work practice educator](social_work_practice_educator.md)                         |                          71 |                                         65 |                                       0.955882 |                                      6 |

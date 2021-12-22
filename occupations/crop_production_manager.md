@@ -1,6 +1,6 @@
-#Occupation crop production manager
-##Number skills 26
-###Similar occupations:
+# Occupation crop production manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match crop production manager |   percentage match with crop production manager |   skills not in crop production manager |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [agronomic crop production team leader](agronomic_crop_production_team_leader.md) |                          33 |                                          23 |                                        0.884615 |                                      10 |

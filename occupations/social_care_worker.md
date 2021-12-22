@@ -1,6 +1,6 @@
-#Occupation social care worker
-##Number skills 61
-###Similar occupations:
+# Occupation social care worker
+## Number skills 61
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match social care worker |   percentage match with social care worker |   skills not in social care worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [foster care support worker](foster_care_support_worker.md)                               |                          72 |                                     61 |                                   1        |                                 11 |

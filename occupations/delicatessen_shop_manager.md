@@ -1,6 +1,6 @@
-#Occupation delicatessen shop manager
-##Number skills 29
-###Similar occupations:
+# Occupation delicatessen shop manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match delicatessen shop manager |   percentage match with delicatessen shop manager |   skills not in delicatessen shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [fruit and vegetables shop manager](fruit_and_vegetables_shop_manager.md)                         |                          33 |                                            28 |                                          0.965517 |                                         5 |

@@ -1,6 +1,6 @@
-#Occupation train preparer
-##Number skills 18
-###Similar occupations:
+# Occupation train preparer
+## Number skills 18
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match train preparer |   percentage match with train preparer |   skills not in train preparer |
 |:----------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [rolling stock inspector](rolling_stock_inspector.md)                 |                          23 |                                  7 |                               0.388889 |                             16 |

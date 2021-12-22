@@ -1,6 +1,6 @@
-#Occupation fashion designer
-##Number skills 18
-###Similar occupations:
+# Occupation fashion designer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match fashion designer |   percentage match with fashion designer |   skills not in fashion designer |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [costume designer](costume_designer.md)                                                 |                          41 |                                    6 |                                 0.333333 |                               35 |

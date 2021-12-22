@@ -1,6 +1,6 @@
-#Occupation textile shop manager
-##Number skills 31
-###Similar occupations:
+# Occupation textile shop manager
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match textile shop manager |   percentage match with textile shop manager |   skills not in textile shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [clothing shop manager](clothing_shop_manager.md)                                                 |                          32 |                                       28 |                                     0.903226 |                                    4 |

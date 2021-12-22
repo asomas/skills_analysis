@@ -1,6 +1,6 @@
-#Occupation geography teacher secondary school
-##Number skills 28
-###Similar occupations:
+# Occupation geography teacher secondary school
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match geography teacher secondary school |   percentage match with geography teacher secondary school |   skills not in geography teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [classical languages teacher secondary school](classical_languages_teacher_secondary_school.md)                       |                          27 |                                                     24 |                                                   0.857143 |                                                  3 |

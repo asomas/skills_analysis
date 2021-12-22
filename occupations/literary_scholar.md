@@ -1,6 +1,6 @@
-#Occupation literary scholar
-##Number skills 17
-###Similar occupations:
+# Occupation literary scholar
+## Number skills 17
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match literary scholar |   percentage match with literary scholar |   skills not in literary scholar |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [writer](writer.md)                                                               |                          17 |                                    8 |                                 0.470588 |                                9 |

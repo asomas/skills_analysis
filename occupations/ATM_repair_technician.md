@@ -1,6 +1,6 @@
-#Occupation ATM repair technician
-##Number skills 18
-###Similar occupations:
+# Occupation ATM repair technician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match ATM repair technician |   percentage match with ATM repair technician |   skills not in ATM repair technician |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [computer hardware repair technician](computer_hardware_repair_technician.md)                                                                                     |                          18 |                                        11 |                                      0.611111 |                                     7 |

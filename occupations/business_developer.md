@@ -1,6 +1,6 @@
-#Occupation business developer
-##Number skills 15
-###Similar occupations:
+# Occupation business developer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match business developer |   percentage match with business developer |   skills not in business developer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [sales manager](sales_manager.md)                                                                                                                             |                          40 |                                      4 |                                   0.266667 |                                 36 |

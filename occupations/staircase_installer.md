@@ -1,6 +1,6 @@
-#Occupation staircase installer
-##Number skills 17
-###Similar occupations:
+# Occupation staircase installer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match staircase installer |   percentage match with staircase installer |   skills not in staircase installer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [carpenter](carpenter.md)                                                                                                                                             |                          24 |                                      13 |                                    0.764706 |                                  11 |

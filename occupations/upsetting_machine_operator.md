@@ -1,6 +1,6 @@
-#Occupation upsetting machine operator
-##Number skills 16
-###Similar occupations:
+# Occupation upsetting machine operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match upsetting machine operator |   percentage match with upsetting machine operator |   skills not in upsetting machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [drop forging hammer worker](drop_forging_hammer_worker.md)                                           |                          18 |                                             12 |                                             0.75   |                                          6 |

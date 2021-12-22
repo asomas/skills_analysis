@@ -1,6 +1,6 @@
-#Occupation electromagnetic engineer
-##Number skills 35
-###Similar occupations:
+# Occupation electromagnetic engineer
+## Number skills 35
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match electromagnetic engineer |   percentage match with electromagnetic engineer |   skills not in electromagnetic engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [microelectronics engineer](microelectronics_engineer.md)                                                                                   |                          36 |                                           25 |                                         0.714286 |                                       11 |

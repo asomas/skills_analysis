@@ -1,6 +1,6 @@
-#Occupation early years teaching assistant
-##Number skills 20
-###Similar occupations:
+# Occupation early years teaching assistant
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match early years teaching assistant |   percentage match with early years teaching assistant |   skills not in early years teaching assistant |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [special educational needs assistant](special_educational_needs_assistant.md)                                         |                          23 |                                                 17 |                                                   0.85 |                                              6 |

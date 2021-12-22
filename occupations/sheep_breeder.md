@@ -1,6 +1,6 @@
-#Occupation sheep breeder
-##Number skills 30
-###Similar occupations:
+# Occupation sheep breeder
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match sheep breeder |   percentage match with sheep breeder |   skills not in sheep breeder |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [pig breeder](pig_breeder.md)                                                             |                          30 |                                27 |                              0.9      |                             3 |

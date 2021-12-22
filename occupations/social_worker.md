@@ -1,6 +1,6 @@
-#Occupation social worker
-##Number skills 64
-###Similar occupations:
+# Occupation social worker
+## Number skills 64
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match social worker |   percentage match with social worker |   skills not in social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [mental health social worker](mental_health_social_worker.md)                             |                          77 |                                64 |                              1        |                            13 |

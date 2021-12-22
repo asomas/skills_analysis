@@ -1,6 +1,6 @@
-#Occupation harpsichord maker
-##Number skills 18
-###Similar occupations:
+# Occupation harpsichord maker
+## Number skills 18
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match harpsichord maker |   percentage match with harpsichord maker |   skills not in harpsichord maker |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [piano maker](piano_maker.md)                                                         |                          16 |                                    15 |                                  0.833333 |                                 1 |

@@ -1,6 +1,6 @@
-#Occupation family planning counsellor
-##Number skills 51
-###Similar occupations:
+# Occupation family planning counsellor
+## Number skills 51
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match family planning counsellor |   percentage match with family planning counsellor |   skills not in family planning counsellor |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [bereavement counsellor](bereavement_counsellor.md)                                       |                          46 |                                             44 |                                           0.862745 |                                          2 |

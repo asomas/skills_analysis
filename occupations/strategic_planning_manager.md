@@ -1,6 +1,6 @@
-#Occupation strategic planning manager
-##Number skills 25
-###Similar occupations:
+# Occupation strategic planning manager
+## Number skills 25
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match strategic planning manager |   percentage match with strategic planning manager |   skills not in strategic planning manager |
 |:--------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [business intelligence manager](business_intelligence_manager.md)                     |                          29 |                                             12 |                                               0.48 |                                         17 |

@@ -1,6 +1,6 @@
-#Occupation mechatronics engineering technician
-##Number skills 28
-###Similar occupations:
+# Occupation mechatronics engineering technician
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match mechatronics engineering technician |   percentage match with mechatronics engineering technician |   skills not in mechatronics engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [robotics engineering technician](robotics_engineering_technician.md)                                                                       |                          27 |                                                      21 |                                                    0.75     |                                                   6 |

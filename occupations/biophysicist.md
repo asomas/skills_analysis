@@ -1,6 +1,6 @@
-#Occupation biophysicist
-##Number skills 12
-###Similar occupations:
+# Occupation biophysicist
+## Number skills 12
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match biophysicist |   percentage match with biophysicist |   skills not in biophysicist |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [aquaculture biologist](aquaculture_biologist.md)                                       |                          37 |                                7 |                             0.583333 |                           30 |

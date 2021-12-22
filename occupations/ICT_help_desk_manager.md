@@ -1,6 +1,6 @@
-#Occupation ICT help desk manager
-##Number skills 15
-###Similar occupations:
+# Occupation ICT help desk manager
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match ICT help desk manager |   percentage match with ICT help desk manager |   skills not in ICT help desk manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [ICT help desk agent](ICT_help_desk_agent.md)                                                                                                                     |                          19 |                                         8 |                                      0.533333 |                                    11 |

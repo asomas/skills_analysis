@@ -1,6 +1,6 @@
-#Occupation anthropology lecturer
-##Number skills 18
-###Similar occupations:
+# Occupation anthropology lecturer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match anthropology lecturer |   percentage match with anthropology lecturer |   skills not in anthropology lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [archaeology lecturer](archaeology_lecturer.md)                                                                       |                          21 |                                        16 |                                      0.888889 |                                     5 |

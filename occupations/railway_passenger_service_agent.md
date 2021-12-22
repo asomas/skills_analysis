@@ -1,6 +1,6 @@
-#Occupation railway passenger service agent
-##Number skills 23
-###Similar occupations:
+# Occupation railway passenger service agent
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match railway passenger service agent |   percentage match with railway passenger service agent |   skills not in railway passenger service agent |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [technical sales representative in chemical products](technical_sales_representative_in_chemical_products.md)                                                     |                          29 |                                                   3 |                                                0.130435 |                                              26 |

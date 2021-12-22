@@ -1,6 +1,6 @@
-#Occupation street warden
-##Number skills 8
-###Similar occupations:
+# Occupation street warden
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match street warden |   percentage match with street warden |   skills not in street warden |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [civil enforcement officer](civil_enforcement_officer.md)                                                                   |                          14 |                                 4 |                                 0.5   |                            10 |

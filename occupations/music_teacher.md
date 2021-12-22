@@ -1,6 +1,6 @@
-#Occupation music teacher
-##Number skills 23
-###Similar occupations:
+# Occupation music teacher
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match music teacher |   percentage match with music teacher |   skills not in music teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [music teacher secondary school](music_teacher_secondary_school.md)                                                   |                          31 |                                17 |                              0.73913  |                            14 |

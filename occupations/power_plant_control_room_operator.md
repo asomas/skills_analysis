@@ -1,6 +1,6 @@
-#Occupation power plant control room operator
-##Number skills 22
-###Similar occupations:
+# Occupation power plant control room operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match power plant control room operator |   percentage match with power plant control room operator |   skills not in power plant control room operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [power production plant operator](power_production_plant_operator.md)                                 |                          16 |                                                    10 |                                                  0.454545 |                                                 6 |

@@ -1,6 +1,6 @@
-#Occupation metals and metal ores distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation metals and metal ores distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match metals and metal ores distribution manager |   percentage match with metals and metal ores distribution manager |   skills not in metals and metal ores distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [clothing and footwear distribution manager](clothing_and_footwear_distribution_manager.md)                                                                             |                          26 |                                                             25 |                                                           0.961538 |                                                          1 |

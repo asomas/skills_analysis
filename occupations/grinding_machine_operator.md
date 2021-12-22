@@ -1,6 +1,6 @@
-#Occupation grinding machine operator
-##Number skills 24
-###Similar occupations:
+# Occupation grinding machine operator
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match grinding machine operator |   percentage match with grinding machine operator |   skills not in grinding machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [engraving machine operator](engraving_machine_operator.md)                                           |                          29 |                                            24 |                                          1        |                                         5 |

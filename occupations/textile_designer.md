@@ -1,6 +1,6 @@
-#Occupation textile designer
-##Number skills 18
-###Similar occupations:
+# Occupation textile designer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match textile designer |   percentage match with textile designer |   skills not in textile designer |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [textile product developer](textile_product_developer.md)                                 |                          24 |                                   14 |                                 0.777778 |                               10 |

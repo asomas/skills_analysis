@@ -1,6 +1,6 @@
-#Occupation locker room attendant
-##Number skills 7
-###Similar occupations:
+# Occupation locker room attendant
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match locker room attendant |   percentage match with locker room attendant |   skills not in locker room attendant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [spa attendant](spa_attendant.md)                                                                                                                                 |                          22 |                                         4 |                                      0.571429 |                                    18 |

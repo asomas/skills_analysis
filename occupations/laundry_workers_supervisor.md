@@ -1,6 +1,6 @@
-#Occupation laundry workers supervisor
-##Number skills 20
-###Similar occupations:
+# Occupation laundry workers supervisor
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match laundry workers supervisor |   percentage match with laundry workers supervisor |   skills not in laundry workers supervisor |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [spa manager](spa_manager.md)                                                               |                          47 |                                              9 |                                               0.45 |                                         38 |

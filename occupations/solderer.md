@@ -1,6 +1,6 @@
-#Occupation solderer
-##Number skills 17
-###Similar occupations:
+# Occupation solderer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match solderer |   percentage match with solderer |   skills not in solderer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [brazier](brazier.md)                                                                                                                                         |                          17 |                           15 |                         0.882353 |                        2 |

@@ -1,6 +1,6 @@
-#Occupation head waiter/head waitress
-##Number skills 35
-###Similar occupations:
+# Occupation head waiter/head waitress
+## Number skills 35
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match head waiter/head waitress |   percentage match with head waiter/head waitress |   skills not in head waiter/head waitress |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [restaurant manager](restaurant_manager.md)                                                       |                          29 |                                            17 |                                          0.485714 |                                        12 |

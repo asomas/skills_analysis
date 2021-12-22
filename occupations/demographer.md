@@ -1,6 +1,6 @@
-#Occupation demographer
-##Number skills 12
-###Similar occupations:
+# Occupation demographer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match demographer |   percentage match with demographer |   skills not in demographer |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [climatologist](climatologist.md)                                                         |                          16 |                               8 |                            0.666667 |                           8 |

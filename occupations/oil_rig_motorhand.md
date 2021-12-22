@@ -1,6 +1,6 @@
-#Occupation oil rig motorhand
-##Number skills 13
-###Similar occupations:
+# Occupation oil rig motorhand
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match oil rig motorhand |   percentage match with oil rig motorhand |   skills not in oil rig motorhand |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [derrickhand](derrickhand.md)                                                                                                                                 |                          12 |                                     6 |                                  0.461538 |                                 6 |

@@ -1,6 +1,6 @@
-#Occupation history lecturer
-##Number skills 20
-###Similar occupations:
+# Occupation history lecturer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match history lecturer |   percentage match with history lecturer |   skills not in history lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [history teacher secondary school](history_teacher_secondary_school.md)                                               |                          27 |                                   17 |                                     0.85 |                               10 |

@@ -1,6 +1,6 @@
-#Occupation election observer
-##Number skills 13
-###Similar occupations:
+# Occupation election observer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match election observer |   percentage match with election observer |   skills not in election observer |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [judge](judge.md)                                                                                       |                          11 |                                     2 |                                  0.153846 |                                 9 |

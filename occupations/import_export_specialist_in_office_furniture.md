@@ -1,6 +1,6 @@
-#Occupation import export specialist in office furniture
-##Number skills 21
-###Similar occupations:
+# Occupation import export specialist in office furniture
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in office furniture |   percentage match with import export specialist in office furniture |   skills not in import export specialist in office furniture |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------:|
 | [import export specialist in furniture, carpets and lighting equipment](import_export_specialist_in_furniture,_carpets_and_lighting_equipment.md)                       |                          22 |                                                               20 |                                                             0.952381 |                                                            2 |

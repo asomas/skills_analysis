@@ -1,6 +1,6 @@
-#Occupation communication manager
-##Number skills 25
-###Similar occupations:
+# Occupation communication manager
+## Number skills 25
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match communication manager |   percentage match with communication manager |   skills not in communication manager |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [public relations officer](public_relations_officer.md)                 |                          23 |                                        16 |                                          0.64 |                                     7 |

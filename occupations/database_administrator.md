@@ -1,6 +1,6 @@
-#Occupation database administrator
-##Number skills 25
-###Similar occupations:
+# Occupation database administrator
+## Number skills 25
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match database administrator |   percentage match with database administrator |   skills not in database administrator |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [database developer](database_developer.md)                                       |                          18 |                                         10 |                                           0.4  |                                      8 |

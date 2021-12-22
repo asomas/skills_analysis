@@ -1,6 +1,6 @@
-#Occupation gunsmith
-##Number skills 19
-###Similar occupations:
+# Occupation gunsmith
+## Number skills 19
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match gunsmith |   percentage match with gunsmith |   skills not in gunsmith |
 |:------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [power tool repair technician](power_tool_repair_technician.md)                     |                          20 |                            6 |                         0.315789 |                       14 |

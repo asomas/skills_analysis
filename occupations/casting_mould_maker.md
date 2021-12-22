@@ -1,6 +1,6 @@
-#Occupation casting mould maker
-##Number skills 9
-###Similar occupations:
+# Occupation casting mould maker
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match casting mould maker |   percentage match with casting mould maker |   skills not in casting mould maker |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [crane technician](crane_technician.md)                                                                                                                               |                          14 |                                       3 |                                    0.333333 |                                  11 |

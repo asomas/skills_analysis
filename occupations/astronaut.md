@@ -1,6 +1,6 @@
-#Occupation astronaut
-##Number skills 18
-###Similar occupations:
+# Occupation astronaut
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match astronaut |   percentage match with astronaut |   skills not in astronaut |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [satellite engineer](satellite_engineer.md)                                                                   |                          19 |                             4 |                          0.222222 |                        15 |

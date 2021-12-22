@@ -1,6 +1,6 @@
-#Occupation passenger fare controller
-##Number skills 12
-###Similar occupations:
+# Occupation passenger fare controller
+## Number skills 12
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match passenger fare controller |   percentage match with passenger fare controller |   skills not in passenger fare controller |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [bus driver](bus_driver.md)                                                 |                          33 |                                             5 |                                          0.416667 |                                        28 |

@@ -1,6 +1,6 @@
-#Occupation academic support officer
-##Number skills 20
-###Similar occupations:
+# Occupation academic support officer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match academic support officer |   percentage match with academic support officer |   skills not in academic support officer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [learning support teacher](learning_support_teacher.md)                                                               |                          23 |                                            8 |                                             0.4  |                                       15 |

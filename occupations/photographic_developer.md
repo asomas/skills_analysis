@@ -1,6 +1,6 @@
-#Occupation photographic developer
-##Number skills 14
-###Similar occupations:
+# Occupation photographic developer
+## Number skills 14
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match photographic developer |   percentage match with photographic developer |   skills not in photographic developer |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [motion picture film developer](motion_picture_film_developer.md)       |                          11 |                                         11 |                                       0.785714 |                                      0 |

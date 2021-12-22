@@ -1,6 +1,6 @@
-#Occupation script writer
-##Number skills 21
-###Similar occupations:
+# Occupation script writer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match script writer |   percentage match with script writer |   skills not in script writer |
 |:--------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [writer](writer.md)                                                       |                          17 |                                 8 |                              0.380952 |                             9 |

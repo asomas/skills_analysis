@@ -1,6 +1,6 @@
-#Occupation special educational needs coordinator
-##Number skills 20
-###Similar occupations:
+# Occupation special educational needs coordinator
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match special educational needs coordinator |   percentage match with special educational needs coordinator |   skills not in special educational needs coordinator |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [special educational needs head teacher](special_educational_needs_head_teacher.md)                                   |                          26 |                                                        13 |                                                          0.65 |                                                    13 |

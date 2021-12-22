@@ -1,6 +1,6 @@
-#Occupation specialist pharmacist
-##Number skills 48
-###Similar occupations:
+# Occupation specialist pharmacist
+## Number skills 48
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match specialist pharmacist |   percentage match with specialist pharmacist |   skills not in specialist pharmacist |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [pharmacist](pharmacist.md)                                                               |                          75 |                                        42 |                                      0.875    |                                    33 |

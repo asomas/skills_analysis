@@ -1,6 +1,6 @@
-#Occupation refurbishing technician
-##Number skills 10
-###Similar occupations:
+# Occupation refurbishing technician
+## Number skills 10
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match refurbishing technician |   percentage match with refurbishing technician |   skills not in refurbishing technician |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [coachbuilder](coachbuilder.md)                                                   |                          23 |                                           4 |                                             0.4 |                                      19 |

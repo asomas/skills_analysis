@@ -1,6 +1,6 @@
-#Occupation data quality specialist
-##Number skills 18
-###Similar occupations:
+# Occupation data quality specialist
+## Number skills 18
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match data quality specialist |   percentage match with data quality specialist |   skills not in data quality specialist |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [data analyst](data_analyst.md)                                         |                          28 |                                          10 |                                        0.555556 |                                      18 |

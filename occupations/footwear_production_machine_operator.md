@@ -1,6 +1,6 @@
-#Occupation footwear production machine operator
-##Number skills 11
-###Similar occupations:
+# Occupation footwear production machine operator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match footwear production machine operator |   percentage match with footwear production machine operator |   skills not in footwear production machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [footwear production supervisor](footwear_production_supervisor.md)                                   |                          22 |                                                        7 |                                                     0.636364 |                                                   15 |

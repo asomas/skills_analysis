@@ -1,6 +1,6 @@
-#Occupation import export manager in textiles and textile semi-finished and raw materials
-##Number skills 26
-###Similar occupations:
+# Occupation import export manager in textiles and textile semi-finished and raw materials
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in textiles and textile semi-finished and raw materials |   percentage match with import export manager in textiles and textile semi-finished and raw materials |   skills not in import export manager in textiles and textile semi-finished and raw materials |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------:|
 | [import export manager in flowers and plants](import_export_manager_in_flowers_and_plants.md)                                                                           |                          27 |                                                                                                25 |                                                                                              0.961538 |                                                                                             2 |

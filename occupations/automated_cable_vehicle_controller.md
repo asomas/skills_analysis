@@ -1,6 +1,6 @@
-#Occupation automated cable vehicle controller
-##Number skills 8
-###Similar occupations:
+# Occupation automated cable vehicle controller
+## Number skills 8
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match automated cable vehicle controller |   percentage match with automated cable vehicle controller |   skills not in automated cable vehicle controller |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [level crossing signalperson](level_crossing_signalperson.md)                     |                          24 |                                                      3 |                                                      0.375 |                                                 21 |

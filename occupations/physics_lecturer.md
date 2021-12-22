@@ -1,6 +1,6 @@
-#Occupation physics lecturer
-##Number skills 18
-###Similar occupations:
+# Occupation physics lecturer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match physics lecturer |   percentage match with physics lecturer |   skills not in physics lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [physics teacher secondary school](physics_teacher_secondary_school.md)                                               |                          26 |                                   16 |                                 0.888889 |                               10 |

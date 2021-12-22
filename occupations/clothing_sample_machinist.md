@@ -1,6 +1,6 @@
-#Occupation clothing sample machinist
-##Number skills 24
-###Similar occupations:
+# Occupation clothing sample machinist
+## Number skills 24
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match clothing sample machinist |   percentage match with clothing sample machinist |   skills not in clothing sample machinist |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [clothing alteration machinist](clothing_alteration_machinist.md)                       |                          26 |                                            20 |                                          0.833333 |                                         6 |

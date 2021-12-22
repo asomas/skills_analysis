@@ -1,6 +1,6 @@
-#Occupation interior planner
-##Number skills 14
-###Similar occupations:
+# Occupation interior planner
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match interior planner |   percentage match with interior planner |   skills not in interior planner |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [interior architect](interior_architect.md)                                                                                                                       |                          27 |                                    4 |                                 0.285714 |                               23 |

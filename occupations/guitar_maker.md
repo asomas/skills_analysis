@@ -1,6 +1,6 @@
-#Occupation guitar maker
-##Number skills 20
-###Similar occupations:
+# Occupation guitar maker
+## Number skills 20
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match guitar maker |   percentage match with guitar maker |   skills not in guitar maker |
 |:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [harp maker](harp_maker.md)                                                           |                          18 |                               16 |                                 0.8  |                            2 |

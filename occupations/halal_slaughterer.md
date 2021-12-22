@@ -1,6 +1,6 @@
-#Occupation halal slaughterer
-##Number skills 33
-###Similar occupations:
+# Occupation halal slaughterer
+## Number skills 33
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match halal slaughterer |   percentage match with halal slaughterer |   skills not in halal slaughterer |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [slaughterer](slaughterer.md)                                                 |                          36 |                                    30 |                                  0.909091 |                                 6 |

@@ -1,6 +1,6 @@
-#Occupation secretary general
-##Number skills 10
-###Similar occupations:
+# Occupation secretary general
+## Number skills 10
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match secretary general |   percentage match with secretary general |   skills not in secretary general |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [zoo curator](zoo_curator.md)                                                     |                          47 |                                     5 |                                       0.5 |                                42 |

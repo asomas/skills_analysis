@@ -1,6 +1,6 @@
-#Occupation collection manager
-##Number skills 20
-###Similar occupations:
+# Occupation collection manager
+## Number skills 20
+### Similar occupations:
 | occupation                                      |   skills in this occupation |   skills that match collection manager |   percentage match with collection manager |   skills not in collection manager |
 |:------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [exhibition registrar](exhibition_registrar.md) |                          21 |                                     12 |                                       0.6  |                                  9 |

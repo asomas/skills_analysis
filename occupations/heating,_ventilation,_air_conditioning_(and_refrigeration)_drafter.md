@@ -1,6 +1,6 @@
-#Occupation heating, ventilation, air conditioning (and refrigeration) drafter
-##Number skills 17
-###Similar occupations:
+# Occupation heating, ventilation, air conditioning (and refrigeration) drafter
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match heating, ventilation, air conditioning (and refrigeration) drafter |   percentage match with heating, ventilation, air conditioning (and refrigeration) drafter |   skills not in heating, ventilation, air conditioning (and refrigeration) drafter |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------:|
 | [automotive engineering drafter](automotive_engineering_drafter.md)                                   |                          17 |                                                                                     15 |                                                                                   0.882353 |                                                                                  2 |

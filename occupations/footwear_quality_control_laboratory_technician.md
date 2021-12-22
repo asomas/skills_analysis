@@ -1,6 +1,6 @@
-#Occupation footwear quality control laboratory technician
-##Number skills 9
-###Similar occupations:
+# Occupation footwear quality control laboratory technician
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match footwear quality control laboratory technician |   percentage match with footwear quality control laboratory technician |   skills not in footwear quality control laboratory technician |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------------------:|---------------------------------------------------------------:|
 | [footwear production supervisor](footwear_production_supervisor.md)                                                                                                     |                          22 |                                                                  8 |                                                               0.888889 |                                                             14 |

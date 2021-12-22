@@ -1,6 +1,6 @@
-#Occupation blender operator
-##Number skills 14
-###Similar occupations:
+# Occupation blender operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match blender operator |   percentage match with blender operator |   skills not in blender operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [cellar operator](cellar_operator.md)                                                   |                          24 |                                    8 |                                 0.571429 |                               16 |

@@ -1,6 +1,6 @@
-#Occupation furniture shop manager
-##Number skills 34
-###Similar occupations:
+# Occupation furniture shop manager
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match furniture shop manager |   percentage match with furniture shop manager |   skills not in furniture shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [hardware and paint shop manager](hardware_and_paint_shop_manager.md)                             |                          28 |                                         27 |                                       0.794118 |                                      1 |

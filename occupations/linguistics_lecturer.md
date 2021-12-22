@@ -1,6 +1,6 @@
-#Occupation linguistics lecturer
-##Number skills 22
-###Similar occupations:
+# Occupation linguistics lecturer
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match linguistics lecturer |   percentage match with linguistics lecturer |   skills not in linguistics lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [university literature lecturer](university_literature_lecturer.md)                                                   |                          22 |                                       15 |                                     0.681818 |                                    7 |

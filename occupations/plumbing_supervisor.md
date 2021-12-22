@@ -1,6 +1,6 @@
-#Occupation plumbing supervisor
-##Number skills 23
-###Similar occupations:
+# Occupation plumbing supervisor
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match plumbing supervisor |   percentage match with plumbing supervisor |   skills not in plumbing supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [bricklaying supervisor](bricklaying_supervisor.md)                                                             |                          24 |                                      19 |                                    0.826087 |                                   5 |

@@ -1,6 +1,6 @@
-#Occupation fruit and vegetables distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation fruit and vegetables distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match fruit and vegetables distribution manager |   percentage match with fruit and vegetables distribution manager |   skills not in fruit and vegetables distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [tobacco products distribution manager](tobacco_products_distribution_manager.md)                                                                                       |                          26 |                                                            25 |                                                          0.961538 |                                                         1 |

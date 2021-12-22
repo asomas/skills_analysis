@@ -1,6 +1,6 @@
-#Occupation canvas goods assembler
-##Number skills 12
-###Similar occupations:
+# Occupation canvas goods assembler
+## Number skills 12
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match canvas goods assembler |   percentage match with canvas goods assembler |   skills not in canvas goods assembler |
 |:------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [edge bander operator](edge_bander_operator.md)                   |                          10 |                                          2 |                                       0.166667 |                                      8 |

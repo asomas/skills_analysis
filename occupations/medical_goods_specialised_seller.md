@@ -1,6 +1,6 @@
-#Occupation medical goods specialised seller
-##Number skills 31
-###Similar occupations:
+# Occupation medical goods specialised seller
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match medical goods specialised seller |   percentage match with medical goods specialised seller |   skills not in medical goods specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [ammunition specialised seller](ammunition_specialised_seller.md)                                                                                                 |                          32 |                                                   27 |                                                 0.870968 |                                                5 |

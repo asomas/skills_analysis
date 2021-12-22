@@ -1,6 +1,6 @@
-#Occupation distribution manager
-##Number skills 25
-###Similar occupations:
+# Occupation distribution manager
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match distribution manager |   percentage match with distribution manager |   skills not in distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [textiles, textile semi-finished and raw materials distribution manager](textiles,_textile_semi-finished_and_raw_materials_distribution_manager.md)                     |                          26 |                                       25 |                                         1    |                                    1 |

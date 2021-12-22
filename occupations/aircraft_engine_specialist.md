@@ -1,6 +1,6 @@
-#Occupation aircraft engine specialist
-##Number skills 21
-###Similar occupations:
+# Occupation aircraft engine specialist
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match aircraft engine specialist |   percentage match with aircraft engine specialist |   skills not in aircraft engine specialist |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [aircraft maintenance technician](aircraft_maintenance_technician.md)                                                                                         |                          29 |                                             20 |                                           0.952381 |                                          9 |

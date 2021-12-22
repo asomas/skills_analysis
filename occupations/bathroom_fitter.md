@@ -1,6 +1,6 @@
-#Occupation bathroom fitter
-##Number skills 23
-###Similar occupations:
+# Occupation bathroom fitter
+## Number skills 23
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match bathroom fitter |   percentage match with bathroom fitter |   skills not in bathroom fitter |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [kitchen unit installer](kitchen_unit_installer.md)                                     |                          21 |                                  15 |                                0.652174 |                               6 |

@@ -1,6 +1,6 @@
-#Occupation compression moulding machine operator
-##Number skills 15
-###Similar occupations:
+# Occupation compression moulding machine operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match compression moulding machine operator |   percentage match with compression moulding machine operator |   skills not in compression moulding machine operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [injection moulding operator](injection_moulding_operator.md)                                                   |                          14 |                                                         7 |                                                      0.466667 |                                                     7 |

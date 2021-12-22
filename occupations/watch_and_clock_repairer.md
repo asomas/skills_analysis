@@ -1,6 +1,6 @@
-#Occupation watch and clock repairer
-##Number skills 22
-###Similar occupations:
+# Occupation watch and clock repairer
+## Number skills 22
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match watch and clock repairer |   percentage match with watch and clock repairer |   skills not in watch and clock repairer |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [clock and watchmaker](clock_and_watchmaker.md)                                     |                          14 |                                            8 |                                         0.363636 |                                        6 |

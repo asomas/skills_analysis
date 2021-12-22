@@ -1,6 +1,6 @@
-#Occupation marine engineer
-##Number skills 13
-###Similar occupations:
+# Occupation marine engineer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match marine engineer |   percentage match with marine engineer |   skills not in marine engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [fisheries refrigeration engineer](fisheries_refrigeration_engineer.md)                                                                     |                          22 |                                  13 |                                1        |                               9 |

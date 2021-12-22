@@ -1,6 +1,6 @@
-#Occupation photography shop manager
-##Number skills 30
-###Similar occupations:
+# Occupation photography shop manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match photography shop manager |   percentage match with photography shop manager |   skills not in photography shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [audiology equipment shop manager](audiology_equipment_shop_manager.md)                           |                          32 |                                           27 |                                         0.9      |                                        5 |

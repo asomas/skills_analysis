@@ -1,6 +1,6 @@
-#Occupation public administration manager
-##Number skills 18
-###Similar occupations:
+# Occupation public administration manager
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match public administration manager |   percentage match with public administration manager |   skills not in public administration manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [provincial governor](provincial_governor.md)                                                                                                               |                          10 |                                                 7 |                                              0.388889 |                                             3 |

@@ -1,6 +1,6 @@
-#Occupation magazine editor
-##Number skills 15
-###Similar occupations:
+# Occupation magazine editor
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match magazine editor |   percentage match with magazine editor |   skills not in magazine editor |
 |:----------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [newspaper editor](newspaper_editor.md)                                                       |                          20 |                                  14 |                                0.933333 |                               6 |

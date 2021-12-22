@@ -1,6 +1,6 @@
-#Occupation sprinkler fitter
-##Number skills 16
-###Similar occupations:
+# Occupation sprinkler fitter
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match sprinkler fitter |   percentage match with sprinkler fitter |   skills not in sprinkler fitter |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [bathroom fitter](bathroom_fitter.md)                                                                                                                                 |                          23 |                                   10 |                                   0.625  |                               13 |

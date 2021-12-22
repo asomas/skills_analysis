@@ -1,6 +1,6 @@
-#Occupation agricultural raw materials, seeds and animal feeds distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation agricultural raw materials, seeds and animal feeds distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match agricultural raw materials, seeds and animal feeds distribution manager |   percentage match with agricultural raw materials, seeds and animal feeds distribution manager |   skills not in agricultural raw materials, seeds and animal feeds distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------:|
 | [textiles, textile semi-finished and raw materials distribution manager](textiles,_textile_semi-finished_and_raw_materials_distribution_manager.md)                     |                          26 |                                                                                          25 |                                                                                        0.961538 |                                                                                       1 |

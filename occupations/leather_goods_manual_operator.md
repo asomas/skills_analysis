@@ -1,6 +1,6 @@
-#Occupation leather goods manual operator
-##Number skills 4
-###Similar occupations:
+# Occupation leather goods manual operator
+## Number skills 4
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods manual operator |   percentage match with leather goods manual operator |   skills not in leather goods manual operator |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [automated cutting machine operator](automated_cutting_machine_operator.md)                                   |                          14 |                                                 4 |                                                     1 |                                            10 |

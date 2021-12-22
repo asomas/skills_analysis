@@ -1,6 +1,6 @@
-#Occupation oil and gas production manager
-##Number skills 22
-###Similar occupations:
+# Occupation oil and gas production manager
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match oil and gas production manager |   percentage match with oil and gas production manager |   skills not in oil and gas production manager |
 |:--------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [mine production manager](mine_production_manager.md)                                       |                          23 |                                                 13 |                                               0.590909 |                                             10 |

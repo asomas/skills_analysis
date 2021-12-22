@@ -1,6 +1,6 @@
-#Occupation foster care support worker
-##Number skills 72
-###Similar occupations:
+# Occupation foster care support worker
+## Number skills 72
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match foster care support worker |   percentage match with foster care support worker |   skills not in foster care support worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [child welfare worker](child_welfare_worker.md)                                           |                          73 |                                             69 |                                           0.958333 |                                          4 |

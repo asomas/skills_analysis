@@ -1,6 +1,6 @@
-#Occupation hair stylist
-##Number skills 16
-###Similar occupations:
+# Occupation hair stylist
+## Number skills 16
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match hair stylist |   percentage match with hair stylist |   skills not in hair stylist |
 |:--------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [make-up artist](make-up_artist.md)                                       |                          27 |                                8 |                               0.5    |                           19 |

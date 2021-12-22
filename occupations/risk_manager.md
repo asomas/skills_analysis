@@ -1,6 +1,6 @@
-#Occupation risk manager
-##Number skills 28
-###Similar occupations:
+# Occupation risk manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match risk manager |   percentage match with risk manager |   skills not in risk manager |
 |:--------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [insurance agency manager](insurance_agency_manager.md)                         |                          37 |                               15 |                             0.535714 |                           22 |

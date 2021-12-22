@@ -1,6 +1,6 @@
-#Occupation armoured car driver
-##Number skills 20
-###Similar occupations:
+# Occupation armoured car driver
+## Number skills 20
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match armoured car driver |   percentage match with armoured car driver |   skills not in armoured car driver |
 |:----------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [bus driver](bus_driver.md)                                           |                          33 |                                       9 |                                        0.45 |                                  24 |

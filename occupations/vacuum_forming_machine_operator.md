@@ -1,6 +1,6 @@
-#Occupation vacuum forming machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation vacuum forming machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match vacuum forming machine operator |   percentage match with vacuum forming machine operator |   skills not in vacuum forming machine operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [pultrusion machine operator](pultrusion_machine_operator.md)                                                   |                          14 |                                                  10 |                                                0.714286 |                                               4 |

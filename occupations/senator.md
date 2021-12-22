@@ -1,6 +1,6 @@
-#Occupation senator
-##Number skills 10
-###Similar occupations:
+# Occupation senator
+## Number skills 10
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match senator |   percentage match with senator |   skills not in senator |
 |:------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [government minister](government_minister.md)                     |                          13 |                           9 |                             0.9 |                       4 |

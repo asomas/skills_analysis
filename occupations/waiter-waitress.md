@@ -1,6 +1,6 @@
-#Occupation waiter/waitress
-##Number skills 30
-###Similar occupations:
+# Occupation waiter/waitress
+## Number skills 30
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match waiter/waitress |   percentage match with waiter/waitress |   skills not in waiter/waitress |
 |:------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [head waiter/head waitress](head_waiter-head_waitress.md)                           |                          35 |                                  11 |                                0.366667 |                              24 |

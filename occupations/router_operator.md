@@ -1,6 +1,6 @@
-#Occupation router operator
-##Number skills 13
-###Similar occupations:
+# Occupation router operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match router operator |   percentage match with router operator |   skills not in router operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [slitter operator](slitter_operator.md)                                                               |                          14 |                                   9 |                                0.692308 |                               5 |

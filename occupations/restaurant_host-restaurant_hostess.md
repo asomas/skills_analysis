@@ -1,6 +1,6 @@
-#Occupation restaurant host/restaurant hostess
-##Number skills 13
-###Similar occupations:
+# Occupation restaurant host/restaurant hostess
+## Number skills 13
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match restaurant host/restaurant hostess |   percentage match with restaurant host/restaurant hostess |   skills not in restaurant host/restaurant hostess |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [waiter/waitress](waiter-waitress.md)                                               |                          30 |                                                      8 |                                                   0.615385 |                                                 22 |

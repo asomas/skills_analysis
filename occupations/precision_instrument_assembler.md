@@ -1,6 +1,6 @@
-#Occupation precision instrument assembler
-##Number skills 19
-###Similar occupations:
+# Occupation precision instrument assembler
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match precision instrument assembler |   percentage match with precision instrument assembler |   skills not in precision instrument assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [instrumentation engineering technician](instrumentation_engineering_technician.md)                   |                          31 |                                                  7 |                                               0.368421 |                                             24 |

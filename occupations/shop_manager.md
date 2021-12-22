@@ -1,6 +1,6 @@
-#Occupation shop manager
-##Number skills 27
-###Similar occupations:
+# Occupation shop manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match shop manager |   percentage match with shop manager |   skills not in shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [music and video shop manager](music_and_video_shop_manager.md)                                   |                          30 |                               27 |                             1        |                            3 |

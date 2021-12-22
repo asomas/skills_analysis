@@ -1,6 +1,6 @@
-#Occupation kitchen and bathroom shop manager
-##Number skills 27
-###Similar occupations:
+# Occupation kitchen and bathroom shop manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match kitchen and bathroom shop manager |   percentage match with kitchen and bathroom shop manager |   skills not in kitchen and bathroom shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [music and video shop manager](music_and_video_shop_manager.md)                                   |                          30 |                                                    27 |                                                  1        |                                                 3 |

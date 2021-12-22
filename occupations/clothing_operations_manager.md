@@ -1,6 +1,6 @@
-#Occupation clothing operations manager
-##Number skills 7
-###Similar occupations:
+# Occupation clothing operations manager
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match clothing operations manager |   percentage match with clothing operations manager |   skills not in clothing operations manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [clothing technologist](clothing_technologist.md)                                                                                                           |                          21 |                                               5 |                                            0.714286 |                                          16 |

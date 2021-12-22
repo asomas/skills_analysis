@@ -1,6 +1,6 @@
-#Occupation glass annealer
-##Number skills 16
-###Similar occupations:
+# Occupation glass annealer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match glass annealer |   percentage match with glass annealer |   skills not in glass annealer |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [metal annealer](metal_annealer.md)                                                                             |                          17 |                                 12 |                                 0.75   |                              5 |

@@ -1,6 +1,6 @@
-#Occupation cloak room attendant
-##Number skills 7
-###Similar occupations:
+# Occupation cloak room attendant
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match cloak room attendant |   percentage match with cloak room attendant |   skills not in cloak room attendant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [locker room attendant](locker_room_attendant.md)                                                                                                                 |                           7 |                                        3 |                                     0.428571 |                                    4 |

@@ -1,6 +1,6 @@
-#Occupation marine electronics technician
-##Number skills 19
-###Similar occupations:
+# Occupation marine electronics technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match marine electronics technician |   percentage match with marine electronics technician |   skills not in marine electronics technician |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [electronic equipment assembler](electronic_equipment_assembler.md)                                   |                          22 |                                                14 |                                              0.736842 |                                             8 |

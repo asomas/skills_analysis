@@ -1,6 +1,6 @@
-#Occupation pizzaiolo
-##Number skills 15
-###Similar occupations:
+# Occupation pizzaiolo
+## Number skills 15
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match pizzaiolo |   percentage match with pizzaiolo |   skills not in pizzaiolo |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [diet cook](diet_cook.md)                                                       |                          17 |                            11 |                          0.733333 |                         6 |

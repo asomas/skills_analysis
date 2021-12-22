@@ -1,6 +1,6 @@
-#Occupation market vendor
-##Number skills 12
-###Similar occupations:
+# Occupation market vendor
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match market vendor |   percentage match with market vendor |   skills not in market vendor |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [street food vendor](street_food_vendor.md)                                                                                                                       |                          15 |                                11 |                              0.916667 |                             4 |

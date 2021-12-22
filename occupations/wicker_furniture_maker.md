@@ -1,6 +1,6 @@
-#Occupation wicker furniture maker
-##Number skills 12
-###Similar occupations:
+# Occupation wicker furniture maker
+## Number skills 12
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match wicker furniture maker |   percentage match with wicker furniture maker |   skills not in wicker furniture maker |
 |:----------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [cabinet maker](cabinet_maker.md)                               |                          20 |                                          7 |                                       0.583333 |                                     13 |

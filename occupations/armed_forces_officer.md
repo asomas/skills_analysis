@@ -1,6 +1,6 @@
-#Occupation armed forces officer
-##Number skills 21
-###Similar occupations:
+# Occupation armed forces officer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match armed forces officer |   percentage match with armed forces officer |   skills not in armed forces officer |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [special forces officer](special_forces_officer.md)                                           |                          22 |                                       15 |                                     0.714286 |                                    7 |

@@ -1,6 +1,6 @@
-#Occupation antique shop manager
-##Number skills 33
-###Similar occupations:
+# Occupation antique shop manager
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match antique shop manager |   percentage match with antique shop manager |   skills not in antique shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [computer shop manager](computer_shop_manager.md)                                                 |                          32 |                                       27 |                                     0.818182 |                                    5 |

@@ -1,6 +1,6 @@
-#Occupation user interface developer
-##Number skills 16
-###Similar occupations:
+# Occupation user interface developer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                      |   skills in this occupation |   skills that match user interface developer |   percentage match with user interface developer |   skills not in user interface developer |
 |:------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [web developer](web_developer.md)                                                               |                          20 |                                           10 |                                           0.625  |                                       10 |

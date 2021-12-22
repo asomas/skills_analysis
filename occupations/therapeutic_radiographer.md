@@ -1,6 +1,6 @@
-#Occupation therapeutic radiographer
-##Number skills 55
-###Similar occupations:
+# Occupation therapeutic radiographer
+## Number skills 55
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match therapeutic radiographer |   percentage match with therapeutic radiographer |   skills not in therapeutic radiographer |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [nuclear medicine radiographer](nuclear_medicine_radiographer.md)                                           |                          51 |                                           43 |                                         0.781818 |                                        8 |

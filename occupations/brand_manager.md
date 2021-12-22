@@ -1,6 +1,6 @@
-#Occupation brand manager
-##Number skills 29
-###Similar occupations:
+# Occupation brand manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match brand manager |   percentage match with brand manager |   skills not in brand manager |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [destination manager](destination_manager.md)                                                                                                                       |                          27 |                                 7 |                              0.241379 |                            20 |

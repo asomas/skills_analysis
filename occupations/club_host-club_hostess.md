@@ -1,6 +1,6 @@
-#Occupation club host/club hostess
-##Number skills 11
-###Similar occupations:
+# Occupation club host/club hostess
+## Number skills 11
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match club host/club hostess |   percentage match with club host/club hostess |   skills not in club host/club hostess |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [flight attendant](flight_attendant.md)                                             |                          30 |                                          5 |                                       0.454545 |                                     25 |

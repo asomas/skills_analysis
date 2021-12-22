@@ -1,6 +1,6 @@
-#Occupation bicycle shop manager
-##Number skills 30
-###Similar occupations:
+# Occupation bicycle shop manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match bicycle shop manager |   percentage match with bicycle shop manager |   skills not in bicycle shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [meat and meat products shop manager](meat_and_meat_products_shop_manager.md)                     |                          31 |                                       27 |                                     0.9      |                                    4 |

@@ -1,6 +1,6 @@
-#Occupation performing arts theatre instructor
-##Number skills 30
-###Similar occupations:
+# Occupation performing arts theatre instructor
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match performing arts theatre instructor |   percentage match with performing arts theatre instructor |   skills not in performing arts theatre instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [drama teacher secondary school](drama_teacher_secondary_school.md)                                                   |                          32 |                                                     22 |                                                   0.733333 |                                                 10 |

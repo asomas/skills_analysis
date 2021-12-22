@@ -1,6 +1,6 @@
-#Occupation dancer
-##Number skills 20
-###Similar occupations:
+# Occupation dancer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match dancer |   percentage match with dancer |   skills not in dancer |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [choreographer](choreographer.md)                                           |                          19 |                          8 |                           0.4  |                     11 |

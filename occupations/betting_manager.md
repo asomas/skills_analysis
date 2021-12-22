@@ -1,6 +1,6 @@
-#Occupation betting manager
-##Number skills 32
-###Similar occupations:
+# Occupation betting manager
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match betting manager |   percentage match with betting manager |   skills not in betting manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [gambling manager](gambling_manager.md)                                                           |                          27 |                                  17 |                                 0.53125 |                              10 |

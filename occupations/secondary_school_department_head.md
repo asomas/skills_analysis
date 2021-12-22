@@ -1,6 +1,6 @@
-#Occupation secondary school department head
-##Number skills 22
-###Similar occupations:
+# Occupation secondary school department head
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match secondary school department head |   percentage match with secondary school department head |   skills not in secondary school department head |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [university department head](university_department_head.md)                                                           |                          22 |                                                   17 |                                                 0.772727 |                                                5 |

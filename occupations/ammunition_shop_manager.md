@@ -1,6 +1,6 @@
-#Occupation ammunition shop manager
-##Number skills 31
-###Similar occupations:
+# Occupation ammunition shop manager
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match ammunition shop manager |   percentage match with ammunition shop manager |   skills not in ammunition shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [jewellery and watches shop manager](jewellery_and_watches_shop_manager.md)                       |                          37 |                                          27 |                                        0.870968 |                                      10 |

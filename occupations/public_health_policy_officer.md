@@ -1,6 +1,6 @@
-#Occupation public health policy officer
-##Number skills 14
-###Similar occupations:
+# Occupation public health policy officer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match public health policy officer |   percentage match with public health policy officer |   skills not in public health policy officer |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [healthcare consultant](healthcare_consultant.md)                                         |                          12 |                                                8 |                                             0.571429 |                                            4 |

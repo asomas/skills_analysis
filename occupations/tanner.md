@@ -1,6 +1,6 @@
-#Occupation tanner
-##Number skills 10
-###Similar occupations:
+# Occupation tanner
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                          |   skills in this occupation |   skills that match tanner |   percentage match with tanner |   skills not in tanner |
 |:----------------------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [leather wet processing department manager](leather_wet_processing_department_manager.md)           |                          29 |                         10 |                            1   |                     19 |

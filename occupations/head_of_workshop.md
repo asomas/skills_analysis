@@ -1,6 +1,6 @@
-#Occupation head of workshop
-##Number skills 28
-###Similar occupations:
+# Occupation head of workshop
+## Number skills 28
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match head of workshop |   percentage match with head of workshop |   skills not in head of workshop |
 |:------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [stage manager](stage_manager.md)                                 |                          27 |                                   13 |                                 0.464286 |                               14 |

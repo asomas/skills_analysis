@@ -1,6 +1,6 @@
-#Occupation housing manager
-##Number skills 28
-###Similar occupations:
+# Occupation housing manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match housing manager |   percentage match with housing manager |   skills not in housing manager |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [real estate manager](real_estate_manager.md)                           |                          32 |                                  16 |                                0.571429 |                              16 |

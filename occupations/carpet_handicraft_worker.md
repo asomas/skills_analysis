@@ -1,6 +1,6 @@
-#Occupation carpet handicraft worker
-##Number skills 11
-###Similar occupations:
+# Occupation carpet handicraft worker
+## Number skills 11
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match carpet handicraft worker |   percentage match with carpet handicraft worker |   skills not in carpet handicraft worker |
 |:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [carpet weaver](carpet_weaver.md)                                                     |                          17 |                                            6 |                                         0.545455 |                                       11 |

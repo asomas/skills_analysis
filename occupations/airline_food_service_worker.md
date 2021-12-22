@@ -1,6 +1,6 @@
-#Occupation airline food service worker
-##Number skills 11
-###Similar occupations:
+# Occupation airline food service worker
+## Number skills 11
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match airline food service worker |   percentage match with airline food service worker |   skills not in airline food service worker |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [food biotechnologist](food_biotechnologist.md)                                   |                          39 |                                               4 |                                            0.363636 |                                          35 |

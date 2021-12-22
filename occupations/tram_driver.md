@@ -1,6 +1,6 @@
-#Occupation tram driver
-##Number skills 34
-###Similar occupations:
+# Occupation tram driver
+## Number skills 34
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match tram driver |   percentage match with tram driver |   skills not in tram driver |
 |:----------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [trolley bus driver](trolley_bus_driver.md)                           |                          31 |                              26 |                            0.764706 |                           5 |

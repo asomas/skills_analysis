@@ -1,6 +1,6 @@
-#Occupation tour operator representative
-##Number skills 19
-###Similar occupations:
+# Occupation tour operator representative
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match tour operator representative |   percentage match with tour operator representative |   skills not in tour operator representative |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [tourist information officer](tourist_information_officer.md)                               |                          24 |                                                9 |                                             0.473684 |                                           15 |

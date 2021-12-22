@@ -1,6 +1,6 @@
-#Occupation interpreter
-##Number skills 20
-###Similar occupations:
+# Occupation interpreter
+## Number skills 20
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match interpreter |   percentage match with interpreter |   skills not in interpreter |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [interpretation agency manager](interpretation_agency_manager.md)                 |                          25 |                              15 |                                0.75 |                          10 |

@@ -1,6 +1,6 @@
-#Occupation data entry supervisor
-##Number skills 22
-###Similar occupations:
+# Occupation data entry supervisor
+## Number skills 22
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match data entry supervisor |   percentage match with data entry supervisor |   skills not in data entry supervisor |
 |:------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [data entry clerk](data_entry_clerk.md)                     |                           9 |                                         5 |                                      0.227273 |                                     4 |

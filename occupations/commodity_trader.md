@@ -1,6 +1,6 @@
-#Occupation commodity trader
-##Number skills 12
-###Similar occupations:
+# Occupation commodity trader
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match commodity trader |   percentage match with commodity trader |   skills not in commodity trader |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [commodity broker](commodity_broker.md)                                                       |                          14 |                                   10 |                                 0.833333 |                                4 |

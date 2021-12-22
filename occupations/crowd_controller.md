@@ -1,6 +1,6 @@
-#Occupation crowd controller
-##Number skills 20
-###Similar occupations:
+# Occupation crowd controller
+## Number skills 20
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match crowd controller |   percentage match with crowd controller |   skills not in crowd controller |
 |:------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [door supervisor](door_supervisor.md)                             |                          16 |                                   11 |                                     0.55 |                                5 |

@@ -1,6 +1,6 @@
-#Occupation shiatsu practitioner
-##Number skills 22
-###Similar occupations:
+# Occupation shiatsu practitioner
+## Number skills 22
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match shiatsu practitioner |   percentage match with shiatsu practitioner |   skills not in shiatsu practitioner |
 |:------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [acupuncturist](acupuncturist.md)                                                   |                          33 |                                       15 |                                     0.681818 |                                   18 |

@@ -1,6 +1,6 @@
-#Occupation destination manager
-##Number skills 27
-###Similar occupations:
+# Occupation destination manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match destination manager |   percentage match with destination manager |   skills not in destination manager |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [tour operators manager](tour_operators_manager.md)                                                                                                           |                          29 |                                      12 |                                    0.444444 |                                  17 |

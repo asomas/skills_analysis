@@ -1,6 +1,6 @@
-#Occupation coroner
-##Number skills 9
-###Similar occupations:
+# Occupation coroner
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match coroner |   percentage match with coroner |   skills not in coroner |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [court clerk](court_clerk.md)                                                                               |                          11 |                           2 |                        0.222222 |                       9 |

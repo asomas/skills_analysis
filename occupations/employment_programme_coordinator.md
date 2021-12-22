@@ -1,6 +1,6 @@
-#Occupation employment programme coordinator
-##Number skills 11
-###Similar occupations:
+# Occupation employment programme coordinator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match employment programme coordinator |   percentage match with employment programme coordinator |   skills not in employment programme coordinator |
 |:------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [sports programme coordinator](sports_programme_coordinator.md)               |                          14 |                                                    4 |                                                 0.363636 |                                               10 |

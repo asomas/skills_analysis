@@ -1,6 +1,6 @@
-#Occupation behavioural scientist
-##Number skills 14
-###Similar occupations:
+# Occupation behavioural scientist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match behavioural scientist |   percentage match with behavioural scientist |   skills not in behavioural scientist |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [criminologist](criminologist.md)                                                         |                          15 |                                         7 |                                      0.5      |                                     8 |

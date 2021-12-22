@@ -1,6 +1,6 @@
-#Occupation keyboard musical instrument maker
-##Number skills 13
-###Similar occupations:
+# Occupation keyboard musical instrument maker
+## Number skills 13
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match keyboard musical instrument maker |   percentage match with keyboard musical instrument maker |   skills not in keyboard musical instrument maker |
 |:--------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [harpsichord maker](harpsichord_maker.md)                                             |                          18 |                                                    12 |                                                  0.923077 |                                                 6 |

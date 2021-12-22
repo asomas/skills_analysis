@@ -1,6 +1,6 @@
-#Occupation mediator
-##Number skills 13
-###Similar occupations:
+# Occupation mediator
+## Number skills 13
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match mediator |   percentage match with mediator |   skills not in mediator |
 |:----------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [ombudsman](ombudsman.md)                                             |                          12 |                            5 |                         0.384615 |                        7 |

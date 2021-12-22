@@ -1,6 +1,6 @@
-#Occupation intermodal logistics manager
-##Number skills 21
-###Similar occupations:
+# Occupation intermodal logistics manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match intermodal logistics manager |   percentage match with intermodal logistics manager |   skills not in intermodal logistics manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [specialised goods distribution manager](specialised_goods_distribution_manager.md)                                                                               |                          21 |                                                7 |                                             0.333333 |                                           14 |

@@ -1,6 +1,6 @@
-#Occupation industrial machinery assembler
-##Number skills 10
-###Similar occupations:
+# Occupation industrial machinery assembler
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match industrial machinery assembler |   percentage match with industrial machinery assembler |   skills not in industrial machinery assembler |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [container equipment assembler](container_equipment_assembler.md)                                                                                             |                          12 |                                                  6 |                                                    0.6 |                                              6 |

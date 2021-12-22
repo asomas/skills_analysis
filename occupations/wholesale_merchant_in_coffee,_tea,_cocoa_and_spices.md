@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in coffee, tea, cocoa and spices
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in coffee, tea, cocoa and spices
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in coffee, tea, cocoa and spices |   percentage match with wholesale merchant in coffee, tea, cocoa and spices |   skills not in wholesale merchant in coffee, tea, cocoa and spices |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------------------:|--------------------------------------------------------------------:|
 | [wholesale merchant in perfume and cosmetics](wholesale_merchant_in_perfume_and_cosmetics.md)                                                                       |                          20 |                                                                      19 |                                                                        0.95 |                                                                   1 |

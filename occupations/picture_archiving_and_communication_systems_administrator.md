@@ -1,6 +1,6 @@
-#Occupation picture archiving and communication systems administrator
-##Number skills 16
-###Similar occupations:
+# Occupation picture archiving and communication systems administrator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match picture archiving and communication systems administrator |   percentage match with picture archiving and communication systems administrator |   skills not in picture archiving and communication systems administrator |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------------:|----------------------------------------------------------------------------------:|--------------------------------------------------------------------------:|
 | [doctors' surgery assistant](doctors'_surgery_assistant.md)                 |                          45 |                                                                             6 |                                                                            0.375  |                                                                        39 |

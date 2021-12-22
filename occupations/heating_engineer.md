@@ -1,6 +1,6 @@
-#Occupation heating engineer
-##Number skills 17
-###Similar occupations:
+# Occupation heating engineer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match heating engineer |   percentage match with heating engineer |   skills not in heating engineer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [heating, ventilation, air conditioning (and refrigeration) service engineer](heating,_ventilation,_air_conditioning_(and_refrigeration)_service_engineer.md)         |                          31 |                                   13 |                                 0.764706 |                               18 |

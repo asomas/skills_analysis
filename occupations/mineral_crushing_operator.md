@@ -1,6 +1,6 @@
-#Occupation mineral crushing operator
-##Number skills 10
-###Similar occupations:
+# Occupation mineral crushing operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match mineral crushing operator |   percentage match with mineral crushing operator |   skills not in mineral crushing operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [stone splitter](stone_splitter.md)                                                                   |                          13 |                                             7 |                                               0.7 |                                         6 |

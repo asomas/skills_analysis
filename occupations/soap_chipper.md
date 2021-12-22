@@ -1,6 +1,6 @@
-#Occupation soap chipper
-##Number skills 5
-###Similar occupations:
+# Occupation soap chipper
+## Number skills 5
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match soap chipper |   percentage match with soap chipper |   skills not in soap chipper |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [compression moulding machine operator](compression_moulding_machine_operator.md)                               |                          15 |                                2 |                                  0.4 |                           13 |

@@ -1,6 +1,6 @@
-#Occupation sign language teacher
-##Number skills 19
-###Similar occupations:
+# Occupation sign language teacher
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match sign language teacher |   percentage match with sign language teacher |   skills not in sign language teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [teacher of talented and gifted students](teacher_of_talented_and_gifted_students.md)                                 |                          35 |                                        11 |                                      0.578947 |                                    24 |

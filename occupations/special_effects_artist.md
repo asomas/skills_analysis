@@ -1,6 +1,6 @@
-#Occupation special effects artist
-##Number skills 16
-###Similar occupations:
+# Occupation special effects artist
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match special effects artist |   percentage match with special effects artist |   skills not in special effects artist |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [animator](animator.md)                                                                                                                                 |                          16 |                                         15 |                                         0.9375 |                                      1 |

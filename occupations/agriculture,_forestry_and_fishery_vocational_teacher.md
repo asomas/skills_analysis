@@ -1,6 +1,6 @@
-#Occupation agriculture, forestry and fishery vocational teacher
-##Number skills 25
-###Similar occupations:
+# Occupation agriculture, forestry and fishery vocational teacher
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match agriculture, forestry and fishery vocational teacher |   percentage match with agriculture, forestry and fishery vocational teacher |   skills not in agriculture, forestry and fishery vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------------------:|---------------------------------------------------------------------:|
 | [design and applied arts vocational teacher](design_and_applied_arts_vocational_teacher.md)                           |                          27 |                                                                       23 |                                                                         0.92 |                                                                    4 |

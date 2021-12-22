@@ -1,6 +1,6 @@
-#Occupation mathematics lecturer
-##Number skills 18
-###Similar occupations:
+# Occupation mathematics lecturer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match mathematics lecturer |   percentage match with mathematics lecturer |   skills not in mathematics lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [mathematics teacher secondary school](mathematics_teacher_secondary_school.md)                                       |                          27 |                                       17 |                                     0.944444 |                                   10 |

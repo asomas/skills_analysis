@@ -1,6 +1,6 @@
-#Occupation audio and video equipment shop manager
-##Number skills 31
-###Similar occupations:
+# Occupation audio and video equipment shop manager
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match audio and video equipment shop manager |   percentage match with audio and video equipment shop manager |   skills not in audio and video equipment shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [ammunition shop manager](ammunition_shop_manager.md)                                             |                          31 |                                                         27 |                                                       0.870968 |                                                      4 |

@@ -1,6 +1,6 @@
-#Occupation import export manager in machine tools
-##Number skills 26
-###Similar occupations:
+# Occupation import export manager in machine tools
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in machine tools |   percentage match with import export manager in machine tools |   skills not in import export manager in machine tools |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [import export manager in machinery, industrial equipment, ships and aircraft](import_export_manager_in_machinery,_industrial_equipment,_ships_and_aircraft.md)         |                          29 |                                                         25 |                                                       0.961538 |                                                      4 |

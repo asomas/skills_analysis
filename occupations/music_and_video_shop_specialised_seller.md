@@ -1,6 +1,6 @@
-#Occupation music and video shop specialised seller
-##Number skills 31
-###Similar occupations:
+# Occupation music and video shop specialised seller
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match music and video shop specialised seller |   percentage match with music and video shop specialised seller |   skills not in music and video shop specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [domestic appliances specialised seller](domestic_appliances_specialised_seller.md)                                                                               |                          32 |                                                          27 |                                                        0.870968 |                                                       5 |

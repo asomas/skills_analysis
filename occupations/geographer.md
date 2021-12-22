@@ -1,6 +1,6 @@
-#Occupation geographer
-##Number skills 12
-###Similar occupations:
+# Occupation geographer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match geographer |   percentage match with geographer |   skills not in geographer |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [oceanographer](oceanographer.md)                                                         |                          15 |                              6 |                           0.5      |                          9 |

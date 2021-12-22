@@ -1,6 +1,6 @@
-#Occupation bartender
-##Number skills 22
-###Similar occupations:
+# Occupation bartender
+## Number skills 22
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match bartender |   percentage match with bartender |   skills not in bartender |
 |:------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [cocktail bartender](cocktail_bartender.md)                                         |                          28 |                            18 |                          0.818182 |                        10 |

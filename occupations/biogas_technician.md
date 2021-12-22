@@ -1,6 +1,6 @@
-#Occupation biogas technician
-##Number skills 12
-###Similar occupations:
+# Occupation biogas technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match biogas technician |   percentage match with biogas technician |   skills not in biogas technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [gas processing plant supervisor](gas_processing_plant_supervisor.md)                                                                                         |                          15 |                                     5 |                                  0.416667 |                                10 |

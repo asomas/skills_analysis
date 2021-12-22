@@ -1,6 +1,6 @@
-#Occupation mining assistant
-##Number skills 10
-###Similar occupations:
+# Occupation mining assistant
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match mining assistant |   percentage match with mining assistant |   skills not in mining assistant |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [surface mine plant operator](surface_mine_plant_operator.md)                               |                          13 |                                    5 |                                      0.5 |                                8 |

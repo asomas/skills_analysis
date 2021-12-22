@@ -1,6 +1,6 @@
-#Occupation ICT security technician
-##Number skills 15
-###Similar occupations:
+# Occupation ICT security technician
+## Number skills 15
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match ICT security technician |   percentage match with ICT security technician |   skills not in ICT security technician |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [ethical hacker](ethical_hacker.md)                                                   |                          17 |                                           5 |                                        0.333333 |                                      12 |

@@ -1,6 +1,6 @@
-#Occupation video and motion picture director
-##Number skills 20
-###Similar occupations:
+# Occupation video and motion picture director
+## Number skills 20
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match video and motion picture director |   percentage match with video and motion picture director |   skills not in video and motion picture director |
 |:--------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [director of photography](director_of_photography.md)                     |                          20 |                                                    15 |                                                      0.75 |                                                 5 |

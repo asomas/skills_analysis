@@ -1,6 +1,6 @@
-#Occupation wood router operator
-##Number skills 21
-###Similar occupations:
+# Occupation wood router operator
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match wood router operator |   percentage match with wood router operator |   skills not in wood router operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [band saw operator](band_saw_operator.md)                                                             |                          22 |                                       19 |                                     0.904762 |                                    3 |

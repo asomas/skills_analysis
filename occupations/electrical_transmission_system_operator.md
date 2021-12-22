@@ -1,6 +1,6 @@
-#Occupation electrical transmission system operator
-##Number skills 13
-###Similar occupations:
+# Occupation electrical transmission system operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match electrical transmission system operator |   percentage match with electrical transmission system operator |   skills not in electrical transmission system operator |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [electrical power distributor](electrical_power_distributor.md)             |                          14 |                                                           8 |                                                        0.615385 |                                                       6 |

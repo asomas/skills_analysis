@@ -1,6 +1,6 @@
-#Occupation talent agent
-##Number skills 13
-###Similar occupations:
+# Occupation talent agent
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match talent agent |   percentage match with talent agent |   skills not in talent agent |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [real estate agent](real_estate_agent.md)                                                               |                          20 |                                4 |                             0.307692 |                           16 |

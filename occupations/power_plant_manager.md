@@ -1,6 +1,6 @@
-#Occupation power plant manager
-##Number skills 25
-###Similar occupations:
+# Occupation power plant manager
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match power plant manager |   percentage match with power plant manager |   skills not in power plant manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [sewerage systems manager](sewerage_systems_manager.md)                                           |                          21 |                                      16 |                                        0.64 |                                   5 |

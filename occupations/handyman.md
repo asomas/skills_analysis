@@ -1,6 +1,6 @@
-#Occupation handyman
-##Number skills 18
-###Similar occupations:
+# Occupation handyman
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match handyman |   percentage match with handyman |   skills not in handyman |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [solar energy technician](solar_energy_technician.md)                                                                                                         |                          19 |                            5 |                         0.277778 |                       14 |

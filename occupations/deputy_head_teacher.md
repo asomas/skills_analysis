@@ -1,6 +1,6 @@
-#Occupation deputy head teacher
-##Number skills 17
-###Similar occupations:
+# Occupation deputy head teacher
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match deputy head teacher |   percentage match with deputy head teacher |   skills not in deputy head teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [secondary school head teacher](secondary_school_head_teacher.md)                                                     |                          24 |                                      13 |                                    0.764706 |                                  11 |

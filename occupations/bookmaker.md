@@ -1,6 +1,6 @@
-#Occupation bookmaker
-##Number skills 13
-###Similar occupations:
+# Occupation bookmaker
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                    |   skills in this occupation |   skills that match bookmaker |   percentage match with bookmaker |   skills not in bookmaker |
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [casino cashier](casino_cashier.md)                                                                                           |                          14 |                             4 |                          0.307692 |                        10 |

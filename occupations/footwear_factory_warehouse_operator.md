@@ -1,6 +1,6 @@
-#Occupation footwear factory warehouse operator
-##Number skills 7
-###Similar occupations:
+# Occupation footwear factory warehouse operator
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match footwear factory warehouse operator |   percentage match with footwear factory warehouse operator |   skills not in footwear factory warehouse operator |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [footwear finishing and packing operator](footwear_finishing_and_packing_operator.md)                         |                          10 |                                                       5 |                                                    0.714286 |                                                   5 |

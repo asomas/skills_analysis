@@ -1,6 +1,6 @@
-#Occupation fluid power technician
-##Number skills 14
-###Similar occupations:
+# Occupation fluid power technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match fluid power technician |   percentage match with fluid power technician |   skills not in fluid power technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [pneumatic systems technician](pneumatic_systems_technician.md)                                                                                                       |                          13 |                                         10 |                                       0.714286 |                                      3 |

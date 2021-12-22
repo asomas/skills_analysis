@@ -1,6 +1,6 @@
-#Occupation set designer
-##Number skills 32
-###Similar occupations:
+# Occupation set designer
+## Number skills 32
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match set designer |   percentage match with set designer |   skills not in set designer |
 |:------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [lighting designer](lighting_designer.md)                   |                          30 |                               23 |                              0.71875 |                            7 |

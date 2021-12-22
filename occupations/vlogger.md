@@ -1,6 +1,6 @@
-#Occupation vlogger
-##Number skills 20
-###Similar occupations:
+# Occupation vlogger
+## Number skills 20
+### Similar occupations:
 | occupation                                              |   skills in this occupation |   skills that match vlogger |   percentage match with vlogger |   skills not in vlogger |
 |:--------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [blogger](blogger.md)                                   |                          16 |                          13 |                            0.65 |                       3 |

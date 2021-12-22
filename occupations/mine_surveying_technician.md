@@ -1,6 +1,6 @@
-#Occupation mine surveying technician
-##Number skills 8
-###Similar occupations:
+# Occupation mine surveying technician
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match mine surveying technician |   percentage match with mine surveying technician |   skills not in mine surveying technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [land surveyor](land_surveyor.md)                                                                                                                             |                          27 |                                             4 |                                             0.5   |                                        23 |

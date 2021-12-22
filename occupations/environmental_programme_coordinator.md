@@ -1,6 +1,6 @@
-#Occupation environmental programme coordinator
-##Number skills 13
-###Similar occupations:
+# Occupation environmental programme coordinator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match environmental programme coordinator |   percentage match with environmental programme coordinator |   skills not in environmental programme coordinator |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [environmental expert](environmental_expert.md)                                     |                          21 |                                                       9 |                                                    0.692308 |                                                  12 |

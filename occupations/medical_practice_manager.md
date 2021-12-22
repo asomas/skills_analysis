@@ -1,6 +1,6 @@
-#Occupation medical practice manager
-##Number skills 21
-###Similar occupations:
+# Occupation medical practice manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match medical practice manager |   percentage match with medical practice manager |   skills not in medical practice manager |
 |:------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [branch manager](branch_manager.md)                               |                          48 |                                           15 |                                         0.714286 |                                       33 |

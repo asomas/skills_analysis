@@ -1,6 +1,6 @@
-#Occupation embassy counsellor
-##Number skills 15
-###Similar occupations:
+# Occupation embassy counsellor
+## Number skills 15
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match embassy counsellor |   percentage match with embassy counsellor |   skills not in embassy counsellor |
 |:--------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [ambassador](ambassador.md)                                                     |                          18 |                                     10 |                                   0.666667 |                                  8 |

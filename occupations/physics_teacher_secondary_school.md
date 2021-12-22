@@ -1,6 +1,6 @@
-#Occupation physics teacher secondary school
-##Number skills 26
-###Similar occupations:
+# Occupation physics teacher secondary school
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match physics teacher secondary school |   percentage match with physics teacher secondary school |   skills not in physics teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [science teacher secondary school](science_teacher_secondary_school.md)                                               |                          28 |                                                   25 |                                                 0.961538 |                                                3 |

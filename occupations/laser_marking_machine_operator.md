@@ -1,6 +1,6 @@
-#Occupation laser marking machine operator
-##Number skills 18
-###Similar occupations:
+# Occupation laser marking machine operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match laser marking machine operator |   percentage match with laser marking machine operator |   skills not in laser marking machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [laser beam welder](laser_beam_welder.md)                                                             |                          25 |                                                 14 |                                               0.777778 |                                             11 |

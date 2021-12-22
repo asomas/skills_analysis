@@ -1,6 +1,6 @@
-#Occupation civil engineer
-##Number skills 10
-###Similar occupations:
+# Occupation civil engineer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match civil engineer |   percentage match with civil engineer |   skills not in civil engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [environmental engineer](environmental_engineer.md)                                                                                         |                          28 |                                 10 |                                    1   |                             18 |

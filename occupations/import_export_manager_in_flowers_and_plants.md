@@ -1,6 +1,6 @@
-#Occupation import export manager in flowers and plants
-##Number skills 27
-###Similar occupations:
+# Occupation import export manager in flowers and plants
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in flowers and plants |   percentage match with import export manager in flowers and plants |   skills not in import export manager in flowers and plants |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [import export manager in agricultural raw materials, seeds and animal feeds](import_export_manager_in_agricultural_raw_materials,_seeds_and_animal_feeds.md)           |                          27 |                                                              26 |                                                            0.962963 |                                                           1 |

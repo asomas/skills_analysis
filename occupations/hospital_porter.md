@@ -1,6 +1,6 @@
-#Occupation hospital porter
-##Number skills 38
-###Similar occupations:
+# Occupation hospital porter
+## Number skills 38
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match hospital porter |   percentage match with hospital porter |   skills not in hospital porter |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [paramedic in emergency responses](paramedic_in_emergency_responses.md)                   |                          74 |                                  37 |                                0.973684 |                              37 |

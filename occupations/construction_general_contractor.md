@@ -1,6 +1,6 @@
-#Occupation construction general contractor
-##Number skills 17
-###Similar occupations:
+# Occupation construction general contractor
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match construction general contractor |   percentage match with construction general contractor |   skills not in construction general contractor |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [property developer](property_developer.md)                                                 |                          20 |                                                   7 |                                                0.411765 |                                              13 |

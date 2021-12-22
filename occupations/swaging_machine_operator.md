@@ -1,6 +1,6 @@
-#Occupation swaging machine operator
-##Number skills 16
-###Similar occupations:
+# Occupation swaging machine operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match swaging machine operator |   percentage match with swaging machine operator |   skills not in swaging machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [upsetting machine operator](upsetting_machine_operator.md)                                           |                          16 |                                           11 |                                           0.6875 |                                        5 |

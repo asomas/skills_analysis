@@ -1,6 +1,6 @@
-#Occupation bicycle courier
-##Number skills 10
-###Similar occupations:
+# Occupation bicycle courier
+## Number skills 10
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match bicycle courier |   percentage match with bicycle courier |   skills not in bicycle courier |
 |:------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [motorcycle delivery person](motorcycle_delivery_person.md)                   |                          13 |                                   9 |                                     0.9 |                               4 |

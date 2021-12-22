@@ -1,6 +1,6 @@
-#Occupation psychotherapist
-##Number skills 69
-###Similar occupations:
+# Occupation psychotherapist
+## Number skills 69
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match psychotherapist |   percentage match with psychotherapist |   skills not in psychotherapist |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [clinical psychologist](clinical_psychologist.md)                                 |                          95 |                                  45 |                                0.652174 |                              50 |

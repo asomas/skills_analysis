@@ -1,6 +1,6 @@
-#Occupation advertising copywriter
-##Number skills 11
-###Similar occupations:
+# Occupation advertising copywriter
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match advertising copywriter |   percentage match with advertising copywriter |   skills not in advertising copywriter |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [creative director](creative_director.md)                                                                                                                         |                          14 |                                          5 |                                       0.454545 |                                      9 |

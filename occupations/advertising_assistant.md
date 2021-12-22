@@ -1,6 +1,6 @@
-#Occupation advertising assistant
-##Number skills 10
-###Similar occupations:
+# Occupation advertising assistant
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match advertising assistant |   percentage match with advertising assistant |   skills not in advertising assistant |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [advertising specialist](advertising_specialist.md)                                                                         |                          10 |                                         4 |                                           0.4 |                                     6 |

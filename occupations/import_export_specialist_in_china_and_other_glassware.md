@@ -1,6 +1,6 @@
-#Occupation import export specialist in china and other glassware
-##Number skills 21
-###Similar occupations:
+# Occupation import export specialist in china and other glassware
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in china and other glassware |   percentage match with import export specialist in china and other glassware |   skills not in import export specialist in china and other glassware |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------:|------------------------------------------------------------------------------:|----------------------------------------------------------------------:|
 | [import export specialist in pharmaceutical goods](import_export_specialist_in_pharmaceutical_goods.md)                                                                 |                          24 |                                                                        20 |                                                                      0.952381 |                                                                     4 |

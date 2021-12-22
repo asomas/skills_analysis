@@ -1,6 +1,6 @@
-#Occupation power lines supervisor
-##Number skills 23
-###Similar occupations:
+# Occupation power lines supervisor
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match power lines supervisor |   percentage match with power lines supervisor |   skills not in power lines supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [electrical supervisor](electrical_supervisor.md)                                                               |                          27 |                                         12 |                                       0.521739 |                                     15 |

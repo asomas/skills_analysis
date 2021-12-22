@@ -1,6 +1,6 @@
-#Occupation software architect
-##Number skills 18
-###Similar occupations:
+# Occupation software architect
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                      |   skills in this occupation |   skills that match software architect |   percentage match with software architect |   skills not in software architect |
 |:------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [embedded system designer](embedded_system_designer.md)                                         |                          15 |                                      6 |                                   0.333333 |                                  9 |

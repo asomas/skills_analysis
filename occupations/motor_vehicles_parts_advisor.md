@@ -1,6 +1,6 @@
-#Occupation motor vehicles parts advisor
-##Number skills 21
-###Similar occupations:
+# Occupation motor vehicles parts advisor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match motor vehicles parts advisor |   percentage match with motor vehicles parts advisor |   skills not in motor vehicles parts advisor |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [beauty salon attendant](beauty_salon_attendant.md)                                                                                                               |                          16 |                                                3 |                                             0.142857 |                                           13 |

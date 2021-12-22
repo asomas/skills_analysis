@@ -1,6 +1,6 @@
-#Occupation diplomat
-##Number skills 18
-###Similar occupations:
+# Occupation diplomat
+## Number skills 18
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match diplomat |   percentage match with diplomat |   skills not in diplomat |
 |:--------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [ambassador](ambassador.md)                                               |                          18 |                           11 |                         0.611111 |                        7 |

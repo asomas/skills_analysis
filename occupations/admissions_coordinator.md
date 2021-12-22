@@ -1,6 +1,6 @@
-#Occupation admissions coordinator
-##Number skills 8
-###Similar occupations:
+# Occupation admissions coordinator
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match admissions coordinator |   percentage match with admissions coordinator |   skills not in admissions coordinator |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [academic support officer](academic_support_officer.md)                                                               |                          20 |                                          3 |                                          0.375 |                                     17 |

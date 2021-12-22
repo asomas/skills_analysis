@@ -1,6 +1,6 @@
-#Occupation cattle breeder
-##Number skills 30
-###Similar occupations:
+# Occupation cattle breeder
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match cattle breeder |   percentage match with cattle breeder |   skills not in cattle breeder |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [pig breeder](pig_breeder.md)                                                             |                          30 |                                 27 |                               0.9      |                              3 |

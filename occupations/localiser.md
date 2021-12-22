@@ -1,6 +1,6 @@
-#Occupation localiser
-##Number skills 20
-###Similar occupations:
+# Occupation localiser
+## Number skills 20
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match localiser |   percentage match with localiser |   skills not in localiser |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [translator](translator.md)                                                       |                          24 |                            15 |                              0.75 |                         9 |

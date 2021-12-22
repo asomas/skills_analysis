@@ -1,6 +1,6 @@
-#Occupation substation engineer
-##Number skills 25
-###Similar occupations:
+# Occupation substation engineer
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match substation engineer |   percentage match with substation engineer |   skills not in substation engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [power distribution engineer](power_distribution_engineer.md)                                                                               |                          26 |                                      14 |                                        0.56 |                                  12 |

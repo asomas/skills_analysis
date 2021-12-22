@@ -1,6 +1,6 @@
-#Occupation brew house operator
-##Number skills 30
-###Similar occupations:
+# Occupation brew house operator
+## Number skills 30
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match brew house operator |   percentage match with brew house operator |   skills not in brew house operator |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [brewmaster](brewmaster.md)                                                         |                          40 |                                      16 |                                    0.533333 |                                  24 |

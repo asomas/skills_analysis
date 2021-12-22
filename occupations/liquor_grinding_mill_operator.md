@@ -1,6 +1,6 @@
-#Occupation liquor grinding mill operator
-##Number skills 14
-###Similar occupations:
+# Occupation liquor grinding mill operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match liquor grinding mill operator |   percentage match with liquor grinding mill operator |   skills not in liquor grinding mill operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [chocolatier](chocolatier.md)                                                           |                          28 |                                                 7 |                                              0.5      |                                            21 |

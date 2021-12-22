@@ -1,6 +1,6 @@
-#Occupation land-based machinery supervisor
-##Number skills 12
-###Similar occupations:
+# Occupation land-based machinery supervisor
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match land-based machinery supervisor |   percentage match with land-based machinery supervisor |   skills not in land-based machinery supervisor |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [fruit production team leader](fruit_production_team_leader.md)                             |                          42 |                                                   3 |                                                0.25     |                                              39 |

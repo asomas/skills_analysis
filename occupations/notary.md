@@ -1,6 +1,6 @@
-#Occupation notary
-##Number skills 13
-###Similar occupations:
+# Occupation notary
+## Number skills 13
+### Similar occupations:
 | occupation                                      |   skills in this occupation |   skills that match notary |   percentage match with notary |   skills not in notary |
 |:------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [supreme court judge](supreme_court_judge.md)   |                          16 |                          2 |                       0.153846 |                     14 |

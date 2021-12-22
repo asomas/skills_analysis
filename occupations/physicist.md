@@ -1,6 +1,6 @@
-#Occupation physicist
-##Number skills 14
-###Similar occupations:
+# Occupation physicist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match physicist |   percentage match with physicist |   skills not in physicist |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [oceanographer](oceanographer.md)                                                         |                          15 |                            11 |                          0.785714 |                         4 |

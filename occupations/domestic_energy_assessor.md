@@ -1,6 +1,6 @@
-#Occupation domestic energy assessor
-##Number skills 16
-###Similar occupations:
+# Occupation domestic energy assessor
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match domestic energy assessor |   percentage match with domestic energy assessor |   skills not in domestic energy assessor |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [renewable energy sales representative](renewable_energy_sales_representative.md)                                                                                 |                          19 |                                           12 |                                           0.75   |                                        7 |

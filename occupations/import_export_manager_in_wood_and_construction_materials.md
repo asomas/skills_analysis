@@ -1,6 +1,6 @@
-#Occupation import export manager in wood and construction materials
-##Number skills 27
-###Similar occupations:
+# Occupation import export manager in wood and construction materials
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in wood and construction materials |   percentage match with import export manager in wood and construction materials |   skills not in import export manager in wood and construction materials |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------------------:|---------------------------------------------------------------------------------:|-------------------------------------------------------------------------:|
 | [import export manager in coffee, tea, cocoa and spices](import_export_manager_in_coffee,_tea,_cocoa_and_spices.md)                                                     |                          28 |                                                                           25 |                                                                         0.925926 |                                                                        3 |

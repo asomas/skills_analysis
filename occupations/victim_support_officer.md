@@ -1,6 +1,6 @@
-#Occupation victim support officer
-##Number skills 68
-###Similar occupations:
+# Occupation victim support officer
+## Number skills 68
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match victim support officer |   percentage match with victim support officer |   skills not in victim support officer |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [crisis situation social worker](crisis_situation_social_worker.md)                       |                          65 |                                         65 |                                       0.955882 |                                      0 |

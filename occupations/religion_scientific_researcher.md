@@ -1,6 +1,6 @@
-#Occupation religion scientific researcher
-##Number skills 7
-###Similar occupations:
+# Occupation religion scientific researcher
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match religion scientific researcher |   percentage match with religion scientific researcher |   skills not in religion scientific researcher |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [bacteriology technician](bacteriology_technician.md)                                                 |                          19 |                                                  3 |                                               0.428571 |                                             16 |

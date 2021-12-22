@@ -1,6 +1,6 @@
-#Occupation specialised veterinarian
-##Number skills 41
-###Similar occupations:
+# Occupation specialised veterinarian
+## Number skills 41
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match specialised veterinarian |   percentage match with specialised veterinarian |   skills not in specialised veterinarian |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [general veterinarian](general_veterinarian.md)                                           |                          53 |                                           39 |                                         0.95122  |                                       14 |

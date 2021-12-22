@@ -1,6 +1,6 @@
-#Occupation leather goods quality controller
-##Number skills 10
-###Similar occupations:
+# Occupation leather goods quality controller
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods quality controller |   percentage match with leather goods quality controller |   skills not in leather goods quality controller |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [leather goods quality technician](leather_goods_quality_technician.md)                                       |                          11 |                                                   10 |                                                      1   |                                                1 |

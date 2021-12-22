@@ -1,6 +1,6 @@
-#Occupation nuclear technician
-##Number skills 30
-###Similar occupations:
+# Occupation nuclear technician
+## Number skills 30
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match nuclear technician |   percentage match with nuclear technician |   skills not in nuclear technician |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [nuclear reactor operator](nuclear_reactor_operator.md)                           |                          24 |                                     16 |                                   0.533333 |                                  8 |

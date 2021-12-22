@@ -1,6 +1,6 @@
-#Occupation chief data officer
-##Number skills 12
-###Similar occupations:
+# Occupation chief data officer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match chief data officer |   percentage match with chief data officer |   skills not in chief data officer |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [ICT information and knowledge manager](ICT_information_and_knowledge_manager.md) |                          24 |                                      6 |                                   0.5      |                                 18 |

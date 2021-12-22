@@ -1,6 +1,6 @@
-#Occupation hospitality establishment security officer
-##Number skills 21
-###Similar occupations:
+# Occupation hospitality establishment security officer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match hospitality establishment security officer |   percentage match with hospitality establishment security officer |   skills not in hospitality establishment security officer |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [security manager](security_manager.md)                                     |                          28 |                                                              6 |                                                           0.285714 |                                                         22 |

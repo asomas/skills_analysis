@@ -1,6 +1,6 @@
-#Occupation dismantling engineer
-##Number skills 19
-###Similar occupations:
+# Occupation dismantling engineer
+## Number skills 19
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match dismantling engineer |   percentage match with dismantling engineer |   skills not in dismantling engineer |
 |:----------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [head of workshop](head_of_workshop.md)                         |                          28 |                                        3 |                                     0.157895 |                                   25 |

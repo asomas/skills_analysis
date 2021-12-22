@@ -1,6 +1,6 @@
-#Occupation textile colourist
-##Number skills 11
-###Similar occupations:
+# Occupation textile colourist
+## Number skills 11
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match textile colourist |   percentage match with textile colourist |   skills not in textile colourist |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [textile designer](textile_designer.md)                                                 |                          18 |                                     6 |                                  0.545455 |                                12 |

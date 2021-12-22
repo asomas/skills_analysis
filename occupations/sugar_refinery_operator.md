@@ -1,6 +1,6 @@
-#Occupation sugar refinery operator
-##Number skills 19
-###Similar occupations:
+# Occupation sugar refinery operator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match sugar refinery operator |   percentage match with sugar refinery operator |   skills not in sugar refinery operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [animal feed operator](animal_feed_operator.md)                                         |                          23 |                                           9 |                                        0.473684 |                                      14 |

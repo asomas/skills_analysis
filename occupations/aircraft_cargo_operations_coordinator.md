@@ -1,6 +1,6 @@
-#Occupation aircraft cargo operations coordinator
-##Number skills 24
-###Similar occupations:
+# Occupation aircraft cargo operations coordinator
+## Number skills 24
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match aircraft cargo operations coordinator |   percentage match with aircraft cargo operations coordinator |   skills not in aircraft cargo operations coordinator |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [airport director](airport_director.md)                                                 |                          23 |                                                         7 |                                                      0.291667 |                                                    16 |

@@ -1,6 +1,6 @@
-#Occupation fruit and vegetable canner
-##Number skills 19
-###Similar occupations:
+# Occupation fruit and vegetable canner
+## Number skills 19
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match fruit and vegetable canner |   percentage match with fruit and vegetable canner |   skills not in fruit and vegetable canner |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [fish canning operator](fish_canning_operator.md)                                       |                          24 |                                             13 |                                           0.684211 |                                         11 |

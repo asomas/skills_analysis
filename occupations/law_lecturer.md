@@ -1,6 +1,6 @@
-#Occupation law lecturer
-##Number skills 21
-###Similar occupations:
+# Occupation law lecturer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match law lecturer |   percentage match with law lecturer |   skills not in law lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [anthropology lecturer](anthropology_lecturer.md)                                                                     |                          18 |                               15 |                             0.714286 |                            3 |

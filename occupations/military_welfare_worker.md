@@ -1,6 +1,6 @@
-#Occupation military welfare worker
-##Number skills 74
-###Similar occupations:
+# Occupation military welfare worker
+## Number skills 74
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match military welfare worker |   percentage match with military welfare worker |   skills not in military welfare worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [mental health social worker](mental_health_social_worker.md)                             |                          77 |                                          69 |                                        0.932432 |                                       8 |

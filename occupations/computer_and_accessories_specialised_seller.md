@@ -1,6 +1,6 @@
-#Occupation computer and accessories specialised seller
-##Number skills 31
-###Similar occupations:
+# Occupation computer and accessories specialised seller
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match computer and accessories specialised seller |   percentage match with computer and accessories specialised seller |   skills not in computer and accessories specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [computer games, multimedia and software specialised seller](computer_games,_multimedia_and_software_specialised_seller.md)                                       |                          38 |                                                              28 |                                                            0.903226 |                                                          10 |

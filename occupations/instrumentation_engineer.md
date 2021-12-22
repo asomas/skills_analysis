@@ -1,6 +1,6 @@
-#Occupation instrumentation engineer
-##Number skills 19
-###Similar occupations:
+# Occupation instrumentation engineer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match instrumentation engineer |   percentage match with instrumentation engineer |   skills not in instrumentation engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [sensor engineer](sensor_engineer.md)                                                                                                       |                          33 |                                           13 |                                         0.684211 |                                       20 |

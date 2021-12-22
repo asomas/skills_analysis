@@ -1,6 +1,6 @@
-#Occupation dairy products and edible oils distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation dairy products and edible oils distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match dairy products and edible oils distribution manager |   percentage match with dairy products and edible oils distribution manager |   skills not in dairy products and edible oils distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------------------:|--------------------------------------------------------------------:|
 | [mining, construction and civil engineering machinery distribution manager](mining,_construction_and_civil_engineering_machinery_distribution_manager.md)               |                          26 |                                                                      25 |                                                                    0.961538 |                                                                   1 |

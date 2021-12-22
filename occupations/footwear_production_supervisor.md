@@ -1,6 +1,6 @@
-#Occupation footwear production supervisor
-##Number skills 22
-###Similar occupations:
+# Occupation footwear production supervisor
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match footwear production supervisor |   percentage match with footwear production supervisor |   skills not in footwear production supervisor |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [footwear production manager](footwear_production_manager.md)                                                 |                          27 |                                                 13 |                                               0.590909 |                                             14 |

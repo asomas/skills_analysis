@@ -1,6 +1,6 @@
-#Occupation gear machinist
-##Number skills 11
-###Similar occupations:
+# Occupation gear machinist
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match gear machinist |   percentage match with gear machinist |   skills not in gear machinist |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [laser cutting machine operator](laser_cutting_machine_operator.md)                                                                                           |                          26 |                                  9 |                               0.818182 |                             17 |

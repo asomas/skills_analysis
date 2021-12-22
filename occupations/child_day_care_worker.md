@@ -1,6 +1,6 @@
-#Occupation child day care worker
-##Number skills 74
-###Similar occupations:
+# Occupation child day care worker
+## Number skills 74
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match child day care worker |   percentage match with child day care worker |   skills not in child day care worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [child welfare worker](child_welfare_worker.md)                                           |                          73 |                                        69 |                                      0.932432 |                                     4 |

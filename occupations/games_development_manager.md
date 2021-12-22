@@ -1,6 +1,6 @@
-#Occupation games development manager
-##Number skills 14
-###Similar occupations:
+# Occupation games development manager
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                    |   skills in this occupation |   skills that match games development manager |   percentage match with games development manager |   skills not in games development manager |
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [director of compliance and information security in gambling](director_of_compliance_and_information_security_in_gambling.md) |                          12 |                                             4 |                                          0.285714 |                                         8 |

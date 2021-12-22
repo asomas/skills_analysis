@@ -1,6 +1,6 @@
-#Occupation man-made fiber spinner
-##Number skills 9
-###Similar occupations:
+# Occupation man-made fiber spinner
+## Number skills 9
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match man-made fiber spinner |   percentage match with man-made fiber spinner |   skills not in man-made fiber spinner |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [textile technologist](textile_technologist.md)                                         |                          29 |                                          5 |                                       0.555556 |                                     24 |

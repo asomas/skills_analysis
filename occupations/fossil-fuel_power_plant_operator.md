@@ -1,6 +1,6 @@
-#Occupation fossil-fuel power plant operator
-##Number skills 17
-###Similar occupations:
+# Occupation fossil-fuel power plant operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match fossil-fuel power plant operator |   percentage match with fossil-fuel power plant operator |   skills not in fossil-fuel power plant operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [geothermal power plant operator](geothermal_power_plant_operator.md)                                                                                                 |                          16 |                                                   12 |                                                 0.705882 |                                                4 |

@@ -1,6 +1,6 @@
-#Occupation Steiner school teacher
-##Number skills 30
-###Similar occupations:
+# Occupation Steiner school teacher
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match Steiner school teacher |   percentage match with Steiner school teacher |   skills not in Steiner school teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [primary school teacher](primary_school_teacher.md)                                                                   |                          29 |                                         28 |                                       0.933333 |                                      1 |

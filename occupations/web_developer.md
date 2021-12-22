@@ -1,6 +1,6 @@
-#Occupation web developer
-##Number skills 20
-###Similar occupations:
+# Occupation web developer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                      |   skills in this occupation |   skills that match web developer |   percentage match with web developer |   skills not in web developer |
 |:------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [ICT system developer](ICT_system_developer.md)                                                 |                          19 |                                13 |                                  0.65 |                             6 |

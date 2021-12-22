@@ -1,6 +1,6 @@
-#Occupation petroleum engineer
-##Number skills 25
-###Similar occupations:
+# Occupation petroleum engineer
+## Number skills 25
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match petroleum engineer |   percentage match with petroleum engineer |   skills not in petroleum engineer |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [liquid fuel engineer](liquid_fuel_engineer.md)                                     |                          28 |                                     18 |                                       0.72 |                                 10 |

@@ -1,6 +1,6 @@
-#Occupation business lecturer
-##Number skills 21
-###Similar occupations:
+# Occupation business lecturer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match business lecturer |   percentage match with business lecturer |   skills not in business lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [business studies and economics teacher secondary school](business_studies_and_economics_teacher_secondary_school.md) |                          28 |                                    16 |                                  0.761905 |                                12 |

@@ -1,6 +1,6 @@
-#Occupation toxicologist
-##Number skills 16
-###Similar occupations:
+# Occupation toxicologist
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match toxicologist |   percentage match with toxicologist |   skills not in toxicologist |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [biochemist](biochemist.md)                                                               |                          19 |                               10 |                               0.625  |                            9 |

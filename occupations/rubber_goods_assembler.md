@@ -1,6 +1,6 @@
-#Occupation rubber goods assembler
-##Number skills 9
-###Similar occupations:
+# Occupation rubber goods assembler
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match rubber goods assembler |   percentage match with rubber goods assembler |   skills not in rubber goods assembler |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [V-belt finisher](V-belt_finisher.md)                                                                                                                                 |                           9 |                                          3 |                                       0.333333 |                                      6 |

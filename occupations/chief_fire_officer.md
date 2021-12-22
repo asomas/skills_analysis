@@ -1,6 +1,6 @@
-#Occupation chief fire officer
-##Number skills 15
-###Similar occupations:
+# Occupation chief fire officer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match chief fire officer |   percentage match with chief fire officer |   skills not in chief fire officer |
 |:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [pump operator](pump_operator.md)                                                     |                          19 |                                      9 |                                   0.6      |                                 10 |

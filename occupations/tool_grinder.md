@@ -1,6 +1,6 @@
-#Occupation tool grinder
-##Number skills 14
-###Similar occupations:
+# Occupation tool grinder
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match tool grinder |   percentage match with tool grinder |   skills not in tool grinder |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [engraving machine operator](engraving_machine_operator.md)                                   |                          29 |                                8 |                             0.571429 |                           21 |

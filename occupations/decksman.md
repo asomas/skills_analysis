@@ -1,6 +1,6 @@
-#Occupation decksman
-##Number skills 41
-###Similar occupations:
+# Occupation decksman
+## Number skills 41
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match decksman |   percentage match with decksman |   skills not in decksman |
 |:----------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [matrose](matrose.md)                                           |                          60 |                           40 |                         0.97561  |                       20 |

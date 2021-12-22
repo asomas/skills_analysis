@@ -1,6 +1,6 @@
-#Occupation product and services manager
-##Number skills 18
-###Similar occupations:
+# Occupation product and services manager
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match product and services manager |   percentage match with product and services manager |   skills not in product and services manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [category manager](category_manager.md)                                                                                                                                 |                          47 |                                                5 |                                             0.277778 |                                           42 |

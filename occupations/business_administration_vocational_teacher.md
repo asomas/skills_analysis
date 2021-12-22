@@ -1,6 +1,6 @@
-#Occupation business administration vocational teacher
-##Number skills 28
-###Similar occupations:
+# Occupation business administration vocational teacher
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match business administration vocational teacher |   percentage match with business administration vocational teacher |   skills not in business administration vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [business and marketing vocational teacher](business_and_marketing_vocational_teacher.md)                             |                          27 |                                                             23 |                                                           0.821429 |                                                          4 |

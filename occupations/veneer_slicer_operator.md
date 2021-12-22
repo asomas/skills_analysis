@@ -1,6 +1,6 @@
-#Occupation veneer slicer operator
-##Number skills 17
-###Similar occupations:
+# Occupation veneer slicer operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match veneer slicer operator |   percentage match with veneer slicer operator |   skills not in veneer slicer operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [sawmill operator](sawmill_operator.md)                                                               |                          22 |                                         12 |                                       0.705882 |                                     10 |

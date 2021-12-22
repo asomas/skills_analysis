@@ -1,6 +1,6 @@
-#Occupation casting director
-##Number skills 14
-###Similar occupations:
+# Occupation casting director
+## Number skills 14
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match casting director |   percentage match with casting director |   skills not in casting director |
 |:--------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [video and motion picture editor](video_and_motion_picture_editor.md)     |                          19 |                                    4 |                                 0.285714 |                               15 |

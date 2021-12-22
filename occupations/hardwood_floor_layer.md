@@ -1,6 +1,6 @@
-#Occupation hardwood floor layer
-##Number skills 22
-###Similar occupations:
+# Occupation hardwood floor layer
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match hardwood floor layer |   percentage match with hardwood floor layer |   skills not in hardwood floor layer |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [carpenter](carpenter.md)                                                               |                          24 |                                       14 |                                     0.636364 |                                   10 |

@@ -1,6 +1,6 @@
-#Occupation precision mechanic
-##Number skills 13
-###Similar occupations:
+# Occupation precision mechanic
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match precision mechanic |   percentage match with precision mechanic |   skills not in precision mechanic |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [gear machinist](gear_machinist.md)                                                                                                                           |                          11 |                                      8 |                                   0.615385 |                                  3 |

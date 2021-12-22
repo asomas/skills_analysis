@@ -1,6 +1,6 @@
-#Occupation thanatology researcher
-##Number skills 12
-###Similar occupations:
+# Occupation thanatology researcher
+## Number skills 12
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match thanatology researcher |   percentage match with thanatology researcher |   skills not in thanatology researcher |
 |:----------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [criminologist](criminologist.md)                                           |                          15 |                                          6 |                                       0.5      |                                      9 |

@@ -1,6 +1,6 @@
-#Occupation leather goods manufacturing technician
-##Number skills 14
-###Similar occupations:
+# Occupation leather goods manufacturing technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods manufacturing technician |   percentage match with leather goods manufacturing technician |   skills not in leather goods manufacturing technician |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [leather goods production manager](leather_goods_production_manager.md)                                       |                          20 |                                                         12 |                                                       0.857143 |                                                      8 |

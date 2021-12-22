@@ -1,6 +1,6 @@
-#Occupation financial risk analyst
-##Number skills 14
-###Similar occupations:
+# Occupation financial risk analyst
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match financial risk analyst |   percentage match with financial risk analyst |   skills not in financial risk analyst |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [credit risk analyst](credit_risk_analyst.md)                                               |                          29 |                                         14 |                                       1        |                                     15 |

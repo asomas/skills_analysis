@@ -1,6 +1,6 @@
-#Occupation secondary school teacher
-##Number skills 24
-###Similar occupations:
+# Occupation secondary school teacher
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match secondary school teacher |   percentage match with secondary school teacher |   skills not in secondary school teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [philosophy teacher secondary school](philosophy_teacher_secondary_school.md)                                         |                          29 |                                           24 |                                         1        |                                        5 |

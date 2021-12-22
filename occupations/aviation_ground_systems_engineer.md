@@ -1,6 +1,6 @@
-#Occupation aviation ground systems engineer
-##Number skills 16
-###Similar occupations:
+# Occupation aviation ground systems engineer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                      |   skills in this occupation |   skills that match aviation ground systems engineer |   percentage match with aviation ground systems engineer |   skills not in aviation ground systems engineer |
 |:------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [ICT accessibility tester](ICT_accessibility_tester.md)                                         |                          19 |                                                    3 |                                                   0.1875 |                                               16 |

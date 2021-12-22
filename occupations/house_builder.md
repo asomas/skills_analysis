@@ -1,6 +1,6 @@
-#Occupation house builder
-##Number skills 23
-###Similar occupations:
+# Occupation house builder
+## Number skills 23
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match house builder |   percentage match with house builder |   skills not in house builder |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [roofing supervisor](roofing_supervisor.md)                                             |                          24 |                                 6 |                              0.26087  |                            18 |

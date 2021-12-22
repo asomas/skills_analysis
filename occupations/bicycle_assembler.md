@@ -1,6 +1,6 @@
-#Occupation bicycle assembler
-##Number skills 12
-###Similar occupations:
+# Occupation bicycle assembler
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match bicycle assembler |   percentage match with bicycle assembler |   skills not in bicycle assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [aircraft assembler](aircraft_assembler.md)                                                           |                          18 |                                    10 |                                  0.833333 |                                 8 |

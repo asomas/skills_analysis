@@ -1,6 +1,6 @@
-#Occupation concrete products machine operator
-##Number skills 11
-###Similar occupations:
+# Occupation concrete products machine operator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match concrete products machine operator |   percentage match with concrete products machine operator |   skills not in concrete products machine operator |
 |:------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [mouldmaker](mouldmaker.md)                                                   |                          11 |                                                      5 |                                                   0.454545 |                                                  6 |

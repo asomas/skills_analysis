@@ -1,6 +1,6 @@
-#Occupation radiation protection officer
-##Number skills 22
-###Similar occupations:
+# Occupation radiation protection officer
+## Number skills 22
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match radiation protection officer |   percentage match with radiation protection officer |   skills not in radiation protection officer |
 |:----------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [nuclear engineer](nuclear_engineer.md)                               |                          30 |                                               12 |                                             0.545455 |                                           18 |

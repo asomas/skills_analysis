@@ -1,6 +1,6 @@
-#Occupation container equipment assembler
-##Number skills 12
-###Similar occupations:
+# Occupation container equipment assembler
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match container equipment assembler |   percentage match with container equipment assembler |   skills not in container equipment assembler |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [industrial machinery assembler](industrial_machinery_assembler.md)                                                                                           |                          10 |                                                 6 |                                              0.5      |                                             4 |

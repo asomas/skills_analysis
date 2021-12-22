@@ -1,6 +1,6 @@
-#Occupation glass polisher
-##Number skills 14
-###Similar occupations:
+# Occupation glass polisher
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match glass polisher |   percentage match with glass polisher |   skills not in glass polisher |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [glass beveller](glass_beveller.md)                                                                             |                          15 |                                  5 |                               0.357143 |                             10 |

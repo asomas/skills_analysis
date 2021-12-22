@@ -1,6 +1,6 @@
-#Occupation poultry breeder
-##Number skills 24
-###Similar occupations:
+# Occupation poultry breeder
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match poultry breeder |   percentage match with poultry breeder |   skills not in poultry breeder |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [pig breeder](pig_breeder.md)                                                             |                          30 |                                  21 |                                0.875    |                               9 |

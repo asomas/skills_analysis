@@ -1,6 +1,6 @@
-#Occupation heat treatment furnace operator
-##Number skills 14
-###Similar occupations:
+# Occupation heat treatment furnace operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match heat treatment furnace operator |   percentage match with heat treatment furnace operator |   skills not in heat treatment furnace operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [plastic heat treatment equipment operator](plastic_heat_treatment_equipment_operator.md)                       |                          17 |                                                   5 |                                                0.357143 |                                              12 |

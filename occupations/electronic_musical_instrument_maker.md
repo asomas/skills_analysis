@@ -1,6 +1,6 @@
-#Occupation electronic musical instrument maker
-##Number skills 12
-###Similar occupations:
+# Occupation electronic musical instrument maker
+## Number skills 12
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match electronic musical instrument maker |   percentage match with electronic musical instrument maker |   skills not in electronic musical instrument maker |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [piano maker](piano_maker.md)                                                         |                          16 |                                                       9 |                                                    0.75     |                                                   7 |

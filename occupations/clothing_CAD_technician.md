@@ -1,6 +1,6 @@
-#Occupation clothing CAD technician
-##Number skills 16
-###Similar occupations:
+# Occupation clothing CAD technician
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match clothing CAD technician |   percentage match with clothing CAD technician |   skills not in clothing CAD technician |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [wearing apparel patternmaker](wearing_apparel_patternmaker.md)                         |                          21 |                                          12 |                                          0.75   |                                       9 |

@@ -1,6 +1,6 @@
-#Occupation hairdresser assistant
-##Number skills 12
-###Similar occupations:
+# Occupation hairdresser assistant
+## Number skills 12
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match hairdresser assistant |   percentage match with hairdresser assistant |   skills not in hairdresser assistant |
 |:------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [hairdresser](hairdresser.md)                                                       |                          17 |                                        10 |                                      0.833333 |                                     7 |

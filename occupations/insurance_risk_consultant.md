@@ -1,6 +1,6 @@
-#Occupation insurance risk consultant
-##Number skills 13
-###Similar occupations:
+# Occupation insurance risk consultant
+## Number skills 13
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match insurance risk consultant |   percentage match with insurance risk consultant |   skills not in insurance risk consultant |
 |:------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [insurance underwriter](insurance_underwriter.md)                       |                          20 |                                             6 |                                          0.461538 |                                        14 |

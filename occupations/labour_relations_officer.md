@@ -1,6 +1,6 @@
-#Occupation labour relations officer
-##Number skills 13
-###Similar occupations:
+# Occupation labour relations officer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match labour relations officer |   percentage match with labour relations officer |   skills not in labour relations officer |
 |:------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [health and safety inspector](health_and_safety_inspector.md)                 |                          14 |                                            5 |                                         0.384615 |                                        9 |

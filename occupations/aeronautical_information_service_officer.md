@@ -1,6 +1,6 @@
-#Occupation aeronautical information service officer
-##Number skills 12
-###Similar occupations:
+# Occupation aeronautical information service officer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match aeronautical information service officer |   percentage match with aeronautical information service officer |   skills not in aeronautical information service officer |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [aeronautical information specialist](aeronautical_information_specialist.md)                                                                                     |                          18 |                                                            6 |                                                         0.5      |                                                       12 |

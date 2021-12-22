@@ -1,6 +1,6 @@
-#Occupation tourism product manager
-##Number skills 29
-###Similar occupations:
+# Occupation tourism product manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match tourism product manager |   percentage match with tourism product manager |   skills not in tourism product manager |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [destination manager](destination_manager.md)                                       |                          27 |                                          11 |                                        0.37931  |                                      16 |

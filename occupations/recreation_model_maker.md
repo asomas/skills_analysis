@@ -1,6 +1,6 @@
-#Occupation recreation model maker
-##Number skills 12
-###Similar occupations:
+# Occupation recreation model maker
+## Number skills 12
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match recreation model maker |   percentage match with recreation model maker |   skills not in recreation model maker |
 |:--------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [doll maker](doll_maker.md)                                               |                          13 |                                          9 |                                       0.75     |                                      4 |

@@ -1,6 +1,6 @@
-#Occupation stand-up comedian
-##Number skills 10
-###Similar occupations:
+# Occupation stand-up comedian
+## Number skills 10
+### Similar occupations:
 | occupation                              |   skills in this occupation |   skills that match stand-up comedian |   percentage match with stand-up comedian |   skills not in stand-up comedian |
 |:----------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [actor/actress](actor-actress.md)       |                          23 |                                     6 |                                       0.6 |                                17 |

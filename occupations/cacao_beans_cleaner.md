@@ -1,6 +1,6 @@
-#Occupation cacao beans cleaner
-##Number skills 14
-###Similar occupations:
+# Occupation cacao beans cleaner
+## Number skills 14
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match cacao beans cleaner |   percentage match with cacao beans cleaner |   skills not in cacao beans cleaner |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [blanching operator](blanching_operator.md)                                             |                          22 |                                       7 |                                    0.5      |                                  15 |

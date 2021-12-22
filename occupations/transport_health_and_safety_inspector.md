@@ -1,6 +1,6 @@
-#Occupation transport health and safety inspector
-##Number skills 20
-###Similar occupations:
+# Occupation transport health and safety inspector
+## Number skills 20
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match transport health and safety inspector |   percentage match with transport health and safety inspector |   skills not in transport health and safety inspector |
 |:------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [elderly home manager](elderly_home_manager.md)                   |                          68 |                                                         3 |                                                          0.15 |                                                    65 |

@@ -1,6 +1,6 @@
-#Occupation control panel tester
-##Number skills 28
-###Similar occupations:
+# Occupation control panel tester
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match control panel tester |   percentage match with control panel tester |   skills not in control panel tester |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [electrical equipment inspector](electrical_equipment_inspector.md)                                                                                           |                          24 |                                       20 |                                     0.714286 |                                    4 |

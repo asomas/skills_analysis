@@ -1,6 +1,6 @@
-#Occupation drain technician
-##Number skills 12
-###Similar occupations:
+# Occupation drain technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match drain technician |   percentage match with drain technician |   skills not in drain technician |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [water network operative](water_network_operative.md)                                                 |                          13 |                                    5 |                                 0.416667 |                                8 |

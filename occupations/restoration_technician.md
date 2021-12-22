@@ -1,6 +1,6 @@
-#Occupation restoration technician
-##Number skills 17
-###Similar occupations:
+# Occupation restoration technician
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match restoration technician |   percentage match with restoration technician |   skills not in restoration technician |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [vehicle maintenance attendant](vehicle_maintenance_attendant.md)                                                                                                 |                          13 |                                          4 |                                       0.235294 |                                      9 |

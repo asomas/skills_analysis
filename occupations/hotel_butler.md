@@ -1,6 +1,6 @@
-#Occupation hotel butler
-##Number skills 9
-###Similar occupations:
+# Occupation hotel butler
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match hotel butler |   percentage match with hotel butler |   skills not in hotel butler |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [hospitality establishment receptionist](hospitality_establishment_receptionist.md)                                                                               |                          17 |                                7 |                             0.777778 |                           10 |

@@ -1,6 +1,6 @@
-#Occupation leather production planner
-##Number skills 16
-###Similar occupations:
+# Occupation leather production planner
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match leather production planner |   percentage match with leather production planner |   skills not in leather production planner |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [leather production manager](leather_production_manager.md)                                                                                                             |                          35 |                                             13 |                                             0.8125 |                                         22 |

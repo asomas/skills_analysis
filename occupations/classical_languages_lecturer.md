@@ -1,6 +1,6 @@
-#Occupation classical languages lecturer
-##Number skills 20
-###Similar occupations:
+# Occupation classical languages lecturer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match classical languages lecturer |   percentage match with classical languages lecturer |   skills not in classical languages lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [modern languages lecturer](modern_languages_lecturer.md)                                                             |                          19 |                                               18 |                                                 0.9  |                                            1 |

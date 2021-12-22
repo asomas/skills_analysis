@@ -1,6 +1,6 @@
-#Occupation historian
-##Number skills 11
-###Similar occupations:
+# Occupation historian
+## Number skills 11
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match historian |   percentage match with historian |   skills not in historian |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [archaeologist](archaeologist.md)                                           |                          11 |                             6 |                          0.545455 |                         5 |

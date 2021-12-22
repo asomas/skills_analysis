@@ -1,6 +1,6 @@
-#Occupation printed circuit board test technician
-##Number skills 26
-###Similar occupations:
+# Occupation printed circuit board test technician
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match printed circuit board test technician |   percentage match with printed circuit board test technician |   skills not in printed circuit board test technician |
 |:----------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [electronic equipment inspector](electronic_equipment_inspector.md)                           |                          20 |                                                        12 |                                                      0.461538 |                                                     8 |

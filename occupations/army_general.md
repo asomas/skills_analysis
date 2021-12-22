@@ -1,6 +1,6 @@
-#Occupation army general
-##Number skills 12
-###Similar occupations:
+# Occupation army general
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match army general |   percentage match with army general |   skills not in army general |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [brigadier](brigadier.md)                                                                         |                          14 |                                9 |                             0.75     |                            5 |

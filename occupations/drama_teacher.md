@@ -1,6 +1,6 @@
-#Occupation drama teacher
-##Number skills 25
-###Similar occupations:
+# Occupation drama teacher
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match drama teacher |   percentage match with drama teacher |   skills not in drama teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [drama teacher secondary school](drama_teacher_secondary_school.md)                                                   |                          32 |                                20 |                                  0.8  |                            12 |

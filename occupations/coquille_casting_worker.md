@@ -1,6 +1,6 @@
-#Occupation coquille casting worker
-##Number skills 10
-###Similar occupations:
+# Occupation coquille casting worker
+## Number skills 10
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match coquille casting worker |   percentage match with coquille casting worker |   skills not in coquille casting worker |
 |:----------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [foundry operative](foundry_operative.md)                       |                          13 |                                           3 |                                             0.3 |                                      10 |

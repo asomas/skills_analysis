@@ -1,6 +1,6 @@
-#Occupation emergency response coordinator
-##Number skills 10
-###Similar occupations:
+# Occupation emergency response coordinator
+## Number skills 10
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match emergency response coordinator |   percentage match with emergency response coordinator |   skills not in emergency response coordinator |
 |:----------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [coastguard watch officer](coastguard_watch_officer.md)   |                          13 |                                                  3 |                                                    0.3 |                                             10 |

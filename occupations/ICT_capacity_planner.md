@@ -1,6 +1,6 @@
-#Occupation ICT capacity planner
-##Number skills 17
-###Similar occupations:
+# Occupation ICT capacity planner
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match ICT capacity planner |   percentage match with ICT capacity planner |   skills not in ICT capacity planner |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [ICT business analysis manager](ICT_business_analysis_manager.md)                                                                                           |                          19 |                                        4 |                                     0.235294 |                                   15 |

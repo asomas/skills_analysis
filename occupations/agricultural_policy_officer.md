@@ -1,6 +1,6 @@
-#Occupation agricultural policy officer
-##Number skills 13
-###Similar occupations:
+# Occupation agricultural policy officer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match agricultural policy officer |   percentage match with agricultural policy officer |   skills not in agricultural policy officer |
 |:------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [regional development policy officer](regional_development_policy_officer.md) |                          10 |                                               7 |                                            0.538462 |                                           3 |

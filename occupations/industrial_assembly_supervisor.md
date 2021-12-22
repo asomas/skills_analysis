@@ -1,6 +1,6 @@
-#Occupation industrial assembly supervisor
-##Number skills 35
-###Similar occupations:
+# Occupation industrial assembly supervisor
+## Number skills 35
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match industrial assembly supervisor |   percentage match with industrial assembly supervisor |   skills not in industrial assembly supervisor |
 |:--------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [production supervisor](production_supervisor.md)                                           |                          39 |                                                 17 |                                               0.485714 |                                             22 |

@@ -1,6 +1,6 @@
-#Occupation footwear production manager
-##Number skills 27
-###Similar occupations:
+# Occupation footwear production manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match footwear production manager |   percentage match with footwear production manager |   skills not in footwear production manager |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [footwear production technician](footwear_production_technician.md)                                           |                          23 |                                              20 |                                            0.740741 |                                           3 |

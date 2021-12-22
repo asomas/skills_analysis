@@ -1,6 +1,6 @@
-#Occupation aeronautical information specialist
-##Number skills 18
-###Similar occupations:
+# Occupation aeronautical information specialist
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match aeronautical information specialist |   percentage match with aeronautical information specialist |   skills not in aeronautical information specialist |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [technical sales representative in mining and construction machinery](technical_sales_representative_in_mining_and_construction_machinery.md)                           |                          29 |                                                       6 |                                                    0.333333 |                                                  23 |

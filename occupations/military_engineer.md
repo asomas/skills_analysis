@@ -1,6 +1,6 @@
-#Occupation military engineer
-##Number skills 14
-###Similar occupations:
+# Occupation military engineer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match military engineer |   percentage match with military engineer |   skills not in military engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [aerospace engineer](aerospace_engineer.md)                                                                                                 |                          17 |                                     4 |                                  0.285714 |                                13 |

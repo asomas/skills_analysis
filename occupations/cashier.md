@@ -1,6 +1,6 @@
-#Occupation cashier
-##Number skills 10
-###Similar occupations:
+# Occupation cashier
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match cashier |   percentage match with cashier |   skills not in cashier |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [ticket issuing clerk](ticket_issuing_clerk.md)                                                                                                                   |                          42 |                           6 |                             0.6 |                      36 |

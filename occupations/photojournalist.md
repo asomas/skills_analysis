@@ -1,6 +1,6 @@
-#Occupation photojournalist
-##Number skills 25
-###Similar occupations:
+# Occupation photojournalist
+## Number skills 25
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match photojournalist |   percentage match with photojournalist |   skills not in photojournalist |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [foreign correspondent](foreign_correspondent.md)                                 |                          25 |                                  19 |                                    0.76 |                               6 |

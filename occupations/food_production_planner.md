@@ -1,6 +1,6 @@
-#Occupation food production planner
-##Number skills 25
-###Similar occupations:
+# Occupation food production planner
+## Number skills 25
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match food production planner |   percentage match with food production planner |   skills not in food production planner |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [food production manager](food_production_manager.md)                                   |                          26 |                                          12 |                                            0.48 |                                      14 |

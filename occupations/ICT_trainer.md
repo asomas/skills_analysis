@@ -1,6 +1,6 @@
-#Occupation ICT trainer
-##Number skills 12
-###Similar occupations:
+# Occupation ICT trainer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match ICT trainer |   percentage match with ICT trainer |   skills not in ICT trainer |
 |:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [instructional designer](instructional_designer.md)                                           |                          34 |                               4 |                            0.333333 |                          30 |

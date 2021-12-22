@@ -1,6 +1,6 @@
-#Occupation department manager
-##Number skills 16
-###Similar occupations:
+# Occupation department manager
+## Number skills 16
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match department manager |   percentage match with department manager |   skills not in department manager |
 |:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [branch manager](branch_manager.md)                                                   |                          48 |                                     16 |                                     1      |                                 32 |

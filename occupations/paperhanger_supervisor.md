@@ -1,6 +1,6 @@
-#Occupation paperhanger supervisor
-##Number skills 19
-###Similar occupations:
+# Occupation paperhanger supervisor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match paperhanger supervisor |   percentage match with paperhanger supervisor |   skills not in paperhanger supervisor |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [insulation supervisor](insulation_supervisor.md)                                                                                                                 |                          23 |                                         18 |                                       0.947368 |                                      5 |

@@ -1,6 +1,6 @@
-#Occupation museum scientist
-##Number skills 18
-###Similar occupations:
+# Occupation museum scientist
+## Number skills 18
+### Similar occupations:
 | occupation                                            |   skills in this occupation |   skills that match museum scientist |   percentage match with museum scientist |   skills not in museum scientist |
 |:------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [collection manager](collection_manager.md)           |                          20 |                                    6 |                                 0.333333 |                               14 |

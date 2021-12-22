@@ -1,6 +1,6 @@
-#Occupation database integrator
-##Number skills 16
-###Similar occupations:
+# Occupation database integrator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match database integrator |   percentage match with database integrator |   skills not in database integrator |
 |:--------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [data analyst](data_analyst.md)                                           |                          28 |                                       6 |                                      0.375  |                                  22 |

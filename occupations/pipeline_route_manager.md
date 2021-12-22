@@ -1,6 +1,6 @@
-#Occupation pipeline route manager
-##Number skills 18
-###Similar occupations:
+# Occupation pipeline route manager
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match pipeline route manager |   percentage match with pipeline route manager |   skills not in pipeline route manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [pipeline superintendent](pipeline superintendent.md)                                             |                          21 |                                          9 |                                       0.5      |                                     12 |

@@ -1,6 +1,6 @@
-#Occupation digital artist
-##Number skills 15
-###Similar occupations:
+# Occupation digital artist
+## Number skills 15
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match digital artist |   percentage match with digital artist |   skills not in digital artist |
 |:----------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [video artist](video_artist.md)                           |                          23 |                                  9 |                               0.6      |                             14 |

@@ -1,6 +1,6 @@
-#Occupation paperhanger
-##Number skills 13
-###Similar occupations:
+# Occupation paperhanger
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match paperhanger |   percentage match with paperhanger |   skills not in paperhanger |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [construction painter](construction_painter.md)                                                                                                               |                          21 |                               7 |                            0.538462 |                          14 |

@@ -1,6 +1,6 @@
-#Occupation campaign canvasser
-##Number skills 8
-###Similar occupations:
+# Occupation campaign canvasser
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match campaign canvasser |   percentage match with campaign canvasser |   skills not in campaign canvasser |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [door to door seller](door_to_door_seller.md)                                                                               |                          20 |                                      1 |                                      0.125 |                                 19 |

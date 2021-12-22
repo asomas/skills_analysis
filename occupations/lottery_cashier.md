@@ -1,6 +1,6 @@
-#Occupation lottery cashier
-##Number skills 13
-###Similar occupations:
+# Occupation lottery cashier
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match lottery cashier |   percentage match with lottery cashier |   skills not in lottery cashier |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [casino cashier](casino_cashier.md)                                                                                                                               |                          14 |                                  11 |                                0.846154 |                               3 |

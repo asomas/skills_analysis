@@ -1,6 +1,6 @@
-#Occupation marine engineering drafter
-##Number skills 17
-###Similar occupations:
+# Occupation marine engineering drafter
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match marine engineering drafter |   percentage match with marine engineering drafter |   skills not in marine engineering drafter |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [aerospace engineering drafter](aerospace_engineering_drafter.md)                                                                           |                          18 |                                             16 |                                           0.941176 |                                          2 |

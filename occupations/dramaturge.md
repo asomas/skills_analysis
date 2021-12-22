@@ -1,6 +1,6 @@
-#Occupation dramaturge
-##Number skills 12
-###Similar occupations:
+# Occupation dramaturge
+## Number skills 12
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match dramaturge |   percentage match with dramaturge |   skills not in dramaturge |
 |:----------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [actor/actress](actor-actress.md)                                           |                          23 |                              3 |                           0.25     |                         20 |

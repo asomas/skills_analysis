@@ -1,6 +1,6 @@
-#Occupation special educational needs teacher secondary school
-##Number skills 30
-###Similar occupations:
+# Occupation special educational needs teacher secondary school
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match special educational needs teacher secondary school |   percentage match with special educational needs teacher secondary school |   skills not in special educational needs teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------------:|---------------------------------------------------------------------------:|-------------------------------------------------------------------:|
 | [special educational needs teacher primary school](special_educational_needs_teacher_primary_school.md)               |                          33 |                                                                     23 |                                                                   0.766667 |                                                                 10 |

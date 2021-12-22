@@ -1,6 +1,6 @@
-#Occupation fitter and turner
-##Number skills 12
-###Similar occupations:
+# Occupation fitter and turner
+## Number skills 12
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match fitter and turner |   percentage match with fitter and turner |   skills not in fitter and turner |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [metal products assembler](metal_products_assembler.md)                               |                          13 |                                     4 |                                  0.333333 |                                 9 |

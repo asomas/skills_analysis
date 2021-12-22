@@ -1,6 +1,6 @@
-#Occupation motor vehicle assembler
-##Number skills 26
-###Similar occupations:
+# Occupation motor vehicle assembler
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match motor vehicle assembler |   percentage match with motor vehicle assembler |   skills not in motor vehicle assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [motor vehicle parts assembler](motor_vehicle_parts_assembler.md)                                     |                          17 |                                          15 |                                        0.576923 |                                       2 |

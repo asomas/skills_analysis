@@ -1,6 +1,6 @@
-#Occupation metal furniture machine operator
-##Number skills 19
-###Similar occupations:
+# Occupation metal furniture machine operator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match metal furniture machine operator |   percentage match with metal furniture machine operator |   skills not in metal furniture machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [wooden furniture machine operator](wooden_furniture_machine_operator.md)                             |                          13 |                                                    9 |                                                 0.473684 |                                                4 |

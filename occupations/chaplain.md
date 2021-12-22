@@ -1,6 +1,6 @@
-#Occupation chaplain
-##Number skills 11
-###Similar occupations:
+# Occupation chaplain
+## Number skills 11
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match chaplain |   percentage match with chaplain |   skills not in chaplain |
 |:----------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [minister of religion](minister_of_religion.md)                 |                          19 |                            8 |                         0.727273 |                       11 |

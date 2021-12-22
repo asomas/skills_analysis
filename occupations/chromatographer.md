@@ -1,6 +1,6 @@
-#Occupation chromatographer
-##Number skills 31
-###Similar occupations:
+# Occupation chromatographer
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match chromatographer |   percentage match with chromatographer |   skills not in chromatographer |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [chemistry technician](chemistry_technician.md)                                           |                          26 |                                  20 |                                0.645161 |                               6 |

@@ -1,6 +1,6 @@
-#Occupation pharmacy assistant
-##Number skills 42
-###Similar occupations:
+# Occupation pharmacy assistant
+## Number skills 42
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match pharmacy assistant |   percentage match with pharmacy assistant |   skills not in pharmacy assistant |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [pharmacy technician](pharmacy_technician.md)                                             |                          38 |                                     35 |                                   0.833333 |                                  3 |

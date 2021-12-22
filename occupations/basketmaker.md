@@ -1,6 +1,6 @@
-#Occupation basketmaker
-##Number skills 11
-###Similar occupations:
+# Occupation basketmaker
+## Number skills 11
+### Similar occupations:
 | occupation                                          |   skills in this occupation |   skills that match basketmaker |   percentage match with basketmaker |   skills not in basketmaker |
 |:----------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [woodcarver](woodcarver.md)                         |                          17 |                               6 |                            0.545455 |                          11 |

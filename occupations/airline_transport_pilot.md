@@ -1,6 +1,6 @@
-#Occupation airline transport pilot
-##Number skills 36
-###Similar occupations:
+# Occupation airline transport pilot
+## Number skills 36
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match airline transport pilot |   percentage match with airline transport pilot |   skills not in airline transport pilot |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [co-pilot](co-pilot.md)                                                               |                          43 |                                          33 |                                        0.916667 |                                      10 |

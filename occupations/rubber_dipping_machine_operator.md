@@ -1,6 +1,6 @@
-#Occupation rubber dipping machine operator
-##Number skills 16
-###Similar occupations:
+# Occupation rubber dipping machine operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match rubber dipping machine operator |   percentage match with rubber dipping machine operator |   skills not in rubber dipping machine operator |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [coagulation operator](coagulation_operator.md)                                           |                          20 |                                                   6 |                                                  0.375  |                                              14 |

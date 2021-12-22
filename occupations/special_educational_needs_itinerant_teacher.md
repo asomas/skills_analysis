@@ -1,6 +1,6 @@
-#Occupation special educational needs itinerant teacher
-##Number skills 21
-###Similar occupations:
+# Occupation special educational needs itinerant teacher
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match special educational needs itinerant teacher |   percentage match with special educational needs itinerant teacher |   skills not in special educational needs itinerant teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [learning support teacher](learning_support_teacher.md)                                                               |                          23 |                                                              17 |                                                            0.809524 |                                                           6 |

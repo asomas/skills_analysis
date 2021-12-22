@@ -1,6 +1,6 @@
-#Occupation cosmetic chemist
-##Number skills 15
-###Similar occupations:
+# Occupation cosmetic chemist
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match cosmetic chemist |   percentage match with cosmetic chemist |   skills not in cosmetic chemist |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [biochemist](biochemist.md)                                                               |                          19 |                                    5 |                                 0.333333 |                               14 |

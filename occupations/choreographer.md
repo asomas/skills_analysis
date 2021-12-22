@@ -1,6 +1,6 @@
-#Occupation choreographer
-##Number skills 19
-###Similar occupations:
+# Occupation choreographer
+## Number skills 19
+### Similar occupations:
 | occupation                                  |   skills in this occupation |   skills that match choreographer |   percentage match with choreographer |   skills not in choreographer |
 |:--------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [dance répétiteur](dance_répétiteur.md)     |                          21 |                                 9 |                              0.473684 |                            12 |

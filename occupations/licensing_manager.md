@@ -1,6 +1,6 @@
-#Occupation licensing manager
-##Number skills 24
-###Similar occupations:
+# Occupation licensing manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match licensing manager |   percentage match with licensing manager |   skills not in licensing manager |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [car leasing agent](car_leasing_agent.md)                                                                                                                           |                          28 |                                     5 |                                  0.208333 |                                23 |

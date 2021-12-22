@@ -1,6 +1,6 @@
-#Occupation tower crane operator
-##Number skills 15
-###Similar occupations:
+# Occupation tower crane operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match tower crane operator |   percentage match with tower crane operator |   skills not in tower crane operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [rigger](rigger.md)                                                                                                                                                   |                          16 |                                       13 |                                     0.866667 |                                    3 |

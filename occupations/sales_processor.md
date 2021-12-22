@@ -1,6 +1,6 @@
-#Occupation sales processor
-##Number skills 17
-###Similar occupations:
+# Occupation sales processor
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match sales processor |   percentage match with sales processor |   skills not in sales processor |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [car leasing agent](car_leasing_agent.md)                                                                                                                               |                          28 |                                   7 |                                0.411765 |                              21 |

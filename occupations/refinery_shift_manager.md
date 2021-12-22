@@ -1,6 +1,6 @@
-#Occupation refinery shift manager
-##Number skills 15
-###Similar occupations:
+# Occupation refinery shift manager
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match refinery shift manager |   percentage match with refinery shift manager |   skills not in refinery shift manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [mine shift manager](mine_shift_manager.md)                                                       |                          14 |                                          9 |                                       0.6      |                                      5 |

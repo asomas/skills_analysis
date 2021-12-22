@@ -1,6 +1,6 @@
-#Occupation industrial cook
-##Number skills 29
-###Similar occupations:
+# Occupation industrial cook
+## Number skills 29
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match industrial cook |   percentage match with industrial cook |   skills not in industrial cook |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [prepared meals nutritionist](prepared_meals_nutritionist.md)                           |                          23 |                                  13 |                                0.448276 |                              10 |

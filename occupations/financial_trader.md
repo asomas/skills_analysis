@@ -1,6 +1,6 @@
-#Occupation financial trader
-##Number skills 16
-###Similar occupations:
+# Occupation financial trader
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match financial trader |   percentage match with financial trader |   skills not in financial trader |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [securities broker](securities_broker.md)                                                                                                                         |                          20 |                                   11 |                                   0.6875 |                                9 |

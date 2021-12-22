@@ -1,6 +1,6 @@
-#Occupation cabin crew instructor
-##Number skills 17
-###Similar occupations:
+# Occupation cabin crew instructor
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match cabin crew instructor |   percentage match with cabin crew instructor |   skills not in cabin crew instructor |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [air traffic instructor](air_traffic_instructor.md)                                                                                                               |                          29 |                                        11 |                                      0.647059 |                                    18 |

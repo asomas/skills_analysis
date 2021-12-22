@@ -1,6 +1,6 @@
-#Occupation auxiliary nursing and midwifery vocational teacher
-##Number skills 29
-###Similar occupations:
+# Occupation auxiliary nursing and midwifery vocational teacher
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match auxiliary nursing and midwifery vocational teacher |   percentage match with auxiliary nursing and midwifery vocational teacher |   skills not in auxiliary nursing and midwifery vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------------:|---------------------------------------------------------------------------:|-------------------------------------------------------------------:|
 | [medical laboratory technology vocational teacher](medical_laboratory_technology_vocational_teacher.md)               |                          26 |                                                                     18 |                                                                   0.62069  |                                                                  8 |

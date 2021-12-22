@@ -1,6 +1,6 @@
-#Occupation pulp technician
-##Number skills 19
-###Similar occupations:
+# Occupation pulp technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match pulp technician |   percentage match with pulp technician |   skills not in pulp technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [machine operator supervisor](machine_operator_supervisor.md)                                                                                                 |                          17 |                                   5 |                                0.263158 |                              12 |

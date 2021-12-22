@@ -1,6 +1,6 @@
-#Occupation aquatic animal health professional
-##Number skills 55
-###Similar occupations:
+# Occupation aquatic animal health professional
+## Number skills 55
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match aquatic animal health professional |   percentage match with aquatic animal health professional |   skills not in aquatic animal health professional |
 |:--------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [aquaculture biologist](aquaculture_biologist.md)                               |                          37 |                                                     36 |                                                   0.654545 |                                                  1 |

@@ -1,6 +1,6 @@
-#Occupation orthoptist
-##Number skills 63
-###Similar occupations:
+# Occupation orthoptist
+## Number skills 63
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match orthoptist |   percentage match with orthoptist |   skills not in orthoptist |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [occupational therapist](occupational_therapist.md)                                                         |                          73 |                             40 |                           0.634921 |                         33 |

@@ -1,6 +1,6 @@
-#Occupation driving instructor
-##Number skills 23
-###Similar occupations:
+# Occupation driving instructor
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match driving instructor |   percentage match with driving instructor |   skills not in driving instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [motorcycle instructor](motorcycle_instructor.md)                                                                     |                          25 |                                     23 |                                   1        |                                  2 |

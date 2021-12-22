@@ -1,6 +1,6 @@
-#Occupation production potter
-##Number skills 16
-###Similar occupations:
+# Occupation production potter
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match production potter |   percentage match with production potter |   skills not in production potter |
 |:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [ceramicist](ceramicist.md)                                                                   |                          23 |                                     4 |                                    0.25   |                                19 |

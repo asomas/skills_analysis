@@ -1,6 +1,6 @@
-#Occupation floor and wall coverings shop manager
-##Number skills 30
-###Similar occupations:
+# Occupation floor and wall coverings shop manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match floor and wall coverings shop manager |   percentage match with floor and wall coverings shop manager |   skills not in floor and wall coverings shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [kitchen and bathroom shop manager](kitchen_and_bathroom_shop_manager.md)                         |                          27 |                                                        27 |                                                      0.9      |                                                     0 |

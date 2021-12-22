@@ -1,6 +1,6 @@
-#Occupation electronic equipment assembler
-##Number skills 22
-###Similar occupations:
+# Occupation electronic equipment assembler
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match electronic equipment assembler |   percentage match with electronic equipment assembler |   skills not in electronic equipment assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [marine electronics technician](marine_electronics_technician.md)                                     |                          19 |                                                 14 |                                               0.636364 |                                              5 |

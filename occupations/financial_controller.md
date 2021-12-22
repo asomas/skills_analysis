@@ -1,6 +1,6 @@
-#Occupation financial controller
-##Number skills 17
-###Similar occupations:
+# Occupation financial controller
+## Number skills 17
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match financial controller |   percentage match with financial controller |   skills not in financial controller |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [accounting manager](accounting_manager.md)                       |                          33 |                                       12 |                                     0.705882 |                                   21 |

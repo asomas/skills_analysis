@@ -1,6 +1,6 @@
-#Occupation radiation protection technician
-##Number skills 17
-###Similar occupations:
+# Occupation radiation protection technician
+## Number skills 17
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match radiation protection technician |   percentage match with radiation protection technician |   skills not in radiation protection technician |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [radiation protection officer](radiation_protection_officer.md)                   |                          22 |                                                  10 |                                                0.588235 |                                              12 |

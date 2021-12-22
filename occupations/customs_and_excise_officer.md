@@ -1,6 +1,6 @@
-#Occupation customs and excise officer
-##Number skills 11
-###Similar occupations:
+# Occupation customs and excise officer
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match customs and excise officer |   percentage match with customs and excise officer |   skills not in customs and excise officer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [non-vessel operating common carrier](non-vessel_operating_common_carrier.md)                                                                                         |                          24 |                                              3 |                                           0.272727 |                                         21 |

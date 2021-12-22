@@ -1,6 +1,6 @@
-#Occupation bank manager
-##Number skills 33
-###Similar occupations:
+# Occupation bank manager
+## Number skills 33
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match bank manager |   percentage match with bank manager |   skills not in bank manager |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [branch manager](branch_manager.md)                                     |                          48 |                               22 |                             0.666667 |                           26 |

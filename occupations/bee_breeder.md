@@ -1,6 +1,6 @@
-#Occupation bee breeder
-##Number skills 27
-###Similar occupations:
+# Occupation bee breeder
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match bee breeder |   percentage match with bee breeder |   skills not in bee breeder |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [pig breeder](pig_breeder.md)                                                             |                          30 |                              25 |                            0.925926 |                           5 |

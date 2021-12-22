@@ -1,6 +1,6 @@
-#Occupation rail logistics coordinator
-##Number skills 20
-###Similar occupations:
+# Occupation rail logistics coordinator
+## Number skills 20
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match rail logistics coordinator |   percentage match with rail logistics coordinator |   skills not in rail logistics coordinator |
 |:----------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [railway station manager](railway_station_manager.md)           |                          21 |                                              4 |                                               0.2  |                                         17 |

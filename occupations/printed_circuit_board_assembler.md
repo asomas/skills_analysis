@@ -1,6 +1,6 @@
-#Occupation printed circuit board assembler
-##Number skills 16
-###Similar occupations:
+# Occupation printed circuit board assembler
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match printed circuit board assembler |   percentage match with printed circuit board assembler |   skills not in printed circuit board assembler |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [surface-mount technology machine operator](surface-mount_technology_machine_operator.md)   |                          18 |                                                  10 |                                                  0.625  |                                               8 |

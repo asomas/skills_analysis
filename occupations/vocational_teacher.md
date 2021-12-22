@@ -1,6 +1,6 @@
-#Occupation vocational teacher
-##Number skills 11
-###Similar occupations:
+# Occupation vocational teacher
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match vocational teacher |   percentage match with vocational teacher |   skills not in vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [transport technology vocational teacher](transport_technology_vocational_teacher.md)                                 |                          25 |                                     11 |                                   1        |                                 14 |

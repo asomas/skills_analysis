@@ -1,6 +1,6 @@
-#Occupation furniture restorer
-##Number skills 18
-###Similar occupations:
+# Occupation furniture restorer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match furniture restorer |   percentage match with furniture restorer |   skills not in furniture restorer |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [antique furniture reproducer](antique_furniture_reproducer.md)                     |                          16 |                                      9 |                                   0.5      |                                  7 |

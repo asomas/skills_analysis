@@ -1,6 +1,6 @@
-#Occupation import export manager in computers, computer peripheral equipment and software
-##Number skills 24
-###Similar occupations:
+# Occupation import export manager in computers, computer peripheral equipment and software
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in computers, computer peripheral equipment and software |   percentage match with import export manager in computers, computer peripheral equipment and software |   skills not in import export manager in computers, computer peripheral equipment and software |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------:|
 | [import export manager in metals and metal ores](import_export_manager_in_metals_and_metal_ores.md)                                                                     |                          26 |                                                                                                 23 |                                                                                               0.958333 |                                                                                              3 |

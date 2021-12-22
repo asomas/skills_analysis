@@ -1,6 +1,6 @@
-#Occupation chemical plant manager
-##Number skills 30
-###Similar occupations:
+# Occupation chemical plant manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match chemical plant manager |   percentage match with chemical plant manager |   skills not in chemical plant manager |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [metal production manager](metal_production_manager.md)                 |                          26 |                                         18 |                                       0.6      |                                      8 |

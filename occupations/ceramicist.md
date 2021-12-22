@@ -1,6 +1,6 @@
-#Occupation ceramicist
-##Number skills 23
-###Similar occupations:
+# Occupation ceramicist
+## Number skills 23
+### Similar occupations:
 | occupation                                      |   skills in this occupation |   skills that match ceramicist |   percentage match with ceramicist |   skills not in ceramicist |
 |:------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [conceptual artist](conceptual_artist.md)       |                          15 |                              8 |                           0.347826 |                          7 |

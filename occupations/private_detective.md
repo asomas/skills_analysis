@@ -1,6 +1,6 @@
-#Occupation private detective
-##Number skills 18
-###Similar occupations:
+# Occupation private detective
+## Number skills 18
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match private detective |   percentage match with private detective |   skills not in private detective |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [police detective](police_detective.md)                                                 |                          14 |                                     5 |                                  0.277778 |                                 9 |

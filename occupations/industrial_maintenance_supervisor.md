@@ -1,6 +1,6 @@
-#Occupation industrial maintenance supervisor
-##Number skills 15
-###Similar occupations:
+# Occupation industrial maintenance supervisor
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match industrial maintenance supervisor |   percentage match with industrial maintenance supervisor |   skills not in industrial maintenance supervisor |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [wood assembly supervisor](wood_assembly_supervisor.md)                                               |                          16 |                                                     6 |                                                  0.4      |                                                10 |

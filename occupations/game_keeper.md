@@ -1,6 +1,6 @@
-#Occupation game keeper
-##Number skills 12
-###Similar occupations:
+# Occupation game keeper
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match game keeper |   percentage match with game keeper |   skills not in game keeper |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [hunter](hunter.md)                                                                       |                          26 |                               3 |                            0.25     |                          23 |

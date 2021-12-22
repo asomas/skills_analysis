@@ -1,6 +1,6 @@
-#Occupation meat and meat products shop manager
-##Number skills 31
-###Similar occupations:
+# Occupation meat and meat products shop manager
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match meat and meat products shop manager |   percentage match with meat and meat products shop manager |   skills not in meat and meat products shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [delicatessen shop manager](delicatessen_shop_manager.md)                                         |                          29 |                                                      28 |                                                    0.903226 |                                                   1 |

@@ -1,6 +1,6 @@
-#Occupation footwear CAD patternmaker
-##Number skills 10
-###Similar occupations:
+# Occupation footwear CAD patternmaker
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match footwear CAD patternmaker |   percentage match with footwear CAD patternmaker |   skills not in footwear CAD patternmaker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [footwear product developer](footwear_product_developer.md)                                           |                          32 |                                             9 |                                               0.9 |                                        23 |

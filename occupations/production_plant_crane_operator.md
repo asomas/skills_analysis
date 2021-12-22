@@ -1,6 +1,6 @@
-#Occupation production plant crane operator
-##Number skills 9
-###Similar occupations:
+# Occupation production plant crane operator
+## Number skills 9
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match production plant crane operator |   percentage match with production plant crane operator |   skills not in production plant crane operator |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [scrap metal operative](scrap_metal_operative.md)                           |                          10 |                                                   2 |                                                0.222222 |                                               8 |

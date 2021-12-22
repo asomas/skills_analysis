@@ -1,6 +1,6 @@
-#Occupation ICT documentation manager
-##Number skills 18
-###Similar occupations:
+# Occupation ICT documentation manager
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match ICT documentation manager |   percentage match with ICT documentation manager |   skills not in ICT documentation manager |
 |:----------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [web content manager](web_content_manager.md)                                                 |                          29 |                                             5 |                                          0.277778 |                                        24 |

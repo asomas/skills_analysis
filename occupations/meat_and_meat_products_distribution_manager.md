@@ -1,6 +1,6 @@
-#Occupation meat and meat products distribution manager
-##Number skills 27
-###Similar occupations:
+# Occupation meat and meat products distribution manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match meat and meat products distribution manager |   percentage match with meat and meat products distribution manager |   skills not in meat and meat products distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [electrical household appliances distribution manager](electrical_household_appliances_distribution_manager.md)                                                         |                          26 |                                                              25 |                                                            0.925926 |                                                           1 |

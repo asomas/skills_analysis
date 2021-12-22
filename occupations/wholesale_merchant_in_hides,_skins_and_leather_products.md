@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in hides, skins and leather products
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in hides, skins and leather products
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in hides, skins and leather products |   percentage match with wholesale merchant in hides, skins and leather products |   skills not in wholesale merchant in hides, skins and leather products |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------------:|--------------------------------------------------------------------------------:|------------------------------------------------------------------------:|
 | [wholesale merchant in meat and meat products](wholesale_merchant_in_meat_and_meat_products.md)                                                                     |                          20 |                                                                          19 |                                                                            0.95 |                                                                       1 |

@@ -1,6 +1,6 @@
-#Occupation plastering supervisor
-##Number skills 19
-###Similar occupations:
+# Occupation plastering supervisor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match plastering supervisor |   percentage match with plastering supervisor |   skills not in plastering supervisor |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [plumbing supervisor](plumbing_supervisor.md)                                                                                                                         |                          23 |                                        18 |                                      0.947368 |                                     5 |

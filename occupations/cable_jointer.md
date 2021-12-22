@@ -1,6 +1,6 @@
-#Occupation cable jointer
-##Number skills 12
-###Similar occupations:
+# Occupation cable jointer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match cable jointer |   percentage match with cable jointer |   skills not in cable jointer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [overhead line worker](overhead_line_worker.md)                                                                                                               |                          13 |                                12 |                              1        |                             1 |

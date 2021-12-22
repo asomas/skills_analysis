@@ -1,6 +1,6 @@
-#Occupation sterile services technician
-##Number skills 21
-###Similar occupations:
+# Occupation sterile services technician
+## Number skills 21
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match sterile services technician |   percentage match with sterile services technician |   skills not in sterile services technician |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [cytology screener](cytology_screener.md)                                   |                          34 |                                              12 |                                            0.571429 |                                          22 |

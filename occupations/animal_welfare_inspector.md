@@ -1,6 +1,6 @@
-#Occupation animal welfare inspector
-##Number skills 26
-###Similar occupations:
+# Occupation animal welfare inspector
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match animal welfare inspector |   percentage match with animal welfare inspector |   skills not in animal welfare inspector |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [animal trainer](animal_trainer.md)                                                       |                          26 |                                           16 |                                         0.615385 |                                       10 |

@@ -1,6 +1,6 @@
-#Occupation building caretaker
-##Number skills 9
-###Similar occupations:
+# Occupation building caretaker
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                    |   skills in this occupation |   skills that match building caretaker |   percentage match with building caretaker |   skills not in building caretaker |
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [facilities manager](facilities_manager.md)                                                                                   |                          33 |                                      3 |                                   0.333333 |                                 30 |

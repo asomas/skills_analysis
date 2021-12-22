@@ -1,6 +1,6 @@
-#Occupation hospitality establishment receptionist
-##Number skills 17
-###Similar occupations:
+# Occupation hospitality establishment receptionist
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match hospitality establishment receptionist |   percentage match with hospitality establishment receptionist |   skills not in hospitality establishment receptionist |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [travel agent](travel_agent.md)                                                                                                                                   |                          28 |                                                         11 |                                                       0.647059 |                                                     17 |

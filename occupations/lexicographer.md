@@ -1,6 +1,6 @@
-#Occupation lexicographer
-##Number skills 11
-###Similar occupations:
+# Occupation lexicographer
+## Number skills 11
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match lexicographer |   percentage match with lexicographer |   skills not in lexicographer |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [photojournalist](photojournalist.md)                                             |                          25 |                                 5 |                              0.454545 |                            20 |

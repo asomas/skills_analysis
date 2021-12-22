@@ -1,6 +1,6 @@
-#Occupation ICT network technician
-##Number skills 14
-###Similar occupations:
+# Occupation ICT network technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match ICT network technician |   percentage match with ICT network technician |   skills not in ICT network technician |
 |:--------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [ICT network architect](ICT_network_architect.md)                                     |                          21 |                                          9 |                                       0.642857 |                                     12 |

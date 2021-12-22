@@ -1,6 +1,6 @@
-#Occupation fermenter operator
-##Number skills 12
-###Similar occupations:
+# Occupation fermenter operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match fermenter operator |   percentage match with fermenter operator |   skills not in fermenter operator |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [pharmaceutical engineer](pharmaceutical_engineer.md)                                     |                          28 |                                      4 |                                   0.333333 |                                 24 |

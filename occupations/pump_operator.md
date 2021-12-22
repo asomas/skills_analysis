@@ -1,6 +1,6 @@
-#Occupation pump operator
-##Number skills 19
-###Similar occupations:
+# Occupation pump operator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match pump operator |   percentage match with pump operator |   skills not in pump operator |
 |:--------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [industrial firefighter](industrial_firefighter.md)                                   |                          29 |                                11 |                              0.578947 |                            18 |

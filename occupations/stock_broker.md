@@ -1,6 +1,6 @@
-#Occupation stock broker
-##Number skills 17
-###Similar occupations:
+# Occupation stock broker
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match stock broker |   percentage match with stock broker |   skills not in stock broker |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [securities broker](securities_broker.md)                                                     |                          20 |                               16 |                             0.941176 |                            4 |

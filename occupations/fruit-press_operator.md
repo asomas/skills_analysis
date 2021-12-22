@@ -1,6 +1,6 @@
-#Occupation fruit-press operator
-##Number skills 16
-###Similar occupations:
+# Occupation fruit-press operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match fruit-press operator |   percentage match with fruit-press operator |   skills not in fruit-press operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [dairy processing operator](dairy_processing_operator.md)                               |                          27 |                                       10 |                                       0.625  |                                   17 |

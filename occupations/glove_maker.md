@@ -1,6 +1,6 @@
-#Occupation glove maker
-##Number skills 5
-###Similar occupations:
+# Occupation glove maker
+## Number skills 5
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match glove maker |   percentage match with glove maker |   skills not in glove maker |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [clothing alteration machinist](clothing_alteration_machinist.md)                         |                          26 |                               5 |                                 1   |                          21 |

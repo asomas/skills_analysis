@@ -1,6 +1,6 @@
-#Occupation technical sales representative in machinery and industrial equipment
-##Number skills 32
-###Similar occupations:
+# Occupation technical sales representative in machinery and industrial equipment
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match technical sales representative in machinery and industrial equipment |   percentage match with technical sales representative in machinery and industrial equipment |   skills not in technical sales representative in machinery and industrial equipment |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------:|
 | [technical sales representative in electronic and telecommunications equipment](technical_sales_representative_in_electronic_and_telecommunications_equipment.md)     |                          29 |                                                                                       28 |                                                                                      0.875   |                                                                                    1 |

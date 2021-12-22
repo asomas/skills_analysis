@@ -1,6 +1,6 @@
-#Occupation air separation plant operator
-##Number skills 8
-###Similar occupations:
+# Occupation air separation plant operator
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match air separation plant operator |   percentage match with air separation plant operator |   skills not in air separation plant operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [gas station operator](gas_station_operator.md)                                                                 |                          12 |                                                 3 |                                                 0.375 |                                             9 |

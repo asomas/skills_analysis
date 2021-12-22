@@ -1,6 +1,6 @@
-#Occupation equine yard manager
-##Number skills 16
-###Similar occupations:
+# Occupation equine yard manager
+## Number skills 16
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match equine yard manager |   percentage match with equine yard manager |   skills not in equine yard manager |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [groom](groom.md)                                                                 |                          26 |                                       8 |                                      0.5    |                                  18 |

@@ -1,6 +1,6 @@
-#Occupation vehicle electronics installer
-##Number skills 10
-###Similar occupations:
+# Occupation vehicle electronics installer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match vehicle electronics installer |   percentage match with vehicle electronics installer |   skills not in vehicle electronics installer |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [automotive electrician](automotive_electrician.md)                                 |                          25 |                                                 5 |                                                   0.5 |                                            20 |

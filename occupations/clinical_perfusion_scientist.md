@@ -1,6 +1,6 @@
-#Occupation clinical perfusion scientist
-##Number skills 17
-###Similar occupations:
+# Occupation clinical perfusion scientist
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match clinical perfusion scientist |   percentage match with clinical perfusion scientist |   skills not in clinical perfusion scientist |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [respiratory therapy technician](respiratory_therapy_technician.md)                                                       |                          17 |                                               15 |                                             0.882353 |                                            2 |

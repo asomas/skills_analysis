@@ -1,6 +1,6 @@
-#Occupation digital prototyper
-##Number skills 14
-###Similar occupations:
+# Occupation digital prototyper
+## Number skills 14
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match digital prototyper |   percentage match with digital prototyper |   skills not in digital prototyper |
 |:------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [clothing sample machinist](clothing_sample_machinist.md)                     |                          24 |                                      8 |                                   0.571429 |                                 16 |

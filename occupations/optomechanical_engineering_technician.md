@@ -1,6 +1,6 @@
-#Occupation optomechanical engineering technician
-##Number skills 28
-###Similar occupations:
+# Occupation optomechanical engineering technician
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match optomechanical engineering technician |   percentage match with optomechanical engineering technician |   skills not in optomechanical engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [photonics engineering technician](photonics_engineering_technician.md)                                                                     |                          28 |                                                        21 |                                                      0.75     |                                                     7 |

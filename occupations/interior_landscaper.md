@@ -1,6 +1,6 @@
-#Occupation interior landscaper
-##Number skills 19
-###Similar occupations:
+# Occupation interior landscaper
+## Number skills 19
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match interior landscaper |   percentage match with interior landscaper |   skills not in interior landscaper |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [landscape gardener](landscape_gardener.md)                                       |                          33 |                                      10 |                                    0.526316 |                                  23 |

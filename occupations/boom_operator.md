@@ -1,6 +1,6 @@
-#Occupation boom operator
-##Number skills 16
-###Similar occupations:
+# Occupation boom operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match boom operator |   percentage match with boom operator |   skills not in boom operator |
 |:--------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [camera operator](camera_operator.md)                                     |                          23 |                                 8 |                                0.5    |                            15 |

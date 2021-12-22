@@ -1,6 +1,6 @@
-#Occupation rubber products machine operator
-##Number skills 11
-###Similar occupations:
+# Occupation rubber products machine operator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match rubber products machine operator |   percentage match with rubber products machine operator |   skills not in rubber products machine operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [glass forming machine operator](glass_forming_machine_operator.md)                                             |                          17 |                                                    5 |                                                 0.454545 |                                               12 |

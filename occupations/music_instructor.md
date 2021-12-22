@@ -1,6 +1,6 @@
-#Occupation music instructor
-##Number skills 25
-###Similar occupations:
+# Occupation music instructor
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match music instructor |   percentage match with music instructor |   skills not in music instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [music teacher secondary school](music_teacher_secondary_school.md)                                                   |                          31 |                                   22 |                                     0.88 |                                9 |

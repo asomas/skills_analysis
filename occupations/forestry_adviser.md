@@ -1,6 +1,6 @@
-#Occupation forestry adviser
-##Number skills 22
-###Similar occupations:
+# Occupation forestry adviser
+## Number skills 22
+### Similar occupations:
 | occupation                            |   skills in this occupation |   skills that match forestry adviser |   percentage match with forestry adviser |   skills not in forestry adviser |
 |:--------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [hunter](hunter.md)                   |                          26 |                                    7 |                                 0.318182 |                               19 |

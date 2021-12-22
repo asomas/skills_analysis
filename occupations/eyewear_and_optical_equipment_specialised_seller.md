@@ -1,6 +1,6 @@
-#Occupation eyewear and optical equipment specialised seller
-##Number skills 34
-###Similar occupations:
+# Occupation eyewear and optical equipment specialised seller
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match eyewear and optical equipment specialised seller |   percentage match with eyewear and optical equipment specialised seller |   skills not in eyewear and optical equipment specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------:|
 | [audiology equipment specialised seller](audiology_equipment_specialised_seller.md)                                                                               |                          32 |                                                                   28 |                                                                 0.823529 |                                                                4 |

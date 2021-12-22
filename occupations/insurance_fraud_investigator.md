@@ -1,6 +1,6 @@
-#Occupation insurance fraud investigator
-##Number skills 13
-###Similar occupations:
+# Occupation insurance fraud investigator
+## Number skills 13
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match insurance fraud investigator |   percentage match with insurance fraud investigator |   skills not in insurance fraud investigator |
 |:--------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [insurance claims handler](insurance_claims_handler.md)             |                          19 |                                                9 |                                             0.692308 |                                           10 |

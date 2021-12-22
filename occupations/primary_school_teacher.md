@@ -1,6 +1,6 @@
-#Occupation primary school teacher
-##Number skills 29
-###Similar occupations:
+# Occupation primary school teacher
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match primary school teacher |   percentage match with primary school teacher |   skills not in primary school teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [Steiner school teacher](Steiner_school_teacher.md)                                                                   |                          30 |                                         28 |                                       0.965517 |                                      2 |

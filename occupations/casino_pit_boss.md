@@ -1,6 +1,6 @@
-#Occupation casino pit boss
-##Number skills 10
-###Similar occupations:
+# Occupation casino pit boss
+## Number skills 10
+### Similar occupations:
 | occupation                                        |   skills in this occupation |   skills that match casino pit boss |   percentage match with casino pit boss |   skills not in casino pit boss |
 |:--------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [gaming dealer](gaming_dealer.md)                 |                          21 |                                   4 |                                     0.4 |                              17 |

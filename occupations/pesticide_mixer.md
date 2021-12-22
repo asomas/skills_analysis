@@ -1,6 +1,6 @@
-#Occupation pesticide mixer
-##Number skills 6
-###Similar occupations:
+# Occupation pesticide mixer
+## Number skills 6
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match pesticide mixer |   percentage match with pesticide mixer |   skills not in pesticide mixer |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [paint mixer](paint_mixer.md)                                                     |                           5 |                                   2 |                                0.333333 |                               3 |

@@ -1,6 +1,6 @@
-#Occupation healthcare institution manager
-##Number skills 17
-###Similar occupations:
+# Occupation healthcare institution manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match healthcare institution manager |   percentage match with healthcare institution manager |   skills not in healthcare institution manager |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [healthcare consultant](healthcare_consultant.md)                                             |                          12 |                                                  7 |                                               0.411765 |                                              5 |

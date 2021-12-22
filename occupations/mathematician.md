@@ -1,6 +1,6 @@
-#Occupation mathematician
-##Number skills 12
-###Similar occupations:
+# Occupation mathematician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match mathematician |   percentage match with mathematician |   skills not in mathematician |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [statistician](statistician.md)                                                           |                          14 |                                 7 |                              0.583333 |                             7 |

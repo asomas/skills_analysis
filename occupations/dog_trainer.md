@@ -1,6 +1,6 @@
-#Occupation dog trainer
-##Number skills 20
-###Similar occupations:
+# Occupation dog trainer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match dog trainer |   percentage match with dog trainer |   skills not in dog trainer |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [animal trainer](animal_trainer.md)                                                       |                          26 |                              18 |                                0.9  |                           8 |

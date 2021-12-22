@@ -1,6 +1,6 @@
-#Occupation boilermaker
-##Number skills 22
-###Similar occupations:
+# Occupation boilermaker
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match boilermaker |   percentage match with boilermaker |   skills not in boilermaker |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [welder](welder.md)                                                                                                                                           |                          31 |                              14 |                            0.636364 |                          17 |

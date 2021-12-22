@@ -1,6 +1,6 @@
-#Occupation budget manager
-##Number skills 29
-###Similar occupations:
+# Occupation budget manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match budget manager |   percentage match with budget manager |   skills not in budget manager |
 |:------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [accounting manager](accounting_manager.md)                             |                          33 |                                 19 |                               0.655172 |                             14 |

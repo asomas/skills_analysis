@@ -1,6 +1,6 @@
-#Occupation wood technology engineer
-##Number skills 29
-###Similar occupations:
+# Occupation wood technology engineer
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match wood technology engineer |   percentage match with wood technology engineer |   skills not in wood technology engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [transport engineer](transport_engineer.md)                                                                                                 |                          22 |                                           10 |                                         0.344828 |                                       12 |

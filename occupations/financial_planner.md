@@ -1,6 +1,6 @@
-#Occupation financial planner
-##Number skills 23
-###Similar occupations:
+# Occupation financial planner
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match financial planner |   percentage match with financial planner |   skills not in financial planner |
 |:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [investment adviser](investment_adviser.md)                                                   |                          22 |                                    11 |                                  0.478261 |                                11 |

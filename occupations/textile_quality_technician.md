@@ -1,6 +1,6 @@
-#Occupation textile quality technician
-##Number skills 14
-###Similar occupations:
+# Occupation textile quality technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match textile quality technician |   percentage match with textile quality technician |   skills not in textile quality technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [textile chemical quality technician](textile_chemical_quality_technician.md)             |                          14 |                                             12 |                                           0.857143 |                                          2 |

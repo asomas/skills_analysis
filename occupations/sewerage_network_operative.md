@@ -1,6 +1,6 @@
-#Occupation sewerage network operative
-##Number skills 13
-###Similar occupations:
+# Occupation sewerage network operative
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match sewerage network operative |   percentage match with sewerage network operative |   skills not in sewerage network operative |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [water network operative](water_network_operative.md)                                                                                                                 |                          13 |                                              9 |                                           0.692308 |                                          4 |

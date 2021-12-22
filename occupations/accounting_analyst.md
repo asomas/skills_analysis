@@ -1,6 +1,6 @@
-#Occupation accounting analyst
-##Number skills 17
-###Similar occupations:
+# Occupation accounting analyst
+## Number skills 17
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match accounting analyst |   percentage match with accounting analyst |   skills not in accounting analyst |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [accounting manager](accounting_manager.md)                             |                          33 |                                     13 |                                   0.764706 |                                 20 |

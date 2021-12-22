@@ -1,6 +1,6 @@
-#Occupation ammunition assembler
-##Number skills 14
-###Similar occupations:
+# Occupation ammunition assembler
+## Number skills 14
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match ammunition assembler |   percentage match with ammunition assembler |   skills not in ammunition assembler |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [insulating tube winder](insulating_tube_winder.md)                               |                          11 |                                        2 |                                     0.142857 |                                    9 |

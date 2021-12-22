@@ -1,6 +1,6 @@
-#Occupation vineyard manager
-##Number skills 20
-###Similar occupations:
+# Occupation vineyard manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match vineyard manager |   percentage match with vineyard manager |   skills not in vineyard manager |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [crop production manager](crop_production_manager.md)                             |                          26 |                                    7 |                                     0.35 |                               19 |

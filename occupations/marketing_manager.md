@@ -1,6 +1,6 @@
-#Occupation marketing manager
-##Number skills 28
-###Similar occupations:
+# Occupation marketing manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match marketing manager |   percentage match with marketing manager |   skills not in marketing manager |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [online community manager](online_community_manager.md)                 |                          47 |                                    28 |                                  1        |                                19 |

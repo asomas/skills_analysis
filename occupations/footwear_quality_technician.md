@@ -1,6 +1,6 @@
-#Occupation footwear quality technician
-##Number skills 14
-###Similar occupations:
+# Occupation footwear quality technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match footwear quality technician |   percentage match with footwear quality technician |   skills not in footwear quality technician |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [footwear quality manager](footwear_quality_manager.md)                                                       |                          16 |                                              13 |                                            0.928571 |                                           3 |

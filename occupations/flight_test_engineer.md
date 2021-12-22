@@ -1,6 +1,6 @@
-#Occupation flight test engineer
-##Number skills 19
-###Similar occupations:
+# Occupation flight test engineer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match flight test engineer |   percentage match with flight test engineer |   skills not in flight test engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [automation engineer](automation_engineer.md)                                                                                               |                          33 |                                       11 |                                     0.578947 |                                   22 |

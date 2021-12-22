@@ -1,6 +1,6 @@
-#Occupation computers, computer peripheral equipment and software distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation computers, computer peripheral equipment and software distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match computers, computer peripheral equipment and software distribution manager |   percentage match with computers, computer peripheral equipment and software distribution manager |   skills not in computers, computer peripheral equipment and software distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------:|
 | [textiles, textile semi-finished and raw materials distribution manager](textiles,_textile_semi-finished_and_raw_materials_distribution_manager.md)                     |                          26 |                                                                                             25 |                                                                                           0.961538 |                                                                                          1 |

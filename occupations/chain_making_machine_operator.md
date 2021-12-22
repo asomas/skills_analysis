@@ -1,6 +1,6 @@
-#Occupation chain making machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation chain making machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match chain making machine operator |   percentage match with chain making machine operator |   skills not in chain making machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [spring maker](spring_maker.md)                                                                       |                          16 |                                                11 |                                              0.785714 |                                             5 |

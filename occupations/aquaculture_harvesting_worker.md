@@ -1,6 +1,6 @@
-#Occupation aquaculture harvesting worker
-##Number skills 23
-###Similar occupations:
+# Occupation aquaculture harvesting worker
+## Number skills 23
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match aquaculture harvesting worker |   percentage match with aquaculture harvesting worker |   skills not in aquaculture harvesting worker |
 |:--------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [aquaculture harvesting technician](aquaculture_harvesting_technician.md)       |                          39 |                                                14 |                                              0.608696 |                                            25 |

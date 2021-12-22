@@ -1,6 +1,6 @@
-#Occupation food technician
-##Number skills 24
-###Similar occupations:
+# Occupation food technician
+## Number skills 24
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match food technician |   percentage match with food technician |   skills not in food technician |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [food technologist](food_technologist.md)                                               |                          60 |                                  14 |                                0.583333 |                              46 |

@@ -1,6 +1,6 @@
-#Occupation pipe welder
-##Number skills 20
-###Similar occupations:
+# Occupation pipe welder
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match pipe welder |   percentage match with pipe welder |   skills not in pipe welder |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [pipeline engineer](pipeline_engineer.md)                                                                                                                     |                          19 |                               7 |                                0.35 |                          12 |

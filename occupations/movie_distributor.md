@@ -1,6 +1,6 @@
-#Occupation movie distributor
-##Number skills 6
-###Similar occupations:
+# Occupation movie distributor
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match movie distributor |   percentage match with movie distributor |   skills not in movie distributor |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [storyboard artist](storyboard_artist.md)                                                                                                                           |                          15 |                                     3 |                                  0.5      |                                12 |

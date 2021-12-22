@@ -1,6 +1,6 @@
-#Occupation move coordinator
-##Number skills 14
-###Similar occupations:
+# Occupation move coordinator
+## Number skills 14
+### Similar occupations:
 | occupation                                          |   skills in this occupation |   skills that match move coordinator |   percentage match with move coordinator |   skills not in move coordinator |
 |:----------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [mover](mover.md)                                   |                          13 |                                    5 |                                 0.357143 |                                8 |

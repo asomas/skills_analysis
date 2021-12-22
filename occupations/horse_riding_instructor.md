@@ -1,6 +1,6 @@
-#Occupation horse riding instructor
-##Number skills 13
-###Similar occupations:
+# Occupation horse riding instructor
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match horse riding instructor |   percentage match with horse riding instructor |   skills not in horse riding instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [sports instructor](sports_instructor.md)                                                                             |                          10 |                                           6 |                                        0.461538 |                                       4 |

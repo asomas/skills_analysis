@@ -1,6 +1,6 @@
-#Occupation promoter
-##Number skills 15
-###Similar occupations:
+# Occupation promoter
+## Number skills 15
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match promoter |   percentage match with promoter |   skills not in promoter |
 |:----------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [event manager](event_manager.md)                         |                          15 |                            3 |                         0.2      |                       12 |

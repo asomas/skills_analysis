@@ -1,6 +1,6 @@
-#Occupation plodder operator
-##Number skills 7
-###Similar occupations:
+# Occupation plodder operator
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match plodder operator |   percentage match with plodder operator |   skills not in plodder operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [lumber grader](lumber_grader.md)                                                                               |                          34 |                                    2 |                                 0.285714 |                               32 |

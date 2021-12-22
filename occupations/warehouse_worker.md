@@ -1,6 +1,6 @@
-#Occupation warehouse worker
-##Number skills 39
-###Similar occupations:
+# Occupation warehouse worker
+## Number skills 39
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match warehouse worker |   percentage match with warehouse worker |   skills not in warehouse worker |
 |:------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [materials handler](materials_handler.md)                                     |                          22 |                                   16 |                                 0.410256 |                                6 |

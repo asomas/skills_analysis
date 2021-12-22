@@ -1,6 +1,6 @@
-#Occupation financial manager
-##Number skills 12
-###Similar occupations:
+# Occupation financial manager
+## Number skills 12
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match financial manager |   percentage match with financial manager |   skills not in financial manager |
 |:--------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [banking products manager](banking_products_manager.md)                         |                          27 |                                    12 |                                  1        |                                15 |

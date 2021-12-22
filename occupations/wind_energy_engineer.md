@@ -1,6 +1,6 @@
-#Occupation wind energy engineer
-##Number skills 25
-###Similar occupations:
+# Occupation wind energy engineer
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match wind energy engineer |   percentage match with wind energy engineer |   skills not in wind energy engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [renewable energy engineer](renewable_energy_engineer.md)                                                                                   |                          31 |                                       13 |                                         0.52 |                                   18 |

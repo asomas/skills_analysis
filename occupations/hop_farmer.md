@@ -1,6 +1,6 @@
-#Occupation hop farmer
-##Number skills 23
-###Similar occupations:
+# Occupation hop farmer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match hop farmer |   percentage match with hop farmer |   skills not in hop farmer |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [horticulture worker](horticulture_worker.md)                                     |                          16 |                             13 |                           0.565217 |                          3 |

@@ -1,6 +1,6 @@
-#Occupation demolition worker
-##Number skills 16
-###Similar occupations:
+# Occupation demolition worker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match demolition worker |   percentage match with demolition worker |   skills not in demolition worker |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [dismantling worker](dismantling_worker.md)                                             |                          24 |                                    13 |                                    0.8125 |                                11 |

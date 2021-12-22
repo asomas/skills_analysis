@@ -1,6 +1,6 @@
-#Occupation field survey manager
-##Number skills 15
-###Similar occupations:
+# Occupation field survey manager
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match field survey manager |   percentage match with field survey manager |   skills not in field survey manager |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [survey enumerator](survey_enumerator.md)                                                               |                          13 |                                        5 |                                     0.333333 |                                    8 |

@@ -1,6 +1,6 @@
-#Occupation canning and bottling line operator
-##Number skills 21
-###Similar occupations:
+# Occupation canning and bottling line operator
+## Number skills 21
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match canning and bottling line operator |   percentage match with canning and bottling line operator |   skills not in canning and bottling line operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [packaging and filling machine operator](packaging_and_filling_machine_operator.md)     |                          17 |                                                      9 |                                                   0.428571 |                                                  8 |

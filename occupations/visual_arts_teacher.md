@@ -1,6 +1,6 @@
-#Occupation visual arts teacher
-##Number skills 23
-###Similar occupations:
+# Occupation visual arts teacher
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match visual arts teacher |   percentage match with visual arts teacher |   skills not in visual arts teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [fine arts instructor](fine_arts_instructor.md)                                                                       |                          25 |                                      15 |                                    0.652174 |                                  10 |

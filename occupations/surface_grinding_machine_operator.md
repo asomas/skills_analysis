@@ -1,6 +1,6 @@
-#Occupation surface grinding machine operator
-##Number skills 18
-###Similar occupations:
+# Occupation surface grinding machine operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match surface grinding machine operator |   percentage match with surface grinding machine operator |   skills not in surface grinding machine operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [cylindrical grinder operator](cylindrical_grinder_operator.md)                                                 |                          17 |                                                    15 |                                                  0.833333 |                                                 2 |

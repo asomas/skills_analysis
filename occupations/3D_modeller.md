@@ -1,6 +1,6 @@
-#Occupation 3D modeller
-##Number skills 13
-###Similar occupations:
+# Occupation 3D modeller
+## Number skills 13
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match 3D modeller |   percentage match with 3D modeller |   skills not in 3D modeller |
 |:----------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [3D animator](3D_animator.md)                                   |                          12 |                               8 |                            0.615385 |                           4 |

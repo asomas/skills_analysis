@@ -1,6 +1,6 @@
-#Occupation roofing supervisor
-##Number skills 24
-###Similar occupations:
+# Occupation roofing supervisor
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match roofing supervisor |   percentage match with roofing supervisor |   skills not in roofing supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [bricklaying supervisor](bricklaying_supervisor.md)                                                             |                          24 |                                     21 |                                   0.875    |                                  3 |

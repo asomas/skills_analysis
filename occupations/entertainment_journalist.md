@@ -1,6 +1,6 @@
-#Occupation entertainment journalist
-##Number skills 20
-###Similar occupations:
+# Occupation entertainment journalist
+## Number skills 20
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match entertainment journalist |   percentage match with entertainment journalist |   skills not in entertainment journalist |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [political journalist](political_journalist.md)                                   |                          22 |                                           20 |                                             1    |                                        2 |

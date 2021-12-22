@@ -1,6 +1,6 @@
-#Occupation surface treatment operator
-##Number skills 8
-###Similar occupations:
+# Occupation surface treatment operator
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match surface treatment operator |   percentage match with surface treatment operator |   skills not in surface treatment operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [boat rigger](boat_rigger.md)                                                                                                                                         |                          15 |                                              5 |                                              0.625 |                                         10 |

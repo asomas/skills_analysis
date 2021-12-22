@@ -1,6 +1,6 @@
-#Occupation foreign exchange broker
-##Number skills 13
-###Similar occupations:
+# Occupation foreign exchange broker
+## Number skills 13
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match foreign exchange broker |   percentage match with foreign exchange broker |   skills not in foreign exchange broker |
 |:--------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [foreign exchange trader](foreign_exchange_trader.md)                           |                          13 |                                          11 |                                        0.846154 |                                       2 |

@@ -1,6 +1,6 @@
-#Occupation location manager
-##Number skills 15
-###Similar occupations:
+# Occupation location manager
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match location manager |   percentage match with location manager |   skills not in location manager |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [director of photography](director_of_photography.md)                                         |                          20 |                                    4 |                                 0.266667 |                               16 |

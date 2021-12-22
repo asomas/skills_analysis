@@ -1,6 +1,6 @@
-#Occupation curing room worker
-##Number skills 30
-###Similar occupations:
+# Occupation curing room worker
+## Number skills 30
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match curing room worker |   percentage match with curing room worker |   skills not in curing room worker |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [cigarette making machine operator](cigarette_making_machine_operator.md)           |                          47 |                                     26 |                                   0.866667 |                                 21 |

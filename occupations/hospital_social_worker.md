@@ -1,6 +1,6 @@
-#Occupation hospital social worker
-##Number skills 71
-###Similar occupations:
+# Occupation hospital social worker
+## Number skills 71
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match hospital social worker |   percentage match with hospital social worker |   skills not in hospital social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [palliative care social worker](palliative_care_social_worker.md)                         |                          74 |                                         68 |                                       0.957746 |                                      6 |

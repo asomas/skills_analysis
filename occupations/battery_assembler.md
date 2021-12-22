@@ -1,6 +1,6 @@
-#Occupation battery assembler
-##Number skills 20
-###Similar occupations:
+# Occupation battery assembler
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match battery assembler |   percentage match with battery assembler |   skills not in battery assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [electrical equipment assembler](electrical_equipment_assembler.md)                                   |                          21 |                                    11 |                                      0.55 |                                10 |

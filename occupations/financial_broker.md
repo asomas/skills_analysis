@@ -1,6 +1,6 @@
-#Occupation financial broker
-##Number skills 16
-###Similar occupations:
+# Occupation financial broker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match financial broker |   percentage match with financial broker |   skills not in financial broker |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [securities broker](securities_broker.md)                                         |                          20 |                                   12 |                                   0.75   |                                8 |

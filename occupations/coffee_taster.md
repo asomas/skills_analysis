@@ -1,6 +1,6 @@
-#Occupation coffee taster
-##Number skills 17
-###Similar occupations:
+# Occupation coffee taster
+## Number skills 17
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match coffee taster |   percentage match with coffee taster |   skills not in coffee taster |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [green coffee buyer](green_coffee_buyer.md)                                             |                          20 |                                 9 |                              0.529412 |                            11 |

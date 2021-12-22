@@ -1,6 +1,6 @@
-#Occupation immigration officer
-##Number skills 10
-###Similar occupations:
+# Occupation immigration officer
+## Number skills 10
+### Similar occupations:
 | occupation                                                    |   skills in this occupation |   skills that match immigration officer |   percentage match with immigration officer |   skills not in immigration officer |
 |:--------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [immigration adviser](immigration_adviser.md)                 |                          11 |                                       5 |                                         0.5 |                                   6 |

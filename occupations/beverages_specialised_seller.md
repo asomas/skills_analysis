@@ -1,6 +1,6 @@
-#Occupation beverages specialised seller
-##Number skills 32
-###Similar occupations:
+# Occupation beverages specialised seller
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match beverages specialised seller |   percentage match with beverages specialised seller |   skills not in beverages specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [meat and meat products specialised seller](meat_and_meat_products_specialised_seller.md)                                                                         |                          35 |                                               28 |                                              0.875   |                                            7 |

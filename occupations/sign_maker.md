@@ -1,6 +1,6 @@
-#Occupation sign maker
-##Number skills 14
-###Similar occupations:
+# Occupation sign maker
+## Number skills 14
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match sign maker |   percentage match with sign maker |   skills not in sign maker |
 |:--------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [costume designer](costume_designer.md)                             |                          41 |                              6 |                           0.428571 |                         35 |

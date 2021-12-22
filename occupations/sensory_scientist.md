@@ -1,6 +1,6 @@
-#Occupation sensory scientist
-##Number skills 17
-###Similar occupations:
+# Occupation sensory scientist
+## Number skills 17
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match sensory scientist |   percentage match with sensory scientist |   skills not in sensory scientist |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [biomedical scientist](biomedical_scientist.md)                             |                          90 |                                     4 |                                  0.235294 |                                86 |

@@ -1,6 +1,6 @@
-#Occupation philosopher
-##Number skills 12
-###Similar occupations:
+# Occupation philosopher
+## Number skills 12
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match philosopher |   percentage match with philosopher |   skills not in philosopher |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [climatologist](climatologist.md)                                             |                          16 |                               3 |                            0.25     |                          13 |

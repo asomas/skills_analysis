@@ -1,6 +1,6 @@
-#Occupation technical sales representative in mining and construction machinery
-##Number skills 29
-###Similar occupations:
+# Occupation technical sales representative in mining and construction machinery
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match technical sales representative in mining and construction machinery |   percentage match with technical sales representative in mining and construction machinery |   skills not in technical sales representative in mining and construction machinery |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------:|
 | [technical sales representative in agricultural machinery and equipment](technical_sales_representative_in_agricultural_machinery_and_equipment.md)               |                          29 |                                                                                      28 |                                                                                    0.965517 |                                                                                   1 |

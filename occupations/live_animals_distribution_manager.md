@@ -1,6 +1,6 @@
-#Occupation live animals distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation live animals distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match live animals distribution manager |   percentage match with live animals distribution manager |   skills not in live animals distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [textiles, textile semi-finished and raw materials distribution manager](textiles,_textile_semi-finished_and_raw_materials_distribution_manager.md)                     |                          26 |                                                    25 |                                                  0.961538 |                                                 1 |

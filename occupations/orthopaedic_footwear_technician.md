@@ -1,6 +1,6 @@
-#Occupation orthopaedic footwear technician
-##Number skills 20
-###Similar occupations:
+# Occupation orthopaedic footwear technician
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                          |   skills in this occupation |   skills that match orthopaedic footwear technician |   percentage match with orthopaedic footwear technician |   skills not in orthopaedic footwear technician |
 |:----------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [shoemaker](shoemaker.md)                                                                           |                          17 |                                                  17 |                                                    0.85 |                                               0 |

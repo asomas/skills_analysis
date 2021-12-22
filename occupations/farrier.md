@@ -1,6 +1,6 @@
-#Occupation farrier
-##Number skills 8
-###Similar occupations:
+# Occupation farrier
+## Number skills 8
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match farrier |   percentage match with farrier |   skills not in farrier |
 |:----------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [cattle pedicure](cattle_pedicure.md)                           |                           8 |                           2 |                           0.25  |                       6 |

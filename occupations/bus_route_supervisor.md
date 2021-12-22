@@ -1,6 +1,6 @@
-#Occupation bus route supervisor
-##Number skills 13
-###Similar occupations:
+# Occupation bus route supervisor
+## Number skills 13
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match bus route supervisor |   percentage match with bus route supervisor |   skills not in bus route supervisor |
 |:----------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [taxi controller](taxi_controller.md)                                       |                          18 |                                        4 |                                     0.307692 |                                   14 |

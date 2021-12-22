@@ -1,6 +1,6 @@
-#Occupation marine cargo inspector
-##Number skills 16
-###Similar occupations:
+# Occupation marine cargo inspector
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match marine cargo inspector |   percentage match with marine cargo inspector |   skills not in marine cargo inspector |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [freight inspector](freight_inspector.md)                                                                                                                   |                          20 |                                          8 |                                         0.5    |                                     12 |

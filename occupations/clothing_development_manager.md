@@ -1,6 +1,6 @@
-#Occupation clothing development manager
-##Number skills 14
-###Similar occupations:
+# Occupation clothing development manager
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match clothing development manager |   percentage match with clothing development manager |   skills not in clothing development manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [clothing technologist](clothing_technologist.md)                                         |                          21 |                                               13 |                                             0.928571 |                                            8 |

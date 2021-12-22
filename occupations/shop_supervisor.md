@@ -1,6 +1,6 @@
-#Occupation shop supervisor
-##Number skills 11
-###Similar occupations:
+# Occupation shop supervisor
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match shop supervisor |   percentage match with shop supervisor |   skills not in shop supervisor |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [checkout supervisor](checkout_supervisor.md)                                                     |                          20 |                                   9 |                                0.818182 |                              11 |

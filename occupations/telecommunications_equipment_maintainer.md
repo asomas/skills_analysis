@@ -1,6 +1,6 @@
-#Occupation telecommunications equipment maintainer
-##Number skills 9
-###Similar occupations:
+# Occupation telecommunications equipment maintainer
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match telecommunications equipment maintainer |   percentage match with telecommunications equipment maintainer |   skills not in telecommunications equipment maintainer |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [telecommunications technician](telecommunications_technician.md)                         |                          25 |                                                           4 |                                                        0.444444 |                                                      21 |

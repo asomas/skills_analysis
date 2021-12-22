@@ -1,6 +1,6 @@
-#Occupation tobacco products distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation tobacco products distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match tobacco products distribution manager |   percentage match with tobacco products distribution manager |   skills not in tobacco products distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [textiles, textile semi-finished and raw materials distribution manager](textiles,_textile_semi-finished_and_raw_materials_distribution_manager.md)                     |                          26 |                                                        25 |                                                      0.961538 |                                                     1 |

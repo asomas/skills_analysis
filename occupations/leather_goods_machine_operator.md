@@ -1,6 +1,6 @@
-#Occupation leather goods machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation leather goods machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods machine operator |   percentage match with leather goods machine operator |   skills not in leather goods machine operator |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [leather laboratory technician](leather_laboratory_technician.md)                                             |                          22 |                                                  6 |                                               0.428571 |                                             16 |

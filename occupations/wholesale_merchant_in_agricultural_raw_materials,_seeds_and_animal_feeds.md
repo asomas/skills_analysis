@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in agricultural raw materials, seeds and animal feeds
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in agricultural raw materials, seeds and animal feeds
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in agricultural raw materials, seeds and animal feeds |   percentage match with wholesale merchant in agricultural raw materials, seeds and animal feeds |   skills not in wholesale merchant in agricultural raw materials, seeds and animal feeds |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
 | [wholesale merchant in dairy products and edible oils](wholesale_merchant_in_dairy_products_and_edible_oils.md)                                                     |                          20 |                                                                                           19 |                                                                                             0.95 |                                                                                        1 |

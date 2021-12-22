@@ -1,6 +1,6 @@
-#Occupation thermal engineer
-##Number skills 22
-###Similar occupations:
+# Occupation thermal engineer
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match thermal engineer |   percentage match with thermal engineer |   skills not in thermal engineer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [fluid power engineer](fluid_power_engineer.md)                                                                                                                       |                          22 |                                   11 |                                 0.5      |                               11 |

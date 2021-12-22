@@ -1,6 +1,6 @@
-#Occupation solar energy sales consultant
-##Number skills 16
-###Similar occupations:
+# Occupation solar energy sales consultant
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match solar energy sales consultant |   percentage match with solar energy sales consultant |   skills not in solar energy sales consultant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [renewable energy consultant](renewable_energy_consultant.md)                                                                                                     |                          17 |                                                11 |                                                0.6875 |                                             6 |

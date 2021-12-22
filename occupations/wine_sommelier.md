@@ -1,6 +1,6 @@
-#Occupation wine sommelier
-##Number skills 16
-###Similar occupations:
+# Occupation wine sommelier
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match wine sommelier |   percentage match with wine sommelier |   skills not in wine sommelier |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [oenologist](oenologist.md)                                                             |                          34 |                                  6 |                                 0.375  |                             28 |

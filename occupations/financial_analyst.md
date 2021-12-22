@@ -1,6 +1,6 @@
-#Occupation financial analyst
-##Number skills 15
-###Similar occupations:
+# Occupation financial analyst
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match financial analyst |   percentage match with financial analyst |   skills not in financial analyst |
 |:--------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [business consultant](business_consultant.md)                                               |                          24 |                                     4 |                                  0.266667 |                                20 |

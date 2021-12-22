@@ -1,6 +1,6 @@
-#Occupation milling machine operator
-##Number skills 22
-###Similar occupations:
+# Occupation milling machine operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match milling machine operator |   percentage match with milling machine operator |   skills not in milling machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [grinding machine operator](grinding_machine_operator.md)                                             |                          24 |                                           22 |                                         1        |                                        2 |

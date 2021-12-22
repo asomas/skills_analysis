@@ -1,6 +1,6 @@
-#Occupation toymaker
-##Number skills 24
-###Similar occupations:
+# Occupation toymaker
+## Number skills 24
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match toymaker |   percentage match with toymaker |   skills not in toymaker |
 |:------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [doll maker](doll_maker.md)                                                         |                          13 |                            7 |                         0.291667 |                        6 |

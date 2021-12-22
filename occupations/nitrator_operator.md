@@ -1,6 +1,6 @@
-#Occupation nitrator operator
-##Number skills 10
-###Similar occupations:
+# Occupation nitrator operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match nitrator operator |   percentage match with nitrator operator |   skills not in nitrator operator |
 |:--------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [pharmaceutical engineer](pharmaceutical_engineer.md)               |                          28 |                                     3 |                                       0.3 |                                25 |

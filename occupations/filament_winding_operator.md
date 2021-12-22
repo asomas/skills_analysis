@@ -1,6 +1,6 @@
-#Occupation filament winding operator
-##Number skills 14
-###Similar occupations:
+# Occupation filament winding operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match filament winding operator |   percentage match with filament winding operator |   skills not in filament winding operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [pultrusion machine operator](pultrusion_machine_operator.md)                                                   |                          14 |                                            11 |                                          0.785714 |                                         3 |

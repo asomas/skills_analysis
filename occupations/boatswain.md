@@ -1,6 +1,6 @@
-#Occupation boatswain
-##Number skills 28
-###Similar occupations:
+# Occupation boatswain
+## Number skills 28
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match boatswain |   percentage match with boatswain |   skills not in boatswain |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [fisheries deckhand](fisheries_deckhand.md)                             |                          38 |                            20 |                          0.714286 |                        18 |

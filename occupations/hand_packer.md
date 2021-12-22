@@ -1,6 +1,6 @@
-#Occupation hand packer
-##Number skills 9
-###Similar occupations:
+# Occupation hand packer
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match hand packer |   percentage match with hand packer |   skills not in hand packer |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [warehouse order picker](warehouse_order_picker.md)                                               |                          24 |                               5 |                            0.555556 |                          19 |

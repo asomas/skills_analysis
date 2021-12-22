@@ -1,6 +1,6 @@
-#Occupation import export specialist in agricultural raw materials, seeds and animal feeds
-##Number skills 24
-###Similar occupations:
+# Occupation import export specialist in agricultural raw materials, seeds and animal feeds
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in agricultural raw materials, seeds and animal feeds |   percentage match with import export specialist in agricultural raw materials, seeds and animal feeds |   skills not in import export specialist in agricultural raw materials, seeds and animal feeds |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------:|
 | [import export specialist in fruit and vegetables](import_export_specialist_in_fruit_and_vegetables.md)                                                                 |                          25 |                                                                                                 23 |                                                                                               0.958333 |                                                                                              2 |

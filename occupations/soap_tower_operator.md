@@ -1,6 +1,6 @@
-#Occupation soap tower operator
-##Number skills 8
-###Similar occupations:
+# Occupation soap tower operator
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match soap tower operator |   percentage match with soap tower operator |   skills not in soap tower operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [nitroglycerin neutraliser](nitroglycerin_neutraliser.md)                                                       |                          12 |                                       4 |                                       0.5   |                                   8 |

@@ -1,6 +1,6 @@
-#Occupation mobile phone repair technician
-##Number skills 21
-###Similar occupations:
+# Occupation mobile phone repair technician
+## Number skills 21
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match mobile phone repair technician |   percentage match with mobile phone repair technician |   skills not in mobile phone repair technician |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [office equipment repair technician](office_equipment_repair_technician.md)         |                          18 |                                                 10 |                                               0.47619  |                                              8 |

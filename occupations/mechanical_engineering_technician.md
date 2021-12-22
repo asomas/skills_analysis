@@ -1,6 +1,6 @@
-#Occupation mechanical engineering technician
-##Number skills 14
-###Similar occupations:
+# Occupation mechanical engineering technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match mechanical engineering technician |   percentage match with mechanical engineering technician |   skills not in mechanical engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [aerospace engineering technician](aerospace_engineering_technician.md)                                                                     |                          19 |                                                    10 |                                                  0.714286 |                                                 9 |

@@ -1,6 +1,6 @@
-#Occupation computer science lecturer
-##Number skills 62
-###Similar occupations:
+# Occupation computer science lecturer
+## Number skills 62
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match computer science lecturer |   percentage match with computer science lecturer |   skills not in computer science lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [numerical tool and process control programmer](numerical_tool_and_process_control_programmer.md)                     |                          52 |                                            35 |                                          0.564516 |                                        17 |

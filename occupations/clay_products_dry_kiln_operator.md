@@ -1,6 +1,6 @@
-#Occupation clay products dry kiln operator
-##Number skills 8
-###Similar occupations:
+# Occupation clay products dry kiln operator
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match clay products dry kiln operator |   percentage match with clay products dry kiln operator |   skills not in clay products dry kiln operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [kiln firer](kiln_firer.md)                                                                                     |                           7 |                                                   2 |                                                   0.25  |                                               5 |

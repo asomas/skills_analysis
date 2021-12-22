@@ -1,6 +1,6 @@
-#Occupation exhibition curator
-##Number skills 31
-###Similar occupations:
+# Occupation exhibition curator
+## Number skills 31
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match exhibition curator |   percentage match with exhibition curator |   skills not in exhibition curator |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [artistic director](artistic_director.md)                                   |                          36 |                                      9 |                                   0.290323 |                                 27 |

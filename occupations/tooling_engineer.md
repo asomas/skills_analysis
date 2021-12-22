@@ -1,6 +1,6 @@
-#Occupation tooling engineer
-##Number skills 29
-###Similar occupations:
+# Occupation tooling engineer
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match tooling engineer |   percentage match with tooling engineer |   skills not in tooling engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [container equipment design engineer](container_equipment_design_engineer.md)                                                               |                          23 |                                   17 |                                 0.586207 |                                6 |

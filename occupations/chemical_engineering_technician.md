@@ -1,6 +1,6 @@
-#Occupation chemical engineering technician
-##Number skills 22
-###Similar occupations:
+# Occupation chemical engineering technician
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match chemical engineering technician |   percentage match with chemical engineering technician |   skills not in chemical engineering technician |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [corrosion technician](corrosion_technician.md)                                             |                          19 |                                                   8 |                                                0.363636 |                                              11 |

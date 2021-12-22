@@ -1,6 +1,6 @@
-#Occupation varnish maker
-##Number skills 14
-###Similar occupations:
+# Occupation varnish maker
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match varnish maker |   percentage match with varnish maker |   skills not in varnish maker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [lacquer maker](lacquer_maker.md)                                                                     |                          13 |                                 8 |                              0.571429 |                             5 |

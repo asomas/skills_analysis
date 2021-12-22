@@ -1,6 +1,6 @@
-#Occupation textile pattern making machine operator
-##Number skills 7
-###Similar occupations:
+# Occupation textile pattern making machine operator
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match textile pattern making machine operator |   percentage match with textile pattern making machine operator |   skills not in textile pattern making machine operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [clothing shop manager](clothing_shop_manager.md)                                                                                                                     |                          32 |                                                           3 |                                                        0.428571 |                                                      29 |

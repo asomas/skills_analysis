@@ -1,6 +1,6 @@
-#Occupation manufacturing cost estimator
-##Number skills 6
-###Similar occupations:
+# Occupation manufacturing cost estimator
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match manufacturing cost estimator |   percentage match with manufacturing cost estimator |   skills not in manufacturing cost estimator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [component engineer](component_engineer.md)                                                                                                 |                          15 |                                                4 |                                             0.666667 |                                           11 |

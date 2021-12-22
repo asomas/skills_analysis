@@ -1,6 +1,6 @@
-#Occupation animation director
-##Number skills 15
-###Similar occupations:
+# Occupation animation director
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match animation director |   percentage match with animation director |   skills not in animation director |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [special effects artist](special_effects_artist.md)                                                                                                         |                          16 |                                      9 |                                   0.6      |                                  7 |

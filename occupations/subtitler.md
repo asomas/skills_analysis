@@ -1,6 +1,6 @@
-#Occupation subtitler
-##Number skills 12
-###Similar occupations:
+# Occupation subtitler
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match subtitler |   percentage match with subtitler |   skills not in subtitler |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [sports journalist](sports_journalist.md)                                                                                                               |                          22 |                             4 |                          0.333333 |                        18 |

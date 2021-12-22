@@ -1,6 +1,6 @@
-#Occupation solar energy engineer
-##Number skills 25
-###Similar occupations:
+# Occupation solar energy engineer
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match solar energy engineer |   percentage match with solar energy engineer |   skills not in solar energy engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [energy systems engineer](energy_systems_engineer.md)                                                                                       |                          28 |                                        13 |                                          0.52 |                                    15 |

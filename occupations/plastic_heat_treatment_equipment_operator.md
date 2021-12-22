@@ -1,6 +1,6 @@
-#Occupation plastic heat treatment equipment operator
-##Number skills 17
-###Similar occupations:
+# Occupation plastic heat treatment equipment operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match plastic heat treatment equipment operator |   percentage match with plastic heat treatment equipment operator |   skills not in plastic heat treatment equipment operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [cake press operator](cake_press_operator.md)                                                                   |                          19 |                                                             9 |                                                          0.529412 |                                                        10 |

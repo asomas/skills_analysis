@@ -1,6 +1,6 @@
-#Occupation computer scientist
-##Number skills 12
-###Similar occupations:
+# Occupation computer scientist
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match computer scientist |   percentage match with computer scientist |   skills not in computer scientist |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [ICT research consultant](ICT_research_consultant.md)                                     |                          21 |                                     10 |                                   0.833333 |                                 11 |

@@ -1,6 +1,6 @@
-#Occupation fish, crustaceans and molluscs distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation fish, crustaceans and molluscs distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match fish, crustaceans and molluscs distribution manager |   percentage match with fish, crustaceans and molluscs distribution manager |   skills not in fish, crustaceans and molluscs distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------------------:|--------------------------------------------------------------------:|
 | [textiles, textile semi-finished and raw materials distribution manager](textiles,_textile_semi-finished_and_raw_materials_distribution_manager.md)                     |                          26 |                                                                      25 |                                                                    0.961538 |                                                                   1 |

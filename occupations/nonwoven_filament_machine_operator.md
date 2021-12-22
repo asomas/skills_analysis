@@ -1,6 +1,6 @@
-#Occupation nonwoven filament machine operator
-##Number skills 5
-###Similar occupations:
+# Occupation nonwoven filament machine operator
+## Number skills 5
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match nonwoven filament machine operator |   percentage match with nonwoven filament machine operator |   skills not in nonwoven filament machine operator |
 |:------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [nonwoven  textile technician](nonwoven__textile_technician.md)               |                           8 |                                                      3 |                                                        0.6 |                                                  5 |

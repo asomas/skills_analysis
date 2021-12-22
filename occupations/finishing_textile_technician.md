@@ -1,6 +1,6 @@
-#Occupation finishing textile technician
-##Number skills 9
-###Similar occupations:
+# Occupation finishing textile technician
+## Number skills 9
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match finishing textile technician |   percentage match with finishing textile technician |   skills not in finishing textile technician |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [textile dyeing technician](textile_dyeing_technician.md)                               |                           7 |                                                6 |                                             0.666667 |                                            1 |

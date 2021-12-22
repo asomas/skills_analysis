@@ -1,6 +1,6 @@
-#Occupation power distribution engineer
-##Number skills 26
-###Similar occupations:
+# Occupation power distribution engineer
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match power distribution engineer |   percentage match with power distribution engineer |   skills not in power distribution engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [substation engineer](substation_engineer.md)                                                                                               |                          25 |                                              14 |                                            0.538462 |                                          11 |

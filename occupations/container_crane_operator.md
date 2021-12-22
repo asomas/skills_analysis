@@ -1,6 +1,6 @@
-#Occupation container crane operator
-##Number skills 14
-###Similar occupations:
+# Occupation container crane operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match container crane operator |   percentage match with container crane operator |   skills not in container crane operator |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [crane technician](crane_technician.md)                                     |                          14 |                                            4 |                                         0.285714 |                                       10 |

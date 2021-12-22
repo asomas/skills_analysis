@@ -1,6 +1,6 @@
-#Occupation digital games developer
-##Number skills 17
-###Similar occupations:
+# Occupation digital games developer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                      |   skills in this occupation |   skills that match digital games developer |   percentage match with digital games developer |   skills not in digital games developer |
 |:------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [embedded systems software developer](embedded_systems_software_developer.md)                   |                          16 |                                          11 |                                        0.647059 |                                       5 |

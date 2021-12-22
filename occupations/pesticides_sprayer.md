@@ -1,6 +1,6 @@
-#Occupation pesticides sprayer
-##Number skills 14
-###Similar occupations:
+# Occupation pesticides sprayer
+## Number skills 14
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match pesticides sprayer |   percentage match with pesticides sprayer |   skills not in pesticides sprayer |
 |:------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [pest management worker](pest_management_worker.md)               |                          18 |                                      7 |                                   0.5      |                                 11 |

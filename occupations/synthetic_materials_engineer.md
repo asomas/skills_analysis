@@ -1,6 +1,6 @@
-#Occupation synthetic materials engineer
-##Number skills 19
-###Similar occupations:
+# Occupation synthetic materials engineer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match synthetic materials engineer |   percentage match with synthetic materials engineer |   skills not in synthetic materials engineer |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [chemistry technician](chemistry_technician.md)                                     |                          26 |                                                4 |                                             0.210526 |                                           22 |

@@ -1,6 +1,6 @@
-#Occupation airside safety manager
-##Number skills 15
-###Similar occupations:
+# Occupation airside safety manager
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match airside safety manager |   percentage match with airside safety manager |   skills not in airside safety manager |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [airport operations officer](airport_operations_officer.md)                                                   |                          37 |                                          6 |                                       0.4      |                                     31 |

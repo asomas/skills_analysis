@@ -1,6 +1,6 @@
-#Occupation metal production supervisor
-##Number skills 22
-###Similar occupations:
+# Occupation metal production supervisor
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match metal production supervisor |   percentage match with metal production supervisor |   skills not in metal production supervisor |
 |:--------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [production supervisor](production_supervisor.md)                                           |                          39 |                                              15 |                                            0.681818 |                                          24 |

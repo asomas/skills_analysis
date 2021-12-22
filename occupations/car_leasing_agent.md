@@ -1,6 +1,6 @@
-#Occupation car leasing agent
-##Number skills 28
-###Similar occupations:
+# Occupation car leasing agent
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match car leasing agent |   percentage match with car leasing agent |   skills not in car leasing agent |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [rental service representative in office machinery and equipment](rental_service_representative_in_office_machinery_and_equipment.md)                               |                          23 |                                    11 |                                  0.392857 |                                12 |

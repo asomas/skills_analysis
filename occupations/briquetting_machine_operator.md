@@ -1,6 +1,6 @@
-#Occupation briquetting machine operator
-##Number skills 10
-###Similar occupations:
+# Occupation briquetting machine operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match briquetting machine operator |   percentage match with briquetting machine operator |   skills not in briquetting machine operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [scrap metal operative](scrap_metal_operative.md)                                                                                                                     |                          10 |                                                8 |                                                  0.8 |                                            2 |

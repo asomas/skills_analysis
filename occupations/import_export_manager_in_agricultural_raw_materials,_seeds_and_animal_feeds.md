@@ -1,6 +1,6 @@
-#Occupation import export manager in agricultural raw materials, seeds and animal feeds
-##Number skills 27
-###Similar occupations:
+# Occupation import export manager in agricultural raw materials, seeds and animal feeds
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in agricultural raw materials, seeds and animal feeds |   percentage match with import export manager in agricultural raw materials, seeds and animal feeds |   skills not in import export manager in agricultural raw materials, seeds and animal feeds |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------:|
 | [import export manager in coffee, tea, cocoa and spices](import_export_manager_in_coffee,_tea,_cocoa_and_spices.md)                                                     |                          28 |                                                                                              26 |                                                                                            0.962963 |                                                                                           2 |

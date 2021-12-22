@@ -1,6 +1,6 @@
-#Occupation drapery and carpet cleaner
-##Number skills 18
-###Similar occupations:
+# Occupation drapery and carpet cleaner
+## Number skills 18
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match drapery and carpet cleaner |   percentage match with drapery and carpet cleaner |   skills not in drapery and carpet cleaner |
 |:--------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [laundromat attendant](laundromat_attendant.md)                                 |                          18 |                                              7 |                                           0.388889 |                                         11 |

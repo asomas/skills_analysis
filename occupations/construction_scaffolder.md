@@ -1,6 +1,6 @@
-#Occupation construction scaffolder
-##Number skills 18
-###Similar occupations:
+# Occupation construction scaffolder
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match construction scaffolder |   percentage match with construction scaffolder |   skills not in construction scaffolder |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [roofer](roofer.md)                                                                                                                                                   |                          23 |                                           9 |                                        0.5      |                                      14 |

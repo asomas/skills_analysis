@@ -1,6 +1,6 @@
-#Occupation mixed farmer
-##Number skills 9
-###Similar occupations:
+# Occupation mixed farmer
+## Number skills 9
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match mixed farmer |   percentage match with mixed farmer |   skills not in mixed farmer |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [crop production manager](crop_production_manager.md)                                   |                          26 |                                6 |                             0.666667 |                           20 |

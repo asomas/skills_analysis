@@ -1,6 +1,6 @@
-#Occupation drilling machine operator
-##Number skills 20
-###Similar occupations:
+# Occupation drilling machine operator
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match drilling machine operator |   percentage match with drilling machine operator |   skills not in drilling machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [engraving machine operator](engraving_machine_operator.md)                                           |                          29 |                                            19 |                                              0.95 |                                        10 |

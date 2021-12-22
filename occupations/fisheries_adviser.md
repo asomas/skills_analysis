@@ -1,6 +1,6 @@
-#Occupation fisheries adviser
-##Number skills 22
-###Similar occupations:
+# Occupation fisheries adviser
+## Number skills 22
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match fisheries adviser |   percentage match with fisheries adviser |   skills not in fisheries adviser |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [fisheries boatmaster](fisheries_boatmaster.md)                             |                          45 |                                     3 |                                  0.136364 |                                42 |

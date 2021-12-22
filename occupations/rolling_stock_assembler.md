@@ -1,6 +1,6 @@
-#Occupation rolling stock assembler
-##Number skills 17
-###Similar occupations:
+# Occupation rolling stock assembler
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match rolling stock assembler |   percentage match with rolling stock assembler |   skills not in rolling stock assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [aircraft assembler](aircraft_assembler.md)                                                           |                          18 |                                          14 |                                        0.823529 |                                       4 |

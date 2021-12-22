@@ -1,6 +1,6 @@
-#Occupation model maker
-##Number skills 15
-###Similar occupations:
+# Occupation model maker
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match model maker |   percentage match with model maker |   skills not in model maker |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [aircraft engine assembler](aircraft_engine_assembler.md)                                                                                   |                          20 |                               5 |                            0.333333 |                          15 |

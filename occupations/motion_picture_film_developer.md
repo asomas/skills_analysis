@@ -1,6 +1,6 @@
-#Occupation motion picture film developer
-##Number skills 11
-###Similar occupations:
+# Occupation motion picture film developer
+## Number skills 11
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match motion picture film developer |   percentage match with motion picture film developer |   skills not in motion picture film developer |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [photographic developer](photographic_developer.md)                     |                          14 |                                                11 |                                              1        |                                             3 |

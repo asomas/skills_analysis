@@ -1,6 +1,6 @@
-#Occupation lawyer
-##Number skills 13
-###Similar occupations:
+# Occupation lawyer
+## Number skills 13
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match lawyer |   percentage match with lawyer |   skills not in lawyer |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [corporate lawyer](corporate_lawyer.md)                                 |                          20 |                         11 |                       0.846154 |                      9 |

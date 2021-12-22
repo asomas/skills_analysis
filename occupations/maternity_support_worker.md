@@ -1,6 +1,6 @@
-#Occupation maternity support worker
-##Number skills 34
-###Similar occupations:
+# Occupation maternity support worker
+## Number skills 34
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match maternity support worker |   percentage match with maternity support worker |   skills not in maternity support worker |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [midwife](midwife.md)                                                               |                          74 |                                           24 |                                         0.705882 |                                       50 |

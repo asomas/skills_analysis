@@ -1,6 +1,6 @@
-#Occupation meteorologist
-##Number skills 11
-###Similar occupations:
+# Occupation meteorologist
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match meteorologist |   percentage match with meteorologist |   skills not in meteorologist |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [meteorology technician](meteorology_technician.md)                                       |                          23 |                                11 |                              1        |                            12 |

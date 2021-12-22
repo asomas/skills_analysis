@@ -1,6 +1,6 @@
-#Occupation butcher
-##Number skills 36
-###Similar occupations:
+# Occupation butcher
+## Number skills 36
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match butcher |   percentage match with butcher |   skills not in butcher |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [halal butcher](halal_butcher.md)                                                   |                          30 |                          29 |                        0.805556 |                       1 |

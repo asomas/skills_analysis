@@ -1,6 +1,6 @@
-#Occupation cocoa press operator
-##Number skills 19
-###Similar occupations:
+# Occupation cocoa press operator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match cocoa press operator |   percentage match with cocoa press operator |   skills not in cocoa press operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [cellar operator](cellar_operator.md)                                                   |                          24 |                                       10 |                                     0.526316 |                                   14 |

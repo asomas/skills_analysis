@@ -1,6 +1,6 @@
-#Occupation education policy officer
-##Number skills 17
-###Similar occupations:
+# Occupation education policy officer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match education policy officer |   percentage match with education policy officer |   skills not in education policy officer |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [headteacher](headteacher.md)                                                       |                          25 |                                            4 |                                         0.235294 |                                       21 |

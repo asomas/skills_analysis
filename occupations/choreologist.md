@@ -1,6 +1,6 @@
-#Occupation choreologist
-##Number skills 15
-###Similar occupations:
+# Occupation choreologist
+## Number skills 15
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match choreologist |   percentage match with choreologist |   skills not in choreologist |
 |:------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [choreographer](choreographer.md)                           |                          19 |                                8 |                             0.533333 |                           11 |

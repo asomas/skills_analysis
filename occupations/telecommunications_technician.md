@@ -1,6 +1,6 @@
-#Occupation telecommunications technician
-##Number skills 25
-###Similar occupations:
+# Occupation telecommunications technician
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match telecommunications technician |   percentage match with telecommunications technician |   skills not in telecommunications technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [telecommunications analyst](telecommunications_analyst.md)                               |                          24 |                                                10 |                                                  0.4  |                                            14 |

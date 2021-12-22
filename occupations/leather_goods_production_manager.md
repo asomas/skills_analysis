@@ -1,6 +1,6 @@
-#Occupation leather goods production manager
-##Number skills 20
-###Similar occupations:
+# Occupation leather goods production manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods production manager |   percentage match with leather goods production manager |   skills not in leather goods production manager |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [leather goods product development manager](leather_goods_product_development_manager.md)                     |                          24 |                                                   14 |                                                     0.7  |                                               10 |

@@ -1,6 +1,6 @@
-#Occupation underground heavy equipment operator
-##Number skills 14
-###Similar occupations:
+# Occupation underground heavy equipment operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match underground heavy equipment operator |   percentage match with underground heavy equipment operator |   skills not in underground heavy equipment operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [surface mine plant operator](surface_mine_plant_operator.md)                                                                                                 |                          13 |                                                       11 |                                                     0.785714 |                                                    2 |

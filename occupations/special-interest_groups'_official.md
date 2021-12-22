@@ -1,6 +1,6 @@
-#Occupation special-interest groups' official
-##Number skills 27
-###Similar occupations:
+# Occupation special-interest groups' official
+## Number skills 27
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match special-interest groups' official |   percentage match with special-interest groups' official |   skills not in special-interest groups' official |
 |:------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [elderly home manager](elderly_home_manager.md)                               |                          68 |                                                     4 |                                                  0.148148 |                                                64 |

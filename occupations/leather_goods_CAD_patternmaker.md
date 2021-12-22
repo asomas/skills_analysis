@@ -1,6 +1,6 @@
-#Occupation leather goods CAD patternmaker
-##Number skills 6
-###Similar occupations:
+# Occupation leather goods CAD patternmaker
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods CAD patternmaker |   percentage match with leather goods CAD patternmaker |   skills not in leather goods CAD patternmaker |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [leather goods quality controller](leather_goods_quality_controller.md)                                       |                          10 |                                                  5 |                                               0.833333 |                                              5 |

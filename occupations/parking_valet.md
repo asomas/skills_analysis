@@ -1,6 +1,6 @@
-#Occupation parking valet
-##Number skills 14
-###Similar occupations:
+# Occupation parking valet
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match parking valet |   percentage match with parking valet |   skills not in parking valet |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [private chauffeur](private_chauffeur.md)                                                                                                                         |                          26 |                                 9 |                              0.642857 |                            17 |

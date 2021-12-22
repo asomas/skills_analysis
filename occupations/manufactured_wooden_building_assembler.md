@@ -1,6 +1,6 @@
-#Occupation manufactured wooden building assembler
-##Number skills 14
-###Similar occupations:
+# Occupation manufactured wooden building assembler
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                    |   skills in this occupation |   skills that match manufactured wooden building assembler |   percentage match with manufactured wooden building assembler |   skills not in manufactured wooden building assembler |
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [wood products assembler](wood_products_assembler.md)                                                                         |                          12 |                                                         10 |                                                       0.714286 |                                                      2 |

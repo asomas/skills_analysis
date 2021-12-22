@@ -1,6 +1,6 @@
-#Occupation respiratory therapy technician
-##Number skills 17
-###Similar occupations:
+# Occupation respiratory therapy technician
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match respiratory therapy technician |   percentage match with respiratory therapy technician |   skills not in respiratory therapy technician |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [clinical perfusion scientist](clinical_perfusion_scientist.md)                                                           |                          17 |                                                 15 |                                               0.882353 |                                              2 |

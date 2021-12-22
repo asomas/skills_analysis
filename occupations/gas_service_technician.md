@@ -1,6 +1,6 @@
-#Occupation gas service technician
-##Number skills 12
-###Similar occupations:
+# Occupation gas service technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match gas service technician |   percentage match with gas service technician |   skills not in gas service technician |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [biogas technician](biogas_technician.md)                               |                          12 |                                          4 |                                       0.333333 |                                      8 |

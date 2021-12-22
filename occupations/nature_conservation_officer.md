@@ -1,6 +1,6 @@
-#Occupation nature conservation officer
-##Number skills 20
-###Similar occupations:
+# Occupation nature conservation officer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match nature conservation officer |   percentage match with nature conservation officer |   skills not in nature conservation officer |
 |:------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [conservation scientist](conservation_scientist.md)                           |                          19 |                                               6 |                                                0.3  |                                          13 |

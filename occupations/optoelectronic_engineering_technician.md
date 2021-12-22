@@ -1,6 +1,6 @@
-#Occupation optoelectronic engineering technician
-##Number skills 29
-###Similar occupations:
+# Occupation optoelectronic engineering technician
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match optoelectronic engineering technician |   percentage match with optoelectronic engineering technician |   skills not in optoelectronic engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [photonics engineering technician](photonics_engineering_technician.md)                                                                     |                          28 |                                                        24 |                                                      0.827586 |                                                     4 |

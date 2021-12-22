@@ -1,6 +1,6 @@
-#Occupation ICT test analyst
-##Number skills 9
-###Similar occupations:
+# Occupation ICT test analyst
+## Number skills 9
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match ICT test analyst |   percentage match with ICT test analyst |   skills not in ICT test analyst |
 |:--------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [software tester](software_tester.md)                                                 |                          10 |                                    6 |                                 0.666667 |                                4 |

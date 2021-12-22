@@ -1,6 +1,6 @@
-#Occupation writer
-##Number skills 17
-###Similar occupations:
+# Occupation writer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match writer |   percentage match with writer |   skills not in writer |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [speechwriter](speechwriter.md)                                                   |                          12 |                          9 |                       0.529412 |                      3 |

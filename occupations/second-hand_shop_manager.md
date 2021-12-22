@@ -1,6 +1,6 @@
-#Occupation second-hand shop manager
-##Number skills 30
-###Similar occupations:
+# Occupation second-hand shop manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match second-hand shop manager |   percentage match with second-hand shop manager |   skills not in second-hand shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [music and video shop manager](music_and_video_shop_manager.md)                                   |                          30 |                                           27 |                                         0.9      |                                        3 |

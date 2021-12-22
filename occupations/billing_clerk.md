@@ -1,6 +1,6 @@
-#Occupation billing clerk
-##Number skills 12
-###Similar occupations:
+# Occupation billing clerk
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match billing clerk |   percentage match with billing clerk |   skills not in billing clerk |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [administrative assistant](administrative_assistant.md)                                                                                                           |                          17 |                                 4 |                              0.333333 |                            13 |

@@ -1,6 +1,6 @@
-#Occupation vessel engine tester
-##Number skills 19
-###Similar occupations:
+# Occupation vessel engine tester
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match vessel engine tester |   percentage match with vessel engine tester |   skills not in vessel engine tester |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [aircraft engine tester](aircraft_engine_tester.md)                                                                                                           |                          19 |                                       17 |                                     0.894737 |                                    2 |

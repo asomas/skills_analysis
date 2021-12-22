@@ -1,6 +1,6 @@
-#Occupation brigadier
-##Number skills 14
-###Similar occupations:
+# Occupation brigadier
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match brigadier |   percentage match with brigadier |   skills not in brigadier |
 |:----------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [army general](army_general.md)                                                               |                          12 |                             9 |                          0.642857 |                         3 |

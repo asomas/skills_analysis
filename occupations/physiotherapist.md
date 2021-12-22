@@ -1,6 +1,6 @@
-#Occupation physiotherapist
-##Number skills 90
-###Similar occupations:
+# Occupation physiotherapist
+## Number skills 90
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match physiotherapist |   percentage match with physiotherapist |   skills not in physiotherapist |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [advanced physiotherapist](advanced_physiotherapist.md)                     |                          69 |                                  64 |                                0.711111 |                               5 |

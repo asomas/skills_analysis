@@ -1,6 +1,6 @@
-#Occupation dangerous goods safety adviser
-##Number skills 18
-###Similar occupations:
+# Occupation dangerous goods safety adviser
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match dangerous goods safety adviser |   percentage match with dangerous goods safety adviser |   skills not in dangerous goods safety adviser |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [further education principal](further_education_principal.md)                                         |                          20 |                                                  2 |                                               0.111111 |                                             18 |

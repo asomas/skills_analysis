@@ -1,6 +1,6 @@
-#Occupation aircraft pilot
-##Number skills 23
-###Similar occupations:
+# Occupation aircraft pilot
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match aircraft pilot |   percentage match with aircraft pilot |   skills not in aircraft pilot |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [commercial pilot](commercial_pilot.md)                                                                       |                          41 |                                 23 |                               1        |                             18 |

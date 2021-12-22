@@ -1,6 +1,6 @@
-#Occupation gerontology social worker
-##Number skills 68
-###Similar occupations:
+# Occupation gerontology social worker
+## Number skills 68
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match gerontology social worker |   percentage match with gerontology social worker |   skills not in gerontology social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [mental health social worker](mental_health_social_worker.md)                             |                          77 |                                            66 |                                          0.970588 |                                        11 |

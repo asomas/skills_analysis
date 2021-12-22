@@ -1,6 +1,6 @@
-#Occupation graphologist
-##Number skills 9
-###Similar occupations:
+# Occupation graphologist
+## Number skills 9
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match graphologist |   percentage match with graphologist |   skills not in graphologist |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [psychotherapist](psychotherapist.md)                                               |                          69 |                                3 |                             0.333333 |                           66 |

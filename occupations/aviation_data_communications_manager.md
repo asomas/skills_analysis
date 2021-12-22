@@ -1,6 +1,6 @@
-#Occupation aviation data communications manager
-##Number skills 13
-###Similar occupations:
+# Occupation aviation data communications manager
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match aviation data communications manager |   percentage match with aviation data communications manager |   skills not in aviation data communications manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [aviation communications and frequency coordination manager](aviation_communications_and_frequency_coordination_manager.md)                                       |                          15 |                                                        9 |                                                     0.692308 |                                                    6 |

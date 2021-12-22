@@ -1,6 +1,6 @@
-#Occupation laundry ironer
-##Number skills 11
-###Similar occupations:
+# Occupation laundry ironer
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match laundry ironer |   percentage match with laundry ironer |   skills not in laundry ironer |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [laundry worker](laundry_worker.md)                                                       |                          20 |                                  9 |                               0.818182 |                             11 |

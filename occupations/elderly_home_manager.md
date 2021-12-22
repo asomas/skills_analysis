@@ -1,6 +1,6 @@
-#Occupation elderly home manager
-##Number skills 68
-###Similar occupations:
+# Occupation elderly home manager
+## Number skills 68
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match elderly home manager |   percentage match with elderly home manager |   skills not in elderly home manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [child day care centre manager](child_day_care_centre_manager.md)                         |                          74 |                                       58 |                                     0.852941 |                                   16 |

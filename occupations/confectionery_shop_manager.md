@@ -1,6 +1,6 @@
-#Occupation confectionery shop manager
-##Number skills 30
-###Similar occupations:
+# Occupation confectionery shop manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match confectionery shop manager |   percentage match with confectionery shop manager |   skills not in confectionery shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [meat and meat products shop manager](meat_and_meat_products_shop_manager.md)                     |                          31 |                                             28 |                                           0.933333 |                                          3 |

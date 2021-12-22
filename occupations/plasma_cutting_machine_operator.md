@@ -1,6 +1,6 @@
-#Occupation plasma cutting machine operator
-##Number skills 17
-###Similar occupations:
+# Occupation plasma cutting machine operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match plasma cutting machine operator |   percentage match with plasma cutting machine operator |   skills not in plasma cutting machine operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [oxy fuel burning machine operator](oxy_fuel_burning_machine_operator.md)                                                                                     |                          19 |                                                  15 |                                                0.882353 |                                               4 |

@@ -1,6 +1,6 @@
-#Occupation prosecutor
-##Number skills 16
-###Similar occupations:
+# Occupation prosecutor
+## Number skills 16
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match prosecutor |   percentage match with prosecutor |   skills not in prosecutor |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [corporate lawyer](corporate_lawyer.md)                                 |                          20 |                             11 |                             0.6875 |                          9 |

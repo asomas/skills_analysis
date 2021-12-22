@@ -1,6 +1,6 @@
-#Occupation shoemaker
-##Number skills 17
-###Similar occupations:
+# Occupation shoemaker
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match shoemaker |   percentage match with shoemaker |   skills not in shoemaker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [orthopaedic footwear technician](orthopaedic_footwear_technician.md)                                 |                          20 |                            17 |                          1        |                         3 |

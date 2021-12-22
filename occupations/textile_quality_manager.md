@@ -1,6 +1,6 @@
-#Occupation textile quality manager
-##Number skills 4
-###Similar occupations:
+# Occupation textile quality manager
+## Number skills 4
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match textile quality manager |   percentage match with textile quality manager |   skills not in textile quality manager |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [textile quality inspector](textile_quality_inspector.md)                               |                          19 |                                           4 |                                            1    |                                      15 |

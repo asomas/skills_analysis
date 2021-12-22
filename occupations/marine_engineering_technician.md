@@ -1,6 +1,6 @@
-#Occupation marine engineering technician
-##Number skills 17
-###Similar occupations:
+# Occupation marine engineering technician
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match marine engineering technician |   percentage match with marine engineering technician |   skills not in marine engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [aerospace engineering technician](aerospace_engineering_technician.md)                                                                                 |                          19 |                                                15 |                                              0.882353 |                                             4 |

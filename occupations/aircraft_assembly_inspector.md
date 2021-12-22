@@ -1,6 +1,6 @@
-#Occupation aircraft assembly inspector
-##Number skills 17
-###Similar occupations:
+# Occupation aircraft assembly inspector
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match aircraft assembly inspector |   percentage match with aircraft assembly inspector |   skills not in aircraft assembly inspector |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [aircraft engine inspector](aircraft_engine_inspector.md)                                                                                                     |                          20 |                                              16 |                                            0.941176 |                                           4 |

@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in wood and construction materials
-##Number skills 21
-###Similar occupations:
+# Occupation wholesale merchant in wood and construction materials
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in wood and construction materials |   percentage match with wholesale merchant in wood and construction materials |   skills not in wholesale merchant in wood and construction materials |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------:|------------------------------------------------------------------------------:|----------------------------------------------------------------------:|
 | [wholesale merchant in office furniture](wholesale_merchant_in_office_furniture.md)                                                                                 |                          20 |                                                                        19 |                                                                      0.904762 |                                                                     1 |

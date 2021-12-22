@@ -1,6 +1,6 @@
-#Occupation tunnel boring machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation tunnel boring machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match tunnel boring machine operator |   percentage match with tunnel boring machine operator |   skills not in tunnel boring machine operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [sewer construction worker](sewer_construction_worker.md)                                                                                                     |                          22 |                                                  8 |                                               0.571429 |                                             14 |

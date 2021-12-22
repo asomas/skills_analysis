@@ -1,6 +1,6 @@
-#Occupation marine chief engineer
-##Number skills 23
-###Similar occupations:
+# Occupation marine chief engineer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match marine chief engineer |   percentage match with marine chief engineer |   skills not in marine chief engineer |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [ship captain](ship_captain.md)                                                 |                          32 |                                        10 |                                      0.434783 |                                    22 |

@@ -1,6 +1,6 @@
-#Occupation harp maker
-##Number skills 18
-###Similar occupations:
+# Occupation harp maker
+## Number skills 18
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match harp maker |   percentage match with harp maker |   skills not in harp maker |
 |:--------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [guitar maker](guitar_maker.md)                                                       |                          20 |                             16 |                           0.888889 |                          4 |

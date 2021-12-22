@@ -1,6 +1,6 @@
-#Occupation international forwarding operations coordinator
-##Number skills 17
-###Similar occupations:
+# Occupation international forwarding operations coordinator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match international forwarding operations coordinator |   percentage match with international forwarding operations coordinator |   skills not in international forwarding operations coordinator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------:|
 | [non-vessel operating common carrier](non-vessel_operating_common_carrier.md)                                                                                       |                          24 |                                                                   6 |                                                                0.352941 |                                                              18 |

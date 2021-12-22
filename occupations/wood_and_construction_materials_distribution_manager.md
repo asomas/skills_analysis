@@ -1,6 +1,6 @@
-#Occupation wood and construction materials distribution manager
-##Number skills 27
-###Similar occupations:
+# Occupation wood and construction materials distribution manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match wood and construction materials distribution manager |   percentage match with wood and construction materials distribution manager |   skills not in wood and construction materials distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------------------:|---------------------------------------------------------------------:|
 | [waste and scrap distribution manager](waste_and_scrap_distribution_manager.md)                                                                                         |                          26 |                                                                       25 |                                                                     0.925926 |                                                                    1 |

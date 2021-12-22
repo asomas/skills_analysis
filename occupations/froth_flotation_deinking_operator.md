@@ -1,6 +1,6 @@
-#Occupation froth flotation deinking operator
-##Number skills 16
-###Similar occupations:
+# Occupation froth flotation deinking operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match froth flotation deinking operator |   percentage match with froth flotation deinking operator |   skills not in froth flotation deinking operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [wash deinking operator](wash_deinking_operator.md)                                                   |                          15 |                                                    15 |                                                    0.9375 |                                                 0 |

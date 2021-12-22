@@ -1,6 +1,6 @@
-#Occupation epidemiologist
-##Number skills 15
-###Similar occupations:
+# Occupation epidemiologist
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match epidemiologist |   percentage match with epidemiologist |   skills not in epidemiologist |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [astronomer](astronomer.md)                                                               |                          12 |                                  6 |                               0.4      |                              6 |

@@ -1,6 +1,6 @@
-#Occupation extract mixer tester
-##Number skills 13
-###Similar occupations:
+# Occupation extract mixer tester
+## Number skills 13
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match extract mixer tester |   percentage match with extract mixer tester |   skills not in extract mixer tester |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [dairy products manufacturing worker](dairy_products_manufacturing_worker.md)           |                          27 |                                        6 |                                     0.461538 |                                   21 |

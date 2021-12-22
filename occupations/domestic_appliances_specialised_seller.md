@@ -1,6 +1,6 @@
-#Occupation domestic appliances specialised seller
-##Number skills 32
-###Similar occupations:
+# Occupation domestic appliances specialised seller
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match domestic appliances specialised seller |   percentage match with domestic appliances specialised seller |   skills not in domestic appliances specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [furniture specialised seller](furniture_specialised_seller.md)                                                                                                   |                          36 |                                                         28 |                                                        0.875   |                                                      8 |

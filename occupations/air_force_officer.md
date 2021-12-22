@@ -1,6 +1,6 @@
-#Occupation air force officer
-##Number skills 21
-###Similar occupations:
+# Occupation air force officer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match air force officer |   percentage match with air force officer |   skills not in air force officer |
 |:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [navy officer](navy_officer.md)                                                               |                          21 |                                    15 |                                  0.714286 |                                 6 |

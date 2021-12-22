@@ -1,6 +1,6 @@
-#Occupation environmental education officer
-##Number skills 13
-###Similar occupations:
+# Occupation environmental education officer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match environmental education officer |   percentage match with environmental education officer |   skills not in environmental education officer |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [conservation scientist](conservation_scientist.md)                         |                          19 |                                                   6 |                                                0.461538 |                                              13 |

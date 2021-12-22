@@ -1,6 +1,6 @@
-#Occupation homeopath
-##Number skills 18
-###Similar occupations:
+# Occupation homeopath
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match homeopath |   percentage match with homeopath |   skills not in homeopath |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [acupuncturist](acupuncturist.md)                                                                                         |                          33 |                            13 |                          0.722222 |                        20 |

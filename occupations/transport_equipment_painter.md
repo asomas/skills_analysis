@@ -1,6 +1,6 @@
-#Occupation transport equipment painter
-##Number skills 31
-###Similar occupations:
+# Occupation transport equipment painter
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match transport equipment painter |   percentage match with transport equipment painter |   skills not in transport equipment painter |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [aircraft assembler](aircraft_assembler.md)                                                           |                          18 |                                               7 |                                            0.225806 |                                          11 |

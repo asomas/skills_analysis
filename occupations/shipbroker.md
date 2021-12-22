@@ -1,6 +1,6 @@
-#Occupation shipbroker
-##Number skills 11
-###Similar occupations:
+# Occupation shipbroker
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match shipbroker |   percentage match with shipbroker |   skills not in shipbroker |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [motor vehicle shop manager](motor_vehicle_shop_manager.md)                                                                                                   |                          39 |                              3 |                           0.272727 |                         36 |

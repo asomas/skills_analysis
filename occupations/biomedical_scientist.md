@@ -1,6 +1,6 @@
-#Occupation biomedical scientist
-##Number skills 90
-###Similar occupations:
+# Occupation biomedical scientist
+## Number skills 90
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match biomedical scientist |   percentage match with biomedical scientist |   skills not in biomedical scientist |
 |:----------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [dietitian](dietitian.md)                                                   |                          79 |                                       36 |                                     0.4      |                                   43 |

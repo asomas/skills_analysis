@@ -1,6 +1,6 @@
-#Occupation rail traffic controller
-##Number skills 19
-###Similar occupations:
+# Occupation rail traffic controller
+## Number skills 19
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match rail traffic controller |   percentage match with rail traffic controller |   skills not in rail traffic controller |
 |:----------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [level crossing signalperson](level_crossing_signalperson.md)         |                          24 |                                           5 |                                        0.263158 |                                      19 |

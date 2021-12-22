@@ -1,6 +1,6 @@
-#Occupation equine worker
-##Number skills 14
-###Similar occupations:
+# Occupation equine worker
+## Number skills 14
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match equine worker |   percentage match with equine worker |   skills not in equine worker |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [groom](groom.md)                                                           |                          26 |                                11 |                              0.785714 |                            15 |

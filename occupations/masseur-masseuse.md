@@ -1,6 +1,6 @@
-#Occupation masseur/masseuse
-##Number skills 14
-###Similar occupations:
+# Occupation masseur/masseuse
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match masseur/masseuse |   percentage match with masseur/masseuse |   skills not in masseur/masseuse |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [massage therapist](massage_therapist.md)                                                                                                                         |                          21 |                                   13 |                                 0.928571 |                                8 |

@@ -1,6 +1,6 @@
-#Occupation leather goods packing operator
-##Number skills 7
-###Similar occupations:
+# Occupation leather goods packing operator
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods packing operator |   percentage match with leather goods packing operator |   skills not in leather goods packing operator |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [leather goods warehouse operator](leather_goods_warehouse_operator.md)                                       |                           6 |                                                  5 |                                               0.714286 |                                              1 |

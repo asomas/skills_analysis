@@ -1,6 +1,6 @@
-#Occupation printed circuit board designer
-##Number skills 14
-###Similar occupations:
+# Occupation printed circuit board designer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match printed circuit board designer |   percentage match with printed circuit board designer |   skills not in printed circuit board designer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [electronics drafter](electronics_drafter.md)                                                                                               |                          22 |                                                 11 |                                               0.785714 |                                             11 |

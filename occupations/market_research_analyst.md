@@ -1,6 +1,6 @@
-#Occupation market research analyst
-##Number skills 22
-###Similar occupations:
+# Occupation market research analyst
+## Number skills 22
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match market research analyst |   percentage match with market research analyst |   skills not in market research analyst |
 |:--------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [online community manager](online_community_manager.md)                         |                          47 |                                           8 |                                        0.363636 |                                      39 |

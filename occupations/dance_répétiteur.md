@@ -1,6 +1,6 @@
-#Occupation dance répétiteur
-##Number skills 21
-###Similar occupations:
+# Occupation dance répétiteur
+## Number skills 21
+### Similar occupations:
 | occupation                                  |   skills in this occupation |   skills that match dance répétiteur |   percentage match with dance répétiteur |   skills not in dance répétiteur |
 |:--------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [répétiteur](répétiteur.md)                 |                          23 |                                   11 |                                 0.52381  |                               12 |

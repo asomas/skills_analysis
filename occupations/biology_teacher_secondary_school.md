@@ -1,6 +1,6 @@
-#Occupation biology teacher secondary school
-##Number skills 28
-###Similar occupations:
+# Occupation biology teacher secondary school
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match biology teacher secondary school |   percentage match with biology teacher secondary school |   skills not in biology teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [science teacher secondary school](science_teacher_secondary_school.md)                                               |                          28 |                                                   25 |                                                 0.892857 |                                                3 |

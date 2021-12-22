@@ -1,6 +1,6 @@
-#Occupation lighting technician
-##Number skills 27
-###Similar occupations:
+# Occupation lighting technician
+## Number skills 27
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match lighting technician |   percentage match with lighting technician |   skills not in lighting technician |
 |:------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [stage technician](stage_technician.md)                           |                          43 |                                      21 |                                    0.777778 |                                  22 |

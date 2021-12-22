@@ -1,6 +1,6 @@
-#Occupation well-digger
-##Number skills 10
-###Similar occupations:
+# Occupation well-digger
+## Number skills 10
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match well-digger |   percentage match with well-digger |   skills not in well-digger |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [drill operator](drill_operator.md)                                         |                          13 |                               4 |                                 0.4 |                           9 |

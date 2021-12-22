@@ -1,6 +1,6 @@
-#Occupation milk reception operator
-##Number skills 22
-###Similar occupations:
+# Occupation milk reception operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match milk reception operator |   percentage match with milk reception operator |   skills not in milk reception operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [dairy processing operator](dairy_processing_operator.md)                               |                          27 |                                          15 |                                        0.681818 |                                      12 |

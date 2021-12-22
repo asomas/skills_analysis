@@ -1,6 +1,6 @@
-#Occupation medical records manager
-##Number skills 30
-###Similar occupations:
+# Occupation medical records manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match medical records manager |   percentage match with medical records manager |   skills not in medical records manager |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [medical records clerk](medical_records_clerk.md)                                                                         |                          30 |                                          18 |                                        0.6      |                                      12 |

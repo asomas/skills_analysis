@@ -1,6 +1,6 @@
-#Occupation chocolate moulding operator
-##Number skills 16
-###Similar occupations:
+# Occupation chocolate moulding operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match chocolate moulding operator |   percentage match with chocolate moulding operator |   skills not in chocolate moulding operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [cellar operator](cellar_operator.md)                                                   |                          24 |                                               9 |                                              0.5625 |                                          15 |

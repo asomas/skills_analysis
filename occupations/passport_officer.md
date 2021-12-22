@@ -1,6 +1,6 @@
-#Occupation passport officer
-##Number skills 7
-###Similar occupations:
+# Occupation passport officer
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match passport officer |   percentage match with passport officer |   skills not in passport officer |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [human resources assistant](human_resources_assistant.md)                                               |                          16 |                                    1 |                                 0.142857 |                               15 |

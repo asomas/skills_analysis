@@ -1,6 +1,6 @@
-#Occupation youth offending team worker
-##Number skills 75
-###Similar occupations:
+# Occupation youth offending team worker
+## Number skills 75
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match youth offending team worker |   percentage match with youth offending team worker |   skills not in youth offending team worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [youth worker](youth_worker.md)                                                           |                          73 |                                              70 |                                            0.933333 |                                           3 |

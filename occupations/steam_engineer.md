@@ -1,6 +1,6 @@
-#Occupation steam engineer
-##Number skills 16
-###Similar occupations:
+# Occupation steam engineer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match steam engineer |   percentage match with steam engineer |   skills not in steam engineer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [solar energy engineer](solar_energy_engineer.md)                                                                                                                     |                          25 |                                 10 |                                 0.625  |                             15 |

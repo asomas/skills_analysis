@@ -1,6 +1,6 @@
-#Occupation sociologist
-##Number skills 14
-###Similar occupations:
+# Occupation sociologist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match sociologist |   percentage match with sociologist |   skills not in sociologist |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [economist](economist.md)                                                                 |                          15 |                               7 |                            0.5      |                           8 |

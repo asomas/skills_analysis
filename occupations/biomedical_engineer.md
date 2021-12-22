@@ -1,6 +1,6 @@
-#Occupation biomedical engineer
-##Number skills 17
-###Similar occupations:
+# Occupation biomedical engineer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match biomedical engineer |   percentage match with biomedical engineer |   skills not in biomedical engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [medical device engineer](medical_device_engineer.md)                                                                                       |                          33 |                                       8 |                                    0.470588 |                                  25 |

@@ -1,6 +1,6 @@
-#Occupation health and safety inspector
-##Number skills 14
-###Similar occupations:
+# Occupation health and safety inspector
+## Number skills 14
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match health and safety inspector |   percentage match with health and safety inspector |   skills not in health and safety inspector |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [social security inspector](social_security_inspector.md)                               |                          13 |                                               7 |                                            0.5      |                                           6 |

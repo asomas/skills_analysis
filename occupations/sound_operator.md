@@ -1,6 +1,6 @@
-#Occupation sound operator
-##Number skills 36
-###Similar occupations:
+# Occupation sound operator
+## Number skills 36
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match sound operator |   percentage match with sound operator |   skills not in sound operator |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [stage machinist](stage_machinist.md)                             |                          32 |                                 22 |                               0.611111 |                             10 |

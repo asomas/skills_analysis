@@ -1,6 +1,6 @@
-#Occupation art studies lecturer
-##Number skills 18
-###Similar occupations:
+# Occupation art studies lecturer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match art studies lecturer |   percentage match with art studies lecturer |   skills not in art studies lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [religious studies lecturer](religious_studies_lecturer.md)                                                           |                          19 |                                       15 |                                     0.833333 |                                    4 |

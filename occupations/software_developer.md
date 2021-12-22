@@ -1,6 +1,6 @@
-#Occupation software developer
-##Number skills 23
-###Similar occupations:
+# Occupation software developer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match software developer |   percentage match with software developer |   skills not in software developer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [ICT application developer](ICT_application_developer.md)                                                                                   |                          18 |                                     14 |                                   0.608696 |                                  4 |

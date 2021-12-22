@@ -1,6 +1,6 @@
-#Occupation intelligent lighting engineer
-##Number skills 19
-###Similar occupations:
+# Occupation intelligent lighting engineer
+## Number skills 19
+### Similar occupations:
 | occupation                                                    |   skills in this occupation |   skills that match intelligent lighting engineer |   percentage match with intelligent lighting engineer |   skills not in intelligent lighting engineer |
 |:--------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [stage technician](stage_technician.md)                       |                          43 |                                                18 |                                              0.947368 |                                            25 |

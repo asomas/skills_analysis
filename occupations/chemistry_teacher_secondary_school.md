@@ -1,6 +1,6 @@
-#Occupation chemistry teacher secondary school
-##Number skills 28
-###Similar occupations:
+# Occupation chemistry teacher secondary school
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match chemistry teacher secondary school |   percentage match with chemistry teacher secondary school |   skills not in chemistry teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [science teacher secondary school](science_teacher_secondary_school.md)                                               |                          28 |                                                     25 |                                                   0.892857 |                                                  3 |

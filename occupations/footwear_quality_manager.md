@@ -1,6 +1,6 @@
-#Occupation footwear quality manager
-##Number skills 16
-###Similar occupations:
+# Occupation footwear quality manager
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match footwear quality manager |   percentage match with footwear quality manager |   skills not in footwear quality manager |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [footwear product development manager](footwear_product_development_manager.md)                               |                          28 |                                           14 |                                           0.875  |                                       14 |

@@ -1,6 +1,6 @@
-#Occupation ICT auditor manager
-##Number skills 18
-###Similar occupations:
+# Occupation ICT auditor manager
+## Number skills 18
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match ICT auditor manager |   percentage match with ICT auditor manager |   skills not in ICT auditor manager |
 |:------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [chief ICT security officer](chief_ICT_security_officer.md)                   |                          19 |                                       7 |                                    0.388889 |                                  12 |

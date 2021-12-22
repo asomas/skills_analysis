@@ -1,6 +1,6 @@
-#Occupation wood treater
-##Number skills 15
-###Similar occupations:
+# Occupation wood treater
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match wood treater |   percentage match with wood treater |   skills not in wood treater |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [table saw operator](table_saw_operator.md)                                                           |                          22 |                                6 |                             0.4      |                           16 |

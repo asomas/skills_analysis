@@ -1,6 +1,6 @@
-#Occupation import export manager in metals and metal ores
-##Number skills 26
-###Similar occupations:
+# Occupation import export manager in metals and metal ores
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in metals and metal ores |   percentage match with import export manager in metals and metal ores |   skills not in import export manager in metals and metal ores |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------------------:|---------------------------------------------------------------:|
 | [import export manager in perfume and cosmetics](import_export_manager_in_perfume_and_cosmetics.md)                                                                     |                          27 |                                                                 25 |                                                               0.961538 |                                                              2 |

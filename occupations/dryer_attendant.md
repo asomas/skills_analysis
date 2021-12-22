@@ -1,6 +1,6 @@
-#Occupation dryer attendant
-##Number skills 30
-###Similar occupations:
+# Occupation dryer attendant
+## Number skills 30
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match dryer attendant |   percentage match with dryer attendant |   skills not in dryer attendant |
 |:------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [starch converting operator](starch_converting_operator.md)                         |                          25 |                                  14 |                                0.466667 |                              11 |

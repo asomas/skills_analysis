@@ -1,6 +1,6 @@
-#Occupation rental service representative in office machinery and equipment
-##Number skills 23
-###Similar occupations:
+# Occupation rental service representative in office machinery and equipment
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match rental service representative in office machinery and equipment |   percentage match with rental service representative in office machinery and equipment |   skills not in rental service representative in office machinery and equipment |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------:|
 | [rental service representative in trucks](rental_service_representative_in_trucks.md)                                                                             |                          22 |                                                                                  22 |                                                                                0.956522 |                                                                               0 |

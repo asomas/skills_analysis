@@ -1,6 +1,6 @@
-#Occupation metal planer operator
-##Number skills 18
-###Similar occupations:
+# Occupation metal planer operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match metal planer operator |   percentage match with metal planer operator |   skills not in metal planer operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [deburring machine operator](deburring_machine_operator.md)                                                                                                   |                          20 |                                        13 |                                      0.722222 |                                     7 |

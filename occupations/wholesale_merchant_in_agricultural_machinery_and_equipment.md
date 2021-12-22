@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in agricultural machinery and equipment
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in agricultural machinery and equipment
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in agricultural machinery and equipment |   percentage match with wholesale merchant in agricultural machinery and equipment |   skills not in wholesale merchant in agricultural machinery and equipment |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------:|---------------------------------------------------------------------------:|
 | [wholesale merchant in waste and scrap](wholesale_merchant_in_waste_and_scrap.md)                                                                                   |                          20 |                                                                             19 |                                                                               0.95 |                                                                          1 |

@@ -1,6 +1,6 @@
-#Occupation call centre analyst
-##Number skills 20
-###Similar occupations:
+# Occupation call centre analyst
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match call centre analyst |   percentage match with call centre analyst |   skills not in call centre analyst |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [call centre supervisor](call_centre_supervisor.md)                                                                                                         |                          21 |                                       6 |                                        0.3  |                                  15 |

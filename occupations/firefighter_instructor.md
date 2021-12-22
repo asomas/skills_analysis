@@ -1,6 +1,6 @@
-#Occupation firefighter instructor
-##Number skills 19
-###Similar occupations:
+# Occupation firefighter instructor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match firefighter instructor |   percentage match with firefighter instructor |   skills not in firefighter instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [industrial firefighter](industrial_firefighter.md)                                                                   |                          29 |                                          9 |                                       0.473684 |                                     20 |

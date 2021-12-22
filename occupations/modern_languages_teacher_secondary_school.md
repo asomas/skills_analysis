@@ -1,6 +1,6 @@
-#Occupation modern languages teacher secondary school
-##Number skills 32
-###Similar occupations:
+# Occupation modern languages teacher secondary school
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match modern languages teacher secondary school |   percentage match with modern languages teacher secondary school |   skills not in modern languages teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [classical languages teacher secondary school](classical_languages_teacher_secondary_school.md)                       |                          27 |                                                            25 |                                                           0.78125 |                                                         2 |

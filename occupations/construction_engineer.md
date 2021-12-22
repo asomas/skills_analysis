@@ -1,6 +1,6 @@
-#Occupation construction engineer
-##Number skills 16
-###Similar occupations:
+# Occupation construction engineer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match construction engineer |   percentage match with construction engineer |   skills not in construction engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [architect](architect.md)                                                                                                                   |                          32 |                                         8 |                                        0.5    |                                    24 |

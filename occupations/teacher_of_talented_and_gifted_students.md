@@ -1,6 +1,6 @@
-#Occupation teacher of talented and gifted students
-##Number skills 35
-###Similar occupations:
+# Occupation teacher of talented and gifted students
+## Number skills 35
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match teacher of talented and gifted students |   percentage match with teacher of talented and gifted students |   skills not in teacher of talented and gifted students |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [special educational needs teacher primary school](special_educational_needs_teacher_primary_school.md)               |                          33 |                                                          26 |                                                        0.742857 |                                                       7 |

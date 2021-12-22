@@ -1,6 +1,6 @@
-#Occupation maritime pilot
-##Number skills 21
-###Similar occupations:
+# Occupation maritime pilot
+## Number skills 21
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match maritime pilot |   percentage match with maritime pilot |   skills not in maritime pilot |
 |:----------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [water traffic coordinator](water_traffic_coordinator.md) |                          25 |                                  4 |                               0.190476 |                             21 |

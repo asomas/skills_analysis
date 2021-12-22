@@ -1,6 +1,6 @@
-#Occupation primary school teaching assistant
-##Number skills 19
-###Similar occupations:
+# Occupation primary school teaching assistant
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match primary school teaching assistant |   percentage match with primary school teaching assistant |   skills not in primary school teaching assistant |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [early years teaching assistant](early_years_teaching_assistant.md)                                                   |                          20 |                                                    16 |                                                  0.842105 |                                                 4 |

@@ -1,6 +1,6 @@
-#Occupation intelligence communications interceptor
-##Number skills 18
-###Similar occupations:
+# Occupation intelligence communications interceptor
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match intelligence communications interceptor |   percentage match with intelligence communications interceptor |   skills not in intelligence communications interceptor |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [air force pilot](air_force_pilot.md)                                                                                       |                          33 |                                                           7 |                                                        0.388889 |                                                      26 |

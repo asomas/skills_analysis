@@ -1,6 +1,6 @@
-#Occupation legal consultant
-##Number skills 10
-###Similar occupations:
+# Occupation legal consultant
+## Number skills 10
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match legal consultant |   percentage match with legal consultant |   skills not in legal consultant |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [corporate lawyer](corporate_lawyer.md)                                 |                          20 |                                    8 |                                      0.8 |                               12 |

@@ -1,6 +1,6 @@
-#Occupation plasterer
-##Number skills 16
-###Similar occupations:
+# Occupation plasterer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match plasterer |   percentage match with plasterer |   skills not in plasterer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [insulation worker](insulation_worker.md)                                                                                                                     |                          18 |                             9 |                            0.5625 |                         9 |

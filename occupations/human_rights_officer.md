@@ -1,6 +1,6 @@
-#Occupation human rights officer
-##Number skills 12
-###Similar occupations:
+# Occupation human rights officer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match human rights officer |   percentage match with human rights officer |   skills not in human rights officer |
 |:--------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [elderly home manager](elderly_home_manager.md)                                       |                          68 |                                        2 |                                     0.166667 |                                   66 |

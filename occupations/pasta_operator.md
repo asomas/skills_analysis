@@ -1,6 +1,6 @@
-#Occupation pasta operator
-##Number skills 27
-###Similar occupations:
+# Occupation pasta operator
+## Number skills 27
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match pasta operator |   percentage match with pasta operator |   skills not in pasta operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [pasta maker](pasta_maker.md)                                                           |                          21 |                                 18 |                               0.666667 |                              3 |

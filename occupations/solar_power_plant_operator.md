@@ -1,6 +1,6 @@
-#Occupation solar power plant operator
-##Number skills 14
-###Similar occupations:
+# Occupation solar power plant operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match solar power plant operator |   percentage match with solar power plant operator |   skills not in solar power plant operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [hydroelectric plant operator](hydroelectric_plant_operator.md)                                                                                                       |                          13 |                                              7 |                                           0.5      |                                          6 |

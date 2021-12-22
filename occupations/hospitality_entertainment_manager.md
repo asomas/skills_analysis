@@ -1,6 +1,6 @@
-#Occupation hospitality entertainment manager
-##Number skills 17
-###Similar occupations:
+# Occupation hospitality entertainment manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match hospitality entertainment manager |   percentage match with hospitality entertainment manager |   skills not in hospitality entertainment manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [travel agent](travel_agent.md)                                                                                                                                   |                          28 |                                                     6 |                                                  0.352941 |                                                22 |

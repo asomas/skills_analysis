@@ -1,6 +1,6 @@
-#Occupation crisis situation social worker
-##Number skills 65
-###Similar occupations:
+# Occupation crisis situation social worker
+## Number skills 65
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match crisis situation social worker |   percentage match with crisis situation social worker |   skills not in crisis situation social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [victim support officer](victim_support_officer.md)                                       |                          68 |                                                 65 |                                               1        |                                              3 |

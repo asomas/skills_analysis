@@ -1,6 +1,6 @@
-#Occupation bus driving instructor
-##Number skills 23
-###Similar occupations:
+# Occupation bus driving instructor
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match bus driving instructor |   percentage match with bus driving instructor |   skills not in bus driving instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [motorcycle instructor](motorcycle_instructor.md)                                                                     |                          25 |                                         23 |                                       1        |                                      2 |

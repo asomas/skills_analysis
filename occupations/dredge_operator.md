@@ -1,6 +1,6 @@
-#Occupation dredge operator
-##Number skills 11
-###Similar occupations:
+# Occupation dredge operator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match dredge operator |   percentage match with dredge operator |   skills not in dredge operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [tunnel boring machine operator](tunnel_boring_machine_operator.md)                     |                          14 |                                   5 |                                0.454545 |                               9 |

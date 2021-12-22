@@ -1,6 +1,6 @@
-#Occupation utilities inspector
-##Number skills 22
-###Similar occupations:
+# Occupation utilities inspector
+## Number skills 22
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match utilities inspector |   percentage match with utilities inspector |   skills not in utilities inspector |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [product assembly inspector](product_assembly_inspector.md)                 |                          14 |                                       7 |                                    0.318182 |                                   7 |

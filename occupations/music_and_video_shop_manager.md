@@ -1,6 +1,6 @@
-#Occupation music and video shop manager
-##Number skills 30
-###Similar occupations:
+# Occupation music and video shop manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match music and video shop manager |   percentage match with music and video shop manager |   skills not in music and video shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [kitchen and bathroom shop manager](kitchen_and_bathroom_shop_manager.md)                         |                          27 |                                               27 |                                             0.9      |                                            0 |

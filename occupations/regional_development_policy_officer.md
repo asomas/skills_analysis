@@ -1,6 +1,6 @@
-#Occupation regional development policy officer
-##Number skills 10
-###Similar occupations:
+# Occupation regional development policy officer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match regional development policy officer |   percentage match with regional development policy officer |   skills not in regional development policy officer |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [policy officer](policy_officer.md)                                           |                           7 |                                                       7 |                                                         0.7 |                                                   0 |

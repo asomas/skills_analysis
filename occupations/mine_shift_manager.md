@@ -1,6 +1,6 @@
-#Occupation mine shift manager
-##Number skills 14
-###Similar occupations:
+# Occupation mine shift manager
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match mine shift manager |   percentage match with mine shift manager |   skills not in mine shift manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [mine manager](mine_manager.md)                                                                   |                          28 |                                     12 |                                   0.857143 |                                 16 |

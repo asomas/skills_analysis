@@ -1,6 +1,6 @@
-#Occupation landscape architect
-##Number skills 18
-###Similar occupations:
+# Occupation landscape architect
+## Number skills 18
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match landscape architect |   percentage match with landscape architect |   skills not in landscape architect |
 |:------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [architect](architect.md)                                         |                          32 |                                       8 |                                    0.444444 |                                  24 |

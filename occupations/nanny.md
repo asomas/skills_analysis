@@ -1,6 +1,6 @@
-#Occupation nanny
-##Number skills 16
-###Similar occupations:
+# Occupation nanny
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match nanny |   percentage match with nanny |   skills not in nanny |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
 | [au pair](au_pair.md)                                                                                       |                          13 |                        10 |                        0.625  |                     3 |

@@ -1,6 +1,6 @@
-#Occupation environmental expert
-##Number skills 21
-###Similar occupations:
+# Occupation environmental expert
+## Number skills 21
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match environmental expert |   percentage match with environmental expert |   skills not in environmental expert |
 |:------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [environmental scientist](environmental_scientist.md)                               |                          26 |                                       14 |                                     0.666667 |                                   12 |

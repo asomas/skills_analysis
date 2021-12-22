@@ -1,6 +1,6 @@
-#Occupation gas processing plant operator
-##Number skills 15
-###Similar occupations:
+# Occupation gas processing plant operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match gas processing plant operator |   percentage match with gas processing plant operator |   skills not in gas processing plant operator |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [gas transmission system operator](gas_transmission_system_operator.md) |                          12 |                                                 6 |                                              0.4      |                                             6 |

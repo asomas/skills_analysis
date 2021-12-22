@@ -1,6 +1,6 @@
-#Occupation fire protection technician
-##Number skills 12
-###Similar occupations:
+# Occupation fire protection technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match fire protection technician |   percentage match with fire protection technician |   skills not in fire protection technician |
 |:--------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [pump operator](pump_operator.md)                                                     |                          19 |                                              5 |                                           0.416667 |                                         14 |

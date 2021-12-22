@@ -1,6 +1,6 @@
-#Occupation sales assistant
-##Number skills 27
-###Similar occupations:
+# Occupation sales assistant
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match sales assistant |   percentage match with sales assistant |   skills not in sales assistant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [domestic appliances specialised seller](domestic_appliances_specialised_seller.md)                                                                               |                          32 |                                  18 |                                0.666667 |                              14 |

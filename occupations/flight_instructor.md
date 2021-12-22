@@ -1,6 +1,6 @@
-#Occupation flight instructor
-##Number skills 20
-###Similar occupations:
+# Occupation flight instructor
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match flight instructor |   percentage match with flight instructor |   skills not in flight instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [electronics and automation vocational teacher](electronics_and_automation_vocational_teacher.md)                     |                          26 |                                    12 |                                      0.6  |                                14 |

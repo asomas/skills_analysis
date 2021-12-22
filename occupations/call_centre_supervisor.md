@@ -1,6 +1,6 @@
-#Occupation call centre supervisor
-##Number skills 21
-###Similar occupations:
+# Occupation call centre supervisor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match call centre supervisor |   percentage match with call centre supervisor |   skills not in call centre supervisor |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [contact centre supervisor](contact_centre_supervisor.md)                                                                                                         |                          18 |                                         10 |                                       0.47619  |                                      8 |

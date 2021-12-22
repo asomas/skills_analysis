@@ -1,6 +1,6 @@
-#Occupation advertising media buyer
-##Number skills 12
-###Similar occupations:
+# Occupation advertising media buyer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match advertising media buyer |   percentage match with advertising media buyer |   skills not in advertising media buyer |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [creative director](creative_director.md)                                                               |                          14 |                                           4 |                                        0.333333 |                                      10 |

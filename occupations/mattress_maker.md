@@ -1,6 +1,6 @@
-#Occupation mattress maker
-##Number skills 9
-###Similar occupations:
+# Occupation mattress maker
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match mattress maker |   percentage match with mattress maker |   skills not in mattress maker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [furniture upholsterer](furniture_upholsterer.md)                                                     |                          16 |                                  9 |                               1        |                              7 |

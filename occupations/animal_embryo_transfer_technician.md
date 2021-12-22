@@ -1,6 +1,6 @@
-#Occupation animal embryo transfer technician
-##Number skills 20
-###Similar occupations:
+# Occupation animal embryo transfer technician
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match animal embryo transfer technician |   percentage match with animal embryo transfer technician |   skills not in animal embryo transfer technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [animal artificial insemination technician](animal_artificial_insemination_technician.md) |                          24 |                                                    16 |                                                      0.8  |                                                 8 |

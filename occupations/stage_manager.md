@@ -1,6 +1,6 @@
-#Occupation stage manager
-##Number skills 27
-###Similar occupations:
+# Occupation stage manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match stage manager |   percentage match with stage manager |   skills not in stage manager |
 |:------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [stage machinist](stage_machinist.md)                             |                          32 |                                16 |                              0.592593 |                            16 |

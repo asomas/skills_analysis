@@ -1,6 +1,6 @@
-#Occupation jewellery repairer
-##Number skills 15
-###Similar occupations:
+# Occupation jewellery repairer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match jewellery repairer |   percentage match with jewellery repairer |   skills not in jewellery repairer |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [jewellery assembler](jewellery_assembler.md)                                       |                          12 |                                      7 |                                   0.466667 |                                  5 |

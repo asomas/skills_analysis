@@ -1,6 +1,6 @@
-#Occupation infantry soldier
-##Number skills 12
-###Similar occupations:
+# Occupation infantry soldier
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match infantry soldier |   percentage match with infantry soldier |   skills not in infantry soldier |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [navy officer](navy_officer.md)                                                               |                          21 |                                   10 |                                 0.833333 |                               11 |

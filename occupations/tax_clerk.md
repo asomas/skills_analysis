@@ -1,6 +1,6 @@
-#Occupation tax clerk
-##Number skills 12
-###Similar occupations:
+# Occupation tax clerk
+## Number skills 12
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match tax clerk |   percentage match with tax clerk |   skills not in tax clerk |
 |:------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [accountant](accountant.md)                                 |                          26 |                             7 |                          0.583333 |                        19 |

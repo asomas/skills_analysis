@@ -1,6 +1,6 @@
-#Occupation ticket sales agent
-##Number skills 16
-###Similar occupations:
+# Occupation ticket sales agent
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match ticket sales agent |   percentage match with ticket sales agent |   skills not in ticket sales agent |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [ticket issuing clerk](ticket_issuing_clerk.md)                                                                                                                   |                          42 |                                     14 |                                     0.875  |                                 28 |

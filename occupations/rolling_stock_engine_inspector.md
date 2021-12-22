@@ -1,6 +1,6 @@
-#Occupation rolling stock engine inspector
-##Number skills 21
-###Similar occupations:
+# Occupation rolling stock engine inspector
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match rolling stock engine inspector |   percentage match with rolling stock engine inspector |   skills not in rolling stock engine inspector |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [motor vehicle engine inspector](motor_vehicle_engine_inspector.md)                                                                                           |                          20 |                                                 17 |                                               0.809524 |                                              3 |

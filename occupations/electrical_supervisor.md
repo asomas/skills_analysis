@@ -1,6 +1,6 @@
-#Occupation electrical supervisor
-##Number skills 27
-###Similar occupations:
+# Occupation electrical supervisor
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match electrical supervisor |   percentage match with electrical supervisor |   skills not in electrical supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [water conservation technician supervisor](water_conservation_technician_supervisor.md)                         |                          21 |                                        17 |                                      0.62963  |                                     4 |

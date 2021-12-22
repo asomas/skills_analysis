@@ -1,6 +1,6 @@
-#Occupation equipment engineer
-##Number skills 15
-###Similar occupations:
+# Occupation equipment engineer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match equipment engineer |   percentage match with equipment engineer |   skills not in equipment engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [component engineer](component_engineer.md)                                                                                                 |                          15 |                                     15 |                                   1        |                                  0 |

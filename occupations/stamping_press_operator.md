@@ -1,6 +1,6 @@
-#Occupation stamping press operator
-##Number skills 16
-###Similar occupations:
+# Occupation stamping press operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match stamping press operator |   percentage match with stamping press operator |   skills not in stamping press operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [oxy fuel burning machine operator](oxy_fuel_burning_machine_operator.md)                                                                                     |                          19 |                                          13 |                                          0.8125 |                                       6 |

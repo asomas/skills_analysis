@@ -1,6 +1,6 @@
-#Occupation rail intermodal equipment operator
-##Number skills 17
-###Similar occupations:
+# Occupation rail intermodal equipment operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match rail intermodal equipment operator |   percentage match with rail intermodal equipment operator |   skills not in rail intermodal equipment operator |
 |:----------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [stevedore](stevedore.md)                                                   |                          37 |                                                     15 |                                                   0.882353 |                                                 22 |

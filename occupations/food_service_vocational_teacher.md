@@ -1,6 +1,6 @@
-#Occupation food service vocational teacher
-##Number skills 26
-###Similar occupations:
+# Occupation food service vocational teacher
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match food service vocational teacher |   percentage match with food service vocational teacher |   skills not in food service vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [hairdressing vocational teacher](hairdressing_vocational_teacher.md)                                                 |                          27 |                                                  21 |                                                0.807692 |                                               6 |

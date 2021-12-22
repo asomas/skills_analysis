@@ -1,6 +1,6 @@
-#Occupation forklift operator
-##Number skills 32
-###Similar occupations:
+# Occupation forklift operator
+## Number skills 32
+### Similar occupations:
 | occupation                                            |   skills in this occupation |   skills that match forklift operator |   percentage match with forklift operator |   skills not in forklift operator |
 |:------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [warehouse worker](warehouse_worker.md)               |                          39 |                                    10 |                                   0.3125  |                                29 |

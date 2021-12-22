@@ -1,6 +1,6 @@
-#Occupation disc jockey
-##Number skills 9
-###Similar occupations:
+# Occupation disc jockey
+## Number skills 9
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match disc jockey |   percentage match with disc jockey |   skills not in disc jockey |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [musical conductor](musical_conductor.md)                                             |                          25 |                               3 |                            0.333333 |                          22 |

@@ -1,6 +1,6 @@
-#Occupation public housing manager
-##Number skills 74
-###Similar occupations:
+# Occupation public housing manager
+## Number skills 74
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match public housing manager |   percentage match with public housing manager |   skills not in public housing manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [rescue centre manager](rescue_centre_manager.md)                                         |                          76 |                                         64 |                                       0.864865 |                                     12 |

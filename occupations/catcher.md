@@ -1,6 +1,6 @@
-#Occupation catcher
-##Number skills 3
-###Similar occupations:
+# Occupation catcher
+## Number skills 3
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match catcher |   percentage match with catcher |   skills not in catcher |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [live animal transporter](live_animal_transporter.md)                                     |                          25 |                           3 |                        1        |                      22 |

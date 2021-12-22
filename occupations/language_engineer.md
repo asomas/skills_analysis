@@ -1,6 +1,6 @@
-#Occupation language engineer
-##Number skills 21
-###Similar occupations:
+# Occupation language engineer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match language engineer |   percentage match with language engineer |   skills not in language engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [application engineer](application_engineer.md)                                                                                             |                           9 |                                     9 |                                  0.428571 |                                 0 |

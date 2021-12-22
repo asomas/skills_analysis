@@ -1,6 +1,6 @@
-#Occupation aviation surveillance and code coordination manager
-##Number skills 14
-###Similar occupations:
+# Occupation aviation surveillance and code coordination manager
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match aviation surveillance and code coordination manager |   percentage match with aviation surveillance and code coordination manager |   skills not in aviation surveillance and code coordination manager |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------------------:|--------------------------------------------------------------------:|
 | [aviation communications and frequency coordination manager](aviation_communications_and_frequency_coordination_manager.md) |                          15 |                                                                       7 |                                                                    0.5      |                                                                   8 |

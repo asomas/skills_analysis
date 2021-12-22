@@ -1,6 +1,6 @@
-#Occupation education programme coordinator
-##Number skills 13
-###Similar occupations:
+# Occupation education programme coordinator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match education programme coordinator |   percentage match with education programme coordinator |   skills not in education programme coordinator |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [curriculum administrator](curriculum_administrator.md)                             |                          14 |                                                   8 |                                                0.615385 |                                               6 |

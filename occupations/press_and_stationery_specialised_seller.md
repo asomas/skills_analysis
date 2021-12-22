@@ -1,6 +1,6 @@
-#Occupation press and stationery specialised seller
-##Number skills 29
-###Similar occupations:
+# Occupation press and stationery specialised seller
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match press and stationery specialised seller |   percentage match with press and stationery specialised seller |   skills not in press and stationery specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [eyewear and optical equipment specialised seller](eyewear_and_optical_equipment_specialised_seller.md)                                                           |                          34 |                                                          27 |                                                        0.931034 |                                                       7 |

@@ -1,6 +1,6 @@
-#Occupation water jet cutter operator
-##Number skills 21
-###Similar occupations:
+# Occupation water jet cutter operator
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match water jet cutter operator |   percentage match with water jet cutter operator |   skills not in water jet cutter operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [laser cutting machine operator](laser_cutting_machine_operator.md)                                   |                          26 |                                            18 |                                          0.857143 |                                         8 |

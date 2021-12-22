@@ -1,6 +1,6 @@
-#Occupation benefits advice worker
-##Number skills 69
-###Similar occupations:
+# Occupation benefits advice worker
+## Number skills 69
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match benefits advice worker |   percentage match with benefits advice worker |   skills not in benefits advice worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [employment support worker](employment_support_worker.md)                                 |                          71 |                                         65 |                                       0.942029 |                                      6 |

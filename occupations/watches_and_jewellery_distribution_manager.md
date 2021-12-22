@@ -1,6 +1,6 @@
-#Occupation watches and jewellery distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation watches and jewellery distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match watches and jewellery distribution manager |   percentage match with watches and jewellery distribution manager |   skills not in watches and jewellery distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [tobacco products distribution manager](tobacco_products_distribution_manager.md)                                                                                       |                          26 |                                                             25 |                                                           0.961538 |                                                          1 |

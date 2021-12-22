@@ -1,6 +1,6 @@
-#Occupation dangerous goods driver
-##Number skills 21
-###Similar occupations:
+# Occupation dangerous goods driver
+## Number skills 21
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match dangerous goods driver |   percentage match with dangerous goods driver |   skills not in dangerous goods driver |
 |:----------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [cargo vehicle driver](cargo_vehicle_driver.md)                       |                          19 |                                         12 |                                       0.571429 |                                      7 |

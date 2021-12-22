@@ -1,6 +1,6 @@
-#Occupation paramedic in emergency responses
-##Number skills 74
-###Similar occupations:
+# Occupation paramedic in emergency responses
+## Number skills 74
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match paramedic in emergency responses |   percentage match with paramedic in emergency responses |   skills not in paramedic in emergency responses |
 |:------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [hospital porter](hospital_porter.md)                                         |                          38 |                                                   37 |                                                 0.5      |                                                1 |

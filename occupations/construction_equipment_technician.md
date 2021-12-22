@@ -1,6 +1,6 @@
-#Occupation construction equipment technician
-##Number skills 14
-###Similar occupations:
+# Occupation construction equipment technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match construction equipment technician |   percentage match with construction equipment technician |   skills not in construction equipment technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [textile machinery technician](textile_machinery_technician.md)                                                                                                       |                          25 |                                                    10 |                                                  0.714286 |                                                15 |

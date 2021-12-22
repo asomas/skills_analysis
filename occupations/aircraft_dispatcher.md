@@ -1,6 +1,6 @@
-#Occupation aircraft dispatcher
-##Number skills 24
-###Similar occupations:
+# Occupation aircraft dispatcher
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match aircraft dispatcher |   percentage match with aircraft dispatcher |   skills not in aircraft dispatcher |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [commercial pilot](commercial_pilot.md)                                                                                     |                          41 |                                       9 |                                    0.375    |                                  32 |

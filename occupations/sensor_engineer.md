@@ -1,6 +1,6 @@
-#Occupation sensor engineer
-##Number skills 33
-###Similar occupations:
+# Occupation sensor engineer
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match sensor engineer |   percentage match with sensor engineer |   skills not in sensor engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [microelectronics engineer](microelectronics_engineer.md)                                                                                   |                          36 |                                  27 |                                0.818182 |                               9 |

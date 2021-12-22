@@ -1,6 +1,6 @@
-#Occupation railway electronic technician
-##Number skills 23
-###Similar occupations:
+# Occupation railway electronic technician
+## Number skills 23
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match railway electronic technician |   percentage match with railway electronic technician |   skills not in railway electronic technician |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [shunter](shunter.md)                                                       |                          33 |                                                 7 |                                              0.304348 |                                            26 |

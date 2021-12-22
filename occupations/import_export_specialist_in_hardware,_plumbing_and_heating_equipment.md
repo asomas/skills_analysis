@@ -1,6 +1,6 @@
-#Occupation import export specialist in hardware, plumbing and heating equipment
-##Number skills 23
-###Similar occupations:
+# Occupation import export specialist in hardware, plumbing and heating equipment
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in hardware, plumbing and heating equipment |   percentage match with import export specialist in hardware, plumbing and heating equipment |   skills not in import export specialist in hardware, plumbing and heating equipment |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------:|
 | [import export specialist in machine tools](import_export_specialist_in_machine_tools.md)                                                                               |                          23 |                                                                                       22 |                                                                                     0.956522 |                                                                                    1 |

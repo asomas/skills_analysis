@@ -1,6 +1,6 @@
-#Occupation railway infrastructure inspector
-##Number skills 12
-###Similar occupations:
+# Occupation railway infrastructure inspector
+## Number skills 12
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match railway infrastructure inspector |   percentage match with railway infrastructure inspector |   skills not in railway infrastructure inspector |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [agricultural inspector](agricultural_inspector.md)                               |                          18 |                                                    5 |                                                 0.416667 |                                               13 |

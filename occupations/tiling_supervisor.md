@@ -1,6 +1,6 @@
-#Occupation tiling supervisor
-##Number skills 24
-###Similar occupations:
+# Occupation tiling supervisor
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match tiling supervisor |   percentage match with tiling supervisor |   skills not in tiling supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [bricklaying supervisor](bricklaying_supervisor.md)                                                             |                          24 |                                    20 |                                  0.833333 |                                 4 |

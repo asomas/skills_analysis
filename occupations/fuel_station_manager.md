@@ -1,6 +1,6 @@
-#Occupation fuel station manager
-##Number skills 37
-###Similar occupations:
+# Occupation fuel station manager
+## Number skills 37
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match fuel station manager |   percentage match with fuel station manager |   skills not in fuel station manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [photography shop manager](photography_shop_manager.md)                                           |                          30 |                                       27 |                                     0.72973  |                                    3 |

@@ -1,6 +1,6 @@
-#Occupation rail maintenance technician
-##Number skills 18
-###Similar occupations:
+# Occupation rail maintenance technician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match rail maintenance technician |   percentage match with rail maintenance technician |   skills not in rail maintenance technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [lift engineer](lift_engineer.md)                                                                                                                             |                          31 |                                               6 |                                            0.333333 |                                          25 |

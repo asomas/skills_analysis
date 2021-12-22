@@ -1,6 +1,6 @@
-#Occupation art director
-##Number skills 23
-###Similar occupations:
+# Occupation art director
+## Number skills 23
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match art director |   percentage match with art director |   skills not in art director |
 |:--------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [lighting director](lighting_director.md)                                 |                          18 |                                7 |                             0.304348 |                           11 |

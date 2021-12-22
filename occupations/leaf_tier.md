@@ -1,6 +1,6 @@
-#Occupation leaf tier
-##Number skills 22
-###Similar occupations:
+# Occupation leaf tier
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match leaf tier |   percentage match with leaf tier |   skills not in leaf tier |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [curing room worker](curing_room_worker.md)                                             |                          30 |                            15 |                          0.681818 |                        15 |

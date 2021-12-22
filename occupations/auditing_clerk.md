@@ -1,6 +1,6 @@
-#Occupation auditing clerk
-##Number skills 17
-###Similar occupations:
+# Occupation auditing clerk
+## Number skills 17
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match auditing clerk |   percentage match with auditing clerk |   skills not in auditing clerk |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [audit supervisor](audit_supervisor.md)                                                 |                          18 |                                  6 |                               0.352941 |                             12 |

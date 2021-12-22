@@ -1,6 +1,6 @@
-#Occupation weaving machine supervisor
-##Number skills 9
-###Similar occupations:
+# Occupation weaving machine supervisor
+## Number skills 9
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match weaving machine supervisor |   percentage match with weaving machine supervisor |   skills not in weaving machine supervisor |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [weaving machine operator](weaving_machine_operator.md)                                 |                          11 |                                              7 |                                           0.777778 |                                          4 |

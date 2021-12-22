@@ -1,6 +1,6 @@
-#Occupation malt kiln operator
-##Number skills 28
-###Similar occupations:
+# Occupation malt kiln operator
+## Number skills 28
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match malt kiln operator |   percentage match with malt kiln operator |   skills not in malt kiln operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [cacao bean roaster](cacao_bean_roaster.md)                                             |                          22 |                                     14 |                                   0.5      |                                  8 |

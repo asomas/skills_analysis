@@ -1,6 +1,6 @@
-#Occupation aquaculture harvesting technician
-##Number skills 39
-###Similar occupations:
+# Occupation aquaculture harvesting technician
+## Number skills 39
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match aquaculture harvesting technician |   percentage match with aquaculture harvesting technician |   skills not in aquaculture harvesting technician |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [aquaculture harvesting manager](aquaculture_harvesting_manager.md)             |                          32 |                                                    15 |                                                  0.384615 |                                                17 |

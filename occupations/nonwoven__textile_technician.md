@@ -1,6 +1,6 @@
-#Occupation nonwoven  textile technician
-##Number skills 8
-###Similar occupations:
+# Occupation nonwoven  textile technician
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match nonwoven  textile technician |   percentage match with nonwoven  textile technician |   skills not in nonwoven  textile technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [textile technologist](textile_technologist.md)                                           |                          29 |                                                7 |                                                0.875 |                                           22 |

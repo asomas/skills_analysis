@@ -1,6 +1,6 @@
-#Occupation business manager
-##Number skills 35
-###Similar occupations:
+# Occupation business manager
+## Number skills 35
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match business manager |   percentage match with business manager |   skills not in business manager |
 |:--------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [branch manager](branch_manager.md)                                                   |                          48 |                                   32 |                                 0.914286 |                               16 |

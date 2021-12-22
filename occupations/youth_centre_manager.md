@@ -1,6 +1,6 @@
-#Occupation youth centre manager
-##Number skills 71
-###Similar occupations:
+# Occupation youth centre manager
+## Number skills 71
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match youth centre manager |   percentage match with youth centre manager |   skills not in youth centre manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [rescue centre manager](rescue_centre_manager.md)                                         |                          76 |                                       62 |                                     0.873239 |                                   14 |

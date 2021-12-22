@@ -1,6 +1,6 @@
-#Occupation sales account manager
-##Number skills 21
-###Similar occupations:
+# Occupation sales account manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match sales account manager |   percentage match with sales account manager |   skills not in sales account manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [ICT account manager](ICT_account_manager.md)                                                                                                                     |                          21 |                                        10 |                                      0.47619  |                                    11 |

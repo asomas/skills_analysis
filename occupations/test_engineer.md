@@ -1,6 +1,6 @@
-#Occupation test engineer
-##Number skills 14
-###Similar occupations:
+# Occupation test engineer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match test engineer |   percentage match with test engineer |   skills not in test engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [automation engineer](automation_engineer.md)                                                                                               |                          33 |                                11 |                              0.785714 |                            22 |

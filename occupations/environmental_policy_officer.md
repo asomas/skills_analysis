@@ -1,6 +1,6 @@
-#Occupation environmental policy officer
-##Number skills 15
-###Similar occupations:
+# Occupation environmental policy officer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match environmental policy officer |   percentage match with environmental policy officer |   skills not in environmental policy officer |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [environmental programme coordinator](environmental_programme_coordinator.md)       |                          13 |                                                8 |                                             0.533333 |                                            5 |

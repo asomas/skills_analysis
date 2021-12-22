@@ -1,6 +1,6 @@
-#Occupation security alarm technician
-##Number skills 19
-###Similar occupations:
+# Occupation security alarm technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match security alarm technician |   percentage match with security alarm technician |   skills not in security alarm technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [industrial electrician](industrial_electrician.md)                                                                                                           |                          17 |                                            10 |                                          0.526316 |                                         7 |

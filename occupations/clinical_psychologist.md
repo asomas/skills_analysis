@@ -1,6 +1,6 @@
-#Occupation clinical psychologist
-##Number skills 95
-###Similar occupations:
+# Occupation clinical psychologist
+## Number skills 95
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match clinical psychologist |   percentage match with clinical psychologist |   skills not in clinical psychologist |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [health psychologist](health_psychologist.md)                               |                          82 |                                        60 |                                      0.631579 |                                    22 |

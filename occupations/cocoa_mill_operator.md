@@ -1,6 +1,6 @@
-#Occupation cocoa mill operator
-##Number skills 16
-###Similar occupations:
+# Occupation cocoa mill operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match cocoa mill operator |   percentage match with cocoa mill operator |   skills not in cocoa mill operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [miller](miller.md)                                                                     |                          24 |                                      10 |                                      0.625  |                                  14 |

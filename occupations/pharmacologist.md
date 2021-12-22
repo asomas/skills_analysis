@@ -1,6 +1,6 @@
-#Occupation pharmacologist
-##Number skills 21
-###Similar occupations:
+# Occupation pharmacologist
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match pharmacologist |   percentage match with pharmacologist |   skills not in pharmacologist |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [medical laboratory assistant](medical_laboratory_assistant.md)                           |                          27 |                                  9 |                               0.428571 |                             18 |

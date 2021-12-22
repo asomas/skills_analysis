@@ -1,6 +1,6 @@
-#Occupation coachbuilder
-##Number skills 23
-###Similar occupations:
+# Occupation coachbuilder
+## Number skills 23
+### Similar occupations:
 | occupation                                            |   skills in this occupation |   skills that match coachbuilder |   percentage match with coachbuilder |   skills not in coachbuilder |
 |:------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [refurbishing technician](refurbishing_technician.md) |                          10 |                                4 |                             0.173913 |                            6 |

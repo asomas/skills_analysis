@@ -1,6 +1,6 @@
-#Occupation riveter
-##Number skills 10
-###Similar occupations:
+# Occupation riveter
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match riveter |   percentage match with riveter |   skills not in riveter |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [electron beam welder](electron_beam_welder.md)                                                       |                          25 |                           8 |                             0.8 |                      17 |

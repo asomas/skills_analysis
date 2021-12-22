@@ -1,6 +1,6 @@
-#Occupation wood drying kiln operator
-##Number skills 20
-###Similar occupations:
+# Occupation wood drying kiln operator
+## Number skills 20
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match wood drying kiln operator |   percentage match with wood drying kiln operator |   skills not in wood drying kiln operator |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [wood technology engineer](wood_technology_engineer.md)                             |                          29 |                                             5 |                                              0.25 |                                        24 |

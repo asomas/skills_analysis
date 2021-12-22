@@ -1,6 +1,6 @@
-#Occupation underwater construction supervisor
-##Number skills 28
-###Similar occupations:
+# Occupation underwater construction supervisor
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match underwater construction supervisor |   percentage match with underwater construction supervisor |   skills not in underwater construction supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [road construction supervisor](road_construction_supervisor.md)                                                 |                          25 |                                                     16 |                                                   0.571429 |                                                  9 |

@@ -1,6 +1,6 @@
-#Occupation rail operations manager
-##Number skills 18
-###Similar occupations:
+# Occupation rail operations manager
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match rail operations manager |   percentage match with rail operations manager |   skills not in rail operations manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [railway station manager](railway_station_manager.md)                                             |                          21 |                                           5 |                                        0.277778 |                                      16 |

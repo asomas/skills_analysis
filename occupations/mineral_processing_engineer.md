@@ -1,6 +1,6 @@
-#Occupation mineral processing engineer
-##Number skills 13
-###Similar occupations:
+# Occupation mineral processing engineer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match mineral processing engineer |   percentage match with mineral processing engineer |   skills not in mineral processing engineer |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [environmental mining engineer](environmental_mining_engineer.md)                                 |                          23 |                                               8 |                                            0.615385 |                                          15 |

@@ -1,6 +1,6 @@
-#Occupation consumer electronics repair technician
-##Number skills 13
-###Similar occupations:
+# Occupation consumer electronics repair technician
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match consumer electronics repair technician |   percentage match with consumer electronics repair technician |   skills not in consumer electronics repair technician |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [office equipment repair technician](office_equipment_repair_technician.md)                 |                          18 |                                                         10 |                                                       0.769231 |                                                      8 |

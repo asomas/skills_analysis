@@ -1,6 +1,6 @@
-#Occupation interior designer
-##Number skills 20
-###Similar occupations:
+# Occupation interior designer
+## Number skills 20
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match interior designer |   percentage match with interior designer |   skills not in interior designer |
 |:----------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [costume designer](costume_designer.md)                   |                          41 |                                     5 |                                      0.25 |                                36 |

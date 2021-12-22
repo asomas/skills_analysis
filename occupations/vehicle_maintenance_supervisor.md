@@ -1,6 +1,6 @@
-#Occupation vehicle maintenance supervisor
-##Number skills 18
-###Similar occupations:
+# Occupation vehicle maintenance supervisor
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match vehicle maintenance supervisor |   percentage match with vehicle maintenance supervisor |   skills not in vehicle maintenance supervisor |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [vehicle technician](vehicle_technician.md)                                                                                                                       |                          34 |                                                  6 |                                               0.333333 |                                             28 |

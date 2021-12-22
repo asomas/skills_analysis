@@ -1,6 +1,6 @@
-#Occupation screen printer
-##Number skills 19
-###Similar occupations:
+# Occupation screen printer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match screen printer |   percentage match with screen printer |   skills not in screen printer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [gravure press operator](gravure_press_operator.md)                                                   |                          18 |                                 12 |                               0.631579 |                              6 |

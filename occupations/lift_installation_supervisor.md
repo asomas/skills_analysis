@@ -1,6 +1,6 @@
-#Occupation lift installation supervisor
-##Number skills 26
-###Similar occupations:
+# Occupation lift installation supervisor
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match lift installation supervisor |   percentage match with lift installation supervisor |   skills not in lift installation supervisor |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [lift engineer](lift_engineer.md)                                                                                                                             |                          31 |                                               15 |                                             0.576923 |                                           16 |

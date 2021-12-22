@@ -1,6 +1,6 @@
-#Occupation Pilates teacher
-##Number skills 16
-###Similar occupations:
+# Occupation Pilates teacher
+## Number skills 16
+### Similar occupations:
 | occupation                                  |   skills in this occupation |   skills that match Pilates teacher |   percentage match with Pilates teacher |   skills not in Pilates teacher |
 |:--------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [sport therapist](sport_therapist.md)       |                          16 |                                   8 |                                  0.5    |                               8 |

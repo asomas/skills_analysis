@@ -1,6 +1,6 @@
-#Occupation machine operator supervisor
-##Number skills 17
-###Similar occupations:
+# Occupation machine operator supervisor
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match machine operator supervisor |   percentage match with machine operator supervisor |   skills not in machine operator supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [machinery assembly supervisor](machinery_assembly_supervisor.md)                                               |                          16 |                                               8 |                                            0.470588 |                                           8 |

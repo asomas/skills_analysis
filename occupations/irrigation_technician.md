@@ -1,6 +1,6 @@
-#Occupation irrigation technician
-##Number skills 12
-###Similar occupations:
+# Occupation irrigation technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match irrigation technician |   percentage match with irrigation technician |   skills not in irrigation technician |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [sprinkler fitter](sprinkler_fitter.md)                                 |                          16 |                                         2 |                                      0.166667 |                                    14 |

@@ -1,6 +1,6 @@
-#Occupation electronics production supervisor
-##Number skills 26
-###Similar occupations:
+# Occupation electronics production supervisor
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match electronics production supervisor |   percentage match with electronics production supervisor |   skills not in electronics production supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [optical instrument production supervisor](optical_instrument_production_supervisor.md)                         |                          23 |                                                    18 |                                                  0.692308 |                                                 5 |

@@ -1,6 +1,6 @@
-#Occupation stevedore
-##Number skills 37
-###Similar occupations:
+# Occupation stevedore
+## Number skills 37
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match stevedore |   percentage match with stevedore |   skills not in stevedore |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [rail intermodal equipment operator](rail_intermodal_equipment_operator.md) |                          17 |                            15 |                          0.405405 |                         2 |

@@ -1,6 +1,6 @@
-#Occupation digital games tester
-##Number skills 9
-###Similar occupations:
+# Occupation digital games tester
+## Number skills 9
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match digital games tester |   percentage match with digital games tester |   skills not in digital games tester |
 |:--------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [software tester](software_tester.md)                                           |                          10 |                                        7 |                                     0.777778 |                                    3 |

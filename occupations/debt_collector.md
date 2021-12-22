@@ -1,6 +1,6 @@
-#Occupation debt collector
-##Number skills 19
-###Similar occupations:
+# Occupation debt collector
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match debt collector |   percentage match with debt collector |   skills not in debt collector |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [pawnbroker](pawnbroker.md)                                                                                                                                             |                          16 |                                  5 |                               0.263158 |                             11 |

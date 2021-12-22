@@ -1,6 +1,6 @@
-#Occupation tobacco shop manager
-##Number skills 32
-###Similar occupations:
+# Occupation tobacco shop manager
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match tobacco shop manager |   percentage match with tobacco shop manager |   skills not in tobacco shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [bakery shop manager](bakery_shop_manager.md)                                                     |                          32 |                                       28 |                                      0.875   |                                    4 |

@@ -1,6 +1,6 @@
-#Occupation geneticist
-##Number skills 16
-###Similar occupations:
+# Occupation geneticist
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match geneticist |   percentage match with geneticist |   skills not in geneticist |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [biochemistry technician](biochemistry_technician.md)                                     |                          19 |                              8 |                             0.5    |                         11 |

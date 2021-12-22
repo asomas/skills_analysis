@@ -1,6 +1,6 @@
-#Occupation integrated circuit design engineer
-##Number skills 17
-###Similar occupations:
+# Occupation integrated circuit design engineer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match integrated circuit design engineer |   percentage match with integrated circuit design engineer |   skills not in integrated circuit design engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [electronics drafter](electronics_drafter.md)                                                                                               |                          22 |                                                     14 |                                                   0.823529 |                                                  8 |

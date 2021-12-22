@@ -1,6 +1,6 @@
-#Occupation crime journalist
-##Number skills 22
-###Similar occupations:
+# Occupation crime journalist
+## Number skills 22
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match crime journalist |   percentage match with crime journalist |   skills not in crime journalist |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [entertainment journalist](entertainment_journalist.md)                           |                          20 |                                   19 |                                 0.863636 |                                1 |

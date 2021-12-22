@@ -1,6 +1,6 @@
-#Occupation industrial mobile devices software developer
-##Number skills 19
-###Similar occupations:
+# Occupation industrial mobile devices software developer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match industrial mobile devices software developer |   percentage match with industrial mobile devices software developer |   skills not in industrial mobile devices software developer |
 |:------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------:|
 | [embedded systems software developer](embedded_systems_software_developer.md) |                          16 |                                                               15 |                                                             0.789474 |                                                            1 |

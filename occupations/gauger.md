@@ -1,6 +1,6 @@
-#Occupation gauger
-##Number skills 13
-###Similar occupations:
+# Occupation gauger
+## Number skills 13
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match gauger |   percentage match with gauger |   skills not in gauger |
 |:--------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [distillation operator](distillation_operator.md)                   |                          14 |                          6 |                       0.461538 |                      8 |

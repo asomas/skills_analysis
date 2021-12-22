@@ -1,6 +1,6 @@
-#Occupation bank teller
-##Number skills 13
-###Similar occupations:
+# Occupation bank teller
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match bank teller |   percentage match with bank teller |   skills not in bank teller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [financial trader](financial_trader.md)                                                                                                                           |                          16 |                               7 |                            0.538462 |                           9 |

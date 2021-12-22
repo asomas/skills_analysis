@@ -1,6 +1,6 @@
-#Occupation glass engraver
-##Number skills 11
-###Similar occupations:
+# Occupation glass engraver
+## Number skills 11
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match glass engraver |   percentage match with glass engraver |   skills not in glass engraver |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [jewellery engraver](jewellery_engraver.md)                       |                          13 |                                  7 |                               0.636364 |                              6 |

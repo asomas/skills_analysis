@@ -1,6 +1,6 @@
-#Occupation ombudsman
-##Number skills 12
-###Similar occupations:
+# Occupation ombudsman
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match ombudsman |   percentage match with ombudsman |   skills not in ombudsman |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [minister of religion](minister_of_religion.md)                                                                                                                         |                          19 |                             6 |                          0.5      |                        13 |

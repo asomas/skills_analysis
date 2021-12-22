@@ -1,6 +1,6 @@
-#Occupation residential childcare worker
-##Number skills 67
-###Similar occupations:
+# Occupation residential childcare worker
+## Number skills 67
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match residential childcare worker |   percentage match with residential childcare worker |   skills not in residential childcare worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [foster care support worker](foster_care_support_worker.md)                               |                          72 |                                               67 |                                             1        |                                            5 |

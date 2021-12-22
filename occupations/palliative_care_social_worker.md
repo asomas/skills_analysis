@@ -1,6 +1,6 @@
-#Occupation palliative care social worker
-##Number skills 74
-###Similar occupations:
+# Occupation palliative care social worker
+## Number skills 74
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match palliative care social worker |   percentage match with palliative care social worker |   skills not in palliative care social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [hospital social worker](hospital_social_worker.md)                                       |                          71 |                                                68 |                                              0.918919 |                                             3 |

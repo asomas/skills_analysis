@@ -1,6 +1,6 @@
-#Occupation train cleaner
-##Number skills 14
-###Similar occupations:
+# Occupation train cleaner
+## Number skills 14
+### Similar occupations:
 | occupation                                                    |   skills in this occupation |   skills that match train cleaner |   percentage match with train cleaner |   skills not in train cleaner |
 |:--------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [building cleaner](building_cleaner.md)                       |                          22 |                                 6 |                              0.428571 |                            16 |

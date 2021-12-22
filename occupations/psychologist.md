@@ -1,6 +1,6 @@
-#Occupation psychologist
-##Number skills 27
-###Similar occupations:
+# Occupation psychologist
+## Number skills 27
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match psychologist |   percentage match with psychologist |   skills not in psychologist |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [clinical psychologist](clinical_psychologist.md)                                   |                          95 |                               23 |                             0.851852 |                           72 |

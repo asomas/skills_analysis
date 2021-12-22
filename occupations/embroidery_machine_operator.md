@@ -1,6 +1,6 @@
-#Occupation embroidery machine operator
-##Number skills 8
-###Similar occupations:
+# Occupation embroidery machine operator
+## Number skills 8
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match embroidery machine operator |   percentage match with embroidery machine operator |   skills not in embroidery machine operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [sewing machine operator](sewing_machine_operator.md)                                   |                          14 |                                               7 |                                               0.875 |                                           7 |

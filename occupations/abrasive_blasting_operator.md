@@ -1,6 +1,6 @@
-#Occupation abrasive blasting operator
-##Number skills 9
-###Similar occupations:
+# Occupation abrasive blasting operator
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match abrasive blasting operator |   percentage match with abrasive blasting operator |   skills not in abrasive blasting operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [filing machine operator](filing_machine_operator.md)                                                 |                          16 |                                              5 |                                           0.555556 |                                         11 |

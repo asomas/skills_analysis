@@ -1,6 +1,6 @@
-#Occupation adult literacy teacher
-##Number skills 27
-###Similar occupations:
+# Occupation adult literacy teacher
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match adult literacy teacher |   percentage match with adult literacy teacher |   skills not in adult literacy teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [further education teacher](further_education_teacher.md)                                                             |                          24 |                                         21 |                                       0.777778 |                                      3 |

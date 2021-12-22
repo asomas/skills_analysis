@@ -1,6 +1,6 @@
-#Occupation bankruptcy trustee
-##Number skills 13
-###Similar occupations:
+# Occupation bankruptcy trustee
+## Number skills 13
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match bankruptcy trustee |   percentage match with bankruptcy trustee |   skills not in bankruptcy trustee |
 |:----------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [credit adviser](credit_adviser.md)                       |                          18 |                                      6 |                                   0.461538 |                                 12 |

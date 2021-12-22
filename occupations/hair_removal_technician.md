@@ -1,6 +1,6 @@
-#Occupation hair removal technician
-##Number skills 11
-###Similar occupations:
+# Occupation hair removal technician
+## Number skills 11
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match hair removal technician |   percentage match with hair removal technician |   skills not in hair removal technician |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [pedicurist](pedicurist.md)                                                             |                          18 |                                           9 |                                        0.818182 |                                       9 |

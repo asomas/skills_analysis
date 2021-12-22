@@ -1,6 +1,6 @@
-#Occupation animal trainer
-##Number skills 26
-###Similar occupations:
+# Occupation animal trainer
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match animal trainer |   percentage match with animal trainer |   skills not in animal trainer |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [animal behaviourist](animal_behaviourist.md)                                             |                          36 |                                 23 |                               0.884615 |                             13 |

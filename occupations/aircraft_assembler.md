@@ -1,6 +1,6 @@
-#Occupation aircraft assembler
-##Number skills 18
-###Similar occupations:
+# Occupation aircraft assembler
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match aircraft assembler |   percentage match with aircraft assembler |   skills not in aircraft assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [aircraft engine assembler](aircraft_engine_assembler.md)                                             |                          20 |                                     16 |                                   0.888889 |                                  4 |

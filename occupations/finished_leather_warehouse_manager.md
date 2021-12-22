@@ -1,6 +1,6 @@
-#Occupation finished leather warehouse manager
-##Number skills 18
-###Similar occupations:
+# Occupation finished leather warehouse manager
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match finished leather warehouse manager |   percentage match with finished leather warehouse manager |   skills not in finished leather warehouse manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [leather production manager](leather_production_manager.md)                                                                                                 |                          35 |                                                     16 |                                                   0.888889 |                                                 19 |

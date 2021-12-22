@@ -1,6 +1,6 @@
-#Occupation automotive brake technician
-##Number skills 9
-###Similar occupations:
+# Occupation automotive brake technician
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match automotive brake technician |   percentage match with automotive brake technician |   skills not in automotive brake technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [automotive electrician](automotive_electrician.md)                                                                                                                   |                          25 |                                               9 |                                            1        |                                          16 |

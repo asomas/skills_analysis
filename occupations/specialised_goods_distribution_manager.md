@@ -1,6 +1,6 @@
-#Occupation specialised goods distribution manager
-##Number skills 21
-###Similar occupations:
+# Occupation specialised goods distribution manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match specialised goods distribution manager |   percentage match with specialised goods distribution manager |   skills not in specialised goods distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [coffee, tea, cocoa and spices distribution manager](coffee,_tea,_cocoa_and_spices_distribution_manager.md)                                                             |                          26 |                                                         19 |                                                       0.904762 |                                                      7 |

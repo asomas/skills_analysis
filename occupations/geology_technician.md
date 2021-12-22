@@ -1,6 +1,6 @@
-#Occupation geology technician
-##Number skills 22
-###Similar occupations:
+# Occupation geology technician
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match geology technician |   percentage match with geology technician |   skills not in geology technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [geologist](geologist.md)                                                                 |                          20 |                                     12 |                                   0.545455 |                                  8 |

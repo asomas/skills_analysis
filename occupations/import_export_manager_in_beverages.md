@@ -1,6 +1,6 @@
-#Occupation import export manager in beverages
-##Number skills 27
-###Similar occupations:
+# Occupation import export manager in beverages
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in beverages |   percentage match with import export manager in beverages |   skills not in import export manager in beverages |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [import export manager in sugar, chocolate and sugar confectionery](import_export_manager_in_sugar,_chocolate_and_sugar_confectionery.md)                               |                          28 |                                                     26 |                                                   0.962963 |                                                  2 |

@@ -1,6 +1,6 @@
-#Occupation advertising media planner
-##Number skills 13
-###Similar occupations:
+# Occupation advertising media planner
+## Number skills 13
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match advertising media planner |   percentage match with advertising media planner |   skills not in advertising media planner |
 |:----------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [advertising media buyer](advertising_media_buyer.md)           |                          12 |                                             4 |                                          0.307692 |                                         8 |

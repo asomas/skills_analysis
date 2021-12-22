@@ -1,6 +1,6 @@
-#Occupation private chauffeur
-##Number skills 26
-###Similar occupations:
+# Occupation private chauffeur
+## Number skills 26
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match private chauffeur |   percentage match with private chauffeur |   skills not in private chauffeur |
 |:--------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [bus driver](bus_driver.md)                                               |                          33 |                                    17 |                                  0.653846 |                                16 |

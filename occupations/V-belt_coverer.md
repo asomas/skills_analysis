@@ -1,6 +1,6 @@
-#Occupation V-belt coverer
-##Number skills 8
-###Similar occupations:
+# Occupation V-belt coverer
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match V-belt coverer |   percentage match with V-belt coverer |   skills not in V-belt coverer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [nitroglycerin neutraliser](nitroglycerin_neutraliser.md)                                                                                                             |                          12 |                                  2 |                                  0.25  |                             10 |

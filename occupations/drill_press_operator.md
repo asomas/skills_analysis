@@ -1,6 +1,6 @@
-#Occupation drill press operator
-##Number skills 16
-###Similar occupations:
+# Occupation drill press operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match drill press operator |   percentage match with drill press operator |   skills not in drill press operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [laser cutting machine operator](laser_cutting_machine_operator.md)                                   |                          26 |                                       13 |                                       0.8125 |                                   13 |

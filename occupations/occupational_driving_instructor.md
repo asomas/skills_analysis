@@ -1,6 +1,6 @@
-#Occupation occupational driving instructor
-##Number skills 21
-###Similar occupations:
+# Occupation occupational driving instructor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match occupational driving instructor |   percentage match with occupational driving instructor |   skills not in occupational driving instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [truck driving instructor](truck_driving_instructor.md)                                                               |                          26 |                                                  16 |                                                0.761905 |                                              10 |

@@ -1,6 +1,6 @@
-#Occupation auction house manager
-##Number skills 17
-###Similar occupations:
+# Occupation auction house manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match auction house manager |   percentage match with auction house manager |   skills not in auction house manager |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [zoo curator](zoo_curator.md)                                                                                                                                 |                          47 |                                         8 |                                      0.470588 |                                    39 |

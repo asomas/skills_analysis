@@ -1,6 +1,6 @@
-#Occupation customs officer
-##Number skills 7
-###Similar occupations:
+# Occupation customs officer
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match customs officer |   percentage match with customs officer |   skills not in customs officer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [licensing officer](licensing_officer.md)                                                             |                          12 |                                   3 |                                0.428571 |                               9 |

@@ -1,6 +1,6 @@
-#Occupation operations manager
-##Number skills 13
-###Similar occupations:
+# Occupation operations manager
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match operations manager |   percentage match with operations manager |   skills not in operations manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [project manager](project_manager.md)                                                             |                          28 |                                     13 |                                   1        |                                 15 |

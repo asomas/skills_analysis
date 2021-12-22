@@ -1,6 +1,6 @@
-#Occupation structural ironworker
-##Number skills 22
-###Similar occupations:
+# Occupation structural ironworker
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match structural ironworker |   percentage match with structural ironworker |   skills not in structural ironworker |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [sheet metal worker](sheet_metal_worker.md)                                             |                          20 |                                        16 |                                      0.727273 |                                     4 |

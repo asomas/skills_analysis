@@ -1,6 +1,6 @@
-#Occupation product development engineering technician
-##Number skills 14
-###Similar occupations:
+# Occupation product development engineering technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match product development engineering technician |   percentage match with product development engineering technician |   skills not in product development engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [container equipment design engineer](container_equipment_design_engineer.md)                                                               |                          23 |                                                              8 |                                                           0.571429 |                                                         15 |

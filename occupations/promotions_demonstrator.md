@@ -1,6 +1,6 @@
-#Occupation promotions demonstrator
-##Number skills 15
-###Similar occupations:
+# Occupation promotions demonstrator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match promotions demonstrator |   percentage match with promotions demonstrator |   skills not in promotions demonstrator |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [hawker](hawker.md)                                                                                                                                               |                          19 |                                           8 |                                        0.533333 |                                      11 |

@@ -1,6 +1,6 @@
-#Occupation material testing technician
-##Number skills 10
-###Similar occupations:
+# Occupation material testing technician
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match material testing technician |   percentage match with material testing technician |   skills not in material testing technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [fire safety tester](fire_safety_tester.md)                                                                                                                   |                          13 |                                               6 |                                                 0.6 |                                           7 |

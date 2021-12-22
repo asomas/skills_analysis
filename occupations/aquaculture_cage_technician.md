@@ -1,6 +1,6 @@
-#Occupation aquaculture cage technician
-##Number skills 38
-###Similar occupations:
+# Occupation aquaculture cage technician
+## Number skills 38
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match aquaculture cage technician |   percentage match with aquaculture cage technician |   skills not in aquaculture cage technician |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [aquaculture husbandry technician](aquaculture_husbandry_technician.md)         |                          35 |                                              15 |                                            0.394737 |                                          20 |

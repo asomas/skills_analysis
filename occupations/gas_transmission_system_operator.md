@@ -1,6 +1,6 @@
-#Occupation gas transmission system operator
-##Number skills 12
-###Similar occupations:
+# Occupation gas transmission system operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match gas transmission system operator |   percentage match with gas transmission system operator |   skills not in gas transmission system operator |
 |:------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [pipeline route manager](pipeline_route_manager.md)                                 |                          18 |                                                    6 |                                                 0.5      |                                               12 |

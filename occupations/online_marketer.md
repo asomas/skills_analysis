@@ -1,6 +1,6 @@
-#Occupation online marketer
-##Number skills 23
-###Similar occupations:
+# Occupation online marketer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match online marketer |   percentage match with online marketer |   skills not in online marketer |
 |:--------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [category manager](category_manager.md)                                   |                          47 |                                   6 |                                0.26087  |                              41 |

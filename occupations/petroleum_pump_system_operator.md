@@ -1,6 +1,6 @@
-#Occupation petroleum pump system operator
-##Number skills 15
-###Similar occupations:
+# Occupation petroleum pump system operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match petroleum pump system operator |   percentage match with petroleum pump system operator |   skills not in petroleum pump system operator |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [refinery shift manager](refinery_shift_manager.md)                                               |                          15 |                                                  6 |                                               0.4      |                                              9 |

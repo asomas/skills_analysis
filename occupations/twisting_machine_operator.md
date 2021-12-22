@@ -1,6 +1,6 @@
-#Occupation twisting machine operator
-##Number skills 12
-###Similar occupations:
+# Occupation twisting machine operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match twisting machine operator |   percentage match with twisting machine operator |   skills not in twisting machine operator |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [spinning machine operator](spinning_machine_operator.md)                         |                          16 |                                             5 |                                          0.416667 |                                        11 |

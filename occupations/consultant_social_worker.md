@@ -1,6 +1,6 @@
-#Occupation consultant social worker
-##Number skills 75
-###Similar occupations:
+# Occupation consultant social worker
+## Number skills 75
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match consultant social worker |   percentage match with consultant social worker |   skills not in consultant social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [family social worker](family_social_worker.md)                                           |                          74 |                                           70 |                                         0.933333 |                                        4 |

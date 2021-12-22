@@ -1,6 +1,6 @@
-#Occupation dental chairside assistant
-##Number skills 37
-###Similar occupations:
+# Occupation dental chairside assistant
+## Number skills 37
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match dental chairside assistant |   percentage match with dental chairside assistant |   skills not in dental chairside assistant |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [dental hygienist](dental_hygienist.md)                                                   |                          33 |                                             27 |                                           0.72973  |                                          6 |

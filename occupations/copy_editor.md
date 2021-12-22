@@ -1,6 +1,6 @@
-#Occupation copy editor
-##Number skills 12
-###Similar occupations:
+# Occupation copy editor
+## Number skills 12
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match copy editor |   percentage match with copy editor |   skills not in copy editor |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [proofreader](proofreader.md)                                                     |                           8 |                               6 |                            0.5      |                           2 |

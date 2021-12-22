@@ -1,6 +1,6 @@
-#Occupation crosscut saw operator
-##Number skills 10
-###Similar occupations:
+# Occupation crosscut saw operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match crosscut saw operator |   percentage match with crosscut saw operator |   skills not in crosscut saw operator |
 |:------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [table saw operator](table_saw_operator.md)                                         |                          22 |                                         5 |                                           0.5 |                                    17 |

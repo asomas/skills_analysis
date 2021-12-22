@@ -1,6 +1,6 @@
-#Occupation agricultural scientist
-##Number skills 19
-###Similar occupations:
+# Occupation agricultural scientist
+## Number skills 19
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match agricultural scientist |   percentage match with agricultural scientist |   skills not in agricultural scientist |
 |:------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [horticulture production team leader](horticulture_production_team_leader.md) |                          42 |                                          3 |                                       0.157895 |                                     39 |

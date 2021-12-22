@@ -1,6 +1,6 @@
-#Occupation editorial assistant
-##Number skills 13
-###Similar occupations:
+# Occupation editorial assistant
+## Number skills 13
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match editorial assistant |   percentage match with editorial assistant |   skills not in editorial assistant |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [picture editor](picture_editor.md)                                               |                          22 |                                       4 |                                    0.307692 |                                  18 |

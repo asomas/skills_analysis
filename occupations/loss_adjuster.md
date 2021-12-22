@@ -1,6 +1,6 @@
-#Occupation loss adjuster
-##Number skills 21
-###Similar occupations:
+# Occupation loss adjuster
+## Number skills 21
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match loss adjuster |   percentage match with loss adjuster |   skills not in loss adjuster |
 |:--------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [insurance claims handler](insurance_claims_handler.md)             |                          19 |                                11 |                              0.52381  |                             8 |

@@ -1,6 +1,6 @@
-#Occupation fish preparation operator
-##Number skills 21
-###Similar occupations:
+# Occupation fish preparation operator
+## Number skills 21
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match fish preparation operator |   percentage match with fish preparation operator |   skills not in fish preparation operator |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [fish trimmer](fish_trimmer.md)                                                     |                          16 |                                            12 |                                          0.571429 |                                         4 |

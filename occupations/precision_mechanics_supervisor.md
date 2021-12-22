@@ -1,6 +1,6 @@
-#Occupation precision mechanics supervisor
-##Number skills 16
-###Similar occupations:
+# Occupation precision mechanics supervisor
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match precision mechanics supervisor |   percentage match with precision mechanics supervisor |   skills not in precision mechanics supervisor |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [machinery assembly supervisor](machinery_assembly_supervisor.md)                                                                                             |                          16 |                                                 12 |                                                 0.75   |                                              4 |

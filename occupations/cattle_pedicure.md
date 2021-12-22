@@ -1,6 +1,6 @@
-#Occupation cattle pedicure
-##Number skills 8
-###Similar occupations:
+# Occupation cattle pedicure
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match cattle pedicure |   percentage match with cattle pedicure |   skills not in cattle pedicure |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [animal care attendant](animal_care_attendant.md)                                         |                          27 |                                   3 |                                   0.375 |                              24 |

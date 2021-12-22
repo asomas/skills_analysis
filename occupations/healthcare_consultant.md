@@ -1,6 +1,6 @@
-#Occupation healthcare consultant
-##Number skills 12
-###Similar occupations:
+# Occupation healthcare consultant
+## Number skills 12
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match healthcare consultant |   percentage match with healthcare consultant |   skills not in healthcare consultant |
 |:------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [public health policy officer](public_health_policy_officer.md)               |                          14 |                                         8 |                                      0.666667 |                                     6 |

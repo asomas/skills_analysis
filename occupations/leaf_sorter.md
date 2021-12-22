@@ -1,6 +1,6 @@
-#Occupation leaf sorter
-##Number skills 20
-###Similar occupations:
+# Occupation leaf sorter
+## Number skills 20
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match leaf sorter |   percentage match with leaf sorter |   skills not in leaf sorter |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [cigar inspector](cigar_inspector.md)                                                   |                          21 |                              17 |                                0.85 |                           4 |

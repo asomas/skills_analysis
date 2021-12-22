@@ -1,6 +1,6 @@
-#Occupation political journalist
-##Number skills 22
-###Similar occupations:
+# Occupation political journalist
+## Number skills 22
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match political journalist |   percentage match with political journalist |   skills not in political journalist |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [foreign correspondent](foreign_correspondent.md)                                 |                          25 |                                       20 |                                     0.909091 |                                    5 |

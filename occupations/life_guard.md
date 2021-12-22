@@ -1,6 +1,6 @@
-#Occupation life guard
-##Number skills 15
-###Similar occupations:
+# Occupation life guard
+## Number skills 15
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match life guard |   percentage match with life guard |   skills not in life guard |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [bodyguard](bodyguard.md)                                               |                          24 |                              5 |                           0.333333 |                         19 |

@@ -1,6 +1,6 @@
-#Occupation specialist chiropractor
-##Number skills 75
-###Similar occupations:
+# Occupation specialist chiropractor
+## Number skills 75
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match specialist chiropractor |   percentage match with specialist chiropractor |   skills not in specialist chiropractor |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [chiropractor](chiropractor.md)                                             |                         136 |                                          66 |                                        0.88     |                                      70 |

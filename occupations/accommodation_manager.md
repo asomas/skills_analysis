@@ -1,6 +1,6 @@
-#Occupation accommodation manager
-##Number skills 17
-###Similar occupations:
+# Occupation accommodation manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match accommodation manager |   percentage match with accommodation manager |   skills not in accommodation manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [travel agency manager](travel_agency_manager.md)                                                                                                                 |                          30 |                                         6 |                                      0.352941 |                                    24 |

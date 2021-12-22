@@ -1,6 +1,6 @@
-#Occupation service manager
-##Number skills 13
-###Similar occupations:
+# Occupation service manager
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match service manager |   percentage match with service manager |   skills not in service manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [call centre manager](call_centre_manager.md)                                                                                                                     |                          29 |                                  12 |                                0.923077 |                              17 |

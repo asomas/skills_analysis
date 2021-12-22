@@ -1,6 +1,6 @@
-#Occupation septic tank servicer
-##Number skills 11
-###Similar occupations:
+# Occupation septic tank servicer
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match septic tank servicer |   percentage match with septic tank servicer |   skills not in septic tank servicer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [sewerage cleaner](sewerage_cleaner.md)                                                                                                                               |                          12 |                                        6 |                                     0.545455 |                                    6 |

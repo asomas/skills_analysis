@@ -1,6 +1,6 @@
-#Occupation malt master
-##Number skills 27
-###Similar occupations:
+# Occupation malt master
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match malt master |   percentage match with malt master |   skills not in malt master |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [brewmaster](brewmaster.md)                                                                                                                                       |                          40 |                              16 |                            0.592593 |                          24 |

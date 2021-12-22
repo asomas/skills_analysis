@@ -1,6 +1,6 @@
-#Occupation futures trader
-##Number skills 10
-###Similar occupations:
+# Occupation futures trader
+## Number skills 10
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match futures trader |   percentage match with futures trader |   skills not in futures trader |
 |:--------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [foreign exchange broker](foreign_exchange_broker.md)                           |                          13 |                                  8 |                                    0.8 |                              5 |

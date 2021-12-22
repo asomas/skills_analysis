@@ -1,6 +1,6 @@
-#Occupation loan officer
-##Number skills 14
-###Similar occupations:
+# Occupation loan officer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match loan officer |   percentage match with loan officer |   skills not in loan officer |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [mortgage broker](mortgage_broker.md)                                             |                          22 |                                9 |                             0.642857 |                           13 |

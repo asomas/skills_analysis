@@ -1,6 +1,6 @@
-#Occupation tissue paper perforating and rewinding operator
-##Number skills 15
-###Similar occupations:
+# Occupation tissue paper perforating and rewinding operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match tissue paper perforating and rewinding operator |   percentage match with tissue paper perforating and rewinding operator |   skills not in tissue paper perforating and rewinding operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------:|
 | [paper machine operator](paper_machine_operator.md)                                                   |                          17 |                                                                  10 |                                                                0.666667 |                                                               7 |

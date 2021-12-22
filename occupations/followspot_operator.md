@@ -1,6 +1,6 @@
-#Occupation followspot operator
-##Number skills 18
-###Similar occupations:
+# Occupation followspot operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match followspot operator |   percentage match with followspot operator |   skills not in followspot operator |
 |:------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [instrument technician](instrument_technician.md)                 |                          27 |                                      12 |                                    0.666667 |                                  15 |

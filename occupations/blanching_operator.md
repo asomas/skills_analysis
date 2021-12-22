@@ -1,6 +1,6 @@
-#Occupation blanching operator
-##Number skills 22
-###Similar occupations:
+# Occupation blanching operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match blanching operator |   percentage match with blanching operator |   skills not in blanching operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [dryer attendant](dryer_attendant.md)                                                   |                          30 |                                     11 |                                   0.5      |                                 19 |

@@ -1,6 +1,6 @@
-#Occupation import export specialist in chemical products
-##Number skills 24
-###Similar occupations:
+# Occupation import export specialist in chemical products
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in chemical products |   percentage match with import export specialist in chemical products |   skills not in import export specialist in chemical products |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------:|----------------------------------------------------------------------:|--------------------------------------------------------------:|
 | [import export specialist in waste and scrap](import_export_specialist_in_waste_and_scrap.md)                                                                           |                          23 |                                                                22 |                                                              0.916667 |                                                             1 |

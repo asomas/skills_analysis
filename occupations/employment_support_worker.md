@@ -1,6 +1,6 @@
-#Occupation employment support worker
-##Number skills 71
-###Similar occupations:
+# Occupation employment support worker
+## Number skills 71
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match employment support worker |   percentage match with employment support worker |   skills not in employment support worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [family social worker](family_social_worker.md)                                           |                          74 |                                            65 |                                          0.915493 |                                         9 |

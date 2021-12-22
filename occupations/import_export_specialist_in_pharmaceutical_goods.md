@@ -1,6 +1,6 @@
-#Occupation import export specialist in pharmaceutical goods
-##Number skills 24
-###Similar occupations:
+# Occupation import export specialist in pharmaceutical goods
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in pharmaceutical goods |   percentage match with import export specialist in pharmaceutical goods |   skills not in import export specialist in pharmaceutical goods |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------:|
 | [import export specialist in perfume and cosmetics](import_export_specialist_in_perfume_and_cosmetics.md)                                                               |                          24 |                                                                   23 |                                                                 0.958333 |                                                                1 |

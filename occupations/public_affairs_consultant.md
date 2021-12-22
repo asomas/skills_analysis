@@ -1,6 +1,6 @@
-#Occupation public affairs consultant
-##Number skills 12
-###Similar occupations:
+# Occupation public affairs consultant
+## Number skills 12
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match public affairs consultant |   percentage match with public affairs consultant |   skills not in public affairs consultant |
 |:------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [ambassador](ambassador.md)                                                   |                          18 |                                             6 |                                          0.5      |                                        12 |

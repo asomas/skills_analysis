@@ -1,6 +1,6 @@
-#Occupation assayer
-##Number skills 17
-###Similar occupations:
+# Occupation assayer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match assayer |   percentage match with assayer |   skills not in assayer |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [analytical chemist](analytical_chemist.md)                                               |                          17 |                          10 |                        0.588235 |                       7 |

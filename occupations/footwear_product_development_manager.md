@@ -1,6 +1,6 @@
-#Occupation footwear product development manager
-##Number skills 28
-###Similar occupations:
+# Occupation footwear product development manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match footwear product development manager |   percentage match with footwear product development manager |   skills not in footwear product development manager |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [footwear product developer](footwear_product_developer.md)                                                   |                          32 |                                                       25 |                                                     0.892857 |                                                    7 |

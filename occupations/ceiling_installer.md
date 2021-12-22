@@ -1,6 +1,6 @@
-#Occupation ceiling installer
-##Number skills 15
-###Similar occupations:
+# Occupation ceiling installer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match ceiling installer |   percentage match with ceiling installer |   skills not in ceiling installer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [construction painter](construction_painter.md)                                                                                                               |                          21 |                                     9 |                                  0.6      |                                12 |

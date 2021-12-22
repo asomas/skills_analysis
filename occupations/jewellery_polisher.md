@@ -1,6 +1,6 @@
-#Occupation jewellery polisher
-##Number skills 9
-###Similar occupations:
+# Occupation jewellery polisher
+## Number skills 9
+### Similar occupations:
 | occupation                                        |   skills in this occupation |   skills that match jewellery polisher |   percentage match with jewellery polisher |   skills not in jewellery polisher |
 |:--------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [precious stone cutter](precious_stone_cutter.md) |                          14 |                                      5 |                                   0.555556 |                                  9 |

@@ -1,6 +1,6 @@
-#Occupation carriage driver
-##Number skills 10
-###Similar occupations:
+# Occupation carriage driver
+## Number skills 10
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match carriage driver |   percentage match with carriage driver |   skills not in carriage driver |
 |:----------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [private chauffeur](private_chauffeur.md)                             |                          26 |                                   5 |                                     0.5 |                              21 |

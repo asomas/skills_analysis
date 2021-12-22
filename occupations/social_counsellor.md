@@ -1,6 +1,6 @@
-#Occupation social counsellor
-##Number skills 42
-###Similar occupations:
+# Occupation social counsellor
+## Number skills 42
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match social counsellor |   percentage match with social counsellor |   skills not in social counsellor |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [bereavement counsellor](bereavement_counsellor.md)                                       |                          46 |                                    42 |                                  1        |                                 4 |

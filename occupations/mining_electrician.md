@@ -1,6 +1,6 @@
-#Occupation mining electrician
-##Number skills 12
-###Similar occupations:
+# Occupation mining electrician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match mining electrician |   percentage match with mining electrician |   skills not in mining electrician |
 |:--------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [mining equipment mechanic](mining_equipment_mechanic.md)                                   |                          11 |                                      7 |                                   0.583333 |                                  4 |

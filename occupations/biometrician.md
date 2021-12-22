@@ -1,6 +1,6 @@
-#Occupation biometrician
-##Number skills 11
-###Similar occupations:
+# Occupation biometrician
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match biometrician |   percentage match with biometrician |   skills not in biometrician |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [climatologist](climatologist.md)                                                         |                          16 |                                7 |                             0.636364 |                            9 |

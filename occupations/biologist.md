@@ -1,6 +1,6 @@
-#Occupation biologist
-##Number skills 14
-###Similar occupations:
+# Occupation biologist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match biologist |   percentage match with biologist |   skills not in biologist |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [aquatic animal health professional](aquatic_animal_health_professional.md) |                          55 |                            14 |                          1        |                        41 |

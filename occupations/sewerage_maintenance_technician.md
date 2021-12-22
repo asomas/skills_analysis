@@ -1,6 +1,6 @@
-#Occupation sewerage maintenance technician
-##Number skills 20
-###Similar occupations:
+# Occupation sewerage maintenance technician
+## Number skills 20
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match sewerage maintenance technician |   percentage match with sewerage maintenance technician |   skills not in sewerage maintenance technician |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [drainage worker](drainage_worker.md)                                       |                          19 |                                                   7 |                                                    0.35 |                                              12 |

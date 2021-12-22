@@ -1,6 +1,6 @@
-#Occupation investment fund manager
-##Number skills 30
-###Similar occupations:
+# Occupation investment fund manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match investment fund manager |   percentage match with investment fund manager |   skills not in investment fund manager |
 |:--------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [investment manager](investment_manager.md)                                     |                          28 |                                          20 |                                        0.666667 |                                       8 |

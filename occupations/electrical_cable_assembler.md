@@ -1,6 +1,6 @@
-#Occupation electrical cable assembler
-##Number skills 20
-###Similar occupations:
+# Occupation electrical cable assembler
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match electrical cable assembler |   percentage match with electrical cable assembler |   skills not in electrical cable assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [wire harness assembler](wire_harness_assembler.md)                                                   |                          27 |                                             19 |                                               0.95 |                                          8 |

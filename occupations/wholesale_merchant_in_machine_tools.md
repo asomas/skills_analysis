@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in machine tools
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in machine tools
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in machine tools |   percentage match with wholesale merchant in machine tools |   skills not in wholesale merchant in machine tools |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [wholesale merchant in office machinery and equipment](wholesale_merchant_in_office_machinery_and_equipment.md)                                                     |                          20 |                                                      19 |                                                        0.95 |                                                   1 |

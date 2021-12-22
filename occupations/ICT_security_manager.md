@@ -1,6 +1,6 @@
-#Occupation ICT security manager
-##Number skills 20
-###Similar occupations:
+# Occupation ICT security manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match ICT security manager |   percentage match with ICT security manager |   skills not in ICT security manager |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [ICT security consultant](ICT_security_consultant.md)             |                          24 |                                        7 |                                         0.35 |                                   17 |

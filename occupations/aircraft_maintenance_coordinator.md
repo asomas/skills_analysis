@@ -1,6 +1,6 @@
-#Occupation aircraft maintenance coordinator
-##Number skills 15
-###Similar occupations:
+# Occupation aircraft maintenance coordinator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match aircraft maintenance coordinator |   percentage match with aircraft maintenance coordinator |   skills not in aircraft maintenance coordinator |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [airport maintenance technician](airport_maintenance_technician.md)               |                          13 |                                                    4 |                                                 0.266667 |                                                9 |

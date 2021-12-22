@@ -1,6 +1,6 @@
-#Occupation midwife
-##Number skills 74
-###Similar occupations:
+# Occupation midwife
+## Number skills 74
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match midwife |   percentage match with midwife |   skills not in midwife |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [dietitian](dietitian.md)                                                   |                          79 |                          30 |                        0.405405 |                      49 |

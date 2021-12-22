@@ -1,6 +1,6 @@
-#Occupation chemical products distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation chemical products distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match chemical products distribution manager |   percentage match with chemical products distribution manager |   skills not in chemical products distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [distribution manager](distribution_manager.md)                                                                                                                         |                          25 |                                                         25 |                                                       0.961538 |                                                      0 |

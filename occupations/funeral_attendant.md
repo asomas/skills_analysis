@@ -1,6 +1,6 @@
-#Occupation funeral attendant
-##Number skills 8
-###Similar occupations:
+# Occupation funeral attendant
+## Number skills 8
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match funeral attendant |   percentage match with funeral attendant |   skills not in funeral attendant |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [funeral services director](funeral_services_director.md)                           |                          19 |                                     6 |                                     0.75  |                                13 |

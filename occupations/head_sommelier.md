@@ -1,6 +1,6 @@
-#Occupation head sommelier
-##Number skills 25
-###Similar occupations:
+# Occupation head sommelier
+## Number skills 25
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match head sommelier |   percentage match with head sommelier |   skills not in head sommelier |
 |:--------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [sommelier](sommelier.md)                                                       |                          16 |                                 15 |                                   0.6  |                              1 |

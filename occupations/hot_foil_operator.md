@@ -1,6 +1,6 @@
-#Occupation hot foil operator
-##Number skills 14
-###Similar occupations:
+# Occupation hot foil operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match hot foil operator |   percentage match with hot foil operator |   skills not in hot foil operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [screen printer](screen_printer.md)                                                                   |                          19 |                                    10 |                                  0.714286 |                                 9 |

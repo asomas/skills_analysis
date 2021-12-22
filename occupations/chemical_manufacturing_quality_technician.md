@@ -1,6 +1,6 @@
-#Occupation chemical manufacturing quality technician
-##Number skills 19
-###Similar occupations:
+# Occupation chemical manufacturing quality technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match chemical manufacturing quality technician |   percentage match with chemical manufacturing quality technician |   skills not in chemical manufacturing quality technician |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [chemical engineering technician](chemical_engineering_technician.md)                 |                          22 |                                                             8 |                                                          0.421053 |                                                        14 |

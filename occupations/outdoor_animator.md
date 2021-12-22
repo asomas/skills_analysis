@@ -1,6 +1,6 @@
-#Occupation outdoor animator
-##Number skills 16
-###Similar occupations:
+# Occupation outdoor animator
+## Number skills 16
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match outdoor animator |   percentage match with outdoor animator |   skills not in outdoor animator |
 |:----------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [assistant outdoor animator](assistant_outdoor_animator.md)           |                          16 |                                   16 |                                   1      |                                0 |

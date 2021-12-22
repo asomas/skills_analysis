@@ -1,6 +1,6 @@
-#Occupation import export manager in hides, skins and leather products
-##Number skills 25
-###Similar occupations:
+# Occupation import export manager in hides, skins and leather products
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in hides, skins and leather products |   percentage match with import export manager in hides, skins and leather products |   skills not in import export manager in hides, skins and leather products |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------:|---------------------------------------------------------------------------:|
 | [import export manager in sugar, chocolate and sugar confectionery](import_export_manager_in_sugar,_chocolate_and_sugar_confectionery.md)                               |                          28 |                                                                             24 |                                                                               0.96 |                                                                          4 |

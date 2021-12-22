@@ -1,6 +1,6 @@
-#Occupation water quality analyst
-##Number skills 13
-###Similar occupations:
+# Occupation water quality analyst
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match water quality analyst |   percentage match with water quality analyst |   skills not in water quality analyst |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [groundwater monitoring technician](groundwater_monitoring_technician.md)                 |                          17 |                                        11 |                                      0.846154 |                                     6 |

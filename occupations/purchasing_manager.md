@@ -1,6 +1,6 @@
-#Occupation purchasing manager
-##Number skills 25
-###Similar occupations:
+# Occupation purchasing manager
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match purchasing manager |   percentage match with purchasing manager |   skills not in purchasing manager |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [resource manager](resource_manager.md)                                                                                                                       |                          25 |                                     18 |                                       0.72 |                                  7 |

@@ -1,6 +1,6 @@
-#Occupation pet sitter
-##Number skills 18
-###Similar occupations:
+# Occupation pet sitter
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match pet sitter |   percentage match with pet sitter |   skills not in pet sitter |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [animal care attendant](animal_care_attendant.md)                                         |                          27 |                             18 |                           1        |                          9 |

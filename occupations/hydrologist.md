@@ -1,6 +1,6 @@
-#Occupation hydrologist
-##Number skills 12
-###Similar occupations:
+# Occupation hydrologist
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match hydrologist |   percentage match with hydrologist |   skills not in hydrologist |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [geologist](geologist.md)                                                                 |                          20 |                               7 |                            0.583333 |                          13 |

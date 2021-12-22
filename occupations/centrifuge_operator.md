@@ -1,6 +1,6 @@
-#Occupation centrifuge operator
-##Number skills 20
-###Similar occupations:
+# Occupation centrifuge operator
+## Number skills 20
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match centrifuge operator |   percentage match with centrifuge operator |   skills not in centrifuge operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [blanching operator](blanching_operator.md)                                             |                          22 |                                      11 |                                        0.55 |                                  11 |

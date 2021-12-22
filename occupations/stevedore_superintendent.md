@@ -1,6 +1,6 @@
-#Occupation stevedore superintendent
-##Number skills 26
-###Similar occupations:
+# Occupation stevedore superintendent
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match stevedore superintendent |   percentage match with stevedore superintendent |   skills not in stevedore superintendent |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [port coordinator](port_coordinator.md)                                                   |                          30 |                                           10 |                                         0.384615 |                                       20 |

@@ -1,6 +1,6 @@
-#Occupation fiscal affairs policy officer
-##Number skills 15
-###Similar occupations:
+# Occupation fiscal affairs policy officer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match fiscal affairs policy officer |   percentage match with fiscal affairs policy officer |   skills not in fiscal affairs policy officer |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [risk manager](risk_manager.md)                                               |                          28 |                                                 5 |                                              0.333333 |                                            23 |

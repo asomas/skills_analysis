@@ -1,6 +1,6 @@
-#Occupation industrial designer
-##Number skills 18
-###Similar occupations:
+# Occupation industrial designer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match industrial designer |   percentage match with industrial designer |   skills not in industrial designer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [ergonomist](ergonomist.md)                                                                                                                 |                          14 |                                       9 |                                    0.5      |                                   5 |

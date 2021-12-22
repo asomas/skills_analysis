@@ -1,6 +1,6 @@
-#Occupation jeweller
-##Number skills 13
-###Similar occupations:
+# Occupation jeweller
+## Number skills 13
+### Similar occupations:
 | occupation                                        |   skills in this occupation |   skills that match jeweller |   percentage match with jeweller |   skills not in jeweller |
 |:--------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [jewellery designer](jewellery_designer.md)       |                          26 |                           11 |                         0.846154 |                       15 |

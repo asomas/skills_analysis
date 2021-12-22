@@ -1,6 +1,6 @@
-#Occupation moving truck driver
-##Number skills 21
-###Similar occupations:
+# Occupation moving truck driver
+## Number skills 21
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match moving truck driver |   percentage match with moving truck driver |   skills not in moving truck driver |
 |:----------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [bus driver](bus_driver.md)                                           |                          33 |                                       9 |                                    0.428571 |                                  24 |

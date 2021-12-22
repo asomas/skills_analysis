@@ -1,6 +1,6 @@
-#Occupation tumbling machine operator
-##Number skills 16
-###Similar occupations:
+# Occupation tumbling machine operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match tumbling machine operator |   percentage match with tumbling machine operator |   skills not in tumbling machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [deburring machine operator](deburring_machine_operator.md)                                           |                          20 |                                            12 |                                            0.75   |                                         8 |

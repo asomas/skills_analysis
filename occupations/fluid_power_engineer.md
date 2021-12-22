@@ -1,6 +1,6 @@
-#Occupation fluid power engineer
-##Number skills 22
-###Similar occupations:
+# Occupation fluid power engineer
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match fluid power engineer |   percentage match with fluid power engineer |   skills not in fluid power engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [rotating equipment engineer](rotating_equipment_engineer.md)                                                                                                 |                          26 |                                       19 |                                     0.863636 |                                    7 |

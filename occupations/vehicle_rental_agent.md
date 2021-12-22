@@ -1,6 +1,6 @@
-#Occupation vehicle rental agent
-##Number skills 23
-###Similar occupations:
+# Occupation vehicle rental agent
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match vehicle rental agent |   percentage match with vehicle rental agent |   skills not in vehicle rental agent |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [rental service representative in office machinery and equipment](rental_service_representative_in_office_machinery_and_equipment.md)                             |                          23 |                                       12 |                                     0.521739 |                                   11 |

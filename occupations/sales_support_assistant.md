@@ -1,6 +1,6 @@
-#Occupation sales support assistant
-##Number skills 6
-###Similar occupations:
+# Occupation sales support assistant
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match sales support assistant |   percentage match with sales support assistant |   skills not in sales support assistant |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [administrative assistant](administrative_assistant.md)                                           |                          17 |                                           3 |                                        0.5      |                                      14 |

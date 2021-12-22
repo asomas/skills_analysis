@@ -1,6 +1,6 @@
-#Occupation school bus attendant
-##Number skills 9
-###Similar occupations:
+# Occupation school bus attendant
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match school bus attendant |   percentage match with school bus attendant |   skills not in school bus attendant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [private chauffeur](private_chauffeur.md)                                                                                                                               |                          26 |                                        3 |                                     0.333333 |                                   23 |

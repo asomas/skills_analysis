@@ -1,6 +1,6 @@
-#Occupation facilities manager
-##Number skills 33
-###Similar occupations:
+# Occupation facilities manager
+## Number skills 33
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match facilities manager |   percentage match with facilities manager |   skills not in facilities manager |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [project manager](project_manager.md)                                   |                          28 |                                     14 |                                   0.424242 |                                 14 |

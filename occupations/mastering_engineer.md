@@ -1,6 +1,6 @@
-#Occupation mastering engineer
-##Number skills 11
-###Similar occupations:
+# Occupation mastering engineer
+## Number skills 11
+### Similar occupations:
 | occupation                                                    |   skills in this occupation |   skills that match mastering engineer |   percentage match with mastering engineer |   skills not in mastering engineer |
 |:--------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [recording studio technician](recording_studio_technician.md) |                          21 |                                      4 |                                   0.363636 |                                 17 |

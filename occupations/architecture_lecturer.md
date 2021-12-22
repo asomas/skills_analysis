@@ -1,6 +1,6 @@
-#Occupation architecture lecturer
-##Number skills 23
-###Similar occupations:
+# Occupation architecture lecturer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match architecture lecturer |   percentage match with architecture lecturer |   skills not in architecture lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [chemistry lecturer](chemistry_lecturer.md)                                                                           |                          23 |                                        16 |                                      0.695652 |                                     7 |

@@ -1,6 +1,6 @@
-#Occupation rolling stock assembly inspector
-##Number skills 16
-###Similar occupations:
+# Occupation rolling stock assembly inspector
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match rolling stock assembly inspector |   percentage match with rolling stock assembly inspector |   skills not in rolling stock assembly inspector |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [rolling stock engine inspector](rolling_stock_engine_inspector.md)                                                                                           |                          21 |                                                   16 |                                                   1      |                                                5 |

@@ -1,6 +1,6 @@
-#Occupation electrical engineer
-##Number skills 11
-###Similar occupations:
+# Occupation electrical engineer
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match electrical engineer |   percentage match with electrical engineer |   skills not in electrical engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [computer hardware engineer](computer_hardware_engineer.md)                                                                                 |                          34 |                                      11 |                                    1        |                                  23 |

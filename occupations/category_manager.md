@@ -1,6 +1,6 @@
-#Occupation category manager
-##Number skills 47
-###Similar occupations:
+# Occupation category manager
+## Number skills 47
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match category manager |   percentage match with category manager |   skills not in category manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [online community manager](online_community_manager.md)                                           |                          47 |                                   27 |                                 0.574468 |                               20 |

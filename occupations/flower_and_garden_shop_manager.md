@@ -1,6 +1,6 @@
-#Occupation flower and garden shop manager
-##Number skills 31
-###Similar occupations:
+# Occupation flower and garden shop manager
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match flower and garden shop manager |   percentage match with flower and garden shop manager |   skills not in flower and garden shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [fruit and vegetables shop manager](fruit_and_vegetables_shop_manager.md)                         |                          33 |                                                 28 |                                               0.903226 |                                              5 |

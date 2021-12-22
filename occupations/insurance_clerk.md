@@ -1,6 +1,6 @@
-#Occupation insurance clerk
-##Number skills 14
-###Similar occupations:
+# Occupation insurance clerk
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match insurance clerk |   percentage match with insurance clerk |   skills not in insurance clerk |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [investment clerk](investment_clerk.md)                                                                                                                           |                          19 |                                  12 |                                0.857143 |                               7 |

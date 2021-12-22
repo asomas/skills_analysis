@@ -1,6 +1,6 @@
-#Occupation engineering assistant
-##Number skills 6
-###Similar occupations:
+# Occupation engineering assistant
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match engineering assistant |   percentage match with engineering assistant |   skills not in engineering assistant |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [sales support assistant](sales_support_assistant.md)                                                                                       |                           6 |                                         3 |                                      0.5      |                                     3 |

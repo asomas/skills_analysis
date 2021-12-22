@@ -1,6 +1,6 @@
-#Occupation import export specialist in fruit and vegetables
-##Number skills 25
-###Similar occupations:
+# Occupation import export specialist in fruit and vegetables
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in fruit and vegetables |   percentage match with import export specialist in fruit and vegetables |   skills not in import export specialist in fruit and vegetables |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------:|
 | [import export specialist in sugar, chocolate and sugar confectionery](import_export_specialist_in_sugar,_chocolate_and_sugar_confectionery.md)                         |                          25 |                                                                   24 |                                                                     0.96 |                                                                1 |

@@ -1,6 +1,6 @@
-#Occupation materials handler
-##Number skills 22
-###Similar occupations:
+# Occupation materials handler
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match materials handler |   percentage match with materials handler |   skills not in materials handler |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [warehouse worker](warehouse_worker.md)                                                 |                          39 |                                    16 |                                  0.727273 |                                23 |

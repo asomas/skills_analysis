@@ -1,6 +1,6 @@
-#Occupation mergers and acquisitions analyst
-##Number skills 15
-###Similar occupations:
+# Occupation mergers and acquisitions analyst
+## Number skills 15
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match mergers and acquisitions analyst |   percentage match with mergers and acquisitions analyst |   skills not in mergers and acquisitions analyst |
 |:--------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [asset manager](asset_manager.md)                                   |                          21 |                                                    7 |                                                 0.466667 |                                               14 |

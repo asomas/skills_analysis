@@ -1,6 +1,6 @@
-#Occupation antique furniture reproducer
-##Number skills 16
-###Similar occupations:
+# Occupation antique furniture reproducer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match antique furniture reproducer |   percentage match with antique furniture reproducer |   skills not in antique furniture reproducer |
 |:--------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [cabinet maker](cabinet_maker.md)                                                     |                          20 |                                               10 |                                               0.625  |                                           10 |

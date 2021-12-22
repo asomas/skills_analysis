@@ -1,6 +1,6 @@
-#Occupation ICT operations manager
-##Number skills 16
-###Similar occupations:
+# Occupation ICT operations manager
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match ICT operations manager |   percentage match with ICT operations manager |   skills not in ICT operations manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [fruit and vegetables shop manager](fruit_and_vegetables_shop_manager.md)                         |                          33 |                                          4 |                                         0.25   |                                     29 |

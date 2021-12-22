@@ -1,6 +1,6 @@
-#Occupation digital printer
-##Number skills 18
-###Similar occupations:
+# Occupation digital printer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match digital printer |   percentage match with digital printer |   skills not in digital printer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [gravure press operator](gravure_press_operator.md)                                                   |                          18 |                                  12 |                                0.666667 |                               6 |

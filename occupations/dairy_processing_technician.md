@@ -1,6 +1,6 @@
-#Occupation dairy processing technician
-##Number skills 27
-###Similar occupations:
+# Occupation dairy processing technician
+## Number skills 27
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match dairy processing technician |   percentage match with dairy processing technician |   skills not in dairy processing technician |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [dairy products manufacturing worker](dairy_products_manufacturing_worker.md)           |                          27 |                                              12 |                                            0.444444 |                                          15 |

@@ -1,6 +1,6 @@
-#Occupation biotechnical technician
-##Number skills 12
-###Similar occupations:
+# Occupation biotechnical technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match biotechnical technician |   percentage match with biotechnical technician |   skills not in biotechnical technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [zoology technician](zoology_technician.md)                                               |                          19 |                                           8 |                                        0.666667 |                                      11 |

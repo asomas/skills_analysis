@@ -1,6 +1,6 @@
-#Occupation air pollution analyst
-##Number skills 7
-###Similar occupations:
+# Occupation air pollution analyst
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match air pollution analyst |   percentage match with air pollution analyst |   skills not in air pollution analyst |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [mud logger](mud_logger.md)                                                                                     |                          17 |                                         5 |                                      0.714286 |                                    12 |

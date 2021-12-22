@@ -1,6 +1,6 @@
-#Occupation court enforcement officer
-##Number skills 12
-###Similar occupations:
+# Occupation court enforcement officer
+## Number skills 12
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match court enforcement officer |   percentage match with court enforcement officer |   skills not in court enforcement officer |
 |:--------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [conveyance clerk](conveyance_clerk.md)                             |                           7 |                                             3 |                                          0.25     |                                         4 |

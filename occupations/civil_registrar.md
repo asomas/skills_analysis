@@ -1,6 +1,6 @@
-#Occupation civil registrar
-##Number skills 7
-###Similar occupations:
+# Occupation civil registrar
+## Number skills 7
+### Similar occupations:
 | occupation                                              |   skills in this occupation |   skills that match civil registrar |   percentage match with civil registrar |   skills not in civil registrar |
 |:--------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [airport security officer](airport_security_officer.md) |                          16 |                                   1 |                                0.142857 |                              15 |

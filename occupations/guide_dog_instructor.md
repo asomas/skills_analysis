@@ -1,6 +1,6 @@
-#Occupation guide dog instructor
-##Number skills 17
-###Similar occupations:
+# Occupation guide dog instructor
+## Number skills 17
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match guide dog instructor |   percentage match with guide dog instructor |   skills not in guide dog instructor |
 |:----------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [animal behaviourist](animal_behaviourist.md)                   |                          36 |                                        8 |                                     0.470588 |                                   28 |

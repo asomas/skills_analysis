@@ -1,6 +1,6 @@
-#Occupation real estate investor
-##Number skills 14
-###Similar occupations:
+# Occupation real estate investor
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match real estate investor |   percentage match with real estate investor |   skills not in real estate investor |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [property appraiser](property_appraiser.md)                                                   |                          15 |                                        8 |                                     0.571429 |                                    7 |

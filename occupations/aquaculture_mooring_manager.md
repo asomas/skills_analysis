@@ -1,6 +1,6 @@
-#Occupation aquaculture mooring manager
-##Number skills 23
-###Similar occupations:
+# Occupation aquaculture mooring manager
+## Number skills 23
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match aquaculture mooring manager |   percentage match with aquaculture mooring manager |   skills not in aquaculture mooring manager |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [aquaculture recirculation technician](aquaculture_recirculation_technician.md) |                          34 |                                               6 |                                            0.26087  |                                          28 |

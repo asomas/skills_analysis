@@ -1,6 +1,6 @@
-#Occupation demolition supervisor
-##Number skills 21
-###Similar occupations:
+# Occupation demolition supervisor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match demolition supervisor |   percentage match with demolition supervisor |   skills not in demolition supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [bridge construction supervisor](bridge_construction_supervisor.md)                                             |                          26 |                                        17 |                                      0.809524 |                                     9 |

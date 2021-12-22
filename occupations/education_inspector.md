@@ -1,6 +1,6 @@
-#Occupation education inspector
-##Number skills 10
-###Similar occupations:
+# Occupation education inspector
+## Number skills 10
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match education inspector |   percentage match with education inspector |   skills not in education inspector |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [curriculum administrator](curriculum_administrator.md)                             |                          14 |                                       5 |                                         0.5 |                                   9 |

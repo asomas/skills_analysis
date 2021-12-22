@@ -1,6 +1,6 @@
-#Occupation grants administrator
-##Number skills 8
-###Similar occupations:
+# Occupation grants administrator
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match grants administrator |   percentage match with grants administrator |   skills not in grants administrator |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [grants management officer](grants_management_officer.md)                                   |                          11 |                                        3 |                                        0.375 |                                    8 |

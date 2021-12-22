@@ -1,6 +1,6 @@
-#Occupation recreation policy officer
-##Number skills 9
-###Similar occupations:
+# Occupation recreation policy officer
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match recreation policy officer |   percentage match with recreation policy officer |   skills not in recreation policy officer |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [economic policy officer](economic_policy_officer.md)                                                                                                                   |                          14 |                                             4 |                                          0.444444 |                                        10 |

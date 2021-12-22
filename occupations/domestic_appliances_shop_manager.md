@@ -1,6 +1,6 @@
-#Occupation domestic appliances shop manager
-##Number skills 32
-###Similar occupations:
+# Occupation domestic appliances shop manager
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match domestic appliances shop manager |   percentage match with domestic appliances shop manager |   skills not in domestic appliances shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [shop manager](shop_manager.md)                                                                   |                          27 |                                                   27 |                                                  0.84375 |                                                0 |

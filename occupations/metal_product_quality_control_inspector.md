@@ -1,6 +1,6 @@
-#Occupation metal product quality control inspector
-##Number skills 28
-###Similar occupations:
+# Occupation metal product quality control inspector
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match metal product quality control inspector |   percentage match with metal product quality control inspector |   skills not in metal product quality control inspector |
 |:----------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [lumber grader](lumber_grader.md)                                                             |                          34 |                                                          20 |                                                        0.714286 |                                                      14 |

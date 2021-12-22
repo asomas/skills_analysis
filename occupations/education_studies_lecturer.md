@@ -1,6 +1,6 @@
-#Occupation education studies lecturer
-##Number skills 19
-###Similar occupations:
+# Occupation education studies lecturer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match education studies lecturer |   percentage match with education studies lecturer |   skills not in education studies lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [social work lecturer](social_work_lecturer.md)                                                                       |                          82 |                                             16 |                                           0.842105 |                                         66 |

@@ -1,6 +1,6 @@
-#Occupation lime kiln operator
-##Number skills 9
-###Similar occupations:
+# Occupation lime kiln operator
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match lime kiln operator |   percentage match with lime kiln operator |   skills not in lime kiln operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [soap tower operator](soap_tower_operator.md)                                                                   |                           8 |                                      3 |                                   0.333333 |                                  5 |

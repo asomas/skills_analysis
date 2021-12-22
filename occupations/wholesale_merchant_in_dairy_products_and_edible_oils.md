@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in dairy products and edible oils
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in dairy products and edible oils
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in dairy products and edible oils |   percentage match with wholesale merchant in dairy products and edible oils |   skills not in wholesale merchant in dairy products and edible oils |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------------------:|---------------------------------------------------------------------:|
 | [wholesale merchant in electrical household appliances](wholesale_merchant_in_electrical_household_appliances.md)                                                   |                          20 |                                                                       19 |                                                                         0.95 |                                                                    1 |

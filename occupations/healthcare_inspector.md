@@ -1,6 +1,6 @@
-#Occupation healthcare inspector
-##Number skills 14
-###Similar occupations:
+# Occupation healthcare inspector
+## Number skills 14
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match healthcare inspector |   percentage match with healthcare inspector |   skills not in healthcare inspector |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [doctors' surgery assistant](doctors'_surgery_assistant.md)                             |                          45 |                                        4 |                                     0.285714 |                                   41 |

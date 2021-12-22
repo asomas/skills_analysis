@@ -1,6 +1,6 @@
-#Occupation asset manager
-##Number skills 21
-###Similar occupations:
+# Occupation asset manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match asset manager |   percentage match with asset manager |   skills not in asset manager |
 |:--------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [investment fund manager](investment_fund_manager.md)                           |                          30 |                                16 |                              0.761905 |                            14 |

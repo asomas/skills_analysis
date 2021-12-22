@@ -1,6 +1,6 @@
-#Occupation optical instrument repairer
-##Number skills 24
-###Similar occupations:
+# Occupation optical instrument repairer
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match optical instrument repairer |   percentage match with optical instrument repairer |   skills not in optical instrument repairer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [optical instrument assembler](optical_instrument_assembler.md)                                       |                          28 |                                              15 |                                            0.625    |                                          13 |

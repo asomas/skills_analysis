@@ -1,6 +1,6 @@
-#Occupation engraving machine operator
-##Number skills 29
-###Similar occupations:
+# Occupation engraving machine operator
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match engraving machine operator |   percentage match with engraving machine operator |   skills not in engraving machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [lathe and turning machine operator](lathe_and_turning_machine_operator.md)                           |                          28 |                                             25 |                                           0.862069 |                                          3 |

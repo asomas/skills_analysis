@@ -1,6 +1,6 @@
-#Occupation mechanical engineering drafter
-##Number skills 14
-###Similar occupations:
+# Occupation mechanical engineering drafter
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match mechanical engineering drafter |   percentage match with mechanical engineering drafter |   skills not in mechanical engineering drafter |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [heating, ventilation, air conditioning (and refrigeration) drafter](heating,_ventilation,_air_conditioning_(and_refrigeration)_drafter.md) |                          17 |                                                 10 |                                               0.714286 |                                              7 |

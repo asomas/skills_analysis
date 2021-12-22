@@ -1,6 +1,6 @@
-#Occupation absorbent pad machine operator
-##Number skills 12
-###Similar occupations:
+# Occupation absorbent pad machine operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match absorbent pad machine operator |   percentage match with absorbent pad machine operator |   skills not in absorbent pad machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [corrugator operator](corrugator_operator.md)                                                         |                          13 |                                                  9 |                                               0.75     |                                              4 |

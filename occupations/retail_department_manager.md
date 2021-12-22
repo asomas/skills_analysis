@@ -1,6 +1,6 @@
-#Occupation retail department manager
-##Number skills 17
-###Similar occupations:
+# Occupation retail department manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match retail department manager |   percentage match with retail department manager |   skills not in retail department manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [audiology equipment shop manager](audiology_equipment_shop_manager.md)                                                                                           |                          32 |                                             8 |                                          0.470588 |                                        24 |

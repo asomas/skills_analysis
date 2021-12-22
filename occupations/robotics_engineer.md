@@ -1,6 +1,6 @@
-#Occupation robotics engineer
-##Number skills 14
-###Similar occupations:
+# Occupation robotics engineer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match robotics engineer |   percentage match with robotics engineer |   skills not in robotics engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [agricultural engineer](agricultural_engineer.md)                                                                                           |                          13 |                                    11 |                                  0.785714 |                                 2 |

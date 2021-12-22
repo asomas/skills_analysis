@@ -1,6 +1,6 @@
-#Occupation import export manager in meat and meat products
-##Number skills 29
-###Similar occupations:
+# Occupation import export manager in meat and meat products
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in meat and meat products |   percentage match with import export manager in meat and meat products |   skills not in import export manager in meat and meat products |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------:|
 | [import export manager in fish, crustaceans and molluscs](import_export_manager_in_fish,_crustaceans_and_molluscs.md)                                                   |                          28 |                                                                  27 |                                                                0.931034 |                                                               1 |

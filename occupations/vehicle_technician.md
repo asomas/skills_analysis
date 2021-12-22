@@ -1,6 +1,6 @@
-#Occupation vehicle technician
-##Number skills 34
-###Similar occupations:
+# Occupation vehicle technician
+## Number skills 34
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match vehicle technician |   percentage match with vehicle technician |   skills not in vehicle technician |
 |:--------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [automotive electrician](automotive_electrician.md)                 |                          25 |                                      9 |                                   0.264706 |                                 16 |

@@ -1,6 +1,6 @@
-#Occupation farm milk controller
-##Number skills 20
-###Similar occupations:
+# Occupation farm milk controller
+## Number skills 20
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match farm milk controller |   percentage match with farm milk controller |   skills not in farm milk controller |
 |:----------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [livestock advisor](livestock_advisor.md)                       |                          25 |                                        9 |                                         0.45 |                                   16 |

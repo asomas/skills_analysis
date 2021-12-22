@@ -1,6 +1,6 @@
-#Occupation blending plant operator
-##Number skills 22
-###Similar occupations:
+# Occupation blending plant operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match blending plant operator |   percentage match with blending plant operator |   skills not in blending plant operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [hydrogenation machine operator](hydrogenation_machine_operator.md)                     |                          22 |                                          10 |                                        0.454545 |                                      12 |

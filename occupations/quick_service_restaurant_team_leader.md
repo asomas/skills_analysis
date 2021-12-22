@@ -1,6 +1,6 @@
-#Occupation quick service restaurant team leader
-##Number skills 20
-###Similar occupations:
+# Occupation quick service restaurant team leader
+## Number skills 20
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match quick service restaurant team leader |   percentage match with quick service restaurant team leader |   skills not in quick service restaurant team leader |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [head pastry chef](head_pastry_chef.md)                                             |                          31 |                                                        9 |                                                         0.45 |                                                   22 |

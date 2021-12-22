@@ -1,6 +1,6 @@
-#Occupation precious stone cutter
-##Number skills 14
-###Similar occupations:
+# Occupation precious stone cutter
+## Number skills 14
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match precious stone cutter |   percentage match with precious stone cutter |   skills not in precious stone cutter |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [precious stone setter](precious_stone_setter.md)                           |                          13 |                                        10 |                                      0.714286 |                                     3 |

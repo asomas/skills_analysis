@@ -1,6 +1,6 @@
-#Occupation credit analyst
-##Number skills 16
-###Similar occupations:
+# Occupation credit analyst
+## Number skills 16
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match credit analyst |   percentage match with credit analyst |   skills not in credit analyst |
 |:----------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [credit manager](credit_manager.md)                             |                          28 |                                  7 |                                 0.4375 |                             21 |

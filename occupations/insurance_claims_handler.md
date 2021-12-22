@@ -1,6 +1,6 @@
-#Occupation insurance claims handler
-##Number skills 19
-###Similar occupations:
+# Occupation insurance claims handler
+## Number skills 19
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match insurance claims handler |   percentage match with insurance claims handler |   skills not in insurance claims handler |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [loss adjuster](loss_adjuster.md)                                       |                          21 |                                           11 |                                         0.578947 |                                       10 |

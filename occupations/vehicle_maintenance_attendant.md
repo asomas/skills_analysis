@@ -1,6 +1,6 @@
-#Occupation vehicle maintenance attendant
-##Number skills 13
-###Similar occupations:
+# Occupation vehicle maintenance attendant
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match vehicle maintenance attendant |   percentage match with vehicle maintenance attendant |   skills not in vehicle maintenance attendant |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [vehicle technician](vehicle_technician.md)                                                       |                          34 |                                                 9 |                                              0.692308 |                                            25 |

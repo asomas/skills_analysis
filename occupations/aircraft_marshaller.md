@@ -1,6 +1,6 @@
-#Occupation aircraft marshaller
-##Number skills 13
-###Similar occupations:
+# Occupation aircraft marshaller
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match aircraft marshaller |   percentage match with aircraft marshaller |   skills not in aircraft marshaller |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [commercial pilot](commercial_pilot.md)                                                                                     |                          41 |                                       6 |                                    0.461538 |                                  35 |

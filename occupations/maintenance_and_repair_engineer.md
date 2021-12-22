@@ -1,6 +1,6 @@
-#Occupation maintenance and repair engineer
-##Number skills 21
-###Similar occupations:
+# Occupation maintenance and repair engineer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match maintenance and repair engineer |   percentage match with maintenance and repair engineer |   skills not in maintenance and repair engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [industrial machinery mechanic](industrial_machinery_mechanic.md)                                                                                             |                          14 |                                                   7 |                                                0.333333 |                                               7 |

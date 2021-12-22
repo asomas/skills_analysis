@@ -1,6 +1,6 @@
-#Occupation motor vehicle body assembler
-##Number skills 15
-###Similar occupations:
+# Occupation motor vehicle body assembler
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match motor vehicle body assembler |   percentage match with motor vehicle body assembler |   skills not in motor vehicle body assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [rolling stock assembler](rolling_stock_assembler.md)                                                 |                          17 |                                               12 |                                             0.8      |                                            5 |

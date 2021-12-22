@@ -1,6 +1,6 @@
-#Occupation terrazzo setter
-##Number skills 15
-###Similar occupations:
+# Occupation terrazzo setter
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match terrazzo setter |   percentage match with terrazzo setter |   skills not in terrazzo setter |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [plasterer](plasterer.md)                                                                                                                                     |                          16 |                                   7 |                                0.466667 |                               9 |

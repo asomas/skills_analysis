@@ -1,6 +1,6 @@
-#Occupation veneer grader
-##Number skills 14
-###Similar occupations:
+# Occupation veneer grader
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match veneer grader |   percentage match with veneer grader |   skills not in veneer grader |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [lumber grader](lumber_grader.md)                                                         |                          34 |                                12 |                              0.857143 |                            22 |

@@ -1,6 +1,6 @@
-#Occupation sheet metal worker
-##Number skills 20
-###Similar occupations:
+# Occupation sheet metal worker
+## Number skills 20
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match sheet metal worker |   percentage match with sheet metal worker |   skills not in sheet metal worker |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [structural ironworker](structural_ironworker.md)                                       |                          22 |                                     16 |                                       0.8  |                                  6 |

@@ -1,6 +1,6 @@
-#Occupation technical sales representative in chemical products
-##Number skills 29
-###Similar occupations:
+# Occupation technical sales representative in chemical products
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match technical sales representative in chemical products |   percentage match with technical sales representative in chemical products |   skills not in technical sales representative in chemical products |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------------------:|--------------------------------------------------------------------:|
 | [technical sales representative in the textile machinery industry](technical_sales_representative_in_the_textile_machinery_industry.md)                           |                          29 |                                                                      28 |                                                                    0.965517 |                                                                   1 |

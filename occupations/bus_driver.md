@@ -1,6 +1,6 @@
-#Occupation bus driver
-##Number skills 33
-###Similar occupations:
+# Occupation bus driver
+## Number skills 33
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match bus driver |   percentage match with bus driver |   skills not in bus driver |
 |:----------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [trolley bus driver](trolley_bus_driver.md)                           |                          31 |                             26 |                           0.787879 |                          5 |

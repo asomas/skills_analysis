@@ -1,6 +1,6 @@
-#Occupation technical sales representative in agricultural machinery and equipment
-##Number skills 29
-###Similar occupations:
+# Occupation technical sales representative in agricultural machinery and equipment
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match technical sales representative in agricultural machinery and equipment |   percentage match with technical sales representative in agricultural machinery and equipment |   skills not in technical sales representative in agricultural machinery and equipment |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------:|
 | [technical sales representative](technical_sales_representative.md)                                                                                               |                          28 |                                                                                         28 |                                                                                       0.965517 |                                                                                      0 |

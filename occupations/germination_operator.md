@@ -1,6 +1,6 @@
-#Occupation germination operator
-##Number skills 21
-###Similar occupations:
+# Occupation germination operator
+## Number skills 21
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match germination operator |   percentage match with germination operator |   skills not in germination operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [malt kiln operator](malt_kiln_operator.md)                                             |                          28 |                                       12 |                                     0.571429 |                                   16 |

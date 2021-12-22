@@ -1,6 +1,6 @@
-#Occupation construction commercial diver
-##Number skills 18
-###Similar occupations:
+# Occupation construction commercial diver
+## Number skills 18
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match construction commercial diver |   percentage match with construction commercial diver |   skills not in construction commercial diver |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [underwater construction supervisor](underwater_construction_supervisor.md)             |                          28 |                                                11 |                                              0.611111 |                                            17 |

@@ -1,6 +1,6 @@
-#Occupation clinical social worker
-##Number skills 71
-###Similar occupations:
+# Occupation clinical social worker
+## Number skills 71
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match clinical social worker |   percentage match with clinical social worker |   skills not in clinical social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [mental health social worker](mental_health_social_worker.md)                             |                          77 |                                         68 |                                       0.957746 |                                      9 |

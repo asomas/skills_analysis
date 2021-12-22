@@ -1,6 +1,6 @@
-#Occupation gas processing plant supervisor
-##Number skills 15
-###Similar occupations:
+# Occupation gas processing plant supervisor
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match gas processing plant supervisor |   percentage match with gas processing plant supervisor |   skills not in gas processing plant supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [gas station operator](gas_station_operator.md)                                                                 |                          12 |                                                   6 |                                                0.4      |                                               6 |

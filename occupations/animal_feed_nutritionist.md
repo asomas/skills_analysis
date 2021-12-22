@@ -1,6 +1,6 @@
-#Occupation animal feed nutritionist
-##Number skills 20
-###Similar occupations:
+# Occupation animal feed nutritionist
+## Number skills 20
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match animal feed nutritionist |   percentage match with animal feed nutritionist |   skills not in animal feed nutritionist |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [animal feed supervisor](animal_feed_supervisor.md)                                     |                          29 |                                            9 |                                             0.45 |                                       20 |

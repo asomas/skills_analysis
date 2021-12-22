@@ -1,6 +1,6 @@
-#Occupation higher education lecturer
-##Number skills 15
-###Similar occupations:
+# Occupation higher education lecturer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match higher education lecturer |   percentage match with higher education lecturer |   skills not in higher education lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [nursing lecturer](nursing_lecturer.md)                                                                               |                          34 |                                            14 |                                          0.933333 |                                        20 |

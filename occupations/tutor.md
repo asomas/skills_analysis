@@ -1,6 +1,6 @@
-#Occupation tutor
-##Number skills 19
-###Similar occupations:
+# Occupation tutor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match tutor |   percentage match with tutor |   skills not in tutor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
 | [special educational needs teacher primary school](special_educational_needs_teacher_primary_school.md)               |                          33 |                        13 |                      0.684211 |                    20 |

@@ -1,6 +1,6 @@
-#Occupation social security administrator
-##Number skills 14
-###Similar occupations:
+# Occupation social security administrator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match social security administrator |   percentage match with social security administrator |   skills not in social security administrator |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [cultural policy officer](cultural_policy_officer.md)                         |                          15 |                                                 6 |                                              0.428571 |                                             9 |

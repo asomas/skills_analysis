@@ -1,6 +1,6 @@
-#Occupation actuarial consultant
-##Number skills 12
-###Similar occupations:
+# Occupation actuarial consultant
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match actuarial consultant |   percentage match with actuarial consultant |   skills not in actuarial consultant |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [financial broker](financial_broker.md)                                                   |                          16 |                                        7 |                                     0.583333 |                                    9 |

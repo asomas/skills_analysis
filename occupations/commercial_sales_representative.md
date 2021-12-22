@@ -1,6 +1,6 @@
-#Occupation commercial sales representative
-##Number skills 30
-###Similar occupations:
+# Occupation commercial sales representative
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match commercial sales representative |   percentage match with commercial sales representative |   skills not in commercial sales representative |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [technical sales representative in the textile machinery industry](technical_sales_representative_in_the_textile_machinery_industry.md)                           |                          29 |                                                  23 |                                                0.766667 |                                               6 |

@@ -1,6 +1,6 @@
-#Occupation pricing specialist
-##Number skills 17
-###Similar occupations:
+# Occupation pricing specialist
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match pricing specialist |   percentage match with pricing specialist |   skills not in pricing specialist |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [trade regional manager](trade_regional_manager.md)                                                                                                                 |                          27 |                                      7 |                                   0.411765 |                                 20 |

@@ -1,6 +1,6 @@
-#Occupation doorman/doorwoman
-##Number skills 6
-###Similar occupations:
+# Occupation doorman/doorwoman
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match doorman/doorwoman |   percentage match with doorman/doorwoman |   skills not in doorman/doorwoman |
 |:--------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [hotel porter](hotel_porter.md)                                                             |                           6 |                                     4 |                                  0.666667 |                                 2 |

@@ -1,6 +1,6 @@
-#Occupation poultry sexer
-##Number skills 8
-###Similar occupations:
+# Occupation poultry sexer
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match poultry sexer |   percentage match with poultry sexer |   skills not in poultry sexer |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [aquaculture harvesting manager](aquaculture_harvesting_manager.md)                       |                          32 |                                 3 |                                 0.375 |                            29 |

@@ -1,6 +1,6 @@
-#Occupation anthropologist
-##Number skills 10
-###Similar occupations:
+# Occupation anthropologist
+## Number skills 10
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match anthropologist |   percentage match with anthropologist |   skills not in anthropologist |
 |:----------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [thanatology researcher](thanatology_researcher.md)                         |                          12 |                                  5 |                                    0.5 |                              7 |

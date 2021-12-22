@@ -1,6 +1,6 @@
-#Occupation laundry and dry cleaning manager
-##Number skills 28
-###Similar occupations:
+# Occupation laundry and dry cleaning manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match laundry and dry cleaning manager |   percentage match with laundry and dry cleaning manager |   skills not in laundry and dry cleaning manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [spa manager](spa_manager.md)                                                                     |                          47 |                                                   17 |                                                 0.607143 |                                               30 |

@@ -1,6 +1,6 @@
-#Occupation chemical plant control room operator
-##Number skills 10
-###Similar occupations:
+# Occupation chemical plant control room operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match chemical plant control room operator |   percentage match with chemical plant control room operator |   skills not in chemical plant control room operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [mine rescue officer](mine_rescue_officer.md)                                                                   |                          12 |                                                        2 |                                                          0.2 |                                                   10 |

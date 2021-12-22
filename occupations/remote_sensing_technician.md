@@ -1,6 +1,6 @@
-#Occupation remote sensing technician
-##Number skills 15
-###Similar occupations:
+# Occupation remote sensing technician
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match remote sensing technician |   percentage match with remote sensing technician |   skills not in remote sensing technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [geographic information systems specialist](geographic_information_systems_specialist.md) |                          18 |                                             7 |                                          0.466667 |                                        11 |

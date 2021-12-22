@@ -1,6 +1,6 @@
-#Occupation glass beveller
-##Number skills 15
-###Similar occupations:
+# Occupation glass beveller
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match glass beveller |   percentage match with glass beveller |   skills not in glass beveller |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [blow moulding machine operator](blow_moulding_machine_operator.md)                                             |                          13 |                                  6 |                               0.4      |                              7 |

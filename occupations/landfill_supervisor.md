@@ -1,6 +1,6 @@
-#Occupation landfill supervisor
-##Number skills 12
-###Similar occupations:
+# Occupation landfill supervisor
+## Number skills 12
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match landfill supervisor |   percentage match with landfill supervisor |   skills not in landfill supervisor |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [waste management officer](waste_management_officer.md)                                 |                          17 |                                       6 |                                    0.5      |                                  11 |

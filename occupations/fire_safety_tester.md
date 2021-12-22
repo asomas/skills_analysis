@@ -1,6 +1,6 @@
-#Occupation fire safety tester
-##Number skills 13
-###Similar occupations:
+# Occupation fire safety tester
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match fire safety tester |   percentage match with fire safety tester |   skills not in fire safety tester |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [material testing technician](material_testing_technician.md)                                                                                                 |                          10 |                                      6 |                                   0.461538 |                                  4 |

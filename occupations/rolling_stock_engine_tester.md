@@ -1,6 +1,6 @@
-#Occupation rolling stock engine tester
-##Number skills 19
-###Similar occupations:
+# Occupation rolling stock engine tester
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match rolling stock engine tester |   percentage match with rolling stock engine tester |   skills not in rolling stock engine tester |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [vessel engine tester](vessel_engine_tester.md)                                                                                                               |                          19 |                                              16 |                                            0.842105 |                                           3 |

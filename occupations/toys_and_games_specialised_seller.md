@@ -1,6 +1,6 @@
-#Occupation toys and games specialised seller
-##Number skills 34
-###Similar occupations:
+# Occupation toys and games specialised seller
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match toys and games specialised seller |   percentage match with toys and games specialised seller |   skills not in toys and games specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [eyewear and optical equipment specialised seller](eyewear_and_optical_equipment_specialised_seller.md)                                                           |                          34 |                                                    27 |                                                  0.794118 |                                                 7 |

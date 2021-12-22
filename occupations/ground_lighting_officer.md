@@ -1,6 +1,6 @@
-#Occupation ground lighting officer
-##Number skills 20
-###Similar occupations:
+# Occupation ground lighting officer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match ground lighting officer |   percentage match with ground lighting officer |   skills not in ground lighting officer |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [commercial pilot](commercial_pilot.md)                                           |                          41 |                                           4 |                                            0.2  |                                      37 |

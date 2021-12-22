@@ -1,6 +1,6 @@
-#Occupation cigar inspector
-##Number skills 21
-###Similar occupations:
+# Occupation cigar inspector
+## Number skills 21
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match cigar inspector |   percentage match with cigar inspector |   skills not in cigar inspector |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [leaf sorter](leaf_sorter.md)                                                           |                          20 |                                  17 |                                0.809524 |                               3 |

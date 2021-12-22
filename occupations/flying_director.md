@@ -1,6 +1,6 @@
-#Occupation flying director
-##Number skills 17
-###Similar occupations:
+# Occupation flying director
+## Number skills 17
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match flying director |   percentage match with flying director |   skills not in flying director |
 |:------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [pyrotechnician](pyrotechnician.md)                               |                          23 |                                   9 |                                0.529412 |                              14 |

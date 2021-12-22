@@ -1,6 +1,6 @@
-#Occupation press and stationery shop manager
-##Number skills 31
-###Similar occupations:
+# Occupation press and stationery shop manager
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match press and stationery shop manager |   percentage match with press and stationery shop manager |   skills not in press and stationery shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [bookshop manager](bookshop_manager.md)                                                           |                          34 |                                                    28 |                                                  0.903226 |                                                 6 |

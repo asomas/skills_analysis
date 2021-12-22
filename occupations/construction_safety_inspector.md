@@ -1,6 +1,6 @@
-#Occupation construction safety inspector
-##Number skills 11
-###Similar occupations:
+# Occupation construction safety inspector
+## Number skills 11
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match construction safety inspector |   percentage match with construction safety inspector |   skills not in construction safety inspector |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [construction safety manager](construction_safety_manager.md)                           |                          12 |                                                 6 |                                              0.545455 |                                             6 |

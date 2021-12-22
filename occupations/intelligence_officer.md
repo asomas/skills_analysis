@@ -1,6 +1,6 @@
-#Occupation intelligence officer
-##Number skills 10
-###Similar occupations:
+# Occupation intelligence officer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match intelligence officer |   percentage match with intelligence officer |   skills not in intelligence officer |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [police commissioner](police_commissioner.md)                                                 |                          18 |                                        4 |                                          0.4 |                                   14 |

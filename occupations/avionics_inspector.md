@@ -1,6 +1,6 @@
-#Occupation avionics inspector
-##Number skills 22
-###Similar occupations:
+# Occupation avionics inspector
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match avionics inspector |   percentage match with avionics inspector |   skills not in avionics inspector |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [aircraft engine inspector](aircraft_engine_inspector.md)                                                                                                     |                          20 |                                     15 |                                   0.681818 |                                  5 |

@@ -1,6 +1,6 @@
-#Occupation import export specialist in textiles and textile semi-finished and raw materials
-##Number skills 23
-###Similar occupations:
+# Occupation import export specialist in textiles and textile semi-finished and raw materials
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match import export specialist in textiles and textile semi-finished and raw materials |   percentage match with import export specialist in textiles and textile semi-finished and raw materials |   skills not in import export specialist in textiles and textile semi-finished and raw materials |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------:|
 | [import export specialist in meat and meat products](import_export_specialist_in_meat_and_meat_products.md)                                                           |                          26 |                                                                                                   22 |                                                                                                 0.956522 |                                                                                                4 |

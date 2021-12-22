@@ -1,6 +1,6 @@
-#Occupation history teacher secondary school
-##Number skills 27
-###Similar occupations:
+# Occupation history teacher secondary school
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match history teacher secondary school |   percentage match with history teacher secondary school |   skills not in history teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [geography teacher secondary school](geography_teacher_secondary_school.md)                                           |                          28 |                                                   24 |                                                 0.888889 |                                                4 |

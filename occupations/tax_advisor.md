@@ -1,6 +1,6 @@
-#Occupation tax advisor
-##Number skills 17
-###Similar occupations:
+# Occupation tax advisor
+## Number skills 17
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match tax advisor |   percentage match with tax advisor |   skills not in tax advisor |
 |:------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [tax clerk](tax_clerk.md)                                         |                          12 |                               6 |                            0.352941 |                           6 |

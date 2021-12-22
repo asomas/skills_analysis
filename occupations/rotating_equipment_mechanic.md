@@ -1,6 +1,6 @@
-#Occupation rotating equipment mechanic
-##Number skills 17
-###Similar occupations:
+# Occupation rotating equipment mechanic
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match rotating equipment mechanic |   percentage match with rotating equipment mechanic |   skills not in rotating equipment mechanic |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [motor vehicle body assembler](motor_vehicle_body_assembler.md)                                                                                                       |                          15 |                                               9 |                                            0.529412 |                                           6 |

@@ -1,6 +1,6 @@
-#Occupation kitchen unit installer
-##Number skills 21
-###Similar occupations:
+# Occupation kitchen unit installer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match kitchen unit installer |   percentage match with kitchen unit installer |   skills not in kitchen unit installer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [bathroom fitter](bathroom_fitter.md)                                                                                                                         |                          23 |                                         15 |                                       0.714286 |                                      8 |

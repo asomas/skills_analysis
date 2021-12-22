@@ -1,6 +1,6 @@
-#Occupation drama teacher secondary school
-##Number skills 32
-###Similar occupations:
+# Occupation drama teacher secondary school
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match drama teacher secondary school |   percentage match with drama teacher secondary school |   skills not in drama teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [biology teacher secondary school](biology_teacher_secondary_school.md)                                               |                          28 |                                                 23 |                                                0.71875 |                                              5 |

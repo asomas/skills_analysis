@@ -1,6 +1,6 @@
-#Occupation theatre technician
-##Number skills 23
-###Similar occupations:
+# Occupation theatre technician
+## Number skills 23
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match theatre technician |   percentage match with theatre technician |   skills not in theatre technician |
 |:------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [stage technician](stage_technician.md)                           |                          43 |                                     17 |                                   0.73913  |                                 26 |

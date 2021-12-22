@@ -1,6 +1,6 @@
-#Occupation leather raw materials purchasing manager
-##Number skills 23
-###Similar occupations:
+# Occupation leather raw materials purchasing manager
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match leather raw materials purchasing manager |   percentage match with leather raw materials purchasing manager |   skills not in leather raw materials purchasing manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [leather production manager](leather_production_manager.md)                               |                          35 |                                                           19 |                                                         0.826087 |                                                       16 |

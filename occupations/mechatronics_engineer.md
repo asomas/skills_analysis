@@ -1,6 +1,6 @@
-#Occupation mechatronics engineer
-##Number skills 35
-###Similar occupations:
+# Occupation mechatronics engineer
+## Number skills 35
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match mechatronics engineer |   percentage match with mechatronics engineer |   skills not in mechatronics engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [automation engineer](automation_engineer.md)                                                                                               |                          33 |                                        29 |                                      0.828571 |                                     4 |

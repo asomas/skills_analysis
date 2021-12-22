@@ -1,6 +1,6 @@
-#Occupation flight operations officer
-##Number skills 18
-###Similar occupations:
+# Occupation flight operations officer
+## Number skills 18
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match flight operations officer |   percentage match with flight operations officer |   skills not in flight operations officer |
 |:------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [commercial pilot](commercial_pilot.md)                     |                          41 |                                             5 |                                          0.277778 |                                        36 |

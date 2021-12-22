@@ -1,6 +1,6 @@
-#Occupation paper embosing press operator
-##Number skills 13
-###Similar occupations:
+# Occupation paper embosing press operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match paper embosing press operator |   percentage match with paper embosing press operator |   skills not in paper embosing press operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [digital printer](digital_printer.md)                                                                 |                          18 |                                                 9 |                                              0.692308 |                                             9 |

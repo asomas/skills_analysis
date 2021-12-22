@@ -1,6 +1,6 @@
-#Occupation leather goods hand stitcher
-##Number skills 6
-###Similar occupations:
+# Occupation leather goods hand stitcher
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods hand stitcher |   percentage match with leather goods hand stitcher |   skills not in leather goods hand stitcher |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [leather goods stitching machine operator](leather_goods_stitching_machine_operator.md)                       |                           9 |                                               6 |                                            1        |                                           3 |

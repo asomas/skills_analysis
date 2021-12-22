@@ -1,6 +1,6 @@
-#Occupation milliner
-##Number skills 7
-###Similar occupations:
+# Occupation milliner
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match milliner |   percentage match with milliner |   skills not in milliner |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [tailor](tailor.md)                                                                       |                          28 |                            6 |                         0.857143 |                       22 |

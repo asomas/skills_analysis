@@ -1,6 +1,6 @@
-#Occupation big data archive librarian
-##Number skills 20
-###Similar occupations:
+# Occupation big data archive librarian
+## Number skills 20
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match big data archive librarian |   percentage match with big data archive librarian |   skills not in big data archive librarian |
 |:------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [database administrator](database_administrator.md)                     |                          25 |                                              8 |                                               0.4  |                                         17 |

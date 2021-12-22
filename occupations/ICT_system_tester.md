@@ -1,6 +1,6 @@
-#Occupation ICT system tester
-##Number skills 12
-###Similar occupations:
+# Occupation ICT system tester
+## Number skills 12
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match ICT system tester |   percentage match with ICT system tester |   skills not in ICT system tester |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [ICT integration tester](ICT_integration_tester.md)                     |                          10 |                                     8 |                                  0.666667 |                                 2 |

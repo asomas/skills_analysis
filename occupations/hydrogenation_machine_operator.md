@@ -1,6 +1,6 @@
-#Occupation hydrogenation machine operator
-##Number skills 22
-###Similar occupations:
+# Occupation hydrogenation machine operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match hydrogenation machine operator |   percentage match with hydrogenation machine operator |   skills not in hydrogenation machine operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [clarifier](clarifier.md)                                                               |                          19 |                                                 12 |                                               0.545455 |                                              7 |

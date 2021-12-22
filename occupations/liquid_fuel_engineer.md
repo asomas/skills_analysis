@@ -1,6 +1,6 @@
-#Occupation liquid fuel engineer
-##Number skills 28
-###Similar occupations:
+# Occupation liquid fuel engineer
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match liquid fuel engineer |   percentage match with liquid fuel engineer |   skills not in liquid fuel engineer |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [petroleum engineer](petroleum_engineer.md)                                                 |                          25 |                                       18 |                                     0.642857 |                                    7 |

@@ -1,6 +1,6 @@
-#Occupation fragrance chemist
-##Number skills 19
-###Similar occupations:
+# Occupation fragrance chemist
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match fragrance chemist |   percentage match with fragrance chemist |   skills not in fragrance chemist |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [chemist](chemist.md)                                                                     |                          23 |                                     9 |                                  0.473684 |                                14 |

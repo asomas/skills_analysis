@@ -1,6 +1,6 @@
-#Occupation guide
-##Number skills 20
-###Similar occupations:
+# Occupation guide
+## Number skills 20
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match guide |   percentage match with guide |   skills not in guide |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
 | [park guide](park_guide.md)                                             |                          30 |                        18 |                          0.9  |                    12 |

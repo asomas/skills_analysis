@@ -1,6 +1,6 @@
-#Occupation taxi controller
-##Number skills 18
-###Similar occupations:
+# Occupation taxi controller
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match taxi controller |   percentage match with taxi controller |   skills not in taxi controller |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [bus route supervisor](bus_route_supervisor.md)                                                         |                          13 |                                   4 |                                0.222222 |                               9 |

@@ -1,6 +1,6 @@
-#Occupation import export specialist in household goods
-##Number skills 21
-###Similar occupations:
+# Occupation import export specialist in household goods
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in household goods |   percentage match with import export specialist in household goods |   skills not in import export specialist in household goods |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [import export specialist in furniture, carpets and lighting equipment](import_export_specialist_in_furniture,_carpets_and_lighting_equipment.md)                       |                          22 |                                                              20 |                                                            0.952381 |                                                           2 |

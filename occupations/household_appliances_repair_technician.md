@@ -1,6 +1,6 @@
-#Occupation household appliances repair technician
-##Number skills 16
-###Similar occupations:
+# Occupation household appliances repair technician
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                    |   skills in this occupation |   skills that match household appliances repair technician |   percentage match with household appliances repair technician |   skills not in household appliances repair technician |
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [office equipment repair technician](office_equipment_repair_technician.md)                                                   |                          18 |                                                         11 |                                                         0.6875 |                                                      7 |

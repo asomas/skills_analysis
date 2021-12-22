@@ -1,6 +1,6 @@
-#Occupation clothing product grader
-##Number skills 18
-###Similar occupations:
+# Occupation clothing product grader
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match clothing product grader |   percentage match with clothing product grader |   skills not in clothing product grader |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [clothing sample machinist](clothing_sample_machinist.md)                                 |                          24 |                                          16 |                                        0.888889 |                                       8 |

@@ -1,6 +1,6 @@
-#Occupation building cleaner
-##Number skills 22
-###Similar occupations:
+# Occupation building cleaner
+## Number skills 22
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match building cleaner |   percentage match with building cleaner |   skills not in building cleaner |
 |:------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [domestic cleaner](domestic_cleaner.md)                     |                          19 |                                    7 |                                 0.318182 |                               12 |

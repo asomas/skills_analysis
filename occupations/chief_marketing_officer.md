@@ -1,6 +1,6 @@
-#Occupation chief marketing officer
-##Number skills 24
-###Similar occupations:
+# Occupation chief marketing officer
+## Number skills 24
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match chief marketing officer |   percentage match with chief marketing officer |   skills not in chief marketing officer |
 |:------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [sales manager](sales_manager.md)                                 |                          40 |                                          19 |                                        0.791667 |                                      21 |

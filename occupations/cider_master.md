@@ -1,6 +1,6 @@
-#Occupation cider master
-##Number skills 36
-###Similar occupations:
+# Occupation cider master
+## Number skills 36
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match cider master |   percentage match with cider master |   skills not in cider master |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [brewmaster](brewmaster.md)                                                             |                          40 |                               16 |                             0.444444 |                           24 |

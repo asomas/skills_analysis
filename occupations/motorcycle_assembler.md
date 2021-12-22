@@ -1,6 +1,6 @@
-#Occupation motorcycle assembler
-##Number skills 11
-###Similar occupations:
+# Occupation motorcycle assembler
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match motorcycle assembler |   percentage match with motorcycle assembler |   skills not in motorcycle assembler |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [motor vehicle parts assembler](motor_vehicle_parts_assembler.md)                                               |                          17 |                                       10 |                                     0.909091 |                                    7 |

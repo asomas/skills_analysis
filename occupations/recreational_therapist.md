@@ -1,6 +1,6 @@
-#Occupation recreational therapist
-##Number skills 5
-###Similar occupations:
+# Occupation recreational therapist
+## Number skills 5
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match recreational therapist |   percentage match with recreational therapist |   skills not in recreational therapist |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [music therapist](music_therapist.md)                                                                   |                          98 |                                          5 |                                            1   |                                     93 |

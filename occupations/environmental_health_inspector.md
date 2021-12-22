@@ -1,6 +1,6 @@
-#Occupation environmental health inspector
-##Number skills 15
-###Similar occupations:
+# Occupation environmental health inspector
+## Number skills 15
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match environmental health inspector |   percentage match with environmental health inspector |   skills not in environmental health inspector |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [environmental scientist](environmental_scientist.md)                                   |                          26 |                                                  6 |                                               0.4      |                                             20 |

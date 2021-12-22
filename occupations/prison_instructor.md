@@ -1,6 +1,6 @@
-#Occupation prison instructor
-##Number skills 21
-###Similar occupations:
+# Occupation prison instructor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match prison instructor |   percentage match with prison instructor |   skills not in prison instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [further education teacher](further_education_teacher.md)                                                             |                          24 |                                    10 |                                  0.47619  |                                14 |

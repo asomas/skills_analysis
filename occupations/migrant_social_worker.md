@@ -1,6 +1,6 @@
-#Occupation migrant social worker
-##Number skills 73
-###Similar occupations:
+# Occupation migrant social worker
+## Number skills 73
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match migrant social worker |   percentage match with migrant social worker |   skills not in migrant social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [youth worker](youth_worker.md)                                                           |                          73 |                                        69 |                                      0.945205 |                                     4 |

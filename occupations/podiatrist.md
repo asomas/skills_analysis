@@ -1,6 +1,6 @@
-#Occupation podiatrist
-##Number skills 28
-###Similar occupations:
+# Occupation podiatrist
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match podiatrist |   percentage match with podiatrist |   skills not in podiatrist |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [chiropractor](chiropractor.md)                                                                             |                         136 |                             15 |                           0.535714 |                        121 |

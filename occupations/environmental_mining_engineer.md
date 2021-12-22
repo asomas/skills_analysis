@@ -1,6 +1,6 @@
-#Occupation environmental mining engineer
-##Number skills 23
-###Similar occupations:
+# Occupation environmental mining engineer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match environmental mining engineer |   percentage match with environmental mining engineer |   skills not in environmental mining engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [geological engineer](geological_engineer.md)                                                                                               |                          18 |                                                11 |                                              0.478261 |                                             7 |

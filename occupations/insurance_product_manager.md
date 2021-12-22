@@ -1,6 +1,6 @@
-#Occupation insurance product manager
-##Number skills 27
-###Similar occupations:
+# Occupation insurance product manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match insurance product manager |   percentage match with insurance product manager |   skills not in insurance product manager |
 |:--------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [insurance agency manager](insurance_agency_manager.md)                         |                          37 |                                            18 |                                          0.666667 |                                        19 |

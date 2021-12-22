@@ -1,6 +1,6 @@
-#Occupation leather sorter
-##Number skills 10
-###Similar occupations:
+# Occupation leather sorter
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match leather sorter |   percentage match with leather sorter |   skills not in leather sorter |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [leather wet processing department manager](leather_wet_processing_department_manager.md) |                          29 |                                  9 |                                    0.9 |                             20 |

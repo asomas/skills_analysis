@@ -1,6 +1,6 @@
-#Occupation tote operator
-##Number skills 12
-###Similar occupations:
+# Occupation tote operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match tote operator |   percentage match with tote operator |   skills not in tote operator |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [bookmaker](bookmaker.md)                                                           |                          13 |                                 3 |                              0.25     |                            10 |

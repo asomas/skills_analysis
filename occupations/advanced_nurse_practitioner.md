@@ -1,6 +1,6 @@
-#Occupation advanced nurse practitioner
-##Number skills 70
-###Similar occupations:
+# Occupation advanced nurse practitioner
+## Number skills 70
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match advanced nurse practitioner |   percentage match with advanced nurse practitioner |   skills not in advanced nurse practitioner |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [nurse responsible for general care](nurse_responsible_for_general_care.md)               |                          90 |                                              52 |                                            0.742857 |                                          38 |

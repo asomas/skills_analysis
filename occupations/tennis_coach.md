@@ -1,6 +1,6 @@
-#Occupation tennis coach
-##Number skills 12
-###Similar occupations:
+# Occupation tennis coach
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match tennis coach |   percentage match with tennis coach |   skills not in tennis coach |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [sports instructor](sports_instructor.md)                                                     |                          10 |                               10 |                             0.833333 |                            0 |

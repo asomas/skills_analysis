@@ -1,6 +1,6 @@
-#Occupation industrial waste inspector
-##Number skills 12
-###Similar occupations:
+# Occupation industrial waste inspector
+## Number skills 12
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match industrial waste inspector |   percentage match with industrial waste inspector |   skills not in industrial waste inspector |
 |:------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [hazardous waste inspector](hazardous_waste_inspector.md)                     |                          14 |                                              4 |                                           0.333333 |                                         10 |

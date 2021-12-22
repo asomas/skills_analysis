@@ -1,6 +1,6 @@
-#Occupation sophrologist
-##Number skills 30
-###Similar occupations:
+# Occupation sophrologist
+## Number skills 30
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match sophrologist |   percentage match with sophrologist |   skills not in sophrologist |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [herbal therapist](herbal_therapist.md)                                             |                          26 |                               16 |                             0.533333 |                           10 |

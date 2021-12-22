@@ -1,6 +1,6 @@
-#Occupation dressmaker
-##Number skills 16
-###Similar occupations:
+# Occupation dressmaker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match dressmaker |   percentage match with dressmaker |   skills not in dressmaker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [tailor](tailor.md)                                                                       |                          28 |                             15 |                             0.9375 |                         13 |

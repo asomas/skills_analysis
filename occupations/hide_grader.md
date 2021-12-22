@@ -1,6 +1,6 @@
-#Occupation hide grader
-##Number skills 9
-###Similar occupations:
+# Occupation hide grader
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match hide grader |   percentage match with hide grader |   skills not in hide grader |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [leather wet processing department manager](leather_wet_processing_department_manager.md)                                   |                          29 |                               9 |                            1        |                          20 |

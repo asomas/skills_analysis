@@ -1,6 +1,6 @@
-#Occupation stone engraver
-##Number skills 16
-###Similar occupations:
+# Occupation stone engraver
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match stone engraver |   percentage match with stone engraver |   skills not in stone engraver |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [printmaker](printmaker.md)                                                                   |                          22 |                                  8 |                                 0.5    |                             14 |

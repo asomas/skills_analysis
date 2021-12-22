@@ -1,6 +1,6 @@
-#Occupation legal administrative assistant
-##Number skills 10
-###Similar occupations:
+# Occupation legal administrative assistant
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match legal administrative assistant |   percentage match with legal administrative assistant |   skills not in legal administrative assistant |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [legal assistant](legal_assistant.md)                                                                   |                          13 |                                                  4 |                                                    0.4 |                                              9 |

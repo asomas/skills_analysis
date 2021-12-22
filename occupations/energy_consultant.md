@@ -1,6 +1,6 @@
-#Occupation energy consultant
-##Number skills 1
-###Similar occupations:
+# Occupation energy consultant
+## Number skills 1
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match energy consultant |   percentage match with energy consultant |   skills not in energy consultant |
 |:------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [hydropower engineer](hydropower_engineer.md)                     |                          25 |                                     1 |                                         1 |                                24 |

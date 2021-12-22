@@ -1,6 +1,6 @@
-#Occupation credit manager
-##Number skills 28
-###Similar occupations:
+# Occupation credit manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match credit manager |   percentage match with credit manager |   skills not in credit manager |
 |:------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [credit union manager](credit_union_manager.md)                         |                          25 |                                 19 |                               0.678571 |                              6 |

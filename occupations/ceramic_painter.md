@@ -1,6 +1,6 @@
-#Occupation ceramic painter
-##Number skills 17
-###Similar occupations:
+# Occupation ceramic painter
+## Number skills 17
+### Similar occupations:
 | occupation                                    |   skills in this occupation |   skills that match ceramic painter |   percentage match with ceramic painter |   skills not in ceramic painter |
 |:----------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [decorative painter](decorative_painter.md)   |                          20 |                                  15 |                                0.882353 |                               5 |

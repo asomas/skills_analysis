@@ -1,6 +1,6 @@
-#Occupation marriage counsellor
-##Number skills 48
-###Similar occupations:
+# Occupation marriage counsellor
+## Number skills 48
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match marriage counsellor |   percentage match with marriage counsellor |   skills not in marriage counsellor |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [bereavement counsellor](bereavement_counsellor.md)                                       |                          46 |                                      44 |                                    0.916667 |                                   2 |

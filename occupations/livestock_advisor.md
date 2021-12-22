@@ -1,6 +1,6 @@
-#Occupation livestock advisor
-##Number skills 25
-###Similar occupations:
+# Occupation livestock advisor
+## Number skills 25
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match livestock advisor |   percentage match with livestock advisor |   skills not in livestock advisor |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [farm milk controller](farm_milk_controller.md)                                   |                          20 |                                     9 |                                      0.36 |                                11 |

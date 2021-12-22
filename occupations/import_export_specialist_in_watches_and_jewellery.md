@@ -1,6 +1,6 @@
-#Occupation import export specialist in watches and jewellery
-##Number skills 21
-###Similar occupations:
+# Occupation import export specialist in watches and jewellery
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in watches and jewellery |   percentage match with import export specialist in watches and jewellery |   skills not in import export specialist in watches and jewellery |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------:|--------------------------------------------------------------------------:|------------------------------------------------------------------:|
 | [import export specialist in electronic and telecommunications equipment](import_export_specialist_in_electronic_and_telecommunications_equipment.md)                   |                          22 |                                                                    20 |                                                                  0.952381 |                                                                 2 |

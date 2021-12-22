@@ -1,6 +1,6 @@
-#Occupation greaser
-##Number skills 9
-###Similar occupations:
+# Occupation greaser
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match greaser |   percentage match with greaser |   skills not in greaser |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [maintenance and repair engineer](maintenance_and_repair_engineer.md)                                                                                                 |                          21 |                           4 |                        0.444444 |                      17 |

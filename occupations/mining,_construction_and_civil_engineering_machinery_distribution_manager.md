@@ -1,6 +1,6 @@
-#Occupation mining, construction and civil engineering machinery distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation mining, construction and civil engineering machinery distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match mining, construction and civil engineering machinery distribution manager |   percentage match with mining, construction and civil engineering machinery distribution manager |   skills not in mining, construction and civil engineering machinery distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------:|
 | [flowers and plants distribution manager](flowers_and_plants_distribution_manager.md)                                                                                   |                          26 |                                                                                            25 |                                                                                          0.961538 |                                                                                         1 |

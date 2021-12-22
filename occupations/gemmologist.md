@@ -1,6 +1,6 @@
-#Occupation gemmologist
-##Number skills 11
-###Similar occupations:
+# Occupation gemmologist
+## Number skills 11
+### Similar occupations:
 | occupation                                        |   skills in this occupation |   skills that match gemmologist |   percentage match with gemmologist |   skills not in gemmologist |
 |:--------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [precious stone cutter](precious_stone_cutter.md) |                          14 |                               3 |                            0.272727 |                          11 |

@@ -1,6 +1,6 @@
-#Occupation art therapist
-##Number skills 52
-###Similar occupations:
+# Occupation art therapist
+## Number skills 52
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match art therapist |   percentage match with art therapist |   skills not in art therapist |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [music therapist](music_therapist.md)                                                     |                          98 |                                37 |                              0.711538 |                            61 |

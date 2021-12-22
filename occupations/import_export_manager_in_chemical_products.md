@@ -1,6 +1,6 @@
-#Occupation import export manager in chemical products
-##Number skills 27
-###Similar occupations:
+# Occupation import export manager in chemical products
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in chemical products |   percentage match with import export manager in chemical products |   skills not in import export manager in chemical products |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [import export manager in hardware, plumbing and heating equipment and supplies](import_export_manager_in_hardware,_plumbing_and_heating_equipment_and_supplies.md)     |                          26 |                                                             25 |                                                           0.925926 |                                                          1 |

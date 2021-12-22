@@ -1,6 +1,6 @@
-#Occupation concrete pump operator
-##Number skills 19
-###Similar occupations:
+# Occupation concrete pump operator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match concrete pump operator |   percentage match with concrete pump operator |   skills not in concrete pump operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [mobile crane operator](mobile_crane_operator.md)                                                                                                             |                          17 |                                         11 |                                       0.578947 |                                      6 |

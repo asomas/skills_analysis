@@ -1,6 +1,6 @@
-#Occupation aircraft maintenance technician
-##Number skills 29
-###Similar occupations:
+# Occupation aircraft maintenance technician
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match aircraft maintenance technician |   percentage match with aircraft maintenance technician |   skills not in aircraft maintenance technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [aircraft maintenance engineer](aircraft_maintenance_engineer.md)                                                                                             |                          31 |                                                  25 |                                                0.862069 |                                               6 |

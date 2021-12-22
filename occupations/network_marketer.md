@@ -1,6 +1,6 @@
-#Occupation network marketer
-##Number skills 18
-###Similar occupations:
+# Occupation network marketer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match network marketer |   percentage match with network marketer |   skills not in network marketer |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [toys and games specialised seller](toys_and_games_specialised_seller.md)                                                                                         |                          34 |                                    6 |                                 0.333333 |                               28 |

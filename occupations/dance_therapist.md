@@ -1,6 +1,6 @@
-#Occupation dance therapist
-##Number skills 15
-###Similar occupations:
+# Occupation dance therapist
+## Number skills 15
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match dance therapist |   percentage match with dance therapist |   skills not in dance therapist |
 |:------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [music therapist](music_therapist.md)                                               |                          98 |                                   6 |                                0.4      |                              92 |

@@ -1,6 +1,6 @@
-#Occupation prepress technician
-##Number skills 28
-###Similar occupations:
+# Occupation prepress technician
+## Number skills 28
+### Similar occupations:
 | occupation                                                    |   skills in this occupation |   skills that match prepress technician |   percentage match with prepress technician |   skills not in prepress technician |
 |:--------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [imagesetter](imagesetter.md)                                 |                          28 |                                      15 |                                    0.535714 |                                  13 |

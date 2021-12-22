@@ -1,6 +1,6 @@
-#Occupation substance misuse worker
-##Number skills 73
-###Similar occupations:
+# Occupation substance misuse worker
+## Number skills 73
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match substance misuse worker |   percentage match with substance misuse worker |   skills not in substance misuse worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [youth worker](youth_worker.md)                                                           |                          73 |                                          69 |                                        0.945205 |                                       4 |

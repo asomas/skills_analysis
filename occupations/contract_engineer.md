@@ -1,6 +1,6 @@
-#Occupation contract engineer
-##Number skills 15
-###Similar occupations:
+# Occupation contract engineer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match contract engineer |   percentage match with contract engineer |   skills not in contract engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [equipment engineer](equipment_engineer.md)                                                                                                 |                          15 |                                    10 |                                  0.666667 |                                 5 |

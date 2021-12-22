@@ -1,6 +1,6 @@
-#Occupation performance production manager
-##Number skills 34
-###Similar occupations:
+# Occupation performance production manager
+## Number skills 34
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match performance production manager |   percentage match with performance production manager |   skills not in performance production manager |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [artistic director](artistic_director.md)                               |                          36 |                                                 22 |                                               0.647059 |                                             14 |

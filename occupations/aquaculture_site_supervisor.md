@@ -1,6 +1,6 @@
-#Occupation aquaculture site supervisor
-##Number skills 34
-###Similar occupations:
+# Occupation aquaculture site supervisor
+## Number skills 34
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match aquaculture site supervisor |   percentage match with aquaculture site supervisor |   skills not in aquaculture site supervisor |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [aquaculture production manager](aquaculture_production_manager.md)             |                          38 |                                              13 |                                            0.382353 |                                          25 |

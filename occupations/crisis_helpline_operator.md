@@ -1,6 +1,6 @@
-#Occupation crisis helpline operator
-##Number skills 22
-###Similar occupations:
+# Occupation crisis helpline operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match crisis helpline operator |   percentage match with crisis helpline operator |   skills not in crisis helpline operator |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [military welfare worker](military_welfare_worker.md)                                                   |                          74 |                                           17 |                                         0.772727 |                                       57 |

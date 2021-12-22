@@ -1,6 +1,6 @@
-#Occupation flight attendant
-##Number skills 30
-###Similar occupations:
+# Occupation flight attendant
+## Number skills 30
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match flight attendant |   percentage match with flight attendant |   skills not in flight attendant |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [cabin crew manager](cabin_crew_manager.md)                                         |                          24 |                                   24 |                                 0.8      |                                0 |

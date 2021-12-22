@@ -1,6 +1,6 @@
-#Occupation broadcast technician
-##Number skills 19
-###Similar occupations:
+# Occupation broadcast technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match broadcast technician |   percentage match with broadcast technician |   skills not in broadcast technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [audio-visual technician](audio-visual_technician.md)                                                                                                         |                          11 |                                        5 |                                     0.263158 |                                    6 |

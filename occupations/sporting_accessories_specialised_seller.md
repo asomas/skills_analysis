@@ -1,6 +1,6 @@
-#Occupation sporting accessories specialised seller
-##Number skills 32
-###Similar occupations:
+# Occupation sporting accessories specialised seller
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match sporting accessories specialised seller |   percentage match with sporting accessories specialised seller |   skills not in sporting accessories specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [music and video shop specialised seller](music_and_video_shop_specialised_seller.md)                                                                             |                          31 |                                                          27 |                                                         0.84375 |                                                       4 |

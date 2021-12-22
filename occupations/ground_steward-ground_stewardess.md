@@ -1,6 +1,6 @@
-#Occupation ground steward/ground stewardess
-##Number skills 8
-###Similar occupations:
+# Occupation ground steward/ground stewardess
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match ground steward/ground stewardess |   percentage match with ground steward/ground stewardess |   skills not in ground steward/ground stewardess |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [wedding planner](wedding_planner.md)                                                                                                                             |                          20 |                                                    3 |                                                    0.375 |                                               17 |

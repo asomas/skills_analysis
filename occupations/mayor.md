@@ -1,6 +1,6 @@
-#Occupation mayor
-##Number skills 9
-###Similar occupations:
+# Occupation mayor
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match mayor |   percentage match with mayor |   skills not in mayor |
 |:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
 | [cultural policy officer](cultural_policy_officer.md)                                         |                          15 |                         6 |                      0.666667 |                     9 |

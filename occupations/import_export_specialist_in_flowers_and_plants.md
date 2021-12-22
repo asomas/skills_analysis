@@ -1,6 +1,6 @@
-#Occupation import export specialist in flowers and plants
-##Number skills 24
-###Similar occupations:
+# Occupation import export specialist in flowers and plants
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in flowers and plants |   percentage match with import export specialist in flowers and plants |   skills not in import export specialist in flowers and plants |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------------------:|---------------------------------------------------------------:|
 | [import export specialist in sugar, chocolate and sugar confectionery](import_export_specialist_in_sugar,_chocolate_and_sugar_confectionery.md)                         |                          25 |                                                                 23 |                                                               0.958333 |                                                              2 |

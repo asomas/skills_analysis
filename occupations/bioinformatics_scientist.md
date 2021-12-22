@@ -1,6 +1,6 @@
-#Occupation bioinformatics scientist
-##Number skills 24
-###Similar occupations:
+# Occupation bioinformatics scientist
+## Number skills 24
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match bioinformatics scientist |   percentage match with bioinformatics scientist |   skills not in bioinformatics scientist |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [sociologist](sociologist.md)                                               |                          14 |                                            7 |                                         0.291667 |                                        7 |

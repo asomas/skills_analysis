@@ -1,6 +1,6 @@
-#Occupation sailor
-##Number skills 24
-###Similar occupations:
+# Occupation sailor
+## Number skills 24
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match sailor |   percentage match with sailor |   skills not in sailor |
 |:------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [fisheries deckhand](fisheries_deckhand.md)                                   |                          38 |                         11 |                       0.458333 |                     27 |

@@ -1,6 +1,6 @@
-#Occupation scenic painter
-##Number skills 22
-###Similar occupations:
+# Occupation scenic painter
+## Number skills 22
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match scenic painter |   percentage match with scenic painter |   skills not in scenic painter |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [set builder](set_builder.md)                                     |                          22 |                                 17 |                               0.772727 |                              5 |

@@ -1,6 +1,6 @@
-#Occupation microbiologist
-##Number skills 19
-###Similar occupations:
+# Occupation microbiologist
+## Number skills 19
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match microbiologist |   percentage match with microbiologist |   skills not in microbiologist |
 |:----------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [aquaculture biologist](aquaculture_biologist.md)                           |                          37 |                                 13 |                               0.684211 |                             24 |

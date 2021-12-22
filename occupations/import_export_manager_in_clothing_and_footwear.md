@@ -1,6 +1,6 @@
-#Occupation import export manager in clothing and footwear
-##Number skills 25
-###Similar occupations:
+# Occupation import export manager in clothing and footwear
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in clothing and footwear |   percentage match with import export manager in clothing and footwear |   skills not in import export manager in clothing and footwear |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------------------:|---------------------------------------------------------------:|
 | [import export manager in metals and metal ores](import_export_manager_in_metals_and_metal_ores.md)                                                                     |                          26 |                                                                 24 |                                                                   0.96 |                                                              2 |

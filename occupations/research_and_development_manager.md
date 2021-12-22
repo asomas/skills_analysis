@@ -1,6 +1,6 @@
-#Occupation research and development manager
-##Number skills 20
-###Similar occupations:
+# Occupation research and development manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match research and development manager |   percentage match with research and development manager |   skills not in research and development manager |
 |:------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [promotion manager](promotion_manager.md)                                           |                          36 |                                                    6 |                                                     0.3  |                                               30 |

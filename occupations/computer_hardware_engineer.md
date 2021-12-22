@@ -1,6 +1,6 @@
-#Occupation computer hardware engineer
-##Number skills 34
-###Similar occupations:
+# Occupation computer hardware engineer
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match computer hardware engineer |   percentage match with computer hardware engineer |   skills not in computer hardware engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [microsystem engineer](microsystem_engineer.md)                                                                                             |                          32 |                                             23 |                                           0.676471 |                                          9 |

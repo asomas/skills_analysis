@@ -1,6 +1,6 @@
-#Occupation ergonomist
-##Number skills 14
-###Similar occupations:
+# Occupation ergonomist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match ergonomist |   percentage match with ergonomist |   skills not in ergonomist |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [industrial designer](industrial_designer.md)                                                                                               |                          18 |                              9 |                           0.642857 |                          9 |

@@ -1,6 +1,6 @@
-#Occupation pill maker operator
-##Number skills 12
-###Similar occupations:
+# Occupation pill maker operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match pill maker operator |   percentage match with pill maker operator |   skills not in pill maker operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [pharmacist](pharmacist.md)                                                                           |                          75 |                                       3 |                                    0.25     |                                  72 |

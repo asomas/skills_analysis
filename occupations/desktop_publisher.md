@@ -1,6 +1,6 @@
-#Occupation desktop publisher
-##Number skills 17
-###Similar occupations:
+# Occupation desktop publisher
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match desktop publisher |   percentage match with desktop publisher |   skills not in desktop publisher |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [special effects artist](special_effects_artist.md)                                                                                                     |                          16 |                                     7 |                                  0.411765 |                                 9 |

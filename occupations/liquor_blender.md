@@ -1,6 +1,6 @@
-#Occupation liquor blender
-##Number skills 21
-###Similar occupations:
+# Occupation liquor blender
+## Number skills 21
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match liquor blender |   percentage match with liquor blender |   skills not in liquor blender |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [distillery supervisor](distillery_supervisor.md)                                       |                          29 |                                 13 |                               0.619048 |                             16 |

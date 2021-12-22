@@ -1,6 +1,6 @@
-#Occupation art teacher secondary school
-##Number skills 27
-###Similar occupations:
+# Occupation art teacher secondary school
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match art teacher secondary school |   percentage match with art teacher secondary school |   skills not in art teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [chemistry teacher secondary school](chemistry_teacher_secondary_school.md)                                           |                          28 |                                               23 |                                             0.851852 |                                            5 |

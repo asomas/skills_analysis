@@ -1,6 +1,6 @@
-#Occupation leather goods quality control laboratory technician
-##Number skills 10
-###Similar occupations:
+# Occupation leather goods quality control laboratory technician
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                          |   skills in this occupation |   skills that match leather goods quality control laboratory technician |   percentage match with leather goods quality control laboratory technician |   skills not in leather goods quality control laboratory technician |
 |:----------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------------------:|--------------------------------------------------------------------:|
 | [leather goods quality manager](leather_goods_quality_manager.md)                                   |                          14 |                                                                       9 |                                                                         0.9 |                                                                   5 |

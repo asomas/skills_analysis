@@ -1,6 +1,6 @@
-#Occupation metal furnace operator
-##Number skills 10
-###Similar occupations:
+# Occupation metal furnace operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match metal furnace operator |   percentage match with metal furnace operator |   skills not in metal furnace operator |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [plastic heat treatment equipment operator](plastic_heat_treatment_equipment_operator.md)   |                          17 |                                          5 |                                            0.5 |                                     12 |

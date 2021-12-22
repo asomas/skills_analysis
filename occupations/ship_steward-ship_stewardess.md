@@ -1,6 +1,6 @@
-#Occupation ship steward/ship stewardess
-##Number skills 21
-###Similar occupations:
+# Occupation ship steward/ship stewardess
+## Number skills 21
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match ship steward/ship stewardess |   percentage match with ship steward/ship stewardess |   skills not in ship steward/ship stewardess |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [flight attendant](flight_attendant.md)                                             |                          30 |                                               12 |                                             0.571429 |                                           18 |

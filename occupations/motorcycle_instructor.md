@@ -1,6 +1,6 @@
-#Occupation motorcycle instructor
-##Number skills 25
-###Similar occupations:
+# Occupation motorcycle instructor
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match motorcycle instructor |   percentage match with motorcycle instructor |   skills not in motorcycle instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [truck driving instructor](truck_driving_instructor.md)                                                               |                          26 |                                        24 |                                          0.96 |                                     2 |

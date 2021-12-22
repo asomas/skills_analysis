@@ -1,6 +1,6 @@
-#Occupation hazardous materials inspector
-##Number skills 17
-###Similar occupations:
+# Occupation hazardous materials inspector
+## Number skills 17
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match hazardous materials inspector |   percentage match with hazardous materials inspector |   skills not in hazardous materials inspector |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [hazardous waste inspector](hazardous_waste_inspector.md)                           |                          14 |                                                 8 |                                              0.470588 |                                             6 |

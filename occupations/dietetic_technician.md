@@ -1,6 +1,6 @@
-#Occupation dietetic technician
-##Number skills 29
-###Similar occupations:
+# Occupation dietetic technician
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match dietetic technician |   percentage match with dietetic technician |   skills not in dietetic technician |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [dietitian](dietitian.md)                                                                                                 |                          79 |                                      22 |                                    0.758621 |                                  57 |

@@ -1,6 +1,6 @@
-#Occupation investor relations manager
-##Number skills 26
-###Similar occupations:
+# Occupation investor relations manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match investor relations manager |   percentage match with investor relations manager |   skills not in investor relations manager |
 |:--------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [investment fund manager](investment_fund_manager.md)                           |                          30 |                                             18 |                                           0.692308 |                                         12 |

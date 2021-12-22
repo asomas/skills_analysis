@@ -1,6 +1,6 @@
-#Occupation lottery operator
-##Number skills 9
-###Similar occupations:
+# Occupation lottery operator
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match lottery operator |   percentage match with lottery operator |   skills not in lottery operator |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [gaming inspector](gaming_inspector.md)                                                                                                                           |                          21 |                                    5 |                                 0.555556 |                               16 |

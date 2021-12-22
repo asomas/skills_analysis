@@ -1,6 +1,6 @@
-#Occupation tufting operator
-##Number skills 7
-###Similar occupations:
+# Occupation tufting operator
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                                              |   skills in this occupation |   skills that match tufting operator |   percentage match with tufting operator |   skills not in tufting operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [carpet weaver](carpet_weaver.md)                                                                                                       |                          17 |                                    3 |                                 0.428571 |                               14 |

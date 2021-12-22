@@ -1,6 +1,6 @@
-#Occupation kosher slaughterer
-##Number skills 30
-###Similar occupations:
+# Occupation kosher slaughterer
+## Number skills 30
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match kosher slaughterer |   percentage match with kosher slaughterer |   skills not in kosher slaughterer |
 |:------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [halal slaughterer](halal_slaughterer.md)                                     |                          33 |                                     29 |                                   0.966667 |                                  4 |

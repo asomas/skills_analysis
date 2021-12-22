@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in textiles and textile semi-finished and raw materials
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in textiles and textile semi-finished and raw materials
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match wholesale merchant in textiles and textile semi-finished and raw materials |   percentage match with wholesale merchant in textiles and textile semi-finished and raw materials |   skills not in wholesale merchant in textiles and textile semi-finished and raw materials |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------:|
 | [wholesale merchant in office furniture](wholesale_merchant_in_office_furniture.md)                                                                                     |                          20 |                                                                                             19 |                                                                                               0.95 |                                                                                          1 |

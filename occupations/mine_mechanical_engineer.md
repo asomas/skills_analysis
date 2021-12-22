@@ -1,6 +1,6 @@
-#Occupation mine mechanical engineer
-##Number skills 20
-###Similar occupations:
+# Occupation mine mechanical engineer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match mine mechanical engineer |   percentage match with mine mechanical engineer |   skills not in mine mechanical engineer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [mine electrical engineer](mine_electrical_engineer.md)                                               |                          20 |                                           12 |                                             0.6  |                                        8 |

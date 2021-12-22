@@ -1,6 +1,6 @@
-#Occupation quality services manager
-##Number skills 18
-###Similar occupations:
+# Occupation quality services manager
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match quality services manager |   percentage match with quality services manager |   skills not in quality services manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [chemical plant manager](chemical_plant_manager.md)                                                                                                         |                          30 |                                            6 |                                         0.333333 |                                       24 |

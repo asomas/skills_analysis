@@ -1,6 +1,6 @@
-#Occupation agricultural equipment design engineer
-##Number skills 26
-###Similar occupations:
+# Occupation agricultural equipment design engineer
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match agricultural equipment design engineer |   percentage match with agricultural equipment design engineer |   skills not in agricultural equipment design engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [rotating equipment engineer](rotating_equipment_engineer.md)                                                                               |                          26 |                                                         22 |                                                       0.846154 |                                                      4 |

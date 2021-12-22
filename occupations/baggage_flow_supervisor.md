@@ -1,6 +1,6 @@
-#Occupation baggage flow supervisor
-##Number skills 12
-###Similar occupations:
+# Occupation baggage flow supervisor
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match baggage flow supervisor |   percentage match with baggage flow supervisor |   skills not in baggage flow supervisor |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [airport baggage handler](airport_baggage_handler.md)                                     |                          15 |                                           6 |                                        0.5      |                                       9 |

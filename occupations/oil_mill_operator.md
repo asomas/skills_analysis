@@ -1,6 +1,6 @@
-#Occupation oil mill operator
-##Number skills 18
-###Similar occupations:
+# Occupation oil mill operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match oil mill operator |   percentage match with oil mill operator |   skills not in oil mill operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [oilseed presser](oilseed_presser.md)                                                   |                          21 |                                    10 |                                  0.555556 |                                11 |

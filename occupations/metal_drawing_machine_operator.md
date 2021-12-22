@@ -1,6 +1,6 @@
-#Occupation metal drawing machine operator
-##Number skills 15
-###Similar occupations:
+# Occupation metal drawing machine operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match metal drawing machine operator |   percentage match with metal drawing machine operator |   skills not in metal drawing machine operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [screw machine operator](screw_machine_operator.md)                                                             |                          18 |                                                 12 |                                               0.8      |                                              6 |

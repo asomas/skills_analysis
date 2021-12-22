@@ -1,6 +1,6 @@
-#Occupation perfume production machine operator
-##Number skills 12
-###Similar occupations:
+# Occupation perfume production machine operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match perfume production machine operator |   percentage match with perfume production machine operator |   skills not in perfume production machine operator |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [cosmetics production machine operator](cosmetics_production_machine_operator.md)   |                          13 |                                                      10 |                                                    0.833333 |                                                   3 |

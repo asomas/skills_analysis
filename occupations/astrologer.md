@@ -1,6 +1,6 @@
-#Occupation astrologer
-##Number skills 10
-###Similar occupations:
+# Occupation astrologer
+## Number skills 10
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match astrologer |   percentage match with astrologer |   skills not in astrologer |
 |:----------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [fortune teller](fortune_teller.md)                       |                          11 |                              6 |                                0.6 |                          5 |

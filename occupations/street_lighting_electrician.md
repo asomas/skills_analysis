@@ -1,6 +1,6 @@
-#Occupation street lighting electrician
-##Number skills 9
-###Similar occupations:
+# Occupation street lighting electrician
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match street lighting electrician |   percentage match with street lighting electrician |   skills not in street lighting electrician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [overhead line worker](overhead_line_worker.md)                                                                                                               |                          13 |                                               9 |                                            1        |                                           4 |

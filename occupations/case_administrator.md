@@ -1,6 +1,6 @@
-#Occupation case administrator
-##Number skills 12
-###Similar occupations:
+# Occupation case administrator
+## Number skills 12
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match case administrator |   percentage match with case administrator |   skills not in case administrator |
 |:--------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [prosecutor](prosecutor.md)                                         |                          16 |                                      6 |                                   0.5      |                                 10 |

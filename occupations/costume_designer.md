@@ -1,6 +1,6 @@
-#Occupation costume designer
-##Number skills 41
-###Similar occupations:
+# Occupation costume designer
+## Number skills 41
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match costume designer |   percentage match with costume designer |   skills not in costume designer |
 |:------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [make-up and hair designer](make-up_and_hair_designer.md)   |                          28 |                                   24 |                                 0.585366 |                                4 |

@@ -1,6 +1,6 @@
-#Occupation mover
-##Number skills 13
-###Similar occupations:
+# Occupation mover
+## Number skills 13
+### Similar occupations:
 | occupation                                    |   skills in this occupation |   skills that match mover |   percentage match with mover |   skills not in mover |
 |:----------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
 | [moving truck driver](moving_truck_driver.md) |                          21 |                         5 |                      0.384615 |                    16 |

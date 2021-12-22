@@ -1,6 +1,6 @@
-#Occupation civil drafter
-##Number skills 14
-###Similar occupations:
+# Occupation civil drafter
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match civil drafter |   percentage match with civil drafter |   skills not in civil drafter |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [product development engineering drafter](product_development_engineering_drafter.md)                                                       |                          13 |                                13 |                              0.928571 |                             0 |

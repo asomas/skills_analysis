@@ -1,6 +1,6 @@
-#Occupation import export manager in electronic and telecommunications equipment and parts
-##Number skills 25
-###Similar occupations:
+# Occupation import export manager in electronic and telecommunications equipment and parts
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in electronic and telecommunications equipment and parts |   percentage match with import export manager in electronic and telecommunications equipment and parts |   skills not in import export manager in electronic and telecommunications equipment and parts |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------:|
 | [import export manager in chemical products](import_export_manager_in_chemical_products.md)                                                                             |                          27 |                                                                                                 24 |                                                                                                   0.96 |                                                                                              3 |

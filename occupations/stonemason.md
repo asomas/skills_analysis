@@ -1,6 +1,6 @@
-#Occupation stonemason
-##Number skills 20
-###Similar occupations:
+# Occupation stonemason
+## Number skills 20
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match stonemason |   percentage match with stonemason |   skills not in stonemason |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [roofer](roofer.md)                                                                     |                          23 |                              9 |                               0.45 |                         14 |

@@ -1,6 +1,6 @@
-#Occupation classical languages teacher secondary school
-##Number skills 27
-###Similar occupations:
+# Occupation classical languages teacher secondary school
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match classical languages teacher secondary school |   percentage match with classical languages teacher secondary school |   skills not in classical languages teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------:|
 | [modern languages teacher secondary school](modern_languages_teacher_secondary_school.md)                             |                          32 |                                                               25 |                                                             0.925926 |                                                            7 |

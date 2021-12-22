@@ -1,6 +1,6 @@
-#Occupation plumber
-##Number skills 21
-###Similar occupations:
+# Occupation plumber
+## Number skills 21
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match plumber |   percentage match with plumber |   skills not in plumber |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [kitchen unit installer](kitchen_unit_installer.md)                                     |                          21 |                          14 |                        0.666667 |                       7 |

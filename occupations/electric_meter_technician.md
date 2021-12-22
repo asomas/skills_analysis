@@ -1,6 +1,6 @@
-#Occupation electric meter technician
-##Number skills 18
-###Similar occupations:
+# Occupation electric meter technician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match electric meter technician |   percentage match with electric meter technician |   skills not in electric meter technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [rolling stock electrician](rolling_stock_electrician.md)                                                                                                             |                          17 |                                             9 |                                          0.5      |                                         8 |

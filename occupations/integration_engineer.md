@@ -1,6 +1,6 @@
-#Occupation integration engineer
-##Number skills 15
-###Similar occupations:
+# Occupation integration engineer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match integration engineer |   percentage match with integration engineer |   skills not in integration engineer |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [telecommunications engineering technician](telecommunications_engineering_technician.md) |                          23 |                                        5 |                                     0.333333 |                                   18 |

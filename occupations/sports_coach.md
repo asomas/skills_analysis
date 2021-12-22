@@ -1,6 +1,6 @@
-#Occupation sports coach
-##Number skills 26
-###Similar occupations:
+# Occupation sports coach
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match sports coach |   percentage match with sports coach |   skills not in sports coach |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [physical education teacher secondary school](physical_education_teacher_secondary_school.md)                         |                          33 |                               18 |                             0.692308 |                           15 |

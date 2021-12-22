@@ -1,6 +1,6 @@
-#Occupation microsystem engineering technician
-##Number skills 21
-###Similar occupations:
+# Occupation microsystem engineering technician
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match microsystem engineering technician |   percentage match with microsystem engineering technician |   skills not in microsystem engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [microelectronics engineering technician](microelectronics_engineering_technician.md)                                                       |                          25 |                                                     14 |                                                   0.666667 |                                                 11 |

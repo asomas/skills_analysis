@@ -1,6 +1,6 @@
-#Occupation crop production worker
-##Number skills 13
-###Similar occupations:
+# Occupation crop production worker
+## Number skills 13
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match crop production worker |   percentage match with crop production worker |   skills not in crop production worker |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [agronomic crop production team leader](agronomic_crop_production_team_leader.md) |                          33 |                                         13 |                                       1        |                                     20 |

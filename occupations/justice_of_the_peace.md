@@ -1,6 +1,6 @@
-#Occupation justice of the peace
-##Number skills 12
-###Similar occupations:
+# Occupation justice of the peace
+## Number skills 12
+### Similar occupations:
 | occupation                                                      |   skills in this occupation |   skills that match justice of the peace |   percentage match with justice of the peace |   skills not in justice of the peace |
 |:----------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [supreme court judge](supreme_court_judge.md)                   |                          16 |                                        8 |                                     0.666667 |                                    8 |

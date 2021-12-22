@@ -1,6 +1,6 @@
-#Occupation human resources assistant
-##Number skills 16
-###Similar occupations:
+# Occupation human resources assistant
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match human resources assistant |   percentage match with human resources assistant |   skills not in human resources assistant |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [human resources officer](human_resources_officer.md)                                                   |                          18 |                                            11 |                                            0.6875 |                                         7 |

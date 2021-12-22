@@ -1,6 +1,6 @@
-#Occupation animation layout artist
-##Number skills 17
-###Similar occupations:
+# Occupation animation layout artist
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match animation layout artist |   percentage match with animation layout artist |   skills not in animation layout artist |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [special effects artist](special_effects_artist.md)                                                                                                     |                          16 |                                          10 |                                        0.588235 |                                       6 |

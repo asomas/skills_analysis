@@ -1,6 +1,6 @@
-#Occupation logistics engineer
-##Number skills 14
-###Similar occupations:
+# Occupation logistics engineer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match logistics engineer |   percentage match with logistics engineer |   skills not in logistics engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [equipment engineer](equipment_engineer.md)                                                                                                 |                          15 |                                     11 |                                   0.785714 |                                  4 |

@@ -1,6 +1,6 @@
-#Occupation make-up and hair designer
-##Number skills 28
-###Similar occupations:
+# Occupation make-up and hair designer
+## Number skills 28
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match make-up and hair designer |   percentage match with make-up and hair designer |   skills not in make-up and hair designer |
 |:------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [costume designer](costume_designer.md)                     |                          41 |                                            24 |                                          0.857143 |                                        17 |

@@ -1,6 +1,6 @@
-#Occupation eBusiness manager
-##Number skills 20
-###Similar occupations:
+# Occupation eBusiness manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match eBusiness manager |   percentage match with eBusiness manager |   skills not in eBusiness manager |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [travel agency manager](travel_agency_manager.md)                       |                          30 |                                     5 |                                      0.25 |                                25 |

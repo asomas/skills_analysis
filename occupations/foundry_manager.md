@@ -1,6 +1,6 @@
-#Occupation foundry manager
-##Number skills 11
-###Similar occupations:
+# Occupation foundry manager
+## Number skills 11
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match foundry manager |   percentage match with foundry manager |   skills not in foundry manager |
 |:----------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [metallurgical manager](metallurgical_manager.md)                     |                          13 |                                  11 |                                1        |                               2 |

@@ -1,6 +1,6 @@
-#Occupation refuse collector
-##Number skills 9
-###Similar occupations:
+# Occupation refuse collector
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match refuse collector |   percentage match with refuse collector |   skills not in refuse collector |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [recycling worker](recycling_worker.md)                                                       |                          13 |                                    5 |                                 0.555556 |                                8 |

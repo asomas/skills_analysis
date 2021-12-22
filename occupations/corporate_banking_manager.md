@@ -1,6 +1,6 @@
-#Occupation corporate banking manager
-##Number skills 14
-###Similar occupations:
+# Occupation corporate banking manager
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match corporate banking manager |   percentage match with corporate banking manager |   skills not in corporate banking manager |
 |:----------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [investment fund manager](investment_fund_manager.md)                                         |                          30 |                                            10 |                                          0.714286 |                                        20 |

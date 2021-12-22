@@ -1,6 +1,6 @@
-#Occupation parliamentary assistant
-##Number skills 28
-###Similar occupations:
+# Occupation parliamentary assistant
+## Number skills 28
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match parliamentary assistant |   percentage match with parliamentary assistant |   skills not in parliamentary assistant |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [tax policy analyst](tax_policy_analyst.md)                             |                          17 |                                           8 |                                        0.285714 |                                       9 |

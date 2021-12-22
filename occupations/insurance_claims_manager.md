@@ -1,6 +1,6 @@
-#Occupation insurance claims manager
-##Number skills 24
-###Similar occupations:
+# Occupation insurance claims manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match insurance claims manager |   percentage match with insurance claims manager |   skills not in insurance claims manager |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [insurance agency manager](insurance_agency_manager.md)                 |                          37 |                                           15 |                                         0.625    |                                       22 |

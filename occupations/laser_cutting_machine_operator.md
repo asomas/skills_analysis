@@ -1,6 +1,6 @@
-#Occupation laser cutting machine operator
-##Number skills 26
-###Similar occupations:
+# Occupation laser cutting machine operator
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match laser cutting machine operator |   percentage match with laser cutting machine operator |   skills not in laser cutting machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [engraving machine operator](engraving_machine_operator.md)                                           |                          29 |                                                 24 |                                               0.923077 |                                              5 |

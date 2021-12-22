@@ -1,6 +1,6 @@
-#Occupation fish cook
-##Number skills 17
-###Similar occupations:
+# Occupation fish cook
+## Number skills 17
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match fish cook |   percentage match with fish cook |   skills not in fish cook |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [cook](cook.md)                                                                 |                          16 |                            15 |                          0.882353 |                         1 |

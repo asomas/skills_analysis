@@ -1,6 +1,6 @@
-#Occupation footwear maintenance technician
-##Number skills 16
-###Similar occupations:
+# Occupation footwear maintenance technician
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match footwear maintenance technician |   percentage match with footwear maintenance technician |   skills not in footwear maintenance technician |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [footwear production supervisor](footwear_production_supervisor.md)                                           |                          22 |                                                  12 |                                                  0.75   |                                              10 |

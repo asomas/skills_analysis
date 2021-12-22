@@ -1,6 +1,6 @@
-#Occupation microelectronics engineering technician
-##Number skills 25
-###Similar occupations:
+# Occupation microelectronics engineering technician
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match microelectronics engineering technician |   percentage match with microelectronics engineering technician |   skills not in microelectronics engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [electronics engineering technician](electronics_engineering_technician.md)                                                                 |                          29 |                                                          18 |                                                            0.72 |                                                      11 |

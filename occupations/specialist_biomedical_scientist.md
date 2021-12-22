@@ -1,6 +1,6 @@
-#Occupation specialist biomedical scientist
-##Number skills 39
-###Similar occupations:
+# Occupation specialist biomedical scientist
+## Number skills 39
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match specialist biomedical scientist |   percentage match with specialist biomedical scientist |   skills not in specialist biomedical scientist |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [biomedical scientist](biomedical_scientist.md)                                           |                          90 |                                                  31 |                                                0.794872 |                                              59 |

@@ -1,6 +1,6 @@
-#Occupation road operations manager
-##Number skills 25
-###Similar occupations:
+# Occupation road operations manager
+## Number skills 25
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match road operations manager |   percentage match with road operations manager |   skills not in road operations manager |
 |:----------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [road transport division manager](road_transport_division_manager.md) |                          26 |                                           9 |                                            0.36 |                                      17 |

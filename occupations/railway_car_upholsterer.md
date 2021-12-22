@@ -1,6 +1,6 @@
-#Occupation railway car upholsterer
-##Number skills 14
-###Similar occupations:
+# Occupation railway car upholsterer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match railway car upholsterer |   percentage match with railway car upholsterer |   skills not in railway car upholsterer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [aircraft interior technician](aircraft_interior_technician.md)                                       |                          14 |                                          14 |                                        1        |                                       0 |

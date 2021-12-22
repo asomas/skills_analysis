@@ -1,6 +1,6 @@
-#Occupation surface-mount technology machine operator
-##Number skills 18
-###Similar occupations:
+# Occupation surface-mount technology machine operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match surface-mount technology machine operator |   percentage match with surface-mount technology machine operator |   skills not in surface-mount technology machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [wave soldering machine operator](wave_soldering_machine_operator.md)                                 |                          16 |                                                            12 |                                                          0.666667 |                                                         4 |

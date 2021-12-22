@@ -1,6 +1,6 @@
-#Occupation public relations manager
-##Number skills 26
-###Similar occupations:
+# Occupation public relations manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match public relations manager |   percentage match with public relations manager |   skills not in public relations manager |
 |:--------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [public relations officer](public_relations_officer.md)                   |                          23 |                                           22 |                                         0.846154 |                                        1 |

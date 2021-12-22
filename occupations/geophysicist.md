@@ -1,6 +1,6 @@
-#Occupation geophysicist
-##Number skills 9
-###Similar occupations:
+# Occupation geophysicist
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match geophysicist |   percentage match with geophysicist |   skills not in geophysicist |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [geotechnician](geotechnician.md)                                                                 |                          10 |                                3 |                             0.333333 |                            7 |

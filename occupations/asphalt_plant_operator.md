@@ -1,6 +1,6 @@
-#Occupation asphalt plant operator
-##Number skills 15
-###Similar occupations:
+# Occupation asphalt plant operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match asphalt plant operator |   percentage match with asphalt plant operator |   skills not in asphalt plant operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [engineered wood board machine operator](engineered_wood_board_machine_operator.md)                             |                          14 |                                          4 |                                       0.266667 |                                     10 |

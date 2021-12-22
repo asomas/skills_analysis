@@ -1,6 +1,6 @@
-#Occupation educational counsellor
-##Number skills 19
-###Similar occupations:
+# Occupation educational counsellor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match educational counsellor |   percentage match with educational counsellor |   skills not in educational counsellor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [education welfare officer](education_welfare_officer.md)                                                             |                          79 |                                         11 |                                       0.578947 |                                     68 |

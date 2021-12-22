@@ -1,6 +1,6 @@
-#Occupation metallurgist
-##Number skills 14
-###Similar occupations:
+# Occupation metallurgist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match metallurgist |   percentage match with metallurgist |   skills not in metallurgist |
 |:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [process metallurgist](process_metallurgist.md)                                       |                          20 |                               13 |                             0.928571 |                            7 |

@@ -1,6 +1,6 @@
-#Occupation literature teacher secondary school
-##Number skills 30
-###Similar occupations:
+# Occupation literature teacher secondary school
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match literature teacher secondary school |   percentage match with literature teacher secondary school |   skills not in literature teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [mathematics teacher secondary school](mathematics_teacher_secondary_school.md)                                       |                          27 |                                                      24 |                                                    0.8      |                                                   3 |

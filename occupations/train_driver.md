@@ -1,6 +1,6 @@
-#Occupation train driver
-##Number skills 26
-###Similar occupations:
+# Occupation train driver
+## Number skills 26
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match train driver |   percentage match with train driver |   skills not in train driver |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [shunter](shunter.md)                                                       |                          33 |                                7 |                             0.269231 |                           26 |

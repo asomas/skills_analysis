@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in computers, computer peripheral equipment and software
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in computers, computer peripheral equipment and software
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in computers, computer peripheral equipment and software |   percentage match with wholesale merchant in computers, computer peripheral equipment and software |   skills not in wholesale merchant in computers, computer peripheral equipment and software |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------:|
 | [wholesale merchant in live animals](wholesale_merchant_in_live_animals.md)                                                                                         |                          20 |                                                                                              19 |                                                                                                0.95 |                                                                                           1 |

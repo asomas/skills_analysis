@@ -1,6 +1,6 @@
-#Occupation call centre quality auditor
-##Number skills 17
-###Similar occupations:
+# Occupation call centre quality auditor
+## Number skills 17
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match call centre quality auditor |   percentage match with call centre quality auditor |   skills not in call centre quality auditor |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [call centre analyst](call_centre_analyst.md)                           |                          20 |                                               5 |                                            0.294118 |                                          15 |

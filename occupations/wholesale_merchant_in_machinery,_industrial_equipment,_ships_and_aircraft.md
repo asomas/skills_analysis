@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in machinery, industrial equipment, ships and aircraft
-##Number skills 23
-###Similar occupations:
+# Occupation wholesale merchant in machinery, industrial equipment, ships and aircraft
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match wholesale merchant in machinery, industrial equipment, ships and aircraft |   percentage match with wholesale merchant in machinery, industrial equipment, ships and aircraft |   skills not in wholesale merchant in machinery, industrial equipment, ships and aircraft |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------:|
 | [wholesale merchant in electrical household appliances](wholesale_merchant_in_electrical_household_appliances.md)                                                     |                          20 |                                                                                            19 |                                                                                          0.826087 |                                                                                         1 |

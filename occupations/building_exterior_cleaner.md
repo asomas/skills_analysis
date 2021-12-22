@@ -1,6 +1,6 @@
-#Occupation building exterior cleaner
-##Number skills 12
-###Similar occupations:
+# Occupation building exterior cleaner
+## Number skills 12
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match building exterior cleaner |   percentage match with building exterior cleaner |   skills not in building exterior cleaner |
 |:------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [asbestos abatement worker](asbestos_abatement_worker.md)   |                          11 |                                             4 |                                          0.333333 |                                         7 |

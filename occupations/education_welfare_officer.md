@@ -1,6 +1,6 @@
-#Occupation education welfare officer
-##Number skills 79
-###Similar occupations:
+# Occupation education welfare officer
+## Number skills 79
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match education welfare officer |   percentage match with education welfare officer |   skills not in education welfare officer |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [consultant social worker](consultant_social_worker.md)                                   |                          75 |                                            67 |                                          0.848101 |                                         8 |

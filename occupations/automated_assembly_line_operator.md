@@ -1,6 +1,6 @@
-#Occupation automated assembly line operator
-##Number skills 11
-###Similar occupations:
+# Occupation automated assembly line operator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match automated assembly line operator |   percentage match with automated assembly line operator |   skills not in automated assembly line operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [grinding machine operator](grinding_machine_operator.md)                                             |                          24 |                                                    4 |                                                 0.363636 |                                               20 |

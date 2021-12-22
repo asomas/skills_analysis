@@ -1,6 +1,6 @@
-#Occupation sorter labourer
-##Number skills 10
-###Similar occupations:
+# Occupation sorter labourer
+## Number skills 10
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match sorter labourer |   percentage match with sorter labourer |   skills not in sorter labourer |
 |:------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [recycling worker](recycling_worker.md)                           |                          13 |                                   7 |                                     0.7 |                               6 |

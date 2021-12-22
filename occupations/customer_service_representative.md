@@ -1,6 +1,6 @@
-#Occupation customer service representative
-##Number skills 22
-###Similar occupations:
+# Occupation customer service representative
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match customer service representative |   percentage match with customer service representative |   skills not in customer service representative |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [technical sales representative in agricultural machinery and equipment](technical_sales_representative_in_agricultural_machinery_and_equipment.md)               |                          29 |                                                   8 |                                                0.363636 |                                              21 |

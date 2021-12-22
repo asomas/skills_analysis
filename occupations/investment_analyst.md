@@ -1,6 +1,6 @@
-#Occupation investment analyst
-##Number skills 16
-###Similar occupations:
+# Occupation investment analyst
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match investment analyst |   percentage match with investment analyst |   skills not in investment analyst |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [securities analyst](securities_analyst.md)                                                   |                          18 |                                     12 |                                     0.75   |                                  6 |

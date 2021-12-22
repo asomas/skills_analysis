@@ -1,6 +1,6 @@
-#Occupation policy manager
-##Number skills 9
-###Similar occupations:
+# Occupation policy manager
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                    |   skills in this occupation |   skills that match policy manager |   percentage match with policy manager |   skills not in policy manager |
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [strategic planning manager](strategic_planning_manager.md)                                                                   |                          25 |                                  9 |                               1        |                             16 |

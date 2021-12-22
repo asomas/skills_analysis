@@ -1,6 +1,6 @@
-#Occupation dredging supervisor
-##Number skills 23
-###Similar occupations:
+# Occupation dredging supervisor
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match dredging supervisor |   percentage match with dredging supervisor |   skills not in dredging supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [bridge construction supervisor](bridge_construction_supervisor.md)                                             |                          26 |                                      16 |                                    0.695652 |                                  10 |

@@ -1,6 +1,6 @@
-#Occupation leather goods product developer
-##Number skills 21
-###Similar occupations:
+# Occupation leather goods product developer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods product developer |   percentage match with leather goods product developer |   skills not in leather goods product developer |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [leather goods product development manager](leather_goods_product_development_manager.md)                     |                          24 |                                                  19 |                                                0.904762 |                                               5 |

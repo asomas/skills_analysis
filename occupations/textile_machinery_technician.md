@@ -1,6 +1,6 @@
-#Occupation textile machinery technician
-##Number skills 25
-###Similar occupations:
+# Occupation textile machinery technician
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match textile machinery technician |   percentage match with textile machinery technician |   skills not in textile machinery technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [forge equipment technician](forge_equipment_technician.md)                                                                                                   |                          14 |                                               12 |                                                 0.48 |                                            2 |

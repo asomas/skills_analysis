@@ -1,6 +1,6 @@
-#Occupation probation officer
-##Number skills 11
-###Similar occupations:
+# Occupation probation officer
+## Number skills 11
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match probation officer |   percentage match with probation officer |   skills not in probation officer |
 |:--------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [prison instructor](prison_instructor.md)                           |                          21 |                                     3 |                                  0.272727 |                                18 |

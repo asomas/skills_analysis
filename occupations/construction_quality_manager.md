@@ -1,6 +1,6 @@
-#Occupation construction quality manager
-##Number skills 17
-###Similar occupations:
+# Occupation construction quality manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match construction quality manager |   percentage match with construction quality manager |   skills not in construction quality manager |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [construction quality inspector](construction_quality_inspector.md)                     |                          18 |                                               10 |                                             0.588235 |                                            8 |

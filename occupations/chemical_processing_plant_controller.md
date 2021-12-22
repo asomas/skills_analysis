@@ -1,6 +1,6 @@
-#Occupation chemical processing plant controller
-##Number skills 15
-###Similar occupations:
+# Occupation chemical processing plant controller
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match chemical processing plant controller |   percentage match with chemical processing plant controller |   skills not in chemical processing plant controller |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [chemistry technician](chemistry_technician.md)                                           |                          26 |                                                        7 |                                                     0.466667 |                                                   19 |

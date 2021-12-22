@@ -1,6 +1,6 @@
-#Occupation wood production supervisor
-##Number skills 16
-###Similar occupations:
+# Occupation wood production supervisor
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match wood production supervisor |   percentage match with wood production supervisor |   skills not in wood production supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [wood assembly supervisor](wood_assembly_supervisor.md)                                                         |                          16 |                                             14 |                                             0.875  |                                          2 |

@@ -1,6 +1,6 @@
-#Occupation online community manager
-##Number skills 47
-###Similar occupations:
+# Occupation online community manager
+## Number skills 47
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match online community manager |   percentage match with online community manager |   skills not in online community manager |
 |:--------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [marketing manager](marketing_manager.md)                                 |                          28 |                                           28 |                                         0.595745 |                                        0 |

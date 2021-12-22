@@ -1,6 +1,6 @@
-#Occupation computer hardware test technician
-##Number skills 24
-###Similar occupations:
+# Occupation computer hardware test technician
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match computer hardware test technician |   percentage match with computer hardware test technician |   skills not in computer hardware test technician |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [electronic equipment inspector](electronic_equipment_inspector.md)                                   |                          20 |                                                    14 |                                                  0.583333 |                                                 6 |

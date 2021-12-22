@@ -1,6 +1,6 @@
-#Occupation carpenter
-##Number skills 24
-###Similar occupations:
+# Occupation carpenter
+## Number skills 24
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match carpenter |   percentage match with carpenter |   skills not in carpenter |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [hardwood floor layer](hardwood_floor_layer.md)                                         |                          22 |                            14 |                          0.583333 |                         8 |

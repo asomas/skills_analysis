@@ -1,6 +1,6 @@
-#Occupation audiology equipment shop manager
-##Number skills 32
-###Similar occupations:
+# Occupation audiology equipment shop manager
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match audiology equipment shop manager |   percentage match with audiology equipment shop manager |   skills not in audiology equipment shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [eyewear and optical equipment shop manager](eyewear_and_optical_equipment_shop_manager.md)       |                          31 |                                                   28 |                                                  0.875   |                                                3 |

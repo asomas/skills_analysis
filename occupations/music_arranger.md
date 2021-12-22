@@ -1,6 +1,6 @@
-#Occupation music arranger
-##Number skills 10
-###Similar occupations:
+# Occupation music arranger
+## Number skills 10
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match music arranger |   percentage match with music arranger |   skills not in music arranger |
 |:--------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [music director](music_director.md)                                 |                          21 |                                  8 |                                    0.8 |                             13 |

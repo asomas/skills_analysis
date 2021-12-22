@@ -1,6 +1,6 @@
-#Occupation pyrotechnic designer
-##Number skills 26
-###Similar occupations:
+# Occupation pyrotechnic designer
+## Number skills 26
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match pyrotechnic designer |   percentage match with pyrotechnic designer |   skills not in pyrotechnic designer |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [lighting designer](lighting_designer.md)                         |                          30 |                                       23 |                                     0.884615 |                                    7 |

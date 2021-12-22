@@ -1,6 +1,6 @@
-#Occupation aquaculture hatchery worker
-##Number skills 25
-###Similar occupations:
+# Occupation aquaculture hatchery worker
+## Number skills 25
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match aquaculture hatchery worker |   percentage match with aquaculture hatchery worker |   skills not in aquaculture hatchery worker |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [aquaculture rearing technician](aquaculture_rearing_technician.md)         |                          34 |                                              10 |                                                0.4  |                                          24 |

@@ -1,6 +1,6 @@
-#Occupation post-production supervisor
-##Number skills 13
-###Similar occupations:
+# Occupation post-production supervisor
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match post-production supervisor |   percentage match with post-production supervisor |   skills not in post-production supervisor |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [video and motion picture producer](video_and_motion_picture_producer.md)                     |                          18 |                                              6 |                                           0.461538 |                                         12 |

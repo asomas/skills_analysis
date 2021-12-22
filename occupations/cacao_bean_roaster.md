@@ -1,6 +1,6 @@
-#Occupation cacao bean roaster
-##Number skills 22
-###Similar occupations:
+# Occupation cacao bean roaster
+## Number skills 22
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match cacao bean roaster |   percentage match with cacao bean roaster |   skills not in cacao bean roaster |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [coffee roaster](coffee_roaster.md)                                                     |                          18 |                                     15 |                                   0.681818 |                                  3 |

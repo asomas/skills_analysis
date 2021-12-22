@@ -1,6 +1,6 @@
-#Occupation membership manager
-##Number skills 24
-###Similar occupations:
+# Occupation membership manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match membership manager |   percentage match with membership manager |   skills not in membership manager |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [beauty salon manager](beauty_salon_manager.md)                                                         |                          44 |                                     14 |                                   0.583333 |                                 30 |

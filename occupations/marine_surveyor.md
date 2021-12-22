@@ -1,6 +1,6 @@
-#Occupation marine surveyor
-##Number skills 25
-###Similar occupations:
+# Occupation marine surveyor
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match marine surveyor |   percentage match with marine surveyor |   skills not in marine surveyor |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [vessel assembly inspector](vessel_assembly_inspector.md)                                             |                          16 |                                   6 |                                    0.24 |                              10 |

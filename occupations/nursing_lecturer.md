@@ -1,6 +1,6 @@
-#Occupation nursing lecturer
-##Number skills 34
-###Similar occupations:
+# Occupation nursing lecturer
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match nursing lecturer |   percentage match with nursing lecturer |   skills not in nursing lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [modern languages teacher secondary school](modern_languages_teacher_secondary_school.md)                             |                          32 |                                   17 |                                 0.5      |                               15 |

@@ -1,6 +1,6 @@
-#Occupation equine dental technician
-##Number skills 18
-###Similar occupations:
+# Occupation equine dental technician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match equine dental technician |   percentage match with equine dental technician |   skills not in equine dental technician |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [alternative animal therapist](alternative_animal_therapist.md)                                                                                                   |                          22 |                                           10 |                                         0.555556 |                                       12 |

@@ -1,6 +1,6 @@
-#Occupation horse trainer
-##Number skills 21
-###Similar occupations:
+# Occupation horse trainer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match horse trainer |   percentage match with horse trainer |   skills not in horse trainer |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [animal trainer](animal_trainer.md)                                                       |                          26 |                                19 |                              0.904762 |                             7 |

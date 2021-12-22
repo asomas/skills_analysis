@@ -1,6 +1,6 @@
-#Occupation sculptor
-##Number skills 12
-###Similar occupations:
+# Occupation sculptor
+## Number skills 12
+### Similar occupations:
 | occupation                                    |   skills in this occupation |   skills that match sculptor |   percentage match with sculptor |   skills not in sculptor |
 |:----------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [glass-blower](glass-blower.md)               |                          15 |                            9 |                         0.75     |                        6 |

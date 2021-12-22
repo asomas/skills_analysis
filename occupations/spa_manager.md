@@ -1,6 +1,6 @@
-#Occupation spa manager
-##Number skills 47
-###Similar occupations:
+# Occupation spa manager
+## Number skills 47
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match spa manager |   percentage match with spa manager |   skills not in spa manager |
 |:--------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [beauty salon manager](beauty_salon_manager.md)                           |                          44 |                              31 |                            0.659574 |                          13 |

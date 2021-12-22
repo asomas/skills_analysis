@@ -1,6 +1,6 @@
-#Occupation primary school head teacher
-##Number skills 24
-###Similar occupations:
+# Occupation primary school head teacher
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match primary school head teacher |   percentage match with primary school head teacher |   skills not in primary school head teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [secondary school head teacher](secondary_school_head_teacher.md)                                                     |                          24 |                                              21 |                                            0.875    |                                           3 |

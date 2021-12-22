@@ -1,6 +1,6 @@
-#Occupation chiropractic assistant
-##Number skills 16
-###Similar occupations:
+# Occupation chiropractic assistant
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match chiropractic assistant |   percentage match with chiropractic assistant |   skills not in chiropractic assistant |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [doctors' surgery assistant](doctors'_surgery_assistant.md)                                                               |                          45 |                                          9 |                                         0.5625 |                                     36 |

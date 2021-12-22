@@ -1,6 +1,6 @@
-#Occupation rental service representative in cars and light motor vehicles
-##Number skills 22
-###Similar occupations:
+# Occupation rental service representative in cars and light motor vehicles
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match rental service representative in cars and light motor vehicles |   percentage match with rental service representative in cars and light motor vehicles |   skills not in rental service representative in cars and light motor vehicles |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------:|
 | [rental service representative in construction and civil engineering machinery](rental_service_representative_in_construction_and_civil_engineering_machinery.md) |                          23 |                                                                                 22 |                                                                               1        |                                                                              1 |

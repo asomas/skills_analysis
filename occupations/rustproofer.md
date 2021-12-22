@@ -1,6 +1,6 @@
-#Occupation rustproofer
-##Number skills 15
-###Similar occupations:
+# Occupation rustproofer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match rustproofer |   percentage match with rustproofer |   skills not in rustproofer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [welder](welder.md)                                                                                   |                          31 |                              10 |                            0.666667 |                          21 |

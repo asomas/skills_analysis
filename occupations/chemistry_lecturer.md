@@ -1,6 +1,6 @@
-#Occupation chemistry lecturer
-##Number skills 23
-###Similar occupations:
+# Occupation chemistry lecturer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match chemistry lecturer |   percentage match with chemistry lecturer |   skills not in chemistry lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [chemistry teacher secondary school](chemistry_teacher_secondary_school.md)                                           |                          28 |                                     18 |                                   0.782609 |                                 10 |

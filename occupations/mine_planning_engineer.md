@@ -1,6 +1,6 @@
-#Occupation mine planning engineer
-##Number skills 14
-###Similar occupations:
+# Occupation mine planning engineer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match mine planning engineer |   percentage match with mine planning engineer |   skills not in mine planning engineer |
 |:--------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [mine development engineer](mine_development_engineer.md)                             |                          25 |                                          9 |                                       0.642857 |                                     16 |

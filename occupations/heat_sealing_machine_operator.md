@@ -1,6 +1,6 @@
-#Occupation heat sealing machine operator
-##Number skills 12
-###Similar occupations:
+# Occupation heat sealing machine operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match heat sealing machine operator |   percentage match with heat sealing machine operator |   skills not in heat sealing machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [slitter operator](slitter_operator.md)                                                               |                          14 |                                                 6 |                                              0.5      |                                             8 |

@@ -1,6 +1,6 @@
-#Occupation kettle tender
-##Number skills 12
-###Similar occupations:
+# Occupation kettle tender
+## Number skills 12
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match kettle tender |   percentage match with kettle tender |   skills not in kettle tender |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [animal feed supervisor](animal_feed_supervisor.md)                                     |                          29 |                                 7 |                              0.583333 |                            22 |

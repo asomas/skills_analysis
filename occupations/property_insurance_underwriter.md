@@ -1,6 +1,6 @@
-#Occupation property insurance underwriter
-##Number skills 12
-###Similar occupations:
+# Occupation property insurance underwriter
+## Number skills 12
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match property insurance underwriter |   percentage match with property insurance underwriter |   skills not in property insurance underwriter |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [insurance underwriter](insurance_underwriter.md)                       |                          20 |                                                  9 |                                               0.75     |                                             11 |

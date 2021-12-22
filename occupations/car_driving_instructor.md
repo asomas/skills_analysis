@@ -1,6 +1,6 @@
-#Occupation car driving instructor
-##Number skills 25
-###Similar occupations:
+# Occupation car driving instructor
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match car driving instructor |   percentage match with car driving instructor |   skills not in car driving instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [truck driving instructor](truck_driving_instructor.md)                                                               |                          26 |                                         24 |                                           0.96 |                                      2 |

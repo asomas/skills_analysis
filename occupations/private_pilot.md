@@ -1,6 +1,6 @@
-#Occupation private pilot
-##Number skills 32
-###Similar occupations:
+# Occupation private pilot
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match private pilot |   percentage match with private pilot |   skills not in private pilot |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [commercial pilot](commercial_pilot.md)                                                                                     |                          41 |                                31 |                               0.96875 |                            10 |

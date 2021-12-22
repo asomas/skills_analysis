@@ -1,6 +1,6 @@
-#Occupation palaeontologist
-##Number skills 10
-###Similar occupations:
+# Occupation palaeontologist
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match palaeontologist |   percentage match with palaeontologist |   skills not in palaeontologist |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [geologist](geologist.md)                                                                 |                          20 |                                   7 |                                     0.7 |                              13 |

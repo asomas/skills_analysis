@@ -1,6 +1,6 @@
-#Occupation wire weaving machine operator
-##Number skills 16
-###Similar occupations:
+# Occupation wire weaving machine operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match wire weaving machine operator |   percentage match with wire weaving machine operator |   skills not in wire weaving machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [spring maker](spring_maker.md)                                                                       |                          16 |                                                12 |                                                0.75   |                                             4 |

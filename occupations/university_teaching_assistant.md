@@ -1,6 +1,6 @@
-#Occupation university teaching assistant
-##Number skills 11
-###Similar occupations:
+# Occupation university teaching assistant
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match university teaching assistant |   percentage match with university teaching assistant |   skills not in university teaching assistant |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [higher education lecturer](higher_education_lecturer.md)                                                             |                          15 |                                                 8 |                                              0.727273 |                                             7 |

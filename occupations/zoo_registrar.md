@@ -1,6 +1,6 @@
-#Occupation zoo registrar
-##Number skills 14
-###Similar occupations:
+# Occupation zoo registrar
+## Number skills 14
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match zoo registrar |   percentage match with zoo registrar |   skills not in zoo registrar |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [car leasing agent](car_leasing_agent.md)                                         |                          28 |                                 3 |                              0.214286 |                            25 |

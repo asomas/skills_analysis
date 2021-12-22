@@ -1,6 +1,6 @@
-#Occupation aromatherapist
-##Number skills 30
-###Similar occupations:
+# Occupation aromatherapist
+## Number skills 30
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match aromatherapist |   percentage match with aromatherapist |   skills not in aromatherapist |
 |:------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [herbal therapist](herbal_therapist.md)                                             |                          26 |                                 16 |                               0.533333 |                             10 |

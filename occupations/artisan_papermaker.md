@@ -1,6 +1,6 @@
-#Occupation artisan papermaker
-##Number skills 12
-###Similar occupations:
+# Occupation artisan papermaker
+## Number skills 12
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match artisan papermaker |   percentage match with artisan papermaker |   skills not in artisan papermaker |
 |:--------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [paper engineer](paper_engineer.md)                                       |                          18 |                                      3 |                                   0.25     |                                 15 |

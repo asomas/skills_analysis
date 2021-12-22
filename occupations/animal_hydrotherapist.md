@@ -1,6 +1,6 @@
-#Occupation animal hydrotherapist
-##Number skills 22
-###Similar occupations:
+# Occupation animal hydrotherapist
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match animal hydrotherapist |   percentage match with animal hydrotherapist |   skills not in animal hydrotherapist |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [animal massage therapist](animal_massage_therapist.md)                                   |                          22 |                                        21 |                                      0.954545 |                                     1 |

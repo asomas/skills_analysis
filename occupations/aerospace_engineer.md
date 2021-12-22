@@ -1,6 +1,6 @@
-#Occupation aerospace engineer
-##Number skills 17
-###Similar occupations:
+# Occupation aerospace engineer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match aerospace engineer |   percentage match with aerospace engineer |   skills not in aerospace engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [automotive engineer](automotive_engineer.md)                                                                                               |                          16 |                                     13 |                                   0.764706 |                                  3 |

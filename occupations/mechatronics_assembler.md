@@ -1,6 +1,6 @@
-#Occupation mechatronics assembler
-##Number skills 21
-###Similar occupations:
+# Occupation mechatronics assembler
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match mechatronics assembler |   percentage match with mechatronics assembler |   skills not in mechatronics assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [electronic equipment assembler](electronic_equipment_assembler.md)                                   |                          22 |                                          9 |                                       0.428571 |                                     13 |

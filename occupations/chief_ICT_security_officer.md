@@ -1,6 +1,6 @@
-#Occupation chief ICT security officer
-##Number skills 19
-###Similar occupations:
+# Occupation chief ICT security officer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                    |   skills in this occupation |   skills that match chief ICT security officer |   percentage match with chief ICT security officer |   skills not in chief ICT security officer |
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [chief information officer](chief_information_officer.md)                                                                     |                          22 |                                              7 |                                           0.368421 |                                         15 |

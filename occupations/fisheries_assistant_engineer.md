@@ -1,6 +1,6 @@
-#Occupation fisheries assistant engineer
-##Number skills 14
-###Similar occupations:
+# Occupation fisheries assistant engineer
+## Number skills 14
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match fisheries assistant engineer |   percentage match with fisheries assistant engineer |   skills not in fisheries assistant engineer |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [fisheries master](fisheries_master.md)                                 |                          43 |                                               12 |                                             0.857143 |                                           31 |

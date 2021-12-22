@@ -1,6 +1,6 @@
-#Occupation technical director
-##Number skills 8
-###Similar occupations:
+# Occupation technical director
+## Number skills 8
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match technical director |   percentage match with technical director |   skills not in technical director |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [stage manager](stage_manager.md)                                           |                          27 |                                      4 |                                      0.5   |                                 23 |

@@ -1,6 +1,6 @@
-#Occupation jewellery and watches specialised seller
-##Number skills 36
-###Similar occupations:
+# Occupation jewellery and watches specialised seller
+## Number skills 36
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match jewellery and watches specialised seller |   percentage match with jewellery and watches specialised seller |   skills not in jewellery and watches specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [bakery specialised seller](bakery_specialised_seller.md)                                                                                                         |                          33 |                                                           28 |                                                         0.777778 |                                                        5 |

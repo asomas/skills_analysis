@@ -1,6 +1,6 @@
-#Occupation rolling stock assembly supervisor
-##Number skills 19
-###Similar occupations:
+# Occupation rolling stock assembly supervisor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match rolling stock assembly supervisor |   percentage match with rolling stock assembly supervisor |   skills not in rolling stock assembly supervisor |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [motor vehicle assembly supervisor](motor_vehicle_assembly_supervisor.md)                                                                                     |                          18 |                                                    17 |                                                  0.894737 |                                                 1 |

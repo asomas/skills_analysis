@@ -1,6 +1,6 @@
-#Occupation dresser
-##Number skills 14
-###Similar occupations:
+# Occupation dresser
+## Number skills 14
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match dresser |   percentage match with dresser |   skills not in dresser |
 |:------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [stage machinist](stage_machinist.md)                             |                          32 |                          10 |                        0.714286 |                      22 |

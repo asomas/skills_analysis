@@ -1,6 +1,6 @@
-#Occupation acoustical engineer
-##Number skills 7
-###Similar occupations:
+# Occupation acoustical engineer
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match acoustical engineer |   percentage match with acoustical engineer |   skills not in acoustical engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [wood technology engineer](wood_technology_engineer.md)                                                                                     |                          29 |                                       5 |                                    0.714286 |                                  24 |

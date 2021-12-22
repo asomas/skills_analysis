@@ -1,6 +1,6 @@
-#Occupation made-up textile articles manufacturer
-##Number skills 10
-###Similar occupations:
+# Occupation made-up textile articles manufacturer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match made-up textile articles manufacturer |   percentage match with made-up textile articles manufacturer |   skills not in made-up textile articles manufacturer |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [clothing cutter](clothing_cutter.md)                                                     |                          12 |                                                         6 |                                                           0.6 |                                                     6 |

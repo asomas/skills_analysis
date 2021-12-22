@@ -1,6 +1,6 @@
-#Occupation envelope maker
-##Number skills 15
-###Similar occupations:
+# Occupation envelope maker
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match envelope maker |   percentage match with envelope maker |   skills not in envelope maker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [tissue paper perforating and rewinding operator](tissue_paper_perforating_and_rewinding_operator.md) |                          15 |                                 10 |                               0.666667 |                              5 |

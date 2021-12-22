@@ -1,6 +1,6 @@
-#Occupation capsule filling machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation capsule filling machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match capsule filling machine operator |   percentage match with capsule filling machine operator |   skills not in capsule filling machine operator |
 |:--------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [animal feed supervisor](animal_feed_supervisor.md)                       |                          29 |                                                    2 |                                                 0.142857 |                                               27 |

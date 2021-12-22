@@ -1,6 +1,6 @@
-#Occupation motor vehicle assembly inspector
-##Number skills 16
-###Similar occupations:
+# Occupation motor vehicle assembly inspector
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match motor vehicle assembly inspector |   percentage match with motor vehicle assembly inspector |   skills not in motor vehicle assembly inspector |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [motor vehicle engine inspector](motor_vehicle_engine_inspector.md)                                                                         |                          20 |                                                   13 |                                                   0.8125 |                                                7 |

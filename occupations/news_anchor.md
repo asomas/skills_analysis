@@ -1,6 +1,6 @@
-#Occupation news anchor
-##Number skills 17
-###Similar occupations:
+# Occupation news anchor
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match news anchor |   percentage match with news anchor |   skills not in news anchor |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [presenter](presenter.md)                                                                               |                          19 |                              11 |                            0.647059 |                           8 |

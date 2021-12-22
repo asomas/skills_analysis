@@ -1,6 +1,6 @@
-#Occupation electrical equipment inspector
-##Number skills 24
-###Similar occupations:
+# Occupation electrical equipment inspector
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match electrical equipment inspector |   percentage match with electrical equipment inspector |   skills not in electrical equipment inspector |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [control panel tester](control_panel_tester.md)                                                                                                               |                          28 |                                                 20 |                                               0.833333 |                                              8 |

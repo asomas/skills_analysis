@@ -1,6 +1,6 @@
-#Occupation calculation engineer
-##Number skills 12
-###Similar occupations:
+# Occupation calculation engineer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match calculation engineer |   percentage match with calculation engineer |   skills not in calculation engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [material stress analyst](material_stress_analyst.md)                                                                                       |                          21 |                                        5 |                                     0.416667 |                                   16 |

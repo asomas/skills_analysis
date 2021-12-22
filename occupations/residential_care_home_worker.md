@@ -1,6 +1,6 @@
-#Occupation residential care home worker
-##Number skills 63
-###Similar occupations:
+# Occupation residential care home worker
+## Number skills 63
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match residential care home worker |   percentage match with residential care home worker |   skills not in residential care home worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [housing support worker](housing_support_worker.md)                                       |                          63 |                                               62 |                                             0.984127 |                                            1 |

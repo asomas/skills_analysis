@@ -1,6 +1,6 @@
-#Occupation barber
-##Number skills 16
-###Similar occupations:
+# Occupation barber
+## Number skills 16
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match barber |   percentage match with barber |   skills not in barber |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [hairdresser](hairdresser.md)                                                       |                          17 |                         11 |                         0.6875 |                      6 |

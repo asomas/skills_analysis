@@ -1,6 +1,6 @@
-#Occupation sports journalist
-##Number skills 22
-###Similar occupations:
+# Occupation sports journalist
+## Number skills 22
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match sports journalist |   percentage match with sports journalist |   skills not in sports journalist |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [business journalist](business_journalist.md)                                     |                          21 |                                    19 |                                  0.863636 |                                 2 |

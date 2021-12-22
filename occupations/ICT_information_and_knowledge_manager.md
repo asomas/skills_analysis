@@ -1,6 +1,6 @@
-#Occupation ICT information and knowledge manager
-##Number skills 24
-###Similar occupations:
+# Occupation ICT information and knowledge manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match ICT information and knowledge manager |   percentage match with ICT information and knowledge manager |   skills not in ICT information and knowledge manager |
 |:------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [data analyst](data_analyst.md)                                         |                          28 |                                                         8 |                                                      0.333333 |                                                    20 |

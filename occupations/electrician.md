@@ -1,6 +1,6 @@
-#Occupation electrician
-##Number skills 21
-###Similar occupations:
+# Occupation electrician
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match electrician |   percentage match with electrician |   skills not in electrician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [industrial electrician](industrial_electrician.md)                                                                                                           |                          17 |                              14 |                            0.666667 |                           3 |

@@ -1,6 +1,6 @@
-#Occupation administrative assistant
-##Number skills 17
-###Similar occupations:
+# Occupation administrative assistant
+## Number skills 17
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match administrative assistant |   percentage match with administrative assistant |   skills not in administrative assistant |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [secretary](secretary.md)                                                         |                          18 |                                           12 |                                         0.705882 |                                        6 |

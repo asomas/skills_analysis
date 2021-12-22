@@ -1,6 +1,6 @@
-#Occupation labour market policy officer
-##Number skills 11
-###Similar occupations:
+# Occupation labour market policy officer
+## Number skills 11
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match labour market policy officer |   percentage match with labour market policy officer |   skills not in labour market policy officer |
 |:------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [regional development policy officer](regional_development_policy_officer.md) |                          10 |                                                4 |                                             0.363636 |                                            6 |

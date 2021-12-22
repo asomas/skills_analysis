@@ -1,6 +1,6 @@
-#Occupation pre-stitching machine operator
-##Number skills 13
-###Similar occupations:
+# Occupation pre-stitching machine operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match pre-stitching machine operator |   percentage match with pre-stitching machine operator |   skills not in pre-stitching machine operator |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [cutting machine operator](cutting_machine_operator.md)                                                       |                          15 |                                                 11 |                                               0.846154 |                                              4 |

@@ -1,6 +1,6 @@
-#Occupation door supervisor
-##Number skills 16
-###Similar occupations:
+# Occupation door supervisor
+## Number skills 16
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match door supervisor |   percentage match with door supervisor |   skills not in door supervisor |
 |:------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [crowd controller](crowd_controller.md)                           |                          20 |                                  11 |                                  0.6875 |                               9 |

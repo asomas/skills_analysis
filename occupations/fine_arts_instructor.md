@@ -1,6 +1,6 @@
-#Occupation fine arts instructor
-##Number skills 25
-###Similar occupations:
+# Occupation fine arts instructor
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match fine arts instructor |   percentage match with fine arts instructor |   skills not in fine arts instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [art teacher secondary school](art_teacher_secondary_school.md)                                                       |                          27 |                                       19 |                                         0.76 |                                    8 |

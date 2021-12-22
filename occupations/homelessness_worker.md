@@ -1,6 +1,6 @@
-#Occupation homelessness worker
-##Number skills 68
-###Similar occupations:
+# Occupation homelessness worker
+## Number skills 68
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match homelessness worker |   percentage match with homelessness worker |   skills not in homelessness worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [palliative care social worker](palliative_care_social_worker.md)                         |                          74 |                                      66 |                                    0.970588 |                                   8 |

@@ -1,6 +1,6 @@
-#Occupation sales manager
-##Number skills 40
-###Similar occupations:
+# Occupation sales manager
+## Number skills 40
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match sales manager |   percentage match with sales manager |   skills not in sales manager |
 |:------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [online community manager](online_community_manager.md)                 |                          47 |                                27 |                                 0.675 |                            20 |

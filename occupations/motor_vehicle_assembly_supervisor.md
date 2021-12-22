@@ -1,6 +1,6 @@
-#Occupation motor vehicle assembly supervisor
-##Number skills 18
-###Similar occupations:
+# Occupation motor vehicle assembly supervisor
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match motor vehicle assembly supervisor |   percentage match with motor vehicle assembly supervisor |   skills not in motor vehicle assembly supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [aircraft assembly supervisor](aircraft_assembly_supervisor.md)                                                 |                          19 |                                                    17 |                                                  0.944444 |                                                 2 |

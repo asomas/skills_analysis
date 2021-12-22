@@ -1,6 +1,6 @@
-#Occupation fruit and vegetable picker
-##Number skills 7
-###Similar occupations:
+# Occupation fruit and vegetable picker
+## Number skills 7
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match fruit and vegetable picker |   percentage match with fruit and vegetable picker |   skills not in fruit and vegetable picker |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [crop production worker](crop_production_worker.md)                               |                          13 |                                              3 |                                           0.428571 |                                         10 |

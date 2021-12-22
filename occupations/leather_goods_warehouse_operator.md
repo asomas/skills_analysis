@@ -1,6 +1,6 @@
-#Occupation leather goods warehouse operator
-##Number skills 6
-###Similar occupations:
+# Occupation leather goods warehouse operator
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods warehouse operator |   percentage match with leather goods warehouse operator |   skills not in leather goods warehouse operator |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [leather goods production supervisor](leather_goods_production_supervisor.md)                                 |                          21 |                                                    5 |                                                 0.833333 |                                               16 |

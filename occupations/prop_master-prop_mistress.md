@@ -1,6 +1,6 @@
-#Occupation prop master/prop mistress
-##Number skills 26
-###Similar occupations:
+# Occupation prop master/prop mistress
+## Number skills 26
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match prop master/prop mistress |   percentage match with prop master/prop mistress |   skills not in prop master/prop mistress |
 |:------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [prop maker](prop_maker.md)                                       |                          24 |                                            16 |                                          0.615385 |                                         8 |

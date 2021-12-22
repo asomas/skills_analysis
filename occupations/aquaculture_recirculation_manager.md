@@ -1,6 +1,6 @@
-#Occupation aquaculture recirculation manager
-##Number skills 33
-###Similar occupations:
+# Occupation aquaculture recirculation manager
+## Number skills 33
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match aquaculture recirculation manager |   percentage match with aquaculture recirculation manager |   skills not in aquaculture recirculation manager |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [aquaculture recirculation technician](aquaculture_recirculation_technician.md) |                          34 |                                                    16 |                                                  0.484848 |                                                18 |

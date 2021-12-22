@@ -1,6 +1,6 @@
-#Occupation camping ground manager
-##Number skills 24
-###Similar occupations:
+# Occupation camping ground manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match camping ground manager |   percentage match with camping ground manager |   skills not in camping ground manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [rooms division manager](rooms_division_manager.md)                                               |                          20 |                                         10 |                                       0.416667 |                                     10 |

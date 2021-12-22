@@ -1,6 +1,6 @@
-#Occupation sewer construction worker
-##Number skills 22
-###Similar occupations:
+# Occupation sewer construction worker
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match sewer construction worker |   percentage match with sewer construction worker |   skills not in sewer construction worker |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [excavator operator](excavator_operator.md)                                                                                                                   |                          18 |                                            10 |                                          0.454545 |                                         8 |

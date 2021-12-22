@@ -1,6 +1,6 @@
-#Occupation dean of faculty
-##Number skills 20
-###Similar occupations:
+# Occupation dean of faculty
+## Number skills 20
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match dean of faculty |   percentage match with dean of faculty |   skills not in dean of faculty |
 |:------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [university department head](university_department_head.md)                         |                          22 |                                  11 |                                    0.55 |                              11 |

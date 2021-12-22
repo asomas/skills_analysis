@@ -1,6 +1,6 @@
-#Occupation construction quality inspector
-##Number skills 18
-###Similar occupations:
+# Occupation construction quality inspector
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match construction quality inspector |   percentage match with construction quality inspector |   skills not in construction quality inspector |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [tiling supervisor](tiling_supervisor.md)                                                                       |                          24 |                                                 10 |                                               0.555556 |                                             14 |

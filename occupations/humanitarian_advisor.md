@@ -1,6 +1,6 @@
-#Occupation humanitarian advisor
-##Number skills 9
-###Similar occupations:
+# Occupation humanitarian advisor
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match humanitarian advisor |   percentage match with humanitarian advisor |   skills not in humanitarian advisor |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [social work lecturer](social_work_lecturer.md)                                                                             |                          82 |                                        3 |                                     0.333333 |                                   79 |

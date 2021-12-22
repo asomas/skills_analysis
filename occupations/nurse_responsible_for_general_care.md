@@ -1,6 +1,6 @@
-#Occupation nurse responsible for general care
-##Number skills 90
-###Similar occupations:
+# Occupation nurse responsible for general care
+## Number skills 90
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match nurse responsible for general care |   percentage match with nurse responsible for general care |   skills not in nurse responsible for general care |
 |:------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [specialist nurse](specialist_nurse.md)                                       |                          62 |                                                     52 |                                                   0.577778 |                                                 10 |

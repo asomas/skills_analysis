@@ -1,6 +1,6 @@
-#Occupation animal feed supervisor
-##Number skills 29
-###Similar occupations:
+# Occupation animal feed supervisor
+## Number skills 29
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match animal feed supervisor |   percentage match with animal feed supervisor |   skills not in animal feed supervisor |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [cellar operator](cellar_operator.md)                                                   |                          24 |                                         10 |                                       0.344828 |                                     14 |

@@ -1,6 +1,6 @@
-#Occupation design and applied arts vocational teacher
-##Number skills 27
-###Similar occupations:
+# Occupation design and applied arts vocational teacher
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match design and applied arts vocational teacher |   percentage match with design and applied arts vocational teacher |   skills not in design and applied arts vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [agriculture, forestry and fishery vocational teacher](agriculture,_forestry_and_fishery_vocational_teacher.md)       |                          25 |                                                             23 |                                                           0.851852 |                                                          2 |

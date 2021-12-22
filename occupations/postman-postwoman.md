@@ -1,6 +1,6 @@
-#Occupation postman/postwoman
-##Number skills 16
-###Similar occupations:
+# Occupation postman/postwoman
+## Number skills 16
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match postman/postwoman |   percentage match with postman/postwoman |   skills not in postman/postwoman |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [motorcycle delivery person](motorcycle_delivery_person.md)                   |                          13 |                                    10 |                                    0.625  |                                 3 |

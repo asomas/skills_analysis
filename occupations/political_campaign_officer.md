@@ -1,6 +1,6 @@
-#Occupation political campaign officer
-##Number skills 8
-###Similar occupations:
+# Occupation political campaign officer
+## Number skills 8
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match political campaign officer |   percentage match with political campaign officer |   skills not in political campaign officer |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [election agent](election_agent.md)                                                     |                          10 |                                              4 |                                              0.5   |                                          6 |

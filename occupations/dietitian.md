@@ -1,6 +1,6 @@
-#Occupation dietitian
-##Number skills 79
-###Similar occupations:
+# Occupation dietitian
+## Number skills 79
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match dietitian |   percentage match with dietitian |   skills not in dietitian |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [orthoptist](orthoptist.md)                                                 |                          63 |                            38 |                          0.481013 |                        25 |

@@ -1,6 +1,6 @@
-#Occupation motor vehicle upholsterer
-##Number skills 13
-###Similar occupations:
+# Occupation motor vehicle upholsterer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match motor vehicle upholsterer |   percentage match with motor vehicle upholsterer |   skills not in motor vehicle upholsterer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [aircraft interior technician](aircraft_interior_technician.md)                                       |                          14 |                                            13 |                                          1        |                                         1 |

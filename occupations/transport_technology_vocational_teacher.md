@@ -1,6 +1,6 @@
-#Occupation transport technology vocational teacher
-##Number skills 25
-###Similar occupations:
+# Occupation transport technology vocational teacher
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match transport technology vocational teacher |   percentage match with transport technology vocational teacher |   skills not in transport technology vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [industrial arts vocational teacher](industrial_arts_vocational_teacher.md)                                           |                          26 |                                                          23 |                                                            0.92 |                                                       3 |

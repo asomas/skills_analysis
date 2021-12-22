@@ -1,6 +1,6 @@
-#Occupation industrial production manager
-##Number skills 19
-###Similar occupations:
+# Occupation industrial production manager
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match industrial production manager |   percentage match with industrial production manager |   skills not in industrial production manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [industrial assembly supervisor](industrial_assembly_supervisor.md)                                                                                         |                          35 |                                                10 |                                              0.526316 |                                            25 |

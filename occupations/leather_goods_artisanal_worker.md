@@ -1,6 +1,6 @@
-#Occupation leather goods artisanal worker
-##Number skills 16
-###Similar occupations:
+# Occupation leather goods artisanal worker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods artisanal worker |   percentage match with leather goods artisanal worker |   skills not in leather goods artisanal worker |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [leather laboratory technician](leather_laboratory_technician.md)                                             |                          22 |                                                  6 |                                                 0.375  |                                             16 |

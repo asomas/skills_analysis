@@ -1,6 +1,6 @@
-#Occupation jewellery engraver
-##Number skills 13
-###Similar occupations:
+# Occupation jewellery engraver
+## Number skills 13
+### Similar occupations:
 | occupation                          |   skills in this occupation |   skills that match jewellery engraver |   percentage match with jewellery engraver |   skills not in jewellery engraver |
 |:------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [printmaker](printmaker.md)         |                          22 |                                     12 |                                   0.923077 |                                 10 |

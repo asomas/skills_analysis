@@ -1,6 +1,6 @@
-#Occupation post office counter clerk
-##Number skills 11
-###Similar occupations:
+# Occupation post office counter clerk
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match post office counter clerk |   percentage match with post office counter clerk |   skills not in post office counter clerk |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [ticket issuing clerk](ticket_issuing_clerk.md)                                                                                                                   |                          42 |                                             5 |                                          0.454545 |                                        37 |

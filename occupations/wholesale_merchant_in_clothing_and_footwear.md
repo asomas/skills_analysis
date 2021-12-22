@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in clothing and footwear
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in clothing and footwear
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in clothing and footwear |   percentage match with wholesale merchant in clothing and footwear |   skills not in wholesale merchant in clothing and footwear |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [wholesale merchant in pharmaceutical goods](wholesale_merchant_in_pharmaceutical_goods.md)                                                                         |                          20 |                                                              19 |                                                                0.95 |                                                           1 |

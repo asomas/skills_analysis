@@ -1,6 +1,6 @@
-#Occupation geochemist
-##Number skills 14
-###Similar occupations:
+# Occupation geochemist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match geochemist |   percentage match with geochemist |   skills not in geochemist |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [hydrogeologist](hydrogeologist.md)                                                       |                          14 |                              7 |                           0.5      |                          7 |

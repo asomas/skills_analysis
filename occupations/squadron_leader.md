@@ -1,6 +1,6 @@
-#Occupation squadron leader
-##Number skills 10
-###Similar occupations:
+# Occupation squadron leader
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match squadron leader |   percentage match with squadron leader |   skills not in squadron leader |
 |:----------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [armed forces officer](armed_forces_officer.md)                                               |                          21 |                                   8 |                                     0.8 |                              13 |

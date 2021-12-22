@@ -1,6 +1,6 @@
-#Occupation set builder
-##Number skills 22
-###Similar occupations:
+# Occupation set builder
+## Number skills 22
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match set builder |   percentage match with set builder |   skills not in set builder |
 |:------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [scenic painter](scenic_painter.md)                               |                          22 |                              17 |                            0.772727 |                           5 |

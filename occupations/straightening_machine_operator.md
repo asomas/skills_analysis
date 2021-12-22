@@ -1,6 +1,6 @@
-#Occupation straightening machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation straightening machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match straightening machine operator |   percentage match with straightening machine operator |   skills not in straightening machine operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [metal planer operator](metal_planer_operator.md)                                                                                                             |                          18 |                                                 11 |                                               0.785714 |                                              7 |

@@ -1,6 +1,6 @@
-#Occupation leather goods hand cutting operator
-##Number skills 5
-###Similar occupations:
+# Occupation leather goods hand cutting operator
+## Number skills 5
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods hand cutting operator |   percentage match with leather goods hand cutting operator |   skills not in leather goods hand cutting operator |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [cutting machine operator](cutting_machine_operator.md)                                                       |                          15 |                                                       5 |                                                         1   |                                                  10 |

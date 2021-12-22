@@ -1,6 +1,6 @@
-#Occupation nonwoven staple machine operator
-##Number skills 4
-###Similar occupations:
+# Occupation nonwoven staple machine operator
+## Number skills 4
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match nonwoven staple machine operator |   percentage match with nonwoven staple machine operator |   skills not in nonwoven staple machine operator |
 |:------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [nonwoven filament machine operator](nonwoven_filament_machine_operator.md)   |                           5 |                                                    3 |                                                     0.75 |                                                2 |

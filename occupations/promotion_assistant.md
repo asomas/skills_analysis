@@ -1,6 +1,6 @@
-#Occupation promotion assistant
-##Number skills 8
-###Similar occupations:
+# Occupation promotion assistant
+## Number skills 8
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match promotion assistant |   percentage match with promotion assistant |   skills not in promotion assistant |
 |:--------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [marketing assistant](marketing_assistant.md)                             |                          20 |                                       4 |                                       0.5   |                                  16 |

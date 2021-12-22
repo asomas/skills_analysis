@@ -1,6 +1,6 @@
-#Occupation clothing and footwear distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation clothing and footwear distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match clothing and footwear distribution manager |   percentage match with clothing and footwear distribution manager |   skills not in clothing and footwear distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [textiles, textile semi-finished and raw materials distribution manager](textiles,_textile_semi-finished_and_raw_materials_distribution_manager.md)                     |                          26 |                                                             25 |                                                           0.961538 |                                                          1 |

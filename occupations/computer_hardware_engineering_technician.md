@@ -1,6 +1,6 @@
-#Occupation computer hardware engineering technician
-##Number skills 23
-###Similar occupations:
+# Occupation computer hardware engineering technician
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match computer hardware engineering technician |   percentage match with computer hardware engineering technician |   skills not in computer hardware engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [electronics engineering technician](electronics_engineering_technician.md)                                                                 |                          29 |                                                           14 |                                                         0.608696 |                                                       15 |

@@ -1,6 +1,6 @@
-#Occupation hydropower technician
-##Number skills 23
-###Similar occupations:
+# Occupation hydropower technician
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match hydropower technician |   percentage match with hydropower technician |   skills not in hydropower technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [energy systems engineer](energy_systems_engineer.md)                                                                                       |                          28 |                                        14 |                                      0.608696 |                                    14 |

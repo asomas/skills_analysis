@@ -1,6 +1,6 @@
-#Occupation assistant lecturer
-##Number skills 24
-###Similar occupations:
+# Occupation assistant lecturer
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match assistant lecturer |   percentage match with assistant lecturer |   skills not in assistant lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [nursing lecturer](nursing_lecturer.md)                                                                               |                          34 |                                     12 |                                   0.5      |                                 22 |

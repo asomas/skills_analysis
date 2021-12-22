@@ -1,6 +1,6 @@
-#Occupation audio and video equipment specialised seller
-##Number skills 33
-###Similar occupations:
+# Occupation audio and video equipment specialised seller
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match audio and video equipment specialised seller |   percentage match with audio and video equipment specialised seller |   skills not in audio and video equipment specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------:|
 | [computer and accessories specialised seller](computer_and_accessories_specialised_seller.md)                                                                     |                          31 |                                                               27 |                                                             0.818182 |                                                            4 |

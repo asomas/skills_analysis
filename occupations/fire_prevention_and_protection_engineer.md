@@ -1,6 +1,6 @@
-#Occupation fire prevention and protection engineer
-##Number skills 13
-###Similar occupations:
+# Occupation fire prevention and protection engineer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match fire prevention and protection engineer |   percentage match with fire prevention and protection engineer |   skills not in fire prevention and protection engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [waste treatment engineer](waste_treatment_engineer.md)                                                                                     |                          19 |                                                           7 |                                                        0.538462 |                                                      12 |

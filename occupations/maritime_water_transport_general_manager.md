@@ -1,6 +1,6 @@
-#Occupation maritime water transport general manager
-##Number skills 21
-###Similar occupations:
+# Occupation maritime water transport general manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match maritime water transport general manager |   percentage match with maritime water transport general manager |   skills not in maritime water transport general manager |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [inland water transport general manager](inland_water_transport_general_manager.md) |                          25 |                                                            7 |                                                         0.333333 |                                                       18 |

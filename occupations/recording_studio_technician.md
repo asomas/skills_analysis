@@ -1,6 +1,6 @@
-#Occupation recording studio technician
-##Number skills 21
-###Similar occupations:
+# Occupation recording studio technician
+## Number skills 21
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match recording studio technician |   percentage match with recording studio technician |   skills not in recording studio technician |
 |:------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [sound operator](sound_operator.md)                               |                          36 |                                               7 |                                            0.333333 |                                          29 |

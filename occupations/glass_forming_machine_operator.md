@@ -1,6 +1,6 @@
-#Occupation glass forming machine operator
-##Number skills 17
-###Similar occupations:
+# Occupation glass forming machine operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match glass forming machine operator |   percentage match with glass forming machine operator |   skills not in glass forming machine operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [laser marking machine operator](laser_marking_machine_operator.md)                                             |                          18 |                                                  7 |                                               0.411765 |                                             11 |

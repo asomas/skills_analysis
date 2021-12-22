@@ -1,6 +1,6 @@
-#Occupation digital media designer
-##Number skills 16
-###Similar occupations:
+# Occupation digital media designer
+## Number skills 16
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match digital media designer |   percentage match with digital media designer |   skills not in digital media designer |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [web content manager](web_content_manager.md)                           |                          29 |                                          8 |                                         0.5    |                                     21 |

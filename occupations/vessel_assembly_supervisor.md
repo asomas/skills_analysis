@@ -1,6 +1,6 @@
-#Occupation vessel assembly supervisor
-##Number skills 19
-###Similar occupations:
+# Occupation vessel assembly supervisor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match vessel assembly supervisor |   percentage match with vessel assembly supervisor |   skills not in vessel assembly supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [motor vehicle assembly supervisor](motor_vehicle_assembly_supervisor.md)                                       |                          18 |                                             17 |                                           0.894737 |                                          1 |

@@ -1,6 +1,6 @@
-#Occupation air force pilot
-##Number skills 33
-###Similar occupations:
+# Occupation air force pilot
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match air force pilot |   percentage match with air force pilot |   skills not in air force pilot |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [commercial pilot](commercial_pilot.md)                                                                       |                          41 |                                  27 |                                0.818182 |                              14 |

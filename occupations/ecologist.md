@@ -1,6 +1,6 @@
-#Occupation ecologist
-##Number skills 12
-###Similar occupations:
+# Occupation ecologist
+## Number skills 12
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match ecologist |   percentage match with ecologist |   skills not in ecologist |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [conservation scientist](conservation_scientist.md)                         |                          19 |                             6 |                          0.5      |                        13 |

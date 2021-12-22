@@ -1,6 +1,6 @@
-#Occupation starch extraction operator
-##Number skills 25
-###Similar occupations:
+# Occupation starch extraction operator
+## Number skills 25
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match starch extraction operator |   percentage match with starch extraction operator |   skills not in starch extraction operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [starch converting operator](starch_converting_operator.md)                             |                          25 |                                             17 |                                               0.68 |                                          8 |

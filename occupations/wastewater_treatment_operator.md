@@ -1,6 +1,6 @@
-#Occupation wastewater treatment operator
-##Number skills 13
-###Similar occupations:
+# Occupation wastewater treatment operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match wastewater treatment operator |   percentage match with wastewater treatment operator |   skills not in wastewater treatment operator |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [groundwater monitoring technician](groundwater_monitoring_technician.md)         |                          17 |                                                 5 |                                              0.384615 |                                            12 |

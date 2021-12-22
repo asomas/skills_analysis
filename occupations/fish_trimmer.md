@@ -1,6 +1,6 @@
-#Occupation fish trimmer
-##Number skills 16
-###Similar occupations:
+# Occupation fish trimmer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match fish trimmer |   percentage match with fish trimmer |   skills not in fish trimmer |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [fish production operator](fish_production_operator.md)                                 |                          23 |                               14 |                               0.875  |                            9 |

@@ -1,6 +1,6 @@
-#Occupation mobile application developer
-##Number skills 17
-###Similar occupations:
+# Occupation mobile application developer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                      |   skills in this occupation |   skills that match mobile application developer |   percentage match with mobile application developer |   skills not in mobile application developer |
 |:------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [ICT system developer](ICT_system_developer.md)                                                 |                          19 |                                               14 |                                             0.823529 |                                            5 |

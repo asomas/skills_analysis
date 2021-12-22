@@ -1,6 +1,6 @@
-#Occupation natural resources consultant
-##Number skills 12
-###Similar occupations:
+# Occupation natural resources consultant
+## Number skills 12
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match natural resources consultant |   percentage match with natural resources consultant |   skills not in natural resources consultant |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [environmental programme coordinator](environmental_programme_coordinator.md)       |                          13 |                                                4 |                                             0.333333 |                                            9 |

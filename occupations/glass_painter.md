@@ -1,6 +1,6 @@
-#Occupation glass painter
-##Number skills 15
-###Similar occupations:
+# Occupation glass painter
+## Number skills 15
+### Similar occupations:
 | occupation                                    |   skills in this occupation |   skills that match glass painter |   percentage match with glass painter |   skills not in glass painter |
 |:----------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [porcelain painter](porcelain_painter.md)     |                          15 |                                15 |                              1        |                             0 |

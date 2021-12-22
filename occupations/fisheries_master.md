@@ -1,6 +1,6 @@
-#Occupation fisheries master
-##Number skills 43
-###Similar occupations:
+# Occupation fisheries master
+## Number skills 43
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match fisheries master |   percentage match with fisheries master |   skills not in fisheries master |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [fisheries boatmaster](fisheries_boatmaster.md)                         |                          45 |                                   39 |                                 0.906977 |                                6 |

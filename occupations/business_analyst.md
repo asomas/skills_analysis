@@ -1,6 +1,6 @@
-#Occupation business analyst
-##Number skills 18
-###Similar occupations:
+# Occupation business analyst
+## Number skills 18
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match business analyst |   percentage match with business analyst |   skills not in business analyst |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [business consultant](business_consultant.md)                           |                          24 |                                   15 |                                 0.833333 |                                9 |

@@ -1,6 +1,6 @@
-#Occupation software manager
-##Number skills 20
-###Similar occupations:
+# Occupation software manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match software manager |   percentage match with software manager |   skills not in software manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [ICT research manager](ICT_research_manager.md)                                           |                          18 |                                    5 |                                     0.25 |                               13 |

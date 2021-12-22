@@ -1,6 +1,6 @@
-#Occupation real estate agent
-##Number skills 20
-###Similar occupations:
+# Occupation real estate agent
+## Number skills 20
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match real estate agent |   percentage match with real estate agent |   skills not in real estate agent |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [letting agent](letting_agent.md)                                       |                          17 |                                     9 |                                      0.45 |                                 8 |

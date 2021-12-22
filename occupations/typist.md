@@ -1,6 +1,6 @@
-#Occupation typist
-##Number skills 12
-###Similar occupations:
+# Occupation typist
+## Number skills 12
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match typist |   percentage match with typist |   skills not in typist |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [scopist](scopist.md)                                                             |                          13 |                          6 |                       0.5      |                      7 |

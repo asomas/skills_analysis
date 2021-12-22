@@ -1,6 +1,6 @@
-#Occupation chocolatier
-##Number skills 28
-###Similar occupations:
+# Occupation chocolatier
+## Number skills 28
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match chocolatier |   percentage match with chocolatier |   skills not in chocolatier |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [confectioner](confectioner.md)                                                         |                          33 |                              12 |                            0.428571 |                          21 |

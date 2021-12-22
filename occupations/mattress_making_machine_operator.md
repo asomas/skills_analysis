@@ -1,6 +1,6 @@
-#Occupation mattress making machine operator
-##Number skills 10
-###Similar occupations:
+# Occupation mattress making machine operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match mattress making machine operator |   percentage match with mattress making machine operator |   skills not in mattress making machine operator |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [mattress maker](mattress_maker.md)                               |                           9 |                                                    8 |                                                      0.8 |                                                1 |

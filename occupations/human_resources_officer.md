@@ -1,6 +1,6 @@
-#Occupation human resources officer
-##Number skills 18
-###Similar occupations:
+# Occupation human resources officer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match human resources officer |   percentage match with human resources officer |   skills not in human resources officer |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [recruitment consultant](recruitment_consultant.md)                                                     |                          20 |                                          12 |                                        0.666667 |                                       8 |

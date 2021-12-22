@@ -1,6 +1,6 @@
-#Occupation army captain
-##Number skills 12
-###Similar occupations:
+# Occupation army captain
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match army captain |   percentage match with army captain |   skills not in army captain |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [sergeant](sergeant.md)                                                                       |                          13 |                                8 |                             0.666667 |                            5 |

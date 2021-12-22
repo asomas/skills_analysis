@@ -1,6 +1,6 @@
-#Occupation fertiliser mixer
-##Number skills 5
-###Similar occupations:
+# Occupation fertiliser mixer
+## Number skills 5
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match fertiliser mixer |   percentage match with fertiliser mixer |   skills not in fertiliser mixer |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [pesticide mixer](pesticide_mixer.md)                                             |                           6 |                                    2 |                                      0.4 |                                4 |

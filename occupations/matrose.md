@@ -1,6 +1,6 @@
-#Occupation matrose
-##Number skills 60
-###Similar occupations:
+# Occupation matrose
+## Number skills 60
+### Similar occupations:
 | occupation                                      |   skills in this occupation |   skills that match matrose |   percentage match with matrose |   skills not in matrose |
 |:------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [decksman](decksman.md)                         |                          41 |                          40 |                        0.666667 |                       1 |

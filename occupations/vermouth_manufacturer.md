@@ -1,6 +1,6 @@
-#Occupation vermouth manufacturer
-##Number skills 16
-###Similar occupations:
+# Occupation vermouth manufacturer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match vermouth manufacturer |   percentage match with vermouth manufacturer |   skills not in vermouth manufacturer |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [oenologist](oenologist.md)                                                             |                          34 |                                         9 |                                        0.5625 |                                    25 |

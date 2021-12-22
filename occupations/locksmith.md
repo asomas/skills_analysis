@@ -1,6 +1,6 @@
-#Occupation locksmith
-##Number skills 13
-###Similar occupations:
+# Occupation locksmith
+## Number skills 13
+### Similar occupations:
 | occupation                                                    |   skills in this occupation |   skills that match locksmith |   percentage match with locksmith |   skills not in locksmith |
 |:--------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [handyman](handyman.md)                                       |                          18 |                             3 |                          0.230769 |                        15 |

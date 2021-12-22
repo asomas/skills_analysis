@@ -1,6 +1,6 @@
-#Occupation ICT technician
-##Number skills 18
-###Similar occupations:
+# Occupation ICT technician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match ICT technician |   percentage match with ICT technician |   skills not in ICT technician |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [mobile devices technician](mobile_devices_technician.md)                                                                 |                          16 |                                  5 |                               0.277778 |                             11 |

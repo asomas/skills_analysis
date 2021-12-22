@@ -1,6 +1,6 @@
-#Occupation optical technician
-##Number skills 26
-###Similar occupations:
+# Occupation optical technician
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match optical technician |   percentage match with optical technician |   skills not in optical technician |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [optician](optician.md)                                                                                                                                           |                          47 |                                      8 |                                   0.307692 |                                 39 |

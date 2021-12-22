@@ -1,6 +1,6 @@
-#Occupation table saw operator
-##Number skills 22
-###Similar occupations:
+# Occupation table saw operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match table saw operator |   percentage match with table saw operator |   skills not in table saw operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [band saw operator](band_saw_operator.md)                                                             |                          22 |                                     19 |                                   0.863636 |                                  3 |

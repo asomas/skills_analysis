@@ -1,6 +1,6 @@
-#Occupation clothing cutter
-##Number skills 12
-###Similar occupations:
+# Occupation clothing cutter
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match clothing cutter |   percentage match with clothing cutter |   skills not in clothing cutter |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [clothing sample machinist](clothing_sample_machinist.md)                                 |                          24 |                                  10 |                                0.833333 |                              14 |

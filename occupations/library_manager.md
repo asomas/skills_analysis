@@ -1,6 +1,6 @@
-#Occupation library manager
-##Number skills 17
-###Similar occupations:
+# Occupation library manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match library manager |   percentage match with library manager |   skills not in library manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [archive manager](archive_manager.md)                                                             |                          19 |                                   5 |                                0.294118 |                              14 |

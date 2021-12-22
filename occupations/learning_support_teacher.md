@@ -1,6 +1,6 @@
-#Occupation learning support teacher
-##Number skills 23
-###Similar occupations:
+# Occupation learning support teacher
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match learning support teacher |   percentage match with learning support teacher |   skills not in learning support teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [adult literacy teacher](adult_literacy_teacher.md)                                                                   |                          27 |                                           18 |                                         0.782609 |                                        9 |

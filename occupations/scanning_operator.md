@@ -1,6 +1,6 @@
-#Occupation scanning operator
-##Number skills 14
-###Similar occupations:
+# Occupation scanning operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                    |   skills in this occupation |   skills that match scanning operator |   percentage match with scanning operator |   skills not in scanning operator |
 |:--------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [reprographics technician](reprographics_technician.md)       |                          16 |                                     5 |                                  0.357143 |                                11 |

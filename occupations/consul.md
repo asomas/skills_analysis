@@ -1,6 +1,6 @@
-#Occupation consul
-##Number skills 14
-###Similar occupations:
+# Occupation consul
+## Number skills 14
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match consul |   percentage match with consul |   skills not in consul |
 |:------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [diplomat](diplomat.md)                                                       |                          18 |                          7 |                       0.5      |                     11 |

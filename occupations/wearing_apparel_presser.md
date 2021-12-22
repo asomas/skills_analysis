@@ -1,6 +1,6 @@
-#Occupation wearing apparel presser
-##Number skills 10
-###Similar occupations:
+# Occupation wearing apparel presser
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match wearing apparel presser |   percentage match with wearing apparel presser |   skills not in wearing apparel presser |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [clothing alteration machinist](clothing_alteration_machinist.md)                         |                          26 |                                           9 |                                             0.9 |                                      17 |

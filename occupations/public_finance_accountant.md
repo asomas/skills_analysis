@@ -1,6 +1,6 @@
-#Occupation public finance accountant
-##Number skills 12
-###Similar occupations:
+# Occupation public finance accountant
+## Number skills 12
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match public finance accountant |   percentage match with public finance accountant |   skills not in public finance accountant |
 |:--------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [fiscal affairs policy officer](fiscal_affairs_policy_officer.md)   |                          15 |                                             4 |                                          0.333333 |                                        11 |

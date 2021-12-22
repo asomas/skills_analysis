@@ -1,6 +1,6 @@
-#Occupation import export specialist in clothing and footwear
-##Number skills 24
-###Similar occupations:
+# Occupation import export specialist in clothing and footwear
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in clothing and footwear |   percentage match with import export specialist in clothing and footwear |   skills not in import export specialist in clothing and footwear |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------:|--------------------------------------------------------------------------:|------------------------------------------------------------------:|
 | [import export specialist in perfume and cosmetics](import_export_specialist_in_perfume_and_cosmetics.md)                                                               |                          24 |                                                                    21 |                                                                  0.875    |                                                                 3 |

@@ -1,6 +1,6 @@
-#Occupation healthcare assistant
-##Number skills 33
-###Similar occupations:
+# Occupation healthcare assistant
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match healthcare assistant |   percentage match with healthcare assistant |   skills not in healthcare assistant |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [advanced nurse practitioner](advanced_nurse_practitioner.md)                             |                          70 |                                       24 |                                     0.727273 |                                   46 |

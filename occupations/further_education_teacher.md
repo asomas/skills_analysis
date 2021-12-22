@@ -1,6 +1,6 @@
-#Occupation further education teacher
-##Number skills 24
-###Similar occupations:
+# Occupation further education teacher
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match further education teacher |   percentage match with further education teacher |   skills not in further education teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [adult literacy teacher](adult_literacy_teacher.md)                                                                   |                          27 |                                            21 |                                          0.875    |                                         6 |

@@ -1,6 +1,6 @@
-#Occupation concrete finisher
-##Number skills 18
-###Similar occupations:
+# Occupation concrete finisher
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match concrete finisher |   percentage match with concrete finisher |   skills not in concrete finisher |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [concrete finisher supervisor](concrete_finisher_supervisor.md)                                                                                               |                          25 |                                     8 |                                  0.444444 |                                17 |

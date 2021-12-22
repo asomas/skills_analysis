@@ -1,6 +1,6 @@
-#Occupation moulding machine technician
-##Number skills 16
-###Similar occupations:
+# Occupation moulding machine technician
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match moulding machine technician |   percentage match with moulding machine technician |   skills not in moulding machine technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [forge equipment technician](forge_equipment_technician.md)                                                                                                           |                          14 |                                              12 |                                              0.75   |                                           2 |

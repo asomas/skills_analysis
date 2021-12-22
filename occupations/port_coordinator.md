@@ -1,6 +1,6 @@
-#Occupation port coordinator
-##Number skills 30
-###Similar occupations:
+# Occupation port coordinator
+## Number skills 30
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match port coordinator |   percentage match with port coordinator |   skills not in port coordinator |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [water traffic coordinator](water_traffic_coordinator.md)                         |                          25 |                                   13 |                                 0.433333 |                               12 |

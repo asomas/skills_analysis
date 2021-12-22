@@ -1,6 +1,6 @@
-#Occupation production engineer
-##Number skills 15
-###Similar occupations:
+# Occupation production engineer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match production engineer |   percentage match with production engineer |   skills not in production engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [automotive engineer](automotive_engineer.md)                                                                                               |                          16 |                                      13 |                                    0.866667 |                                   3 |

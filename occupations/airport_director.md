@@ -1,6 +1,6 @@
-#Occupation airport director
-##Number skills 23
-###Similar occupations:
+# Occupation airport director
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match airport director |   percentage match with airport director |   skills not in airport director |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [airport chief executive](airport_chief_executive.md)                                                                                                         |                          27 |                                   10 |                                 0.434783 |                               17 |

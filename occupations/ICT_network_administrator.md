@@ -1,6 +1,6 @@
-#Occupation ICT network administrator
-##Number skills 27
-###Similar occupations:
+# Occupation ICT network administrator
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                      |   skills in this occupation |   skills that match ICT network administrator |   percentage match with ICT network administrator |   skills not in ICT network administrator |
 |:------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [ICT network architect](ICT_network_architect.md)                                               |                          21 |                                            10 |                                          0.37037  |                                        11 |

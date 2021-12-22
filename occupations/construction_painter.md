@@ -1,6 +1,6 @@
-#Occupation construction painter
-##Number skills 21
-###Similar occupations:
+# Occupation construction painter
+## Number skills 21
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match construction painter |   percentage match with construction painter |   skills not in construction painter |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [bricklayer](bricklayer.md)                                                             |                          18 |                                       10 |                                     0.47619  |                                    8 |

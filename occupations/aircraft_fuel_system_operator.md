@@ -1,6 +1,6 @@
-#Occupation aircraft fuel system operator
-##Number skills 10
-###Similar occupations:
+# Occupation aircraft fuel system operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match aircraft fuel system operator |   percentage match with aircraft fuel system operator |   skills not in aircraft fuel system operator |
 |:--------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [gas processing plant operator](gas_processing_plant_operator.md)   |                          15 |                                                 3 |                                                   0.3 |                                            12 |

@@ -1,6 +1,6 @@
-#Occupation telephone switchboard operator
-##Number skills 7
-###Similar occupations:
+# Occupation telephone switchboard operator
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match telephone switchboard operator |   percentage match with telephone switchboard operator |   skills not in telephone switchboard operator |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [property assistant](property_assistant.md)                                                             |                          19 |                                                  2 |                                               0.285714 |                                             17 |

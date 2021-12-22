@@ -1,6 +1,6 @@
-#Occupation heating, ventilation, air conditioning (and refrigeration) service engineer
-##Number skills 31
-###Similar occupations:
+# Occupation heating, ventilation, air conditioning (and refrigeration) service engineer
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match heating, ventilation, air conditioning (and refrigeration) service engineer |   percentage match with heating, ventilation, air conditioning (and refrigeration) service engineer |   skills not in heating, ventilation, air conditioning (and refrigeration) service engineer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------:|
 | [heating engineer](heating_engineer.md)                                                                                                                               |                          17 |                                                                                              13 |                                                                                            0.419355 |                                                                                           4 |

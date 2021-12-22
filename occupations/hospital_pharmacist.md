@@ -1,6 +1,6 @@
-#Occupation hospital pharmacist
-##Number skills 28
-###Similar occupations:
+# Occupation hospital pharmacist
+## Number skills 28
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match hospital pharmacist |   percentage match with hospital pharmacist |   skills not in hospital pharmacist |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [pharmacist](pharmacist.md)                                                 |                          75 |                                      27 |                                    0.964286 |                                  48 |

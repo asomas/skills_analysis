@@ -1,6 +1,6 @@
-#Occupation promotion manager
-##Number skills 36
-###Similar occupations:
+# Occupation promotion manager
+## Number skills 36
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match promotion manager |   percentage match with promotion manager |   skills not in promotion manager |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [category manager](category_manager.md)                                 |                          47 |                                    27 |                                  0.75     |                                20 |

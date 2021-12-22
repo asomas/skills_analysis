@@ -1,6 +1,6 @@
-#Occupation candle maker
-##Number skills 16
-###Similar occupations:
+# Occupation candle maker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match candle maker |   percentage match with candle maker |   skills not in candle maker |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [doll maker](doll_maker.md)                                                 |                          13 |                                3 |                               0.1875 |                           10 |

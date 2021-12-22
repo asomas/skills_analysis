@@ -1,6 +1,6 @@
-#Occupation street sweeper
-##Number skills 13
-###Similar occupations:
+# Occupation street sweeper
+## Number skills 13
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match street sweeper |   percentage match with street sweeper |   skills not in street sweeper |
 |:----------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [window cleaner](window_cleaner.md)                       |                          17 |                                  2 |                               0.153846 |                             15 |

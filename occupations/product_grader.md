@@ -1,6 +1,6 @@
-#Occupation product grader
-##Number skills 16
-###Similar occupations:
+# Occupation product grader
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match product grader |   percentage match with product grader |   skills not in product grader |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [pulp grader](pulp_grader.md)                                                                 |                          29 |                                 15 |                                 0.9375 |                             14 |

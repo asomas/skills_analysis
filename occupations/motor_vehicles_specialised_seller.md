@@ -1,6 +1,6 @@
-#Occupation motor vehicles specialised seller
-##Number skills 41
-###Similar occupations:
+# Occupation motor vehicles specialised seller
+## Number skills 41
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match motor vehicles specialised seller |   percentage match with motor vehicles specialised seller |   skills not in motor vehicles specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [telecommunications equipment specialised seller](telecommunications_equipment_specialised_seller.md)                                                             |                          31 |                                                    27 |                                                  0.658537 |                                                 4 |

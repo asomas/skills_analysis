@@ -1,6 +1,6 @@
-#Occupation leather goods finishing operator
-##Number skills 6
-###Similar occupations:
+# Occupation leather goods finishing operator
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods finishing operator |   percentage match with leather goods finishing operator |   skills not in leather goods finishing operator |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [leather goods stitching machine operator](leather_goods_stitching_machine_operator.md)                       |                           9 |                                                    5 |                                                 0.833333 |                                                4 |

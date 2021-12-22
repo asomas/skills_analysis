@@ -1,6 +1,6 @@
-#Occupation office clerk
-##Number skills 24
-###Similar occupations:
+# Occupation office clerk
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match office clerk |   percentage match with office clerk |   skills not in office clerk |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [secretary](secretary.md)                                                                                                                                         |                          18 |                               11 |                             0.458333 |                            7 |

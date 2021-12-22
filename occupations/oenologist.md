@@ -1,6 +1,6 @@
-#Occupation oenologist
-##Number skills 34
-###Similar occupations:
+# Occupation oenologist
+## Number skills 34
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match oenologist |   percentage match with oenologist |   skills not in oenologist |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [cider master](cider_master.md)                                                         |                          36 |                             14 |                           0.411765 |                         22 |

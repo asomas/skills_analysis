@@ -1,6 +1,6 @@
-#Occupation prepared meat operator
-##Number skills 41
-###Similar occupations:
+# Occupation prepared meat operator
+## Number skills 41
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match prepared meat operator |   percentage match with prepared meat operator |   skills not in prepared meat operator |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [meat preparations operator](meat_preparations_operator.md)                         |                          36 |                                         30 |                                       0.731707 |                                      6 |

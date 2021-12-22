@@ -1,6 +1,6 @@
-#Occupation property developer
-##Number skills 20
-###Similar occupations:
+# Occupation property developer
+## Number skills 20
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match property developer |   percentage match with property developer |   skills not in property developer |
 |:----------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [real estate manager](real_estate_manager.md)                         |                          32 |                                     10 |                                       0.5  |                                 22 |

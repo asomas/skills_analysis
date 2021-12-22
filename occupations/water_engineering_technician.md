@@ -1,6 +1,6 @@
-#Occupation water engineering technician
-##Number skills 10
-###Similar occupations:
+# Occupation water engineering technician
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match water engineering technician |   percentage match with water engineering technician |   skills not in water engineering technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [water engineer](water_engineer.md)                                                                                                                                   |                          24 |                                                4 |                                                  0.4 |                                           20 |

@@ -1,6 +1,6 @@
-#Occupation green coffee buyer
-##Number skills 20
-###Similar occupations:
+# Occupation green coffee buyer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match green coffee buyer |   percentage match with green coffee buyer |   skills not in green coffee buyer |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [master coffee roaster](master_coffee_roaster.md)                                       |                          22 |                                     10 |                                       0.5  |                                 12 |

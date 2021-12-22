@@ -1,6 +1,6 @@
-#Occupation import export specialist in beverages
-##Number skills 25
-###Similar occupations:
+# Occupation import export specialist in beverages
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in beverages |   percentage match with import export specialist in beverages |   skills not in import export specialist in beverages |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [import export specialist in coffee, tea, cocoa and spices](import_export_specialist_in_coffee,_tea,_cocoa_and_spices.md)                                               |                          26 |                                                        22 |                                                          0.88 |                                                     4 |

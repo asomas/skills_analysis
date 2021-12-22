@@ -1,6 +1,6 @@
-#Occupation business service manager
-##Number skills 19
-###Similar occupations:
+# Occupation business service manager
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match business service manager |   percentage match with business service manager |   skills not in business service manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [branch manager](branch_manager.md)                                                               |                          48 |                                            4 |                                         0.210526 |                                       44 |

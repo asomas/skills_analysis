@@ -1,6 +1,6 @@
-#Occupation ICT security administrator
-##Number skills 19
-###Similar occupations:
+# Occupation ICT security administrator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match ICT security administrator |   percentage match with ICT security administrator |   skills not in ICT security administrator |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [database administrator](database_administrator.md)                                                                       |                          25 |                                              6 |                                           0.315789 |                                         19 |

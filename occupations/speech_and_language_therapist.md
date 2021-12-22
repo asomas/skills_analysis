@@ -1,6 +1,6 @@
-#Occupation speech and language therapist
-##Number skills 73
-###Similar occupations:
+# Occupation speech and language therapist
+## Number skills 73
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match speech and language therapist |   percentage match with speech and language therapist |   skills not in speech and language therapist |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [occupational therapist](occupational_therapist.md)                                 |                          73 |                                                45 |                                              0.616438 |                                            28 |

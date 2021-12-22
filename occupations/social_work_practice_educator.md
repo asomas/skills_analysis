@@ -1,6 +1,6 @@
-#Occupation social work practice educator
-##Number skills 71
-###Similar occupations:
+# Occupation social work practice educator
+## Number skills 71
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match social work practice educator |   percentage match with social work practice educator |   skills not in social work practice educator |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [social work supervisor](social_work_supervisor.md)                                       |                          66 |                                                66 |                                              0.929577 |                                             0 |

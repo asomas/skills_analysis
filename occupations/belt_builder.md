@@ -1,6 +1,6 @@
-#Occupation belt builder
-##Number skills 10
-###Similar occupations:
+# Occupation belt builder
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match belt builder |   percentage match with belt builder |   skills not in belt builder |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [V-belt builder](V-belt_builder.md)                                                       |                          10 |                                4 |                                  0.4 |                            6 |

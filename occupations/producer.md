@@ -1,6 +1,6 @@
-#Occupation producer
-##Number skills 10
-###Similar occupations:
+# Occupation producer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match producer |   percentage match with producer |   skills not in producer |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [video and motion picture producer](video_and_motion_picture_producer.md)                         |                          18 |                            5 |                              0.5 |                       13 |

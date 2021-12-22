@@ -1,6 +1,6 @@
-#Occupation middle office analyst
-##Number skills 17
-###Similar occupations:
+# Occupation middle office analyst
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match middle office analyst |   percentage match with middle office analyst |   skills not in middle office analyst |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [back office specialist](back_office_specialist.md)                                                                         |                          16 |                                        11 |                                      0.647059 |                                     5 |

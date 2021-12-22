@@ -1,6 +1,6 @@
-#Occupation leaflet distributor
-##Number skills 5
-###Similar occupations:
+# Occupation leaflet distributor
+## Number skills 5
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match leaflet distributor |   percentage match with leaflet distributor |   skills not in leaflet distributor |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [landscape gardener](landscape_gardener.md)                                             |                          33 |                                       1 |                                         0.2 |                                  32 |

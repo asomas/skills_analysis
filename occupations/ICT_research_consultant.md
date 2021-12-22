@@ -1,6 +1,6 @@
-#Occupation ICT research consultant
-##Number skills 21
-###Similar occupations:
+# Occupation ICT research consultant
+## Number skills 21
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match ICT research consultant |   percentage match with ICT research consultant |   skills not in ICT research consultant |
 |:------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [computer scientist](computer_scientist.md)                       |                          12 |                                          10 |                                        0.47619  |                                       2 |

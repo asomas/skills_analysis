@@ -1,6 +1,6 @@
-#Occupation aquaculture biologist
-##Number skills 37
-###Similar occupations:
+# Occupation aquaculture biologist
+## Number skills 37
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match aquaculture biologist |   percentage match with aquaculture biologist |   skills not in aquaculture biologist |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [aquatic animal health professional](aquatic_animal_health_professional.md)     |                          55 |                                        36 |                                      0.972973 |                                    19 |

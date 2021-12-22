@@ -1,6 +1,6 @@
-#Occupation import export specialist
-##Number skills 26
-###Similar occupations:
+# Occupation import export specialist
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist |   percentage match with import export specialist |   skills not in import export specialist |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [import export specialist in hides, skins and leather products](import_export_specialist_in_hides,_skins_and_leather_products.md)                                       |                          22 |                                           20 |                                         0.769231 |                                        2 |

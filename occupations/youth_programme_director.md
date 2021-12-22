@@ -1,6 +1,6 @@
-#Occupation youth programme director
-##Number skills 13
-###Similar occupations:
+# Occupation youth programme director
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match youth programme director |   percentage match with youth programme director |   skills not in youth programme director |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [youth centre manager](youth_centre_manager.md)                                           |                          71 |                                            5 |                                         0.384615 |                                       66 |

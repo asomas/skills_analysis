@@ -1,6 +1,6 @@
-#Occupation bindery operator
-##Number skills 15
-###Similar occupations:
+# Occupation bindery operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match bindery operator |   percentage match with bindery operator |   skills not in bindery operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [pulp control operator](pulp_control_operator.md)                                                     |                          14 |                                    7 |                                 0.466667 |                                7 |

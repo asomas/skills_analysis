@@ -1,6 +1,6 @@
-#Occupation insurance broker
-##Number skills 18
-###Similar occupations:
+# Occupation insurance broker
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match insurance broker |   percentage match with insurance broker |   skills not in insurance broker |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [insurance agency manager](insurance_agency_manager.md)                                                                                                           |                          37 |                                    9 |                                 0.5      |                               28 |

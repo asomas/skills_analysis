@@ -1,6 +1,6 @@
-#Occupation travel agency manager
-##Number skills 30
-###Similar occupations:
+# Occupation travel agency manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match travel agency manager |   percentage match with travel agency manager |   skills not in travel agency manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [destination manager](destination_manager.md)                                                     |                          27 |                                        12 |                                      0.4      |                                    15 |

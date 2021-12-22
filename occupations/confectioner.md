@@ -1,6 +1,6 @@
-#Occupation confectioner
-##Number skills 33
-###Similar occupations:
+# Occupation confectioner
+## Number skills 33
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match confectioner |   percentage match with confectioner |   skills not in confectioner |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [baker](baker.md)                                                                       |                          35 |                               15 |                             0.454545 |                           20 |

@@ -1,6 +1,6 @@
-#Occupation filing machine operator
-##Number skills 16
-###Similar occupations:
+# Occupation filing machine operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match filing machine operator |   percentage match with filing machine operator |   skills not in filing machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [laser cutting machine operator](laser_cutting_machine_operator.md)                                   |                          26 |                                          12 |                                          0.75   |                                      14 |

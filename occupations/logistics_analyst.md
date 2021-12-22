@@ -1,6 +1,6 @@
-#Occupation logistics analyst
-##Number skills 21
-###Similar occupations:
+# Occupation logistics analyst
+## Number skills 21
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match logistics analyst |   percentage match with logistics analyst |   skills not in logistics analyst |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [logistics and distribution manager](logistics_and_distribution_manager.md) |                          32 |                                     6 |                                  0.285714 |                                26 |

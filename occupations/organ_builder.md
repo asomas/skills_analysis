@@ -1,6 +1,6 @@
-#Occupation organ builder
-##Number skills 20
-###Similar occupations:
+# Occupation organ builder
+## Number skills 20
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match organ builder |   percentage match with organ builder |   skills not in organ builder |
 |:--------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [harpsichord maker](harpsichord_maker.md)                                             |                          18 |                                15 |                                  0.75 |                             3 |

@@ -1,6 +1,6 @@
-#Occupation ICT security consultant
-##Number skills 24
-###Similar occupations:
+# Occupation ICT security consultant
+## Number skills 24
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match ICT security consultant |   percentage match with ICT security consultant |   skills not in ICT security consultant |
 |:--------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [ICT resilience manager](ICT_resilience_manager.md)                       |                          19 |                                           7 |                                        0.291667 |                                      12 |

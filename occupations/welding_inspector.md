@@ -1,6 +1,6 @@
-#Occupation welding inspector
-##Number skills 31
-###Similar occupations:
+# Occupation welding inspector
+## Number skills 31
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match welding inspector |   percentage match with welding inspector |   skills not in welding inspector |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [metal product quality control inspector](metal_product_quality_control_inspector.md) |                          28 |                                    13 |                                  0.419355 |                                15 |

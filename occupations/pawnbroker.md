@@ -1,6 +1,6 @@
-#Occupation pawnbroker
-##Number skills 16
-###Similar occupations:
+# Occupation pawnbroker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match pawnbroker |   percentage match with pawnbroker |   skills not in pawnbroker |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [insurance collector](insurance_collector.md)                                                                                                                     |                          14 |                              7 |                             0.4375 |                          7 |

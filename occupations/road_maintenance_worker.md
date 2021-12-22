@@ -1,6 +1,6 @@
-#Occupation road maintenance worker
-##Number skills 15
-###Similar occupations:
+# Occupation road maintenance worker
+## Number skills 15
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match road maintenance worker |   percentage match with road maintenance worker |   skills not in road maintenance worker |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [civil engineering worker](civil_engineering_worker.md)                                 |                          27 |                                          10 |                                        0.666667 |                                      17 |

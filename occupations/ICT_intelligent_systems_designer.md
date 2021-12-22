@@ -1,6 +1,6 @@
-#Occupation ICT intelligent systems designer
-##Number skills 22
-###Similar occupations:
+# Occupation ICT intelligent systems designer
+## Number skills 22
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match ICT intelligent systems designer |   percentage match with ICT intelligent systems designer |   skills not in ICT intelligent systems designer |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [knowledge engineer](knowledge_engineer.md)                       |                          21 |                                                   17 |                                                 0.772727 |                                                4 |

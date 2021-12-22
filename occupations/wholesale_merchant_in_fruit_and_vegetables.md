@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in fruit and vegetables
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in fruit and vegetables
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in fruit and vegetables |   percentage match with wholesale merchant in fruit and vegetables |   skills not in wholesale merchant in fruit and vegetables |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [wholesale merchant in beverages](wholesale_merchant_in_beverages.md)                                                                                               |                          20 |                                                             19 |                                                               0.95 |                                                          1 |

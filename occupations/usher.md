@@ -1,6 +1,6 @@
-#Occupation usher
-##Number skills 9
-###Similar occupations:
+# Occupation usher
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match usher |   percentage match with usher |   skills not in usher |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
 | [cloak room attendant](cloak_room_attendant.md)                                                                                                                   |                           7 |                         3 |                      0.333333 |                     4 |

@@ -1,6 +1,6 @@
-#Occupation airport environment officer
-##Number skills 15
-###Similar occupations:
+# Occupation airport environment officer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match airport environment officer |   percentage match with airport environment officer |   skills not in airport environment officer |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [airport operations officer](airport_operations_officer.md)                                                                 |                          37 |                                               4 |                                            0.266667 |                                          33 |

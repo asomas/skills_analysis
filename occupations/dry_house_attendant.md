@@ -1,6 +1,6 @@
-#Occupation dry house attendant
-##Number skills 6
-###Similar occupations:
+# Occupation dry house attendant
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match dry house attendant |   percentage match with dry house attendant |   skills not in dry house attendant |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [filament winding operator](filament_winding_operator.md)                                                       |                          14 |                                       1 |                                    0.166667 |                                  13 |

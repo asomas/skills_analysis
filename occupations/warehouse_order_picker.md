@@ -1,6 +1,6 @@
-#Occupation warehouse order picker
-##Number skills 24
-###Similar occupations:
+# Occupation warehouse order picker
+## Number skills 24
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match warehouse order picker |   percentage match with warehouse order picker |   skills not in warehouse order picker |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [warehouse worker](warehouse_worker.md)                                           |                          39 |                                          9 |                                       0.375    |                                     30 |

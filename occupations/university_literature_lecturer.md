@@ -1,6 +1,6 @@
-#Occupation university literature lecturer
-##Number skills 22
-###Similar occupations:
+# Occupation university literature lecturer
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match university literature lecturer |   percentage match with university literature lecturer |   skills not in university literature lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [literature teacher secondary school](literature_teacher_secondary_school.md)                                         |                          30 |                                                 20 |                                               0.909091 |                                             10 |

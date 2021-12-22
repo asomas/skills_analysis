@@ -1,6 +1,6 @@
-#Occupation energy engineer
-##Number skills 9
-###Similar occupations:
+# Occupation energy engineer
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match energy engineer |   percentage match with energy engineer |   skills not in energy engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [waste treatment engineer](waste_treatment_engineer.md)                                                                                     |                          19 |                                   9 |                                1        |                              10 |

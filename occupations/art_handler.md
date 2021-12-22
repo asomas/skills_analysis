@@ -1,6 +1,6 @@
-#Occupation art handler
-##Number skills 6
-###Similar occupations:
+# Occupation art handler
+## Number skills 6
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match art handler |   percentage match with art handler |   skills not in art handler |
 |:----------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [exhibition registrar](exhibition_registrar.md)           |                          21 |                               5 |                            0.833333 |                          16 |

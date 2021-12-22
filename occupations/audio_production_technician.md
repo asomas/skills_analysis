@@ -1,6 +1,6 @@
-#Occupation audio production technician
-##Number skills 25
-###Similar occupations:
+# Occupation audio production technician
+## Number skills 25
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match audio production technician |   percentage match with audio production technician |   skills not in audio production technician |
 |:------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [stage technician](stage_technician.md)                           |                          43 |                                              18 |                                                0.72 |                                          25 |

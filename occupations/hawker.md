@@ -1,6 +1,6 @@
-#Occupation hawker
-##Number skills 19
-###Similar occupations:
+# Occupation hawker
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match hawker |   percentage match with hawker |   skills not in hawker |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [door to door seller](door_to_door_seller.md)                                                                                                                     |                          20 |                         11 |                       0.578947 |                      9 |

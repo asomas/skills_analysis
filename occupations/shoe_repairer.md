@@ -1,6 +1,6 @@
-#Occupation shoe repairer
-##Number skills 13
-###Similar occupations:
+# Occupation shoe repairer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match shoe repairer |   percentage match with shoe repairer |   skills not in shoe repairer |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [shoemaker](shoemaker.md)                                                               |                          17 |                                 8 |                              0.615385 |                             9 |

@@ -1,6 +1,6 @@
-#Occupation desalination technician
-##Number skills 9
-###Similar occupations:
+# Occupation desalination technician
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match desalination technician |   percentage match with desalination technician |   skills not in desalination technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [dewatering technician](dewatering_technician.md)                                                                                                             |                           8 |                                           4 |                                        0.444444 |                                       4 |

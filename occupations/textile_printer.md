@@ -1,6 +1,6 @@
-#Occupation textile printer
-##Number skills 9
-###Similar occupations:
+# Occupation textile printer
+## Number skills 9
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match textile printer |   percentage match with textile printer |   skills not in textile printer |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [textile product developer](textile_product_developer.md)                               |                          24 |                                   5 |                                0.555556 |                              19 |

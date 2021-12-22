@@ -1,6 +1,6 @@
-#Occupation child welfare worker
-##Number skills 73
-###Similar occupations:
+# Occupation child welfare worker
+## Number skills 73
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match child welfare worker |   percentage match with child welfare worker |   skills not in child welfare worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [foster care support worker](foster_care_support_worker.md)                               |                          72 |                                       69 |                                     0.945205 |                                    3 |

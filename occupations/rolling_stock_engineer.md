@@ -1,6 +1,6 @@
-#Occupation rolling stock engineer
-##Number skills 16
-###Similar occupations:
+# Occupation rolling stock engineer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match rolling stock engineer |   percentage match with rolling stock engineer |   skills not in rolling stock engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [automotive engineer](automotive_engineer.md)                                                                                               |                          16 |                                         15 |                                         0.9375 |                                      1 |

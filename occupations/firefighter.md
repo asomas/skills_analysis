@@ -1,6 +1,6 @@
-#Occupation firefighter
-##Number skills 16
-###Similar occupations:
+# Occupation firefighter
+## Number skills 16
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match firefighter |   percentage match with firefighter |   skills not in firefighter |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [industrial firefighter](industrial_firefighter.md)                                   |                          29 |                              16 |                              1      |                          13 |

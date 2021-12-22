@@ -1,6 +1,6 @@
-#Occupation pulp control operator
-##Number skills 14
-###Similar occupations:
+# Occupation pulp control operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match pulp control operator |   percentage match with pulp control operator |   skills not in pulp control operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [paper pulp moulding operator](paper_pulp_moulding_operator.md)                                       |                          15 |                                        10 |                                      0.714286 |                                     5 |

@@ -1,6 +1,6 @@
-#Occupation aquaculture quality supervisor
-##Number skills 20
-###Similar occupations:
+# Occupation aquaculture quality supervisor
+## Number skills 20
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match aquaculture quality supervisor |   percentage match with aquaculture quality supervisor |   skills not in aquaculture quality supervisor |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [food technologist](food_technologist.md)                               |                          60 |                                                  4 |                                                   0.2  |                                             56 |

@@ -1,6 +1,6 @@
-#Occupation road marker
-##Number skills 14
-###Similar occupations:
+# Occupation road marker
+## Number skills 14
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match road marker |   percentage match with road marker |   skills not in road marker |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [construction painter](construction_painter.md)                                         |                          21 |                               9 |                            0.642857 |                          12 |

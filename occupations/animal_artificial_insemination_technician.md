@@ -1,6 +1,6 @@
-#Occupation animal artificial insemination technician
-##Number skills 24
-###Similar occupations:
+# Occupation animal artificial insemination technician
+## Number skills 24
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match animal artificial insemination technician |   percentage match with animal artificial insemination technician |   skills not in animal artificial insemination technician |
 |:--------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [animal embryo transfer technician](animal_embryo_transfer_technician.md) |                          20 |                                                            16 |                                                          0.666667 |                                                         4 |

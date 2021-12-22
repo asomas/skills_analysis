@@ -1,6 +1,6 @@
-#Occupation coffee, tea, cocoa and spices distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation coffee, tea, cocoa and spices distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match coffee, tea, cocoa and spices distribution manager |   percentage match with coffee, tea, cocoa and spices distribution manager |   skills not in coffee, tea, cocoa and spices distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------------:|---------------------------------------------------------------------------:|-------------------------------------------------------------------:|
 | [mining, construction and civil engineering machinery distribution manager](mining,_construction_and_civil_engineering_machinery_distribution_manager.md)               |                          26 |                                                                     25 |                                                                   0.961538 |                                                                  1 |

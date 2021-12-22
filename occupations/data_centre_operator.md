@@ -1,6 +1,6 @@
-#Occupation data centre operator
-##Number skills 15
-###Similar occupations:
+# Occupation data centre operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match data centre operator |   percentage match with data centre operator |   skills not in data centre operator |
 |:--------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [database administrator](database_administrator.md)                       |                          25 |                                        8 |                                     0.533333 |                                   17 |

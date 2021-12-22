@@ -1,6 +1,6 @@
-#Occupation agricultural technician
-##Number skills 10
-###Similar occupations:
+# Occupation agricultural technician
+## Number skills 10
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match agricultural technician |   percentage match with agricultural technician |   skills not in agricultural technician |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [agronomist](agronomist.md)                                                 |                          31 |                                           6 |                                             0.6 |                                      25 |

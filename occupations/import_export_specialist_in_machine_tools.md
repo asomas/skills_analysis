@@ -1,6 +1,6 @@
-#Occupation import export specialist in machine tools
-##Number skills 23
-###Similar occupations:
+# Occupation import export specialist in machine tools
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in machine tools |   percentage match with import export specialist in machine tools |   skills not in import export specialist in machine tools |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [import export specialist in machinery, industrial equipment, ships and aircraft](import_export_specialist_in_machinery,_industrial_equipment,_ships_and_aircraft.md)   |                          26 |                                                            22 |                                                          0.956522 |                                                         4 |

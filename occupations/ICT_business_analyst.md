@@ -1,6 +1,6 @@
-#Occupation ICT business analyst
-##Number skills 17
-###Similar occupations:
+# Occupation ICT business analyst
+## Number skills 17
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match ICT business analyst |   percentage match with ICT business analyst |   skills not in ICT business analyst |
 |:------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [ICT business analysis manager](ICT_business_analysis_manager.md)                   |                          19 |                                        7 |                                     0.411765 |                                   12 |

@@ -1,6 +1,6 @@
-#Occupation cake press operator
-##Number skills 19
-###Similar occupations:
+# Occupation cake press operator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match cake press operator |   percentage match with cake press operator |   skills not in cake press operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [plastic heat treatment equipment operator](plastic_heat_treatment_equipment_operator.md)                       |                          17 |                                       9 |                                    0.473684 |                                   8 |

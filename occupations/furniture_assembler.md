@@ -1,6 +1,6 @@
-#Occupation furniture assembler
-##Number skills 14
-###Similar occupations:
+# Occupation furniture assembler
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match furniture assembler |   percentage match with furniture assembler |   skills not in furniture assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [cabinet maker](cabinet_maker.md)                                                                     |                          20 |                                       8 |                                    0.571429 |                                  12 |

@@ -1,6 +1,6 @@
-#Occupation art model
-##Number skills 14
-###Similar occupations:
+# Occupation art model
+## Number skills 14
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match art model |   percentage match with art model |   skills not in art model |
 |:--------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [fashion model](fashion_model.md)                                                     |                          11 |                             5 |                          0.357143 |                         6 |

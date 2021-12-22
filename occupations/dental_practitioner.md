@@ -1,6 +1,6 @@
-#Occupation dental practitioner
-##Number skills 68
-###Similar occupations:
+# Occupation dental practitioner
+## Number skills 68
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match dental practitioner |   percentage match with dental practitioner |   skills not in dental practitioner |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [chiropractor](chiropractor.md)                                             |                         136 |                                      30 |                                    0.441176 |                                 106 |

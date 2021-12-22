@@ -1,6 +1,6 @@
-#Occupation photonics engineer
-##Number skills 32
-###Similar occupations:
+# Occupation photonics engineer
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match photonics engineer |   percentage match with photonics engineer |   skills not in photonics engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [optoelectronic engineer](optoelectronic_engineer.md)                                                                                       |                          36 |                                     29 |                                    0.90625 |                                  7 |

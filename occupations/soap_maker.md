@@ -1,6 +1,6 @@
-#Occupation soap maker
-##Number skills 8
-###Similar occupations:
+# Occupation soap maker
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match soap maker |   percentage match with soap maker |   skills not in soap maker |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [nitrator operator](nitrator_operator.md)                                                                       |                          10 |                              3 |                              0.375 |                          7 |

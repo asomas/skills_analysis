@@ -1,6 +1,6 @@
-#Occupation aircraft interior technician
-##Number skills 14
-###Similar occupations:
+# Occupation aircraft interior technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match aircraft interior technician |   percentage match with aircraft interior technician |   skills not in aircraft interior technician |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [railway car upholsterer](railway_car_upholsterer.md)                                                 |                          14 |                                               14 |                                             1        |                                            0 |

@@ -1,6 +1,6 @@
-#Occupation fish and seafood shop manager
-##Number skills 30
-###Similar occupations:
+# Occupation fish and seafood shop manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match fish and seafood shop manager |   percentage match with fish and seafood shop manager |   skills not in fish and seafood shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [flower and garden shop manager](flower_and_garden_shop_manager.md)                               |                          31 |                                                28 |                                              0.933333 |                                             3 |

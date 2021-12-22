@@ -1,6 +1,6 @@
-#Occupation environmental technician
-##Number skills 16
-###Similar occupations:
+# Occupation environmental technician
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match environmental technician |   percentage match with environmental technician |   skills not in environmental technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [environmental expert](environmental_expert.md)                                           |                          21 |                                            6 |                                           0.375  |                                       15 |

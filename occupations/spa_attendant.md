@@ -1,6 +1,6 @@
-#Occupation spa attendant
-##Number skills 22
-###Similar occupations:
+# Occupation spa attendant
+## Number skills 22
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match spa attendant |   percentage match with spa attendant |   skills not in spa attendant |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [beauty salon attendant](beauty_salon_attendant.md)                                 |                          16 |                                 8 |                              0.363636 |                             8 |

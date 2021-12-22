@@ -1,6 +1,6 @@
-#Occupation legal service manager
-##Number skills 19
-###Similar occupations:
+# Occupation legal service manager
+## Number skills 19
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match legal service manager |   percentage match with legal service manager |   skills not in legal service manager |
 |:------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [case administrator](case_administrator.md)                                         |                          12 |                                         5 |                                      0.263158 |                                     7 |

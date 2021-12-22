@@ -1,6 +1,6 @@
-#Occupation winding machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation winding machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match winding machine operator |   percentage match with winding machine operator |   skills not in winding machine operator |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [spinning machine operator](spinning_machine_operator.md)               |                          16 |                                            8 |                                         0.571429 |                                        8 |

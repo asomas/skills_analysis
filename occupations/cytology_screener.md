@@ -1,6 +1,6 @@
-#Occupation cytology screener
-##Number skills 34
-###Similar occupations:
+# Occupation cytology screener
+## Number skills 34
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match cytology screener |   percentage match with cytology screener |   skills not in cytology screener |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [biomedical scientist](biomedical_scientist.md)                             |                          90 |                                    23 |                                  0.676471 |                                67 |

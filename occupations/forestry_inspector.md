@@ -1,6 +1,6 @@
-#Occupation forestry inspector
-##Number skills 12
-###Similar occupations:
+# Occupation forestry inspector
+## Number skills 12
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match forestry inspector |   percentage match with forestry inspector |   skills not in forestry inspector |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [agricultural inspector](agricultural_inspector.md)                                     |                          18 |                                     10 |                                   0.833333 |                                  8 |

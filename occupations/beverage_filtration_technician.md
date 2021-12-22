@@ -1,6 +1,6 @@
-#Occupation beverage filtration technician
-##Number skills 19
-###Similar occupations:
+# Occupation beverage filtration technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match beverage filtration technician |   percentage match with beverage filtration technician |   skills not in beverage filtration technician |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [cellar operator](cellar_operator.md)                                                   |                          24 |                                                  9 |                                               0.473684 |                                             15 |

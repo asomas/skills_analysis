@@ -1,6 +1,6 @@
-#Occupation court jury coordinator
-##Number skills 10
-###Similar occupations:
+# Occupation court jury coordinator
+## Number skills 10
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match court jury coordinator |   percentage match with court jury coordinator |   skills not in court jury coordinator |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [corporate lawyer](corporate_lawyer.md)                                 |                          20 |                                          6 |                                            0.6 |                                     14 |

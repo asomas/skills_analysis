@@ -1,6 +1,6 @@
-#Occupation toys and games shop manager
-##Number skills 29
-###Similar occupations:
+# Occupation toys and games shop manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match toys and games shop manager |   percentage match with toys and games shop manager |   skills not in toys and games shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [beverages shop manager](beverages_shop_manager.md)                                               |                          32 |                                              27 |                                            0.931034 |                                           5 |

@@ -1,6 +1,6 @@
-#Occupation phlebotomist
-##Number skills 24
-###Similar occupations:
+# Occupation phlebotomist
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match phlebotomist |   percentage match with phlebotomist |   skills not in phlebotomist |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [anaesthetic technician](anaesthetic_technician.md)                                                                       |                          36 |                               12 |                             0.5      |                           24 |

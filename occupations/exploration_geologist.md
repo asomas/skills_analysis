@@ -1,6 +1,6 @@
-#Occupation exploration geologist
-##Number skills 19
-###Similar occupations:
+# Occupation exploration geologist
+## Number skills 19
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match exploration geologist |   percentage match with exploration geologist |   skills not in exploration geologist |
 |:----------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [mine geologist](mine_geologist.md)                                   |                          14 |                                         6 |                                      0.315789 |                                     8 |

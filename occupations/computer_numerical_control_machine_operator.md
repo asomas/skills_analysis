@@ -1,6 +1,6 @@
-#Occupation computer numerical control machine operator
-##Number skills 19
-###Similar occupations:
+# Occupation computer numerical control machine operator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match computer numerical control machine operator |   percentage match with computer numerical control machine operator |   skills not in computer numerical control machine operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [engraving machine operator](engraving_machine_operator.md)                                                                                                   |                          29 |                                                              19 |                                                            1        |                                                          10 |

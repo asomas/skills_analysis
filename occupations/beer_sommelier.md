@@ -1,6 +1,6 @@
-#Occupation beer sommelier
-##Number skills 16
-###Similar occupations:
+# Occupation beer sommelier
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match beer sommelier |   percentage match with beer sommelier |   skills not in beer sommelier |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [brewmaster](brewmaster.md)                                                             |                          40 |                                  9 |                                 0.5625 |                             31 |

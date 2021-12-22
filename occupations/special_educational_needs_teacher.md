@@ -1,6 +1,6 @@
-#Occupation special educational needs teacher
-##Number skills 30
-###Similar occupations:
+# Occupation special educational needs teacher
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match special educational needs teacher |   percentage match with special educational needs teacher |   skills not in special educational needs teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [early years special educational needs teacher](early_years_special_educational_needs_teacher.md)                     |                          32 |                                                    27 |                                                  0.9      |                                                 5 |

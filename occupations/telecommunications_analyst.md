@@ -1,6 +1,6 @@
-#Occupation telecommunications analyst
-##Number skills 24
-###Similar occupations:
+# Occupation telecommunications analyst
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match telecommunications analyst |   percentage match with telecommunications analyst |   skills not in telecommunications analyst |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [telecommunications engineering technician](telecommunications_engineering_technician.md) |                          23 |                                             11 |                                           0.458333 |                                         12 |

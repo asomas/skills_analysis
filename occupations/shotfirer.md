@@ -1,6 +1,6 @@
-#Occupation shotfirer
-##Number skills 15
-###Similar occupations:
+# Occupation shotfirer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match shotfirer |   percentage match with shotfirer |   skills not in shotfirer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [explosives engineer](explosives_engineer.md)                                                                                                                 |                          16 |                             6 |                          0.4      |                        10 |

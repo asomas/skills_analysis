@@ -1,6 +1,6 @@
-#Occupation assistant video and motion picture director
-##Number skills 12
-###Similar occupations:
+# Occupation assistant video and motion picture director
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match assistant video and motion picture director |   percentage match with assistant video and motion picture director |   skills not in assistant video and motion picture director |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [production designer](production_designer.md)                                                     |                          13 |                                                               4 |                                                            0.333333 |                                                           9 |

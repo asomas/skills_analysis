@@ -1,6 +1,6 @@
-#Occupation mine control room operator
-##Number skills 12
-###Similar occupations:
+# Occupation mine control room operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match mine control room operator |   percentage match with mine control room operator |   skills not in mine control room operator |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [oil refinery control room operator](oil_refinery_control_room_operator.md)                       |                          10 |                                              8 |                                           0.666667 |                                          2 |

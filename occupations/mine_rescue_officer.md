@@ -1,6 +1,6 @@
-#Occupation mine rescue officer
-##Number skills 12
-###Similar occupations:
+# Occupation mine rescue officer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match mine rescue officer |   percentage match with mine rescue officer |   skills not in mine rescue officer |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [mine shift manager](mine_shift_manager.md)                                                 |                          14 |                                       5 |                                    0.416667 |                                   9 |

@@ -1,6 +1,6 @@
-#Occupation mineralogist
-##Number skills 18
-###Similar occupations:
+# Occupation mineralogist
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match mineralogist |   percentage match with mineralogist |   skills not in mineralogist |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [geology technician](geology_technician.md)                                               |                          22 |                                9 |                             0.5      |                           13 |

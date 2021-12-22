@@ -1,6 +1,6 @@
-#Occupation cosmetics and perfume shop manager
-##Number skills 30
-###Similar occupations:
+# Occupation cosmetics and perfume shop manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match cosmetics and perfume shop manager |   percentage match with cosmetics and perfume shop manager |   skills not in cosmetics and perfume shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [kitchen and bathroom shop manager](kitchen_and_bathroom_shop_manager.md)                         |                          27 |                                                     27 |                                                   0.9      |                                                  0 |

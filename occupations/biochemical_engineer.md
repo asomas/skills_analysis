@@ -1,6 +1,6 @@
-#Occupation biochemical engineer
-##Number skills 31
-###Similar occupations:
+# Occupation biochemical engineer
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match biochemical engineer |   percentage match with biochemical engineer |   skills not in biochemical engineer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [pharmaceutical engineer](pharmaceutical_engineer.md)                                                 |                          28 |                                       12 |                                     0.387097 |                                   16 |

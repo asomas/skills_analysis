@@ -1,6 +1,6 @@
-#Occupation tax inspector
-##Number skills 12
-###Similar occupations:
+# Occupation tax inspector
+## Number skills 12
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match tax inspector |   percentage match with tax inspector |   skills not in tax inspector |
 |:--------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [tax compliance officer](tax_compliance_officer.md)                             |                          17 |                                 6 |                              0.5      |                            11 |

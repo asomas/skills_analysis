@@ -1,6 +1,6 @@
-#Occupation fisheries observer
-##Number skills 16
-###Similar occupations:
+# Occupation fisheries observer
+## Number skills 16
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match fisheries observer |   percentage match with fisheries observer |   skills not in fisheries observer |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [fisheries master](fisheries_master.md)                                 |                          43 |                                     14 |                                     0.875  |                                 29 |

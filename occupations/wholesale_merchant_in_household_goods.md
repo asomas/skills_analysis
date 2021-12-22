@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in household goods
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in household goods
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in household goods |   percentage match with wholesale merchant in household goods |   skills not in wholesale merchant in household goods |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [wholesale merchant in meat and meat products](wholesale_merchant_in_meat_and_meat_products.md)                                                                     |                          20 |                                                        19 |                                                          0.95 |                                                     1 |

@@ -1,6 +1,6 @@
-#Occupation ICT system integration consultant
-##Number skills 17
-###Similar occupations:
+# Occupation ICT system integration consultant
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match ICT system integration consultant |   percentage match with ICT system integration consultant |   skills not in ICT system integration consultant |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [ICT consultant](ICT_consultant.md)                                                       |                          20 |                                                     7 |                                                  0.411765 |                                                13 |

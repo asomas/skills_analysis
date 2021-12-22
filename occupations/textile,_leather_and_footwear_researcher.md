@@ -1,6 +1,6 @@
-#Occupation textile, leather and footwear researcher
-##Number skills 20
-###Similar occupations:
+# Occupation textile, leather and footwear researcher
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match textile, leather and footwear researcher |   percentage match with textile, leather and footwear researcher |   skills not in textile, leather and footwear researcher |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [textile technologist](textile_technologist.md)                                           |                          29 |                                                            9 |                                                             0.45 |                                                       20 |

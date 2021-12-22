@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in mining, construction and civil engineering machinery
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in mining, construction and civil engineering machinery
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in mining, construction and civil engineering machinery |   percentage match with wholesale merchant in mining, construction and civil engineering machinery |   skills not in wholesale merchant in mining, construction and civil engineering machinery |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------:|
 | [wholesale merchant in pharmaceutical goods](wholesale_merchant_in_pharmaceutical_goods.md)                                                                         |                          20 |                                                                                             19 |                                                                                               0.95 |                                                                                          1 |

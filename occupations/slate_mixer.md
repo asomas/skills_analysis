@@ -1,6 +1,6 @@
-#Occupation slate mixer
-##Number skills 8
-###Similar occupations:
+# Occupation slate mixer
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match slate mixer |   percentage match with slate mixer |   skills not in slate mixer |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [water quality analyst](water_quality_analyst.md)                                                               |                          13 |                               2 |                               0.25  |                          11 |

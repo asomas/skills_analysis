@@ -1,6 +1,6 @@
-#Occupation waiting list coordinator
-##Number skills 11
-###Similar occupations:
+# Occupation waiting list coordinator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match waiting list coordinator |   percentage match with waiting list coordinator |   skills not in waiting list coordinator |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [front line medical receptionist](front_line_medical_receptionist.md)                                                     |                          24 |                                            8 |                                         0.727273 |                                       16 |

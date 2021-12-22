@@ -1,6 +1,6 @@
-#Occupation mechanical forging press worker
-##Number skills 16
-###Similar occupations:
+# Occupation mechanical forging press worker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match mechanical forging press worker |   percentage match with mechanical forging press worker |   skills not in mechanical forging press worker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [hydraulic forging press worker](hydraulic_forging_press_worker.md)                                   |                          18 |                                                  14 |                                                  0.875  |                                               4 |

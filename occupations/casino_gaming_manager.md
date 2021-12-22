@@ -1,6 +1,6 @@
-#Occupation casino gaming manager
-##Number skills 12
-###Similar occupations:
+# Occupation casino gaming manager
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match casino gaming manager |   percentage match with casino gaming manager |   skills not in casino gaming manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [casino pit boss](casino_pit_boss.md)                                                                                                                             |                          10 |                                         4 |                                      0.333333 |                                     6 |

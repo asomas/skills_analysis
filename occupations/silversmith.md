@@ -1,6 +1,6 @@
-#Occupation silversmith
-##Number skills 16
-###Similar occupations:
+# Occupation silversmith
+## Number skills 16
+### Similar occupations:
 | occupation                                        |   skills in this occupation |   skills that match silversmith |   percentage match with silversmith |   skills not in silversmith |
 |:--------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [goldsmith](goldsmith.md)                         |                          16 |                              15 |                              0.9375 |                           1 |

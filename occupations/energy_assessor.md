@@ -1,6 +1,6 @@
-#Occupation energy assessor
-##Number skills 12
-###Similar occupations:
+# Occupation energy assessor
+## Number skills 12
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match energy assessor |   percentage match with energy assessor |   skills not in energy assessor |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [energy manager](energy_manager.md)                                               |                          34 |                                   9 |                                0.75     |                              25 |

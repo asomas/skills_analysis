@@ -1,6 +1,6 @@
-#Occupation office manager
-##Number skills 17
-###Similar occupations:
+# Occupation office manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match office manager |   percentage match with office manager |   skills not in office manager |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [branch manager](branch_manager.md)                                                                                         |                          48 |                                  5 |                               0.294118 |                             43 |

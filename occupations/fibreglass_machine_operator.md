@@ -1,6 +1,6 @@
-#Occupation fibreglass machine operator
-##Number skills 17
-###Similar occupations:
+# Occupation fibreglass machine operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match fibreglass machine operator |   percentage match with fibreglass machine operator |   skills not in fibreglass machine operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [pultrusion machine operator](pultrusion_machine_operator.md)                                                   |                          14 |                                               8 |                                            0.470588 |                                           6 |

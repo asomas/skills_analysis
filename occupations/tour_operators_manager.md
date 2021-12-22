@@ -1,6 +1,6 @@
-#Occupation tour operators manager
-##Number skills 29
-###Similar occupations:
+# Occupation tour operators manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match tour operators manager |   percentage match with tour operators manager |   skills not in tour operators manager |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [tourist information centre manager](tourist_information_centre_manager.md)                                                                                   |                          31 |                                         12 |                                       0.413793 |                                     19 |

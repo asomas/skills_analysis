@@ -1,6 +1,6 @@
-#Occupation production engineering technician
-##Number skills 15
-###Similar occupations:
+# Occupation production engineering technician
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match production engineering technician |   percentage match with production engineering technician |   skills not in production engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [industrial engineering technician](industrial_engineering_technician.md)                                                                                     |                          15 |                                                    13 |                                                  0.866667 |                                                 2 |

@@ -1,6 +1,6 @@
-#Occupation foam rubber mixer
-##Number skills 8
-###Similar occupations:
+# Occupation foam rubber mixer
+## Number skills 8
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match foam rubber mixer |   percentage match with foam rubber mixer |   skills not in foam rubber mixer |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [rubber dipping machine operator](rubber_dipping_machine_operator.md)       |                          16 |                                     4 |                                     0.5   |                                12 |

@@ -1,6 +1,6 @@
-#Occupation front line medical receptionist
-##Number skills 24
-###Similar occupations:
+# Occupation front line medical receptionist
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match front line medical receptionist |   percentage match with front line medical receptionist |   skills not in front line medical receptionist |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [doctors' surgery assistant](doctors'_surgery_assistant.md)                                                               |                          45 |                                                  17 |                                                0.708333 |                                              28 |

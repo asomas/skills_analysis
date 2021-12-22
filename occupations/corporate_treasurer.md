@@ -1,6 +1,6 @@
-#Occupation corporate treasurer
-##Number skills 15
-###Similar occupations:
+# Occupation corporate treasurer
+## Number skills 15
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match corporate treasurer |   percentage match with corporate treasurer |   skills not in corporate treasurer |
 |:------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [budget manager](budget_manager.md)                                     |                          29 |                                       9 |                                    0.6      |                                  20 |

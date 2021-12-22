@@ -1,6 +1,6 @@
-#Occupation scopist
-##Number skills 13
-###Similar occupations:
+# Occupation scopist
+## Number skills 13
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match scopist |   percentage match with scopist |   skills not in scopist |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [court reporter](court_reporter.md)                                               |                          16 |                          10 |                        0.769231 |                       6 |

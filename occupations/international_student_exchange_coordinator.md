@@ -1,6 +1,6 @@
-#Occupation international student exchange coordinator
-##Number skills 15
-###Similar occupations:
+# Occupation international student exchange coordinator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match international student exchange coordinator |   percentage match with international student exchange coordinator |   skills not in international student exchange coordinator |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [travel consultant](travel_consultant.md)                                         |                          21 |                                                              4 |                                                           0.266667 |                                                         17 |

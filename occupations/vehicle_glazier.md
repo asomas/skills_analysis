@@ -1,6 +1,6 @@
-#Occupation vehicle glazier
-##Number skills 9
-###Similar occupations:
+# Occupation vehicle glazier
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match vehicle glazier |   percentage match with vehicle glazier |   skills not in vehicle glazier |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [aircraft interior technician](aircraft_interior_technician.md)                                                                                                       |                          14 |                                   3 |                                0.333333 |                              11 |

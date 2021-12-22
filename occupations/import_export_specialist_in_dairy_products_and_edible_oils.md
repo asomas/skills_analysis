@@ -1,6 +1,6 @@
-#Occupation import export specialist in dairy products and edible oils
-##Number skills 25
-###Similar occupations:
+# Occupation import export specialist in dairy products and edible oils
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in dairy products and edible oils |   percentage match with import export specialist in dairy products and edible oils |   skills not in import export specialist in dairy products and edible oils |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------:|---------------------------------------------------------------------------:|
 | [import export specialist in meat and meat products](import_export_specialist_in_meat_and_meat_products.md)                                                             |                          26 |                                                                             24 |                                                                               0.96 |                                                                          2 |

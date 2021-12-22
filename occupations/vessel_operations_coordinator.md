@@ -1,6 +1,6 @@
-#Occupation vessel operations coordinator
-##Number skills 26
-###Similar occupations:
+# Occupation vessel operations coordinator
+## Number skills 26
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match vessel operations coordinator |   percentage match with vessel operations coordinator |   skills not in vessel operations coordinator |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [ship planner](ship_planner.md)                                                         |                          51 |                                                 9 |                                              0.346154 |                                            42 |

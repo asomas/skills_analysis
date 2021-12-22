@@ -1,6 +1,6 @@
-#Occupation event scaffolder
-##Number skills 15
-###Similar occupations:
+# Occupation event scaffolder
+## Number skills 15
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match event scaffolder |   percentage match with event scaffolder |   skills not in event scaffolder |
 |:------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [tent installer](tent_installer.md)                                           |                          13 |                                   10 |                                 0.666667 |                                3 |

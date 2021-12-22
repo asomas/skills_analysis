@@ -1,6 +1,6 @@
-#Occupation welding engineer
-##Number skills 29
-###Similar occupations:
+# Occupation welding engineer
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match welding engineer |   percentage match with welding engineer |   skills not in welding engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [automation engineer](automation_engineer.md)                                                                                                                 |                          33 |                                   13 |                                 0.448276 |                               20 |

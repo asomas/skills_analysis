@@ -1,6 +1,6 @@
-#Occupation foreign correspondent
-##Number skills 25
-###Similar occupations:
+# Occupation foreign correspondent
+## Number skills 25
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match foreign correspondent |   percentage match with foreign correspondent |   skills not in foreign correspondent |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [entertainment journalist](entertainment_journalist.md)                           |                          20 |                                        20 |                                          0.8  |                                     0 |

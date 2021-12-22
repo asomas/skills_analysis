@@ -1,6 +1,6 @@
-#Occupation mine development engineer
-##Number skills 25
-###Similar occupations:
+# Occupation mine development engineer
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match mine development engineer |   percentage match with mine development engineer |   skills not in mine development engineer |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [mine manager](mine_manager.md)                                                             |                          28 |                                            13 |                                              0.52 |                                        15 |

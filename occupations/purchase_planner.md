@@ -1,6 +1,6 @@
-#Occupation purchase planner
-##Number skills 20
-###Similar occupations:
+# Occupation purchase planner
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match purchase planner |   percentage match with purchase planner |   skills not in purchase planner |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [purchaser](purchaser.md)                                                                                                                                               |                          19 |                                   12 |                                     0.6  |                                7 |

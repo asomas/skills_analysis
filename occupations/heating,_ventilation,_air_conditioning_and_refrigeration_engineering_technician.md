@@ -1,6 +1,6 @@
-#Occupation heating, ventilation, air conditioning and refrigeration engineering technician
-##Number skills 14
-###Similar occupations:
+# Occupation heating, ventilation, air conditioning and refrigeration engineering technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match heating, ventilation, air conditioning and refrigeration engineering technician |   percentage match with heating, ventilation, air conditioning and refrigeration engineering technician |   skills not in heating, ventilation, air conditioning and refrigeration engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------:|
 | [heating, ventilation, air conditioning (and refrigeration) service engineer](heating,_ventilation,_air_conditioning_(and_refrigeration)_service_engineer.md) |                          31 |                                                                                                   7 |                                                                                                0.5      |                                                                                              24 |

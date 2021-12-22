@@ -1,6 +1,6 @@
-#Occupation video operator
-##Number skills 30
-###Similar occupations:
+# Occupation video operator
+## Number skills 30
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match video operator |   percentage match with video operator |   skills not in video operator |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [stage machinist](stage_machinist.md)                             |                          32 |                                 23 |                               0.766667 |                              9 |

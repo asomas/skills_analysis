@@ -1,6 +1,6 @@
-#Occupation lacquer spray gun operator
-##Number skills 13
-###Similar occupations:
+# Occupation lacquer spray gun operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match lacquer spray gun operator |   percentage match with lacquer spray gun operator |   skills not in lacquer spray gun operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [rustproofer](rustproofer.md)                                                                         |                          15 |                                              8 |                                           0.615385 |                                          7 |

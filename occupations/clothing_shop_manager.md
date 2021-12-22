@@ -1,6 +1,6 @@
-#Occupation clothing shop manager
-##Number skills 32
-###Similar occupations:
+# Occupation clothing shop manager
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match clothing shop manager |   percentage match with clothing shop manager |   skills not in clothing shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [shoe and leather accessories shop manager](shoe_and_leather_accessories_shop_manager.md)         |                          29 |                                        28 |                                       0.875   |                                     1 |

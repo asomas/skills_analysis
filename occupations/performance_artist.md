@@ -1,6 +1,6 @@
-#Occupation performance artist
-##Number skills 15
-###Similar occupations:
+# Occupation performance artist
+## Number skills 15
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match performance artist |   percentage match with performance artist |   skills not in performance artist |
 |:------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [conceptual artist](conceptual_artist.md)                   |                          15 |                                      9 |                                   0.6      |                                  6 |

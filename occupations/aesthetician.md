@@ -1,6 +1,6 @@
-#Occupation aesthetician
-##Number skills 16
-###Similar occupations:
+# Occupation aesthetician
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match aesthetician |   percentage match with aesthetician |   skills not in aesthetician |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [manicurist](manicurist.md)                                                             |                          16 |                                8 |                               0.5    |                            8 |

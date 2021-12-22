@@ -1,6 +1,6 @@
-#Occupation insulating tube winder
-##Number skills 11
-###Similar occupations:
+# Occupation insulating tube winder
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match insulating tube winder |   percentage match with insulating tube winder |   skills not in insulating tube winder |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [router operator](router_operator.md)                                                                 |                          13 |                                          8 |                                       0.727273 |                                      5 |

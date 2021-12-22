@@ -1,6 +1,6 @@
-#Occupation optical disc moulding machine operator
-##Number skills 11
-###Similar occupations:
+# Occupation optical disc moulding machine operator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match optical disc moulding machine operator |   percentage match with optical disc moulding machine operator |   skills not in optical disc moulding machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [record press operator](record_press_operator.md)                                                     |                          11 |                                                          7 |                                                       0.636364 |                                                      4 |

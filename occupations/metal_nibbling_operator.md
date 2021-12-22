@@ -1,6 +1,6 @@
-#Occupation metal nibbling operator
-##Number skills 16
-###Similar occupations:
+# Occupation metal nibbling operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match metal nibbling operator |   percentage match with metal nibbling operator |   skills not in metal nibbling operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [laser cutting machine operator](laser_cutting_machine_operator.md)                                   |                          26 |                                          12 |                                          0.75   |                                      14 |

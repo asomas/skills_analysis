@@ -1,6 +1,6 @@
-#Occupation move manager
-##Number skills 20
-###Similar occupations:
+# Occupation move manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match move manager |   percentage match with move manager |   skills not in move manager |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [pipeline superintendent](pipeline superintendent.md)                               |                          21 |                                5 |                                 0.25 |                           16 |

@@ -1,6 +1,6 @@
-#Occupation airport maintenance technician
-##Number skills 13
-###Similar occupations:
+# Occupation airport maintenance technician
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match airport maintenance technician |   percentage match with airport maintenance technician |   skills not in airport maintenance technician |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [airport chief executive](airport_chief_executive.md)                                                                       |                          27 |                                                  5 |                                               0.384615 |                                             22 |

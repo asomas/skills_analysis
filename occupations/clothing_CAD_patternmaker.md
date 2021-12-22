@@ -1,6 +1,6 @@
-#Occupation clothing CAD patternmaker
-##Number skills 6
-###Similar occupations:
+# Occupation clothing CAD patternmaker
+## Number skills 6
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match clothing CAD patternmaker |   percentage match with clothing CAD patternmaker |   skills not in clothing CAD patternmaker |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [clothing CAD technician](clothing_CAD_technician.md)                                   |                          16 |                                             6 |                                          1        |                                        10 |

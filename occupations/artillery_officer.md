@@ -1,6 +1,6 @@
-#Occupation artillery officer
-##Number skills 15
-###Similar occupations:
+# Occupation artillery officer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match artillery officer |   percentage match with artillery officer |   skills not in artillery officer |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [armed forces officer](armed_forces_officer.md)                                                                             |                          21 |                                    14 |                                  0.933333 |                                 7 |

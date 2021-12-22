@@ -1,6 +1,6 @@
-#Occupation pet and pet food shop manager
-##Number skills 30
-###Similar occupations:
+# Occupation pet and pet food shop manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match pet and pet food shop manager |   percentage match with pet and pet food shop manager |   skills not in pet and pet food shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [floor and wall coverings shop manager](floor_and_wall_coverings_shop_manager.md)                 |                          30 |                                                27 |                                              0.9      |                                             3 |

@@ -1,6 +1,6 @@
-#Occupation automotive designer
-##Number skills 14
-###Similar occupations:
+# Occupation automotive designer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match automotive designer |   percentage match with automotive designer |   skills not in automotive designer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [automotive engineering technician](automotive_engineering_technician.md)                                                                   |                          19 |                                      12 |                                    0.857143 |                                   7 |

@@ -1,6 +1,6 @@
-#Occupation insulation supervisor
-##Number skills 23
-###Similar occupations:
+# Occupation insulation supervisor
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match insulation supervisor |   percentage match with insulation supervisor |   skills not in insulation supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [construction painting supervisor](construction_painting_supervisor.md)                                         |                          23 |                                        19 |                                      0.826087 |                                     4 |

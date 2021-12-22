@@ -1,6 +1,6 @@
-#Occupation door to door seller
-##Number skills 20
-###Similar occupations:
+# Occupation door to door seller
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match door to door seller |   percentage match with door to door seller |   skills not in door to door seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [hawker](hawker.md)                                                                                                                                               |                          19 |                                      11 |                                        0.55 |                                   8 |

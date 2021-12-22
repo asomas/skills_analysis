@@ -1,6 +1,6 @@
-#Occupation steward/stewardess
-##Number skills 6
-###Similar occupations:
+# Occupation steward/stewardess
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match steward/stewardess |   percentage match with steward/stewardess |   skills not in steward/stewardess |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [ship steward/ship stewardess](ship_steward-ship_stewardess.md)                                                                                                   |                          21 |                                      6 |                                   1        |                                 15 |

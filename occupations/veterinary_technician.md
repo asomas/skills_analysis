@@ -1,6 +1,6 @@
-#Occupation veterinary technician
-##Number skills 31
-###Similar occupations:
+# Occupation veterinary technician
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match veterinary technician |   percentage match with veterinary technician |   skills not in veterinary technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [veterinary nurse](veterinary_nurse.md)                                                   |                          46 |                                        27 |                                      0.870968 |                                    19 |

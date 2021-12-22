@@ -1,6 +1,6 @@
-#Occupation gas scheduling representative
-##Number skills 12
-###Similar occupations:
+# Occupation gas scheduling representative
+## Number skills 12
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match gas scheduling representative |   percentage match with gas scheduling representative |   skills not in gas scheduling representative |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [gas distribution engineer](gas_distribution_engineer.md)                           |                          21 |                                                 8 |                                              0.666667 |                                            13 |

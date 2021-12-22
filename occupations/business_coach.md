@@ -1,6 +1,6 @@
-#Occupation business coach
-##Number skills 9
-###Similar occupations:
+# Occupation business coach
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match business coach |   percentage match with business coach |   skills not in business coach |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [visual arts teacher](visual_arts_teacher.md)                                                                         |                          23 |                                  3 |                               0.333333 |                             20 |

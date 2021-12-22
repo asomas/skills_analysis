@@ -1,6 +1,6 @@
-#Occupation import export manager in hardware, plumbing and heating equipment and supplies
-##Number skills 26
-###Similar occupations:
+# Occupation import export manager in hardware, plumbing and heating equipment and supplies
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in hardware, plumbing and heating equipment and supplies |   percentage match with import export manager in hardware, plumbing and heating equipment and supplies |   skills not in import export manager in hardware, plumbing and heating equipment and supplies |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------:|
 | [import export manager in textile industry machinery](import_export_manager_in_textile_industry_machinery.md)                                                           |                          26 |                                                                                                 25 |                                                                                               0.961538 |                                                                                              1 |

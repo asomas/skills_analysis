@@ -1,6 +1,6 @@
-#Occupation ammunition specialised seller
-##Number skills 32
-###Similar occupations:
+# Occupation ammunition specialised seller
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match ammunition specialised seller |   percentage match with ammunition specialised seller |   skills not in ammunition specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [sporting accessories specialised seller](sporting_accessories_specialised_seller.md)                                                                             |                          32 |                                                27 |                                               0.84375 |                                             5 |

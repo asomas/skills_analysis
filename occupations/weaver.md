@@ -1,6 +1,6 @@
-#Occupation weaver
-##Number skills 9
-###Similar occupations:
+# Occupation weaver
+## Number skills 9
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match weaver |   percentage match with weaver |   skills not in weaver |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [knitting machine operator](knitting_machine_operator.md)                               |                          20 |                          6 |                       0.666667 |                     14 |

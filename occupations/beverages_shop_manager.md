@@ -1,6 +1,6 @@
-#Occupation beverages shop manager
-##Number skills 32
-###Similar occupations:
+# Occupation beverages shop manager
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match beverages shop manager |   percentage match with beverages shop manager |   skills not in beverages shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [orthopaedic supply shop manager](orthopaedic_supply_shop_manager.md)                             |                          32 |                                         27 |                                        0.84375 |                                      5 |

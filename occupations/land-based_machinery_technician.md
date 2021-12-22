@@ -1,6 +1,6 @@
-#Occupation land-based machinery technician
-##Number skills 12
-###Similar occupations:
+# Occupation land-based machinery technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match land-based machinery technician |   percentage match with land-based machinery technician |   skills not in land-based machinery technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [forestry machinery technician](forestry_machinery_technician.md)                                                                                                     |                          19 |                                                   3 |                                                0.25     |                                              16 |

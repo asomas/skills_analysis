@@ -1,6 +1,6 @@
-#Occupation animal feed operator
-##Number skills 23
-###Similar occupations:
+# Occupation animal feed operator
+## Number skills 23
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match animal feed operator |   percentage match with animal feed operator |   skills not in animal feed operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [dairy processing operator](dairy_processing_operator.md)                               |                          27 |                                        9 |                                     0.391304 |                                   18 |

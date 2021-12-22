@@ -1,6 +1,6 @@
-#Occupation back office specialist
-##Number skills 16
-###Similar occupations:
+# Occupation back office specialist
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match back office specialist |   percentage match with back office specialist |   skills not in back office specialist |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [middle office analyst](middle_office_analyst.md)                                             |                          17 |                                         11 |                                         0.6875 |                                      6 |

@@ -1,6 +1,6 @@
-#Occupation medicine lecturer
-##Number skills 20
-###Similar occupations:
+# Occupation medicine lecturer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match medicine lecturer |   percentage match with medicine lecturer |   skills not in medicine lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [pharmacy lecturer](pharmacy_lecturer.md)                                                                             |                          21 |                                    17 |                                      0.85 |                                 4 |

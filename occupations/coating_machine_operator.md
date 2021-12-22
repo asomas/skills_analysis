@@ -1,6 +1,6 @@
-#Occupation coating machine operator
-##Number skills 13
-###Similar occupations:
+# Occupation coating machine operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match coating machine operator |   percentage match with coating machine operator |   skills not in coating machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [tumbling machine operator](tumbling_machine_operator.md)                                             |                          16 |                                            8 |                                         0.615385 |                                        8 |

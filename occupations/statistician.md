@@ -1,6 +1,6 @@
-#Occupation statistician
-##Number skills 14
-###Similar occupations:
+# Occupation statistician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match statistician |   percentage match with statistician |   skills not in statistician |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [statistical assistant](statistical_assistant.md)                                         |                          14 |                               12 |                             0.857143 |                            2 |

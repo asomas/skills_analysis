@@ -1,6 +1,6 @@
-#Occupation industrial pharmacist
-##Number skills 17
-###Similar occupations:
+# Occupation industrial pharmacist
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match industrial pharmacist |   percentage match with industrial pharmacist |   skills not in industrial pharmacist |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [pharmacist](pharmacist.md)                                                               |                          75 |                                        17 |                                      1        |                                    58 |

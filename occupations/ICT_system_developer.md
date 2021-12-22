@@ -1,6 +1,6 @@
-#Occupation ICT system developer
-##Number skills 19
-###Similar occupations:
+# Occupation ICT system developer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match ICT system developer |   percentage match with ICT system developer |   skills not in ICT system developer |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [ICT application configurator](ICT_application_configurator.md)                                   |                          17 |                                       14 |                                     0.736842 |                                    3 |

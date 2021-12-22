@@ -1,6 +1,6 @@
-#Occupation drilling engineer
-##Number skills 22
-###Similar occupations:
+# Occupation drilling engineer
+## Number skills 22
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match drilling engineer |   percentage match with drilling engineer |   skills not in drilling engineer |
 |:----------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [petroleum engineer](petroleum_engineer.md)                           |                          25 |                                     6 |                                  0.272727 |                                19 |

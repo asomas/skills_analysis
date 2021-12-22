@@ -1,6 +1,6 @@
-#Occupation auger press operator
-##Number skills 7
-###Similar occupations:
+# Occupation auger press operator
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match auger press operator |   percentage match with auger press operator |   skills not in auger press operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [brick and tile caster](brick_and_tile_caster.md)                                                               |                          14 |                                        3 |                                     0.428571 |                                   11 |

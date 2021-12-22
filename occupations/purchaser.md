@@ -1,6 +1,6 @@
-#Occupation purchaser
-##Number skills 19
-###Similar occupations:
+# Occupation purchaser
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match purchaser |   percentage match with purchaser |   skills not in purchaser |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [purchase planner](purchase_planner.md)                                                                                                                                 |                          20 |                            12 |                          0.631579 |                         8 |

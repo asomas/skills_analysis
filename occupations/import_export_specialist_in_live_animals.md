@@ -1,6 +1,6 @@
-#Occupation import export specialist in live animals
-##Number skills 24
-###Similar occupations:
+# Occupation import export specialist in live animals
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in live animals |   percentage match with import export specialist in live animals |   skills not in import export specialist in live animals |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [import export specialist in  fish, crustaceans and molluscs](import_export_specialist_in__fish,_crustaceans_and_molluscs.md)                                           |                          25 |                                                           23 |                                                         0.958333 |                                                        2 |

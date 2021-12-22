@@ -1,6 +1,6 @@
-#Occupation domestic electrician
-##Number skills 19
-###Similar occupations:
+# Occupation domestic electrician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match domestic electrician |   percentage match with domestic electrician |   skills not in domestic electrician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [building electrician](building_electrician.md)                                                                                                               |                          18 |                                       16 |                                     0.842105 |                                    2 |

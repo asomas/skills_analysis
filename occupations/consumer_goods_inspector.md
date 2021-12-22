@@ -1,6 +1,6 @@
-#Occupation consumer goods inspector
-##Number skills 12
-###Similar occupations:
+# Occupation consumer goods inspector
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match consumer goods inspector |   percentage match with consumer goods inspector |   skills not in consumer goods inspector |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [product assembly inspector](product_assembly_inspector.md)                                                                                                   |                          14 |                                           11 |                                         0.916667 |                                        3 |

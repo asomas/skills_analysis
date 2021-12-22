@@ -1,6 +1,6 @@
-#Occupation court administrator
-##Number skills 10
-###Similar occupations:
+# Occupation court administrator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match court administrator |   percentage match with court administrator |   skills not in court administrator |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [police commissioner](police_commissioner.md)                                                     |                          18 |                                       6 |                                         0.6 |                                  12 |

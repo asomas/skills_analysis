@@ -1,6 +1,6 @@
-#Occupation asphalt laboratory technician
-##Number skills 11
-###Similar occupations:
+# Occupation asphalt laboratory technician
+## Number skills 11
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match asphalt laboratory technician |   percentage match with asphalt laboratory technician |   skills not in asphalt laboratory technician |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [road maintenance worker](road_maintenance_worker.md)                                   |                          15 |                                                 4 |                                              0.363636 |                                            11 |

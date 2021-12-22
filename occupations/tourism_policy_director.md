@@ -1,6 +1,6 @@
-#Occupation tourism policy director
-##Number skills 7
-###Similar occupations:
+# Occupation tourism policy director
+## Number skills 7
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match tourism policy director |   percentage match with tourism policy director |   skills not in tourism policy director |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [tourism product manager](tourism_product_manager.md)                             |                          29 |                                           3 |                                        0.428571 |                                      26 |

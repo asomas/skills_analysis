@@ -1,6 +1,6 @@
-#Occupation textile operations manager
-##Number skills 4
-###Similar occupations:
+# Occupation textile operations manager
+## Number skills 4
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match textile operations manager |   percentage match with textile operations manager |   skills not in textile operations manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [textile product developer](textile_product_developer.md)                                 |                          24 |                                              4 |                                               1    |                                         20 |

@@ -1,6 +1,6 @@
-#Occupation tourist information officer
-##Number skills 24
-###Similar occupations:
+# Occupation tourist information officer
+## Number skills 24
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match tourist information officer |   percentage match with tourist information officer |   skills not in tourist information officer |
 |:------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [tourist information centre manager](tourist_information_centre_manager.md)         |                          31 |                                              11 |                                            0.458333 |                                          20 |

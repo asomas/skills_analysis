@@ -1,6 +1,6 @@
-#Occupation pre-lasting operator
-##Number skills 14
-###Similar occupations:
+# Occupation pre-lasting operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match pre-lasting operator |   percentage match with pre-lasting operator |   skills not in pre-lasting operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [bespoke footwear technician](bespoke_footwear_technician.md)                                         |                          22 |                                       10 |                                     0.714286 |                                   12 |

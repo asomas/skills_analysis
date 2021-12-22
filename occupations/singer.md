@@ -1,6 +1,6 @@
-#Occupation singer
-##Number skills 12
-###Similar occupations:
+# Occupation singer
+## Number skills 12
+### Similar occupations:
 | occupation                                |   skills in this occupation |   skills that match singer |   percentage match with singer |   skills not in singer |
 |:------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [musician](musician.md)                   |                          10 |                          8 |                       0.666667 |                      2 |

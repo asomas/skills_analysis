@@ -1,6 +1,6 @@
-#Occupation housing support worker
-##Number skills 63
-###Similar occupations:
+# Occupation housing support worker
+## Number skills 63
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match housing support worker |   percentage match with housing support worker |   skills not in housing support worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [care at home worker](care_at_home_worker.md)                                             |                          64 |                                         62 |                                       0.984127 |                                      2 |

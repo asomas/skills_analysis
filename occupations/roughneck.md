@@ -1,6 +1,6 @@
-#Occupation roughneck
-##Number skills 12
-###Similar occupations:
+# Occupation roughneck
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match roughneck |   percentage match with roughneck |   skills not in roughneck |
 |:--------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [roustabout](roustabout.md)                                                                 |                          16 |                             3 |                          0.25     |                        13 |

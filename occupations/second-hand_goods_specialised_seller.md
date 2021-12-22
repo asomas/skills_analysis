@@ -1,6 +1,6 @@
-#Occupation second-hand goods specialised seller
-##Number skills 30
-###Similar occupations:
+# Occupation second-hand goods specialised seller
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match second-hand goods specialised seller |   percentage match with second-hand goods specialised seller |   skills not in second-hand goods specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [music and video shop specialised seller](music_and_video_shop_specialised_seller.md)                                                                             |                          31 |                                                       27 |                                                     0.9      |                                                    4 |

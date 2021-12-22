@@ -1,6 +1,6 @@
-#Occupation industrial machinery mechanic
-##Number skills 14
-###Similar occupations:
+# Occupation industrial machinery mechanic
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match industrial machinery mechanic |   percentage match with industrial machinery mechanic |   skills not in industrial machinery mechanic |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [lift engineer](lift_engineer.md)                                                                                                                                     |                          31 |                                                10 |                                              0.714286 |                                            21 |

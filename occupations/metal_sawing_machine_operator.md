@@ -1,6 +1,6 @@
-#Occupation metal sawing machine operator
-##Number skills 22
-###Similar occupations:
+# Occupation metal sawing machine operator
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match metal sawing machine operator |   percentage match with metal sawing machine operator |   skills not in metal sawing machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [engraving machine operator](engraving_machine_operator.md)                                           |                          29 |                                                19 |                                              0.863636 |                                            10 |

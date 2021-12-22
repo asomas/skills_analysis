@@ -1,6 +1,6 @@
-#Occupation programme funding manager
-##Number skills 5
-###Similar occupations:
+# Occupation programme funding manager
+## Number skills 5
+### Similar occupations:
 | occupation                                                                                                                    |   skills in this occupation |   skills that match programme funding manager |   percentage match with programme funding manager |   skills not in programme funding manager |
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [animal facility manager](animal_facility_manager.md)                                                                         |                          21 |                                             1 |                                               0.2 |                                        20 |

@@ -1,6 +1,6 @@
-#Occupation air traffic safety technician
-##Number skills 15
-###Similar occupations:
+# Occupation air traffic safety technician
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match air traffic safety technician |   percentage match with air traffic safety technician |   skills not in air traffic safety technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [second officer](second_officer.md)                                                                                                                           |                          28 |                                                 7 |                                              0.466667 |                                            21 |

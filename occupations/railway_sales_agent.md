@@ -1,6 +1,6 @@
-#Occupation railway sales agent
-##Number skills 17
-###Similar occupations:
+# Occupation railway sales agent
+## Number skills 17
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match railway sales agent |   percentage match with railway sales agent |   skills not in railway sales agent |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [chief conductor](chief_conductor.md)                                                   |                          25 |                                       4 |                                    0.235294 |                                  21 |

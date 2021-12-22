@@ -1,6 +1,6 @@
-#Occupation cadastral technician
-##Number skills 12
-###Similar occupations:
+# Occupation cadastral technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match cadastral technician |   percentage match with cadastral technician |   skills not in cadastral technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [surveying technician](surveying_technician.md)                                           |                          23 |                                        9 |                                     0.75     |                                   14 |

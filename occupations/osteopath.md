@@ -1,6 +1,6 @@
-#Occupation osteopath
-##Number skills 26
-###Similar occupations:
+# Occupation osteopath
+## Number skills 26
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match osteopath |   percentage match with osteopath |   skills not in osteopath |
 |:------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [chiropractor](chiropractor.md)                                                     |                         136 |                            16 |                          0.615385 |                       120 |

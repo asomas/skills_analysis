@@ -1,6 +1,6 @@
-#Occupation explosives engineer
-##Number skills 16
-###Similar occupations:
+# Occupation explosives engineer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match explosives engineer |   percentage match with explosives engineer |   skills not in explosives engineer |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [mine development engineer](mine_development_engineer.md)                                         |                          25 |                                       6 |                                      0.375  |                                  19 |

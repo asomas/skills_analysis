@@ -1,6 +1,6 @@
-#Occupation fruit production team leader
-##Number skills 42
-###Similar occupations:
+# Occupation fruit production team leader
+## Number skills 42
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match fruit production team leader |   percentage match with fruit production team leader |   skills not in fruit production team leader |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [horticulture production team leader](horticulture_production_team_leader.md)     |                          42 |                                               33 |                                             0.785714 |                                            9 |

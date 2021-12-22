@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in metals and metal ores
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in metals and metal ores
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in metals and metal ores |   percentage match with wholesale merchant in metals and metal ores |   skills not in wholesale merchant in metals and metal ores |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [wholesale merchant in fruit and vegetables](wholesale_merchant_in_fruit_and_vegetables.md)                                                                         |                          20 |                                                              19 |                                                                0.95 |                                                           1 |

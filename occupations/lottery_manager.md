@@ -1,6 +1,6 @@
-#Occupation lottery manager
-##Number skills 28
-###Similar occupations:
+# Occupation lottery manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match lottery manager |   percentage match with lottery manager |   skills not in lottery manager |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [zoo curator](zoo_curator.md)                                               |                          47 |                                  11 |                                0.392857 |                              36 |

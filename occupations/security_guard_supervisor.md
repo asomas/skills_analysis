@@ -1,6 +1,6 @@
-#Occupation security guard supervisor
-##Number skills 19
-###Similar occupations:
+# Occupation security guard supervisor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match security guard supervisor |   percentage match with security guard supervisor |   skills not in security guard supervisor |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [security guard](security_guard.md)                                                         |                          19 |                                             9 |                                          0.473684 |                                        10 |

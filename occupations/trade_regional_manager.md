@@ -1,6 +1,6 @@
-#Occupation trade regional manager
-##Number skills 27
-###Similar occupations:
+# Occupation trade regional manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match trade regional manager |   percentage match with trade regional manager |   skills not in trade regional manager |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [shoe and leather accessories shop manager](shoe_and_leather_accessories_shop_manager.md)                                                                           |                          29 |                                         10 |                                       0.37037  |                                     19 |

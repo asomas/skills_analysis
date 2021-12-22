@@ -1,6 +1,6 @@
-#Occupation metal products assembler
-##Number skills 13
-###Similar occupations:
+# Occupation metal products assembler
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match metal products assembler |   percentage match with metal products assembler |   skills not in metal products assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [rolling stock assembler](rolling_stock_assembler.md)                                                 |                          17 |                                            6 |                                         0.461538 |                                       11 |

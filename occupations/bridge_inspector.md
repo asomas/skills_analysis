@@ -1,6 +1,6 @@
-#Occupation bridge inspector
-##Number skills 14
-###Similar occupations:
+# Occupation bridge inspector
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match bridge inspector |   percentage match with bridge inspector |   skills not in bridge inspector |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [rail layer](rail_layer.md)                                                                                                                                   |                          18 |                                    6 |                                 0.428571 |                               12 |

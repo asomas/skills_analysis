@@ -1,6 +1,6 @@
-#Occupation groundwater monitoring technician
-##Number skills 17
-###Similar occupations:
+# Occupation groundwater monitoring technician
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match groundwater monitoring technician |   percentage match with groundwater monitoring technician |   skills not in groundwater monitoring technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [water quality analyst](water_quality_analyst.md)                                         |                          13 |                                                    11 |                                                  0.647059 |                                                 2 |

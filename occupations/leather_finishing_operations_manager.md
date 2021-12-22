@@ -1,6 +1,6 @@
-#Occupation leather finishing operations manager
-##Number skills 30
-###Similar occupations:
+# Occupation leather finishing operations manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match leather finishing operations manager |   percentage match with leather finishing operations manager |   skills not in leather finishing operations manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [leather production manager](leather_production_manager.md)                               |                          35 |                                                       29 |                                                     0.966667 |                                                    6 |

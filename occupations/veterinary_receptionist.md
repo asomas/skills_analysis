@@ -1,6 +1,6 @@
-#Occupation veterinary receptionist
-##Number skills 26
-###Similar occupations:
+# Occupation veterinary receptionist
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match veterinary receptionist |   percentage match with veterinary receptionist |   skills not in veterinary receptionist |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [animal groomer](animal_groomer.md)                                                                                                                               |                          25 |                                          11 |                                        0.423077 |                                      14 |

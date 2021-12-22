@@ -1,6 +1,6 @@
-#Occupation conveyance clerk
-##Number skills 7
-###Similar occupations:
+# Occupation conveyance clerk
+## Number skills 7
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match conveyance clerk |   percentage match with conveyance clerk |   skills not in conveyance clerk |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [legal assistant](legal_assistant.md)                                   |                          13 |                                    5 |                                 0.714286 |                                8 |

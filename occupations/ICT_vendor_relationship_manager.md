@@ -1,6 +1,6 @@
-#Occupation ICT vendor relationship manager
-##Number skills 19
-###Similar occupations:
+# Occupation ICT vendor relationship manager
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match ICT vendor relationship manager |   percentage match with ICT vendor relationship manager |   skills not in ICT vendor relationship manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [ICT buyer](ICT_buyer.md)                                                                         |                          20 |                                                  11 |                                                0.578947 |                                               9 |

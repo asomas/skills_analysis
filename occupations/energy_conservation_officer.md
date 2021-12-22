@@ -1,6 +1,6 @@
-#Occupation energy conservation officer
-##Number skills 13
-###Similar occupations:
+# Occupation energy conservation officer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match energy conservation officer |   percentage match with energy conservation officer |   skills not in energy conservation officer |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [energy analyst](energy_analyst.md)                                                       |                          22 |                                              12 |                                            0.923077 |                                          10 |

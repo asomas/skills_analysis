@@ -1,6 +1,6 @@
-#Occupation renewable energy sales representative
-##Number skills 19
-###Similar occupations:
+# Occupation renewable energy sales representative
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match renewable energy sales representative |   percentage match with renewable energy sales representative |   skills not in renewable energy sales representative |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [domestic energy assessor](domestic_energy_assessor.md)                                                                                                           |                          16 |                                                        12 |                                                      0.631579 |                                                     4 |

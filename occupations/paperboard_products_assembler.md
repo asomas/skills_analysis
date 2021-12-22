@@ -1,6 +1,6 @@
-#Occupation paperboard products assembler
-##Number skills 11
-###Similar occupations:
+# Occupation paperboard products assembler
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match paperboard products assembler |   percentage match with paperboard products assembler |   skills not in paperboard products assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [corrugator operator](corrugator_operator.md)                                                         |                          13 |                                                 9 |                                              0.818182 |                                             4 |

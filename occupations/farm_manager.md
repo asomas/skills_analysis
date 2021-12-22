@@ -1,6 +1,6 @@
-#Occupation farm manager
-##Number skills 13
-###Similar occupations:
+# Occupation farm manager
+## Number skills 13
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match farm manager |   percentage match with farm manager |   skills not in farm manager |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [crop production manager](crop_production_manager.md)                             |                          26 |                                3 |                             0.230769 |                           23 |

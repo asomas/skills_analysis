@@ -1,6 +1,6 @@
-#Occupation botanist
-##Number skills 27
-###Similar occupations:
+# Occupation botanist
+## Number skills 27
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match botanist |   percentage match with botanist |   skills not in botanist |
 |:----------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [zoo curator](zoo_curator.md)                                               |                          47 |                           18 |                         0.666667 |                       29 |

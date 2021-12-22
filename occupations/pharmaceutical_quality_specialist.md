@@ -1,6 +1,6 @@
-#Occupation pharmaceutical quality specialist
-##Number skills 13
-###Similar occupations:
+# Occupation pharmaceutical quality specialist
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match pharmaceutical quality specialist |   percentage match with pharmaceutical quality specialist |   skills not in pharmaceutical quality specialist |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [pharmacologist](pharmacologist.md)                                                       |                          21 |                                                     5 |                                                  0.384615 |                                                16 |

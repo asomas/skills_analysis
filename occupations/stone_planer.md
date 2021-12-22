@@ -1,6 +1,6 @@
-#Occupation stone planer
-##Number skills 20
-###Similar occupations:
+# Occupation stone planer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match stone planer |   percentage match with stone planer |   skills not in stone planer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [stone polisher](stone_polisher.md)                                                                   |                          18 |                               10 |                                 0.5  |                            8 |

@@ -1,6 +1,6 @@
-#Occupation dental technician
-##Number skills 23
-###Similar occupations:
+# Occupation dental technician
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match dental technician |   percentage match with dental technician |   skills not in dental technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [dental chairside assistant](dental_chairside_assistant.md)                               |                          37 |                                    15 |                                  0.652174 |                                22 |

@@ -1,6 +1,6 @@
-#Occupation lasting machine operator
-##Number skills 11
-###Similar occupations:
+# Occupation lasting machine operator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match lasting machine operator |   percentage match with lasting machine operator |   skills not in lasting machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [footwear assembly supervisor](footwear_assembly_supervisor.md)                                       |                          17 |                                            9 |                                         0.818182 |                                        8 |

@@ -1,6 +1,6 @@
-#Occupation industrial arts vocational teacher
-##Number skills 26
-###Similar occupations:
+# Occupation industrial arts vocational teacher
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match industrial arts vocational teacher |   percentage match with industrial arts vocational teacher |   skills not in industrial arts vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [electricity and energy vocational teacher](electricity_and_energy_vocational_teacher.md)                             |                          28 |                                                     24 |                                                   0.923077 |                                                  4 |

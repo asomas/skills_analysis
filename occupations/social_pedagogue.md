@@ -1,6 +1,6 @@
-#Occupation social pedagogue
-##Number skills 42
-###Similar occupations:
+# Occupation social pedagogue
+## Number skills 42
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match social pedagogue |   percentage match with social pedagogue |   skills not in social pedagogue |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [drug and alcohol addiction counsellor](drug_and_alcohol_addiction_counsellor.md)         |                          52 |                                   30 |                                 0.714286 |                               22 |

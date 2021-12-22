@@ -1,6 +1,6 @@
-#Occupation air traffic manager
-##Number skills 14
-###Similar occupations:
+# Occupation air traffic manager
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match air traffic manager |   percentage match with air traffic manager |   skills not in air traffic manager |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [air traffic instructor](air_traffic_instructor.md)                                                           |                          29 |                                       4 |                                    0.285714 |                                  25 |

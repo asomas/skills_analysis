@@ -1,6 +1,6 @@
-#Occupation chef
-##Number skills 17
-###Similar occupations:
+# Occupation chef
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match chef |   percentage match with chef |   skills not in chef |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-------------------------:|-----------------------------:|---------------------:|
 | [pastry chef](pastry_chef.md)                                                               |                          17 |                       14 |                     0.823529 |                    3 |

@@ -1,6 +1,6 @@
-#Occupation tool and die maker
-##Number skills 22
-###Similar occupations:
+# Occupation tool and die maker
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match tool and die maker |   percentage match with tool and die maker |   skills not in tool and die maker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [laser beam welder](laser_beam_welder.md)                                                             |                          25 |                                      9 |                                   0.409091 |                                 16 |

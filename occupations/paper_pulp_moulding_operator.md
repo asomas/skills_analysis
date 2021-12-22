@@ -1,6 +1,6 @@
-#Occupation paper pulp moulding operator
-##Number skills 15
-###Similar occupations:
+# Occupation paper pulp moulding operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match paper pulp moulding operator |   percentage match with paper pulp moulding operator |   skills not in paper pulp moulding operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [tissue paper perforating and rewinding operator](tissue_paper_perforating_and_rewinding_operator.md) |                          15 |                                               10 |                                             0.666667 |                                            5 |

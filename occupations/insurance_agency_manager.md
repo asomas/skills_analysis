@@ -1,6 +1,6 @@
-#Occupation insurance agency manager
-##Number skills 37
-###Similar occupations:
+# Occupation insurance agency manager
+## Number skills 37
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match insurance agency manager |   percentage match with insurance agency manager |   skills not in insurance agency manager |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [bank manager](bank_manager.md)                                         |                          33 |                                           19 |                                         0.513514 |                                       14 |

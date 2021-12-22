@@ -1,6 +1,6 @@
-#Occupation textile finishing machine operator
-##Number skills 10
-###Similar occupations:
+# Occupation textile finishing machine operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match textile finishing machine operator |   percentage match with textile finishing machine operator |   skills not in textile finishing machine operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [finishing textile technician](finishing_textile_technician.md)                         |                           9 |                                                      6 |                                                        0.6 |                                                  3 |

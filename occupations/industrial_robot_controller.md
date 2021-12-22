@@ -1,6 +1,6 @@
-#Occupation industrial robot controller
-##Number skills 12
-###Similar occupations:
+# Occupation industrial robot controller
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match industrial robot controller |   percentage match with industrial robot controller |   skills not in industrial robot controller |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [filing machine operator](filing_machine_operator.md)                                                 |                          16 |                                               4 |                                            0.333333 |                                          12 |

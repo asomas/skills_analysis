@@ -1,6 +1,6 @@
-#Occupation decontamination worker
-##Number skills 15
-###Similar occupations:
+# Occupation decontamination worker
+## Number skills 15
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match decontamination worker |   percentage match with decontamination worker |   skills not in decontamination worker |
 |:----------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [asbestos abatement worker](asbestos_abatement_worker.md)             |                          11 |                                          9 |                                       0.6      |                                      2 |

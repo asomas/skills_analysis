@@ -1,6 +1,6 @@
-#Occupation fleet commander
-##Number skills 11
-###Similar occupations:
+# Occupation fleet commander
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match fleet commander |   percentage match with fleet commander |   skills not in fleet commander |
 |:----------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [brigadier](brigadier.md)                                                                     |                          14 |                                   5 |                                0.454545 |                               9 |

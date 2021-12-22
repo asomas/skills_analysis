@@ -1,6 +1,6 @@
-#Occupation clinical informatics manager
-##Number skills 27
-###Similar occupations:
+# Occupation clinical informatics manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match clinical informatics manager |   percentage match with clinical informatics manager |   skills not in clinical informatics manager |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [clinical psychologist](clinical_psychologist.md)                                                                         |                          95 |                                               10 |                                             0.37037  |                                           85 |

@@ -1,6 +1,6 @@
-#Occupation steam turbine operator
-##Number skills 11
-###Similar occupations:
+# Occupation steam turbine operator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match steam turbine operator |   percentage match with steam turbine operator |   skills not in steam turbine operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [steam plant operator](steam_plant_operator.md)                                                                                                                       |                          12 |                                          7 |                                       0.636364 |                                      5 |

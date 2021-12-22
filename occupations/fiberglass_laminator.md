@@ -1,6 +1,6 @@
-#Occupation fiberglass laminator
-##Number skills 16
-###Similar occupations:
+# Occupation fiberglass laminator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match fiberglass laminator |   percentage match with fiberglass laminator |   skills not in fiberglass laminator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [vessel engine assembler](vessel_engine_assembler.md)                                                           |                          18 |                                        8 |                                       0.5    |                                   10 |

@@ -1,6 +1,6 @@
-#Occupation career guidance advisor
-##Number skills 19
-###Similar occupations:
+# Occupation career guidance advisor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match career guidance advisor |   percentage match with career guidance advisor |   skills not in career guidance advisor |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [academic advisor](academic_advisor.md)                                                                 |                          14 |                                           6 |                                        0.315789 |                                       8 |

@@ -1,6 +1,6 @@
-#Occupation advertising manager
-##Number skills 33
-###Similar occupations:
+# Occupation advertising manager
+## Number skills 33
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match advertising manager |   percentage match with advertising manager |   skills not in advertising manager |
 |:------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [public relations officer](public_relations_officer.md)                 |                          23 |                                      22 |                                    0.666667 |                                   1 |

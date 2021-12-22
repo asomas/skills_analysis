@@ -1,6 +1,6 @@
-#Occupation provincial governor
-##Number skills 10
-###Similar occupations:
+# Occupation provincial governor
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match provincial governor |   percentage match with provincial governor |   skills not in provincial governor |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [public administration manager](public_administration_manager.md)                                 |                          18 |                                       7 |                                         0.7 |                                  11 |

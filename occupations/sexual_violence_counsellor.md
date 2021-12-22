@@ -1,6 +1,6 @@
-#Occupation sexual violence counsellor
-##Number skills 52
-###Similar occupations:
+# Occupation sexual violence counsellor
+## Number skills 52
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match sexual violence counsellor |   percentage match with sexual violence counsellor |   skills not in sexual violence counsellor |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [drug and alcohol addiction counsellor](drug_and_alcohol_addiction_counsellor.md)         |                          52 |                                             48 |                                           0.923077 |                                          4 |

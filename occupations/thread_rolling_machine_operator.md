@@ -1,6 +1,6 @@
-#Occupation thread rolling machine operator
-##Number skills 16
-###Similar occupations:
+# Occupation thread rolling machine operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match thread rolling machine operator |   percentage match with thread rolling machine operator |   skills not in thread rolling machine operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [laser cutting machine operator](laser_cutting_machine_operator.md)                                                                                           |                          26 |                                                  11 |                                                  0.6875 |                                              15 |

@@ -1,6 +1,6 @@
-#Occupation membranophone musical instruments maker
-##Number skills 14
-###Similar occupations:
+# Occupation membranophone musical instruments maker
+## Number skills 14
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match membranophone musical instruments maker |   percentage match with membranophone musical instruments maker |   skills not in membranophone musical instruments maker |
 |:------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [harpsichord maker](harpsichord_maker.md)                                     |                          18 |                                                          10 |                                                        0.714286 |                                                       8 |

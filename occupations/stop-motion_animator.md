@@ -1,6 +1,6 @@
-#Occupation stop-motion animator
-##Number skills 10
-###Similar occupations:
+# Occupation stop-motion animator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match stop-motion animator |   percentage match with stop-motion animator |   skills not in stop-motion animator |
 |:--------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [animation layout artist](animation_layout_artist.md)                     |                          17 |                                        8 |                                          0.8 |                                    9 |

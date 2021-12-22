@@ -1,6 +1,6 @@
-#Occupation actuarial assistant
-##Number skills 10
-###Similar occupations:
+# Occupation actuarial assistant
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match actuarial assistant |   percentage match with actuarial assistant |   skills not in actuarial assistant |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [actuarial consultant](actuarial_consultant.md)                                           |                          12 |                                       5 |                                         0.5 |                                   7 |

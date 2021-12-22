@@ -1,6 +1,6 @@
-#Occupation commercial director
-##Number skills 14
-###Similar occupations:
+# Occupation commercial director
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match commercial director |   percentage match with commercial director |   skills not in commercial director |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [translation agency manager](translation_agency_manager.md)                                                                                                       |                          31 |                                       3 |                                    0.214286 |                                  28 |

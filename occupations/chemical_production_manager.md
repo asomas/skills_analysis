@@ -1,6 +1,6 @@
-#Occupation chemical production manager
-##Number skills 35
-###Similar occupations:
+# Occupation chemical production manager
+## Number skills 35
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match chemical production manager |   percentage match with chemical production manager |   skills not in chemical production manager |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [chemical plant manager](chemical_plant_manager.md)                             |                          30 |                                              15 |                                            0.428571 |                                          15 |

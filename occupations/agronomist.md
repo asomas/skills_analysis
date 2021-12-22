@@ -1,6 +1,6 @@
-#Occupation agronomist
-##Number skills 31
-###Similar occupations:
+# Occupation agronomist
+## Number skills 31
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match agronomist |   percentage match with agronomist |   skills not in agronomist |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [horticulture production manager](horticulture_production_manager.md)             |                          43 |                             10 |                           0.322581 |                         33 |

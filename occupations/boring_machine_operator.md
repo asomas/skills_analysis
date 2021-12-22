@@ -1,6 +1,6 @@
-#Occupation boring machine operator
-##Number skills 16
-###Similar occupations:
+# Occupation boring machine operator
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match boring machine operator |   percentage match with boring machine operator |   skills not in boring machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [wood boring machine operator](wood_boring_machine_operator.md)                                       |                          18 |                                          14 |                                          0.875  |                                       4 |

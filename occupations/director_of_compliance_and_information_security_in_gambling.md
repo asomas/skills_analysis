@@ -1,6 +1,6 @@
-#Occupation director of compliance and information security in gambling
-##Number skills 12
-###Similar occupations:
+# Occupation director of compliance and information security in gambling
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match director of compliance and information security in gambling |   percentage match with director of compliance and information security in gambling |   skills not in director of compliance and information security in gambling |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------------:|------------------------------------------------------------------------------------:|----------------------------------------------------------------------------:|
 | [gaming inspector](gaming_inspector.md)                                                                                   |                          21 |                                                                               4 |                                                                            0.333333 |                                                                          17 |

@@ -1,6 +1,6 @@
-#Occupation diet cook
-##Number skills 17
-###Similar occupations:
+# Occupation diet cook
+## Number skills 17
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match diet cook |   percentage match with diet cook |   skills not in diet cook |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [cook](cook.md)                                                                 |                          16 |                            14 |                          0.823529 |                         2 |

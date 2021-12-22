@@ -1,6 +1,6 @@
-#Occupation airspace manager
-##Number skills 17
-###Similar occupations:
+# Occupation airspace manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match airspace manager |   percentage match with airspace manager |   skills not in airspace manager |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [air traffic controller](air_traffic_controller.md)                                                                         |                          33 |                                   10 |                                 0.588235 |                               23 |

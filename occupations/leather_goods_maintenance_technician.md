@@ -1,6 +1,6 @@
-#Occupation leather goods maintenance technician
-##Number skills 10
-###Similar occupations:
+# Occupation leather goods maintenance technician
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods maintenance technician |   percentage match with leather goods maintenance technician |   skills not in leather goods maintenance technician |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [leather goods product development manager](leather_goods_product_development_manager.md)                     |                          24 |                                                        8 |                                                          0.8 |                                                   16 |

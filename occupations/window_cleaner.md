@@ -1,6 +1,6 @@
-#Occupation window cleaner
-##Number skills 17
-###Similar occupations:
+# Occupation window cleaner
+## Number skills 17
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match window cleaner |   percentage match with window cleaner |   skills not in window cleaner |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [building cleaner](building_cleaner.md)                           |                          22 |                                  6 |                               0.352941 |                             16 |

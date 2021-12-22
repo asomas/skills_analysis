@@ -1,6 +1,6 @@
-#Occupation rigging supervisor
-##Number skills 14
-###Similar occupations:
+# Occupation rigging supervisor
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match rigging supervisor |   percentage match with rigging supervisor |   skills not in rigging supervisor |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [rigger](rigger.md)                                                                                                                                                   |                          16 |                                      7 |                                   0.5      |                                  9 |

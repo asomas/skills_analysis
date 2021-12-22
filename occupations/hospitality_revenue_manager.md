@@ -1,6 +1,6 @@
-#Occupation hospitality revenue manager
-##Number skills 19
-###Similar occupations:
+# Occupation hospitality revenue manager
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match hospitality revenue manager |   percentage match with hospitality revenue manager |   skills not in hospitality revenue manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [rooms division manager](rooms_division_manager.md)                                                                                                               |                          20 |                                               6 |                                            0.315789 |                                          14 |

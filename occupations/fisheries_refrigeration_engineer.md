@@ -1,6 +1,6 @@
-#Occupation fisheries refrigeration engineer
-##Number skills 22
-###Similar occupations:
+# Occupation fisheries refrigeration engineer
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match fisheries refrigeration engineer |   percentage match with fisheries refrigeration engineer |   skills not in fisheries refrigeration engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [marine engineer](marine_engineer.md)                                                                                                       |                          13 |                                                   13 |                                                 0.590909 |                                                0 |

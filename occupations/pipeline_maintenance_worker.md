@@ -1,6 +1,6 @@
-#Occupation pipeline maintenance worker
-##Number skills 17
-###Similar occupations:
+# Occupation pipeline maintenance worker
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match pipeline maintenance worker |   percentage match with pipeline maintenance worker |   skills not in pipeline maintenance worker |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [pipe welder](pipe_welder.md)                                                                                                                                 |                          20 |                                               7 |                                            0.411765 |                                          13 |

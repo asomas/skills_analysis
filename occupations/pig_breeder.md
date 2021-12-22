@@ -1,6 +1,6 @@
-#Occupation pig breeder
-##Number skills 30
-###Similar occupations:
+# Occupation pig breeder
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match pig breeder |   percentage match with pig breeder |   skills not in pig breeder |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [horse breeder](horse_breeder.md)                                                         |                          32 |                              28 |                            0.933333 |                           4 |

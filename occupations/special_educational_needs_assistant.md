@@ -1,6 +1,6 @@
-#Occupation special educational needs assistant
-##Number skills 23
-###Similar occupations:
+# Occupation special educational needs assistant
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match special educational needs assistant |   percentage match with special educational needs assistant |   skills not in special educational needs assistant |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [early years special educational needs teacher](early_years_special_educational_needs_teacher.md)                     |                          32 |                                                      19 |                                                    0.826087 |                                                  13 |

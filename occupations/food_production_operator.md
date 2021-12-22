@@ -1,6 +1,6 @@
-#Occupation food production operator
-##Number skills 17
-###Similar occupations:
+# Occupation food production operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match food production operator |   percentage match with food production operator |   skills not in food production operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [blanching operator](blanching_operator.md)                                             |                          22 |                                           10 |                                         0.588235 |                                       12 |

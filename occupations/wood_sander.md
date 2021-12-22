@@ -1,6 +1,6 @@
-#Occupation wood sander
-##Number skills 14
-###Similar occupations:
+# Occupation wood sander
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match wood sander |   percentage match with wood sander |   skills not in wood sander |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [woodturner](woodturner.md)                                                                           |                          17 |                               7 |                            0.5      |                          10 |

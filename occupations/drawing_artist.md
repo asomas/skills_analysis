@@ -1,6 +1,6 @@
-#Occupation drawing artist
-##Number skills 16
-###Similar occupations:
+# Occupation drawing artist
+## Number skills 16
+### Similar occupations:
 | occupation                                      |   skills in this occupation |   skills that match drawing artist |   percentage match with drawing artist |   skills not in drawing artist |
 |:------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [street artist](street_artist.md)               |                          18 |                                  8 |                                 0.5    |                             10 |

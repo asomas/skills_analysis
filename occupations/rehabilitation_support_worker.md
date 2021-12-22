@@ -1,6 +1,6 @@
-#Occupation rehabilitation support worker
-##Number skills 70
-###Similar occupations:
+# Occupation rehabilitation support worker
+## Number skills 70
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match rehabilitation support worker |   percentage match with rehabilitation support worker |   skills not in rehabilitation support worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [community development social worker](community_development_social_worker.md)             |                          67 |                                                66 |                                              0.942857 |                                             1 |

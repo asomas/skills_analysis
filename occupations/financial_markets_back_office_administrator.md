@@ -1,6 +1,6 @@
-#Occupation financial markets back office administrator
-##Number skills 8
-###Similar occupations:
+# Occupation financial markets back office administrator
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match financial markets back office administrator |   percentage match with financial markets back office administrator |   skills not in financial markets back office administrator |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [foreign exchange cashier](foreign_exchange_cashier.md)                                                                                                           |                          10 |                                                               5 |                                                               0.625 |                                                           5 |

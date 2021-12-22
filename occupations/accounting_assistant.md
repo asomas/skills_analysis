@@ -1,6 +1,6 @@
-#Occupation accounting assistant
-##Number skills 20
-###Similar occupations:
+# Occupation accounting assistant
+## Number skills 20
+### Similar occupations:
 | occupation                                      |   skills in this occupation |   skills that match accounting assistant |   percentage match with accounting assistant |   skills not in accounting assistant |
 |:------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [bookkeeper](bookkeeper.md)                     |                          18 |                                       12 |                                         0.6  |                                    6 |

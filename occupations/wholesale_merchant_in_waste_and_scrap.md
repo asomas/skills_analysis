@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in waste and scrap
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in waste and scrap
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in waste and scrap |   percentage match with wholesale merchant in waste and scrap |   skills not in wholesale merchant in waste and scrap |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [wholesale merchant in machine tools](wholesale_merchant_in_machine_tools.md)                                                                                       |                          20 |                                                        19 |                                                          0.95 |                                                     1 |

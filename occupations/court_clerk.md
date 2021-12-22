@@ -1,6 +1,6 @@
-#Occupation court clerk
-##Number skills 11
-###Similar occupations:
+# Occupation court clerk
+## Number skills 11
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match court clerk |   percentage match with court clerk |   skills not in court clerk |
 |:--------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [prosecutor](prosecutor.md)                                         |                          16 |                               6 |                            0.545455 |                          10 |

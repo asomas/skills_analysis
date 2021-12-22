@@ -1,6 +1,6 @@
-#Occupation social work assistant
-##Number skills 24
-###Similar occupations:
+# Occupation social work assistant
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match social work assistant |   percentage match with social work assistant |   skills not in social work assistant |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [family social worker](family_social_worker.md)                                           |                          74 |                                        24 |                                      1        |                                    50 |

@@ -1,6 +1,6 @@
-#Occupation brokerage firm director
-##Number skills 13
-###Similar occupations:
+# Occupation brokerage firm director
+## Number skills 13
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match brokerage firm director |   percentage match with brokerage firm director |   skills not in brokerage firm director |
 |:--------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [investment adviser](investment_adviser.md)                                     |                          22 |                                           4 |                                        0.307692 |                                      18 |

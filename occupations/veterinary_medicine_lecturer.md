@@ -1,6 +1,6 @@
-#Occupation veterinary medicine lecturer
-##Number skills 26
-###Similar occupations:
+# Occupation veterinary medicine lecturer
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match veterinary medicine lecturer |   percentage match with veterinary medicine lecturer |   skills not in veterinary medicine lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [engineering lecturer](engineering_lecturer.md)                                                                       |                          23 |                                               16 |                                             0.615385 |                                            7 |

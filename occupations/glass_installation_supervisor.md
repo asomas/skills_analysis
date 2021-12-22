@@ -1,6 +1,6 @@
-#Occupation glass installation supervisor
-##Number skills 22
-###Similar occupations:
+# Occupation glass installation supervisor
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match glass installation supervisor |   percentage match with glass installation supervisor |   skills not in glass installation supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [insulation supervisor](insulation_supervisor.md)                                                               |                          23 |                                                18 |                                              0.818182 |                                             5 |

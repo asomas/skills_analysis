@@ -1,6 +1,6 @@
-#Occupation civil engineering technician
-##Number skills 18
-###Similar occupations:
+# Occupation civil engineering technician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match civil engineering technician |   percentage match with civil engineering technician |   skills not in civil engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [transport engineer](transport_engineer.md)                                                                                                 |                          22 |                                                7 |                                             0.388889 |                                           15 |

@@ -1,6 +1,6 @@
-#Occupation flower and garden specialised seller
-##Number skills 38
-###Similar occupations:
+# Occupation flower and garden specialised seller
+## Number skills 38
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match flower and garden specialised seller |   percentage match with flower and garden specialised seller |   skills not in flower and garden specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [bakery specialised seller](bakery_specialised_seller.md)                                                                                                         |                          33 |                                                       28 |                                                     0.736842 |                                                    5 |

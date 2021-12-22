@@ -1,6 +1,6 @@
-#Occupation corporate trainer
-##Number skills 16
-###Similar occupations:
+# Occupation corporate trainer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match corporate trainer |   percentage match with corporate trainer |   skills not in corporate trainer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [further education teacher](further_education_teacher.md)                                                             |                          24 |                                    12 |                                    0.75   |                                12 |

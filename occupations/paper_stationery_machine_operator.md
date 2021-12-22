@@ -1,6 +1,6 @@
-#Occupation paper stationery machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation paper stationery machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match paper stationery machine operator |   percentage match with paper stationery machine operator |   skills not in paper stationery machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [paper cutter operator](paper_cutter_operator.md)                                                     |                          17 |                                                    14 |                                                  1        |                                                 3 |

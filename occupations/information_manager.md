@@ -1,6 +1,6 @@
-#Occupation information manager
-##Number skills 14
-###Similar occupations:
+# Occupation information manager
+## Number skills 14
+### Similar occupations:
 | occupation                                |   skills in this occupation |   skills that match information manager |   percentage match with information manager |   skills not in information manager |
 |:------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [librarian](librarian.md)                 |                          15 |                                       4 |                                    0.285714 |                                  11 |

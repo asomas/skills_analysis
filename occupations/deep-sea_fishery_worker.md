@@ -1,6 +1,6 @@
-#Occupation deep-sea fishery worker
-##Number skills 26
-###Similar occupations:
+# Occupation deep-sea fishery worker
+## Number skills 26
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match deep-sea fishery worker |   percentage match with deep-sea fishery worker |   skills not in deep-sea fishery worker |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [fisheries deckhand](fisheries_deckhand.md)                             |                          38 |                                          20 |                                        0.769231 |                                      18 |

@@ -1,6 +1,6 @@
-#Occupation solar energy technician
-##Number skills 19
-###Similar occupations:
+# Occupation solar energy technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match solar energy technician |   percentage match with solar energy technician |   skills not in solar energy technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [building electrician](building_electrician.md)                                                                                                                       |                          18 |                                           9 |                                        0.473684 |                                       9 |

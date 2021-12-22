@@ -1,6 +1,6 @@
-#Occupation child day care centre manager
-##Number skills 74
-###Similar occupations:
+# Occupation child day care centre manager
+## Number skills 74
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match child day care centre manager |   percentage match with child day care centre manager |   skills not in child day care centre manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [rescue centre manager](rescue_centre_manager.md)                                         |                          76 |                                                63 |                                              0.851351 |                                            13 |

@@ -1,6 +1,6 @@
-#Occupation optical instrument assembler
-##Number skills 28
-###Similar occupations:
+# Occupation optical instrument assembler
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match optical instrument assembler |   percentage match with optical instrument assembler |   skills not in optical instrument assembler |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [photographic equipment assembler](photographic_equipment_assembler.md)                     |                          31 |                                               24 |                                             0.857143 |                                            7 |

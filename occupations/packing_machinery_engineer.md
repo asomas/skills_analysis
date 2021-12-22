@@ -1,6 +1,6 @@
-#Occupation packing machinery engineer
-##Number skills 23
-###Similar occupations:
+# Occupation packing machinery engineer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match packing machinery engineer |   percentage match with packing machinery engineer |   skills not in packing machinery engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [container equipment design engineer](container_equipment_design_engineer.md)                                                               |                          23 |                                             19 |                                           0.826087 |                                          4 |

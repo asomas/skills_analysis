@@ -1,6 +1,6 @@
-#Occupation business economics researcher
-##Number skills 12
-###Similar occupations:
+# Occupation business economics researcher
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match business economics researcher |   percentage match with business economics researcher |   skills not in business economics researcher |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [economist](economist.md)                                                                 |                          15 |                                                 7 |                                              0.583333 |                                             8 |

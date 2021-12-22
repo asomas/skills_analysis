@@ -1,6 +1,6 @@
-#Occupation instrument technician
-##Number skills 27
-###Similar occupations:
+# Occupation instrument technician
+## Number skills 27
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match instrument technician |   percentage match with instrument technician |   skills not in instrument technician |
 |:------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [stage machinist](stage_machinist.md)                             |                          32 |                                        14 |                                      0.518519 |                                    18 |

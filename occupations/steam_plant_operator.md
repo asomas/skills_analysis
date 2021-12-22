@@ -1,6 +1,6 @@
-#Occupation steam plant operator
-##Number skills 12
-###Similar occupations:
+# Occupation steam plant operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match steam plant operator |   percentage match with steam plant operator |   skills not in steam plant operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [heating, ventilation, air conditioning (and refrigeration) service engineer](heating,_ventilation,_air_conditioning_(and_refrigeration)_service_engineer.md)         |                          31 |                                        7 |                                     0.583333 |                                   24 |

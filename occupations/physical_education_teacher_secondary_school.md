@@ -1,6 +1,6 @@
-#Occupation physical education teacher secondary school
-##Number skills 33
-###Similar occupations:
+# Occupation physical education teacher secondary school
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match physical education teacher secondary school |   percentage match with physical education teacher secondary school |   skills not in physical education teacher secondary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [biology teacher secondary school](biology_teacher_secondary_school.md)                                               |                          28 |                                                              24 |                                                            0.727273 |                                                           4 |

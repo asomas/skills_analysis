@@ -1,6 +1,6 @@
-#Occupation helmsman
-##Number skills 51
-###Similar occupations:
+# Occupation helmsman
+## Number skills 51
+### Similar occupations:
 | occupation                            |   skills in this occupation |   skills that match helmsman |   percentage match with helmsman |   skills not in helmsman |
 |:--------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [matrose](matrose.md)                 |                          60 |                           27 |                         0.529412 |                       33 |

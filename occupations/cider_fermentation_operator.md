@@ -1,6 +1,6 @@
-#Occupation cider fermentation operator
-##Number skills 15
-###Similar occupations:
+# Occupation cider fermentation operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match cider fermentation operator |   percentage match with cider fermentation operator |   skills not in cider fermentation operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [cellar operator](cellar_operator.md)                                                   |                          24 |                                              10 |                                            0.666667 |                                          14 |

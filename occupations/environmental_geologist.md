@@ -1,6 +1,6 @@
-#Occupation environmental geologist
-##Number skills 12
-###Similar occupations:
+# Occupation environmental geologist
+## Number skills 12
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match environmental geologist |   percentage match with environmental geologist |   skills not in environmental geologist |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [exploration geologist](exploration_geologist.md)                                   |                          19 |                                           4 |                                        0.333333 |                                      15 |

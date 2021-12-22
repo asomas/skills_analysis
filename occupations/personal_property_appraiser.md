@@ -1,6 +1,6 @@
-#Occupation personal property appraiser
-##Number skills 8
-###Similar occupations:
+# Occupation personal property appraiser
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match personal property appraiser |   percentage match with personal property appraiser |   skills not in personal property appraiser |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [title closer](title_closer.md)                                                                                                                               |                          15 |                                               4 |                                               0.5   |                                          11 |

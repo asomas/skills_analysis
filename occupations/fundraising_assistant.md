@@ -1,6 +1,6 @@
-#Occupation fundraising assistant
-##Number skills 7
-###Similar occupations:
+# Occupation fundraising assistant
+## Number skills 7
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match fundraising assistant |   percentage match with fundraising assistant |   skills not in fundraising assistant |
 |:------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [promotion assistant](promotion_assistant.md)                                 |                           8 |                                         4 |                                      0.571429 |                                     4 |

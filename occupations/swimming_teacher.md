@@ -1,6 +1,6 @@
-#Occupation swimming teacher
-##Number skills 12
-###Similar occupations:
+# Occupation swimming teacher
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match swimming teacher |   percentage match with swimming teacher |   skills not in swimming teacher |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [football coach](football_coach.md)                                                           |                          15 |                                    5 |                                 0.416667 |                               10 |

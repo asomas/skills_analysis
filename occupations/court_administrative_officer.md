@@ -1,6 +1,6 @@
-#Occupation court administrative officer
-##Number skills 11
-###Similar occupations:
+# Occupation court administrative officer
+## Number skills 11
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match court administrative officer |   percentage match with court administrative officer |   skills not in court administrative officer |
 |:--------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [court clerk](court_clerk.md)                                       |                          11 |                                                6 |                                             0.545455 |                                            5 |

@@ -1,6 +1,6 @@
-#Occupation ethical hacker
-##Number skills 17
-###Similar occupations:
+# Occupation ethical hacker
+## Number skills 17
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match ethical hacker |   percentage match with ethical hacker |   skills not in ethical hacker |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [ICT security consultant](ICT_security_consultant.md)             |                          24 |                                  6 |                               0.352941 |                             18 |

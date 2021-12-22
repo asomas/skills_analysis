@@ -1,6 +1,6 @@
-#Occupation prepared meals nutritionist
-##Number skills 23
-###Similar occupations:
+# Occupation prepared meals nutritionist
+## Number skills 23
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match prepared meals nutritionist |   percentage match with prepared meals nutritionist |   skills not in prepared meals nutritionist |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [industrial cook](industrial_cook.md)                                                   |                          29 |                                              13 |                                            0.565217 |                                          16 |

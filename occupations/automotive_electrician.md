@@ -1,6 +1,6 @@
-#Occupation automotive electrician
-##Number skills 25
-###Similar occupations:
+# Occupation automotive electrician
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match automotive electrician |   percentage match with automotive electrician |   skills not in automotive electrician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [marine electrician](marine_electrician.md)                                                                                                                   |                          18 |                                         11 |                                           0.44 |                                      7 |

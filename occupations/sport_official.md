@@ -1,6 +1,6 @@
-#Occupation sport official
-##Number skills 8
-###Similar occupations:
+# Occupation sport official
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match sport official |   percentage match with sport official |   skills not in sport official |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [video and motion picture producer](video_and_motion_picture_producer.md)                               |                          18 |                                  1 |                                  0.125 |                             17 |

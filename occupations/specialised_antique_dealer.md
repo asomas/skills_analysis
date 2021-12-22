@@ -1,6 +1,6 @@
-#Occupation specialised antique dealer
-##Number skills 32
-###Similar occupations:
+# Occupation specialised antique dealer
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match specialised antique dealer |   percentage match with specialised antique dealer |   skills not in specialised antique dealer |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [cosmetics and perfume specialised seller](cosmetics_and_perfume_specialised_seller.md)                                                                           |                          33 |                                             27 |                                            0.84375 |                                          6 |

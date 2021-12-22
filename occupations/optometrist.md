@@ -1,6 +1,6 @@
-#Occupation optometrist
-##Number skills 43
-###Similar occupations:
+# Occupation optometrist
+## Number skills 43
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match optometrist |   percentage match with optometrist |   skills not in optometrist |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [orthoptist](orthoptist.md)                                                               |                          63 |                              33 |                            0.767442 |                          30 |

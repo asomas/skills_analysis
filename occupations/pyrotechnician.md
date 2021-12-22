@@ -1,6 +1,6 @@
-#Occupation pyrotechnician
-##Number skills 23
-###Similar occupations:
+# Occupation pyrotechnician
+## Number skills 23
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match pyrotechnician |   percentage match with pyrotechnician |   skills not in pyrotechnician |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [head of workshop](head_of_workshop.md)                           |                          28 |                                  9 |                               0.391304 |                             19 |

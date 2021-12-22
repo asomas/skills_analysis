@@ -1,6 +1,6 @@
-#Occupation orthopaedic supply shop manager
-##Number skills 32
-###Similar occupations:
+# Occupation orthopaedic supply shop manager
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match orthopaedic supply shop manager |   percentage match with orthopaedic supply shop manager |   skills not in orthopaedic supply shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [shop manager](shop_manager.md)                                                                   |                          27 |                                                  27 |                                                 0.84375 |                                               0 |

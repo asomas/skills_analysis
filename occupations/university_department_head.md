@@ -1,6 +1,6 @@
-#Occupation university department head
-##Number skills 22
-###Similar occupations:
+# Occupation university department head
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match university department head |   percentage match with university department head |   skills not in university department head |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [secondary school department head](secondary_school_department_head.md)                                               |                          22 |                                             17 |                                           0.772727 |                                          5 |

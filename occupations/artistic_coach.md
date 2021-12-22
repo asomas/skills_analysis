@@ -1,6 +1,6 @@
-#Occupation artistic coach
-##Number skills 11
-###Similar occupations:
+# Occupation artistic coach
+## Number skills 11
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match artistic coach |   percentage match with artistic coach |   skills not in artistic coach |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [choreographer](choreographer.md)                                 |                          19 |                                  6 |                               0.545455 |                             13 |

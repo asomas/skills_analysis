@@ -1,6 +1,6 @@
-#Occupation cosmetics and perfume specialised seller
-##Number skills 33
-###Similar occupations:
+# Occupation cosmetics and perfume specialised seller
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match cosmetics and perfume specialised seller |   percentage match with cosmetics and perfume specialised seller |   skills not in cosmetics and perfume specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [bookshop specialised seller](bookshop_specialised_seller.md)                                                                                                     |                          37 |                                                           27 |                                                         0.818182 |                                                       10 |

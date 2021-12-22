@@ -1,6 +1,6 @@
-#Occupation newspaper editor
-##Number skills 20
-###Similar occupations:
+# Occupation newspaper editor
+## Number skills 20
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match newspaper editor |   percentage match with newspaper editor |   skills not in newspaper editor |
 |:------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [editor-in-chief](editor-in-chief.md)                                         |                          20 |                                   16 |                                     0.8  |                                4 |

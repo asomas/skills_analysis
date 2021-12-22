@@ -1,6 +1,6 @@
-#Occupation chief technology officer
-##Number skills 20
-###Similar occupations:
+# Occupation chief technology officer
+## Number skills 20
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match chief technology officer |   percentage match with chief technology officer |   skills not in chief technology officer |
 |:------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [chief information officer](chief_information_officer.md)   |                          22 |                                           12 |                                             0.6  |                                       10 |

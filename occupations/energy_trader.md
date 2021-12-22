@@ -1,6 +1,6 @@
-#Occupation energy trader
-##Number skills 16
-###Similar occupations:
+# Occupation energy trader
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match energy trader |   percentage match with energy trader |   skills not in energy trader |
 |:----------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [financial broker](financial_broker.md)                                                       |                          16 |                                 7 |                                0.4375 |                             9 |

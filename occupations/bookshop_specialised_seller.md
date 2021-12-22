@@ -1,6 +1,6 @@
-#Occupation bookshop specialised seller
-##Number skills 37
-###Similar occupations:
+# Occupation bookshop specialised seller
+## Number skills 37
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match bookshop specialised seller |   percentage match with bookshop specialised seller |   skills not in bookshop specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [music and video shop specialised seller](music_and_video_shop_specialised_seller.md)                                                                             |                          31 |                                              27 |                                            0.72973  |                                           4 |

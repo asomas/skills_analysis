@@ -1,6 +1,6 @@
-#Occupation terrazzo setter supervisor
-##Number skills 18
-###Similar occupations:
+# Occupation terrazzo setter supervisor
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match terrazzo setter supervisor |   percentage match with terrazzo setter supervisor |   skills not in terrazzo setter supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [glass installation supervisor](glass_installation_supervisor.md)                                               |                          22 |                                             17 |                                           0.944444 |                                          5 |

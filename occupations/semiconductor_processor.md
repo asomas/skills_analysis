@@ -1,6 +1,6 @@
-#Occupation semiconductor processor
-##Number skills 21
-###Similar occupations:
+# Occupation semiconductor processor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match semiconductor processor |   percentage match with semiconductor processor |   skills not in semiconductor processor |
 |:--------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [electronic equipment assembler](electronic_equipment_assembler.md)                         |                          22 |                                           9 |                                        0.428571 |                                      13 |

@@ -1,6 +1,6 @@
-#Occupation concrete finisher supervisor
-##Number skills 25
-###Similar occupations:
+# Occupation concrete finisher supervisor
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match concrete finisher supervisor |   percentage match with concrete finisher supervisor |   skills not in concrete finisher supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [tiling supervisor](tiling_supervisor.md)                                                                       |                          24 |                                               20 |                                                 0.8  |                                            4 |

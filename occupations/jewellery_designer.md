@@ -1,6 +1,6 @@
-#Occupation jewellery designer
-##Number skills 26
-###Similar occupations:
+# Occupation jewellery designer
+## Number skills 26
+### Similar occupations:
 | occupation                                        |   skills in this occupation |   skills that match jewellery designer |   percentage match with jewellery designer |   skills not in jewellery designer |
 |:--------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [filigree maker](filigree_maker.md)               |                          19 |                                     12 |                                   0.461538 |                                  7 |

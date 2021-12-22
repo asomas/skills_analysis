@@ -1,6 +1,6 @@
-#Occupation security alarm investigator
-##Number skills 13
-###Similar occupations:
+# Occupation security alarm investigator
+## Number skills 13
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match security alarm investigator |   percentage match with security alarm investigator |   skills not in security alarm investigator |
 |:----------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [store detective](store_detective.md)                     |                          14 |                                               3 |                                            0.230769 |                                          11 |

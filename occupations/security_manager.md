@@ -1,6 +1,6 @@
-#Occupation security manager
-##Number skills 28
-###Similar occupations:
+# Occupation security manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match security manager |   percentage match with security manager |   skills not in security manager |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [project manager](project_manager.md)                                                       |                          28 |                                   14 |                                 0.5      |                               14 |

@@ -1,6 +1,6 @@
-#Occupation wood fuel pelletiser
-##Number skills 11
-###Similar occupations:
+# Occupation wood fuel pelletiser
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match wood fuel pelletiser |   percentage match with wood fuel pelletiser |   skills not in wood fuel pelletiser |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [paper cutter operator](paper_cutter_operator.md)                                                     |                          17 |                                        8 |                                     0.727273 |                                    9 |

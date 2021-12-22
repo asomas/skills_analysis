@@ -1,6 +1,6 @@
-#Occupation performance hairdresser
-##Number skills 14
-###Similar occupations:
+# Occupation performance hairdresser
+## Number skills 14
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match performance hairdresser |   percentage match with performance hairdresser |   skills not in performance hairdresser |
 |:------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [wig and hairpiece maker](wig_and_hairpiece_maker.md)             |                          17 |                                           9 |                                        0.642857 |                                       8 |

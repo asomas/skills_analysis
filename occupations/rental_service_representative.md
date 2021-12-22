@@ -1,6 +1,6 @@
-#Occupation rental service representative
-##Number skills 22
-###Similar occupations:
+# Occupation rental service representative
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match rental service representative |   percentage match with rental service representative |   skills not in rental service representative |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [rental service representative in construction and civil engineering machinery](rental_service_representative_in_construction_and_civil_engineering_machinery.md) |                          23 |                                                22 |                                              1        |                                             1 |

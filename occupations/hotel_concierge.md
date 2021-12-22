@@ -1,6 +1,6 @@
-#Occupation hotel concierge
-##Number skills 8
-###Similar occupations:
+# Occupation hotel concierge
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match hotel concierge |   percentage match with hotel concierge |   skills not in hotel concierge |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [hospitality establishment receptionist](hospitality_establishment_receptionist.md)                                                                               |                          17 |                                   8 |                                   1     |                               9 |

@@ -1,6 +1,6 @@
-#Occupation technical sales representative in electronic and telecommunications equipment
-##Number skills 29
-###Similar occupations:
+# Occupation technical sales representative in electronic and telecommunications equipment
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match technical sales representative in electronic and telecommunications equipment |   percentage match with technical sales representative in electronic and telecommunications equipment |   skills not in technical sales representative in electronic and telecommunications equipment |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------:|
 | [technical sales representative in hardware, plumbing and heating equipment](technical_sales_representative_in_hardware,_plumbing_and_heating_equipment.md)         |                          29 |                                                                                                28 |                                                                                              0.965517 |                                                                                             1 |

@@ -1,6 +1,6 @@
-#Occupation shoe and leather accessories specialised seller
-##Number skills 34
-###Similar occupations:
+# Occupation shoe and leather accessories specialised seller
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match shoe and leather accessories specialised seller |   percentage match with shoe and leather accessories specialised seller |   skills not in shoe and leather accessories specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------:|
 | [sporting accessories specialised seller](sporting_accessories_specialised_seller.md)                                                                             |                          32 |                                                                  27 |                                                                0.794118 |                                                               5 |

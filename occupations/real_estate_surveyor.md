@@ -1,6 +1,6 @@
-#Occupation real estate surveyor
-##Number skills 11
-###Similar occupations:
+# Occupation real estate surveyor
+## Number skills 11
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match real estate surveyor |   percentage match with real estate surveyor |   skills not in real estate surveyor |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [property appraiser](property_appraiser.md)                       |                          15 |                                        8 |                                     0.727273 |                                    7 |

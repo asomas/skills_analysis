@@ -1,6 +1,6 @@
-#Occupation educational researcher
-##Number skills 17
-###Similar occupations:
+# Occupation educational researcher
+## Number skills 17
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match educational researcher |   percentage match with educational researcher |   skills not in educational researcher |
 |:--------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [special educational needs coordinator](special_educational_needs_coordinator.md)     |                          20 |                                          7 |                                       0.411765 |                                     13 |

@@ -1,6 +1,6 @@
-#Occupation piano maker
-##Number skills 16
-###Similar occupations:
+# Occupation piano maker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match piano maker |   percentage match with piano maker |   skills not in piano maker |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [harpsichord maker](harpsichord_maker.md)                                             |                          18 |                              15 |                              0.9375 |                           3 |

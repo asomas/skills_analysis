@@ -1,6 +1,6 @@
-#Occupation digital literacy teacher
-##Number skills 26
-###Similar occupations:
+# Occupation digital literacy teacher
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match digital literacy teacher |   percentage match with digital literacy teacher |   skills not in digital literacy teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [ICT teacher secondary school](ICT_teacher_secondary_school.md)                                                       |                          37 |                                           20 |                                         0.769231 |                                       17 |

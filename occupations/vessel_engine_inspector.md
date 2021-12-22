@@ -1,6 +1,6 @@
-#Occupation vessel engine inspector
-##Number skills 19
-###Similar occupations:
+# Occupation vessel engine inspector
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match vessel engine inspector |   percentage match with vessel engine inspector |   skills not in vessel engine inspector |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [rolling stock engine inspector](rolling_stock_engine_inspector.md)                                                                                           |                          21 |                                          15 |                                        0.789474 |                                       6 |

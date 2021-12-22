@@ -1,6 +1,6 @@
-#Occupation securities analyst
-##Number skills 18
-###Similar occupations:
+# Occupation securities analyst
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match securities analyst |   percentage match with securities analyst |   skills not in securities analyst |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [mutual fund broker](mutual_fund_broker.md)                                                   |                          17 |                                     13 |                                   0.722222 |                                  4 |

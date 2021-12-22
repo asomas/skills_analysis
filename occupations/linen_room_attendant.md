@@ -1,6 +1,6 @@
-#Occupation linen room attendant
-##Number skills 2
-###Similar occupations:
+# Occupation linen room attendant
+## Number skills 2
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match linen room attendant |   percentage match with linen room attendant |   skills not in linen room attendant |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [room attendant](room_attendant.md)                                                         |                           9 |                                        2 |                                          1   |                                    7 |

@@ -1,6 +1,6 @@
-#Occupation compliance engineer
-##Number skills 14
-###Similar occupations:
+# Occupation compliance engineer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match compliance engineer |   percentage match with compliance engineer |   skills not in compliance engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [equipment engineer](equipment_engineer.md)                                                                                                 |                          15 |                                      10 |                                    0.714286 |                                   5 |

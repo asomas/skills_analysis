@@ -1,6 +1,6 @@
-#Occupation V-belt finisher
-##Number skills 9
-###Similar occupations:
+# Occupation V-belt finisher
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match V-belt finisher |   percentage match with V-belt finisher |   skills not in V-belt finisher |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [rubber goods assembler](rubber_goods_assembler.md)                                                                                                                   |                           9 |                                   3 |                                0.333333 |                               6 |

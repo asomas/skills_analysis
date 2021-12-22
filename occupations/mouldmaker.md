@@ -1,6 +1,6 @@
-#Occupation mouldmaker
-##Number skills 11
-###Similar occupations:
+# Occupation mouldmaker
+## Number skills 11
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match mouldmaker |   percentage match with mouldmaker |   skills not in mouldmaker |
 |:----------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [moulding machine operator](moulding_machine_operator.md)                   |                          12 |                             10 |                           0.909091 |                          2 |

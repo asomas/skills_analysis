@@ -1,6 +1,6 @@
-#Occupation blogger
-##Number skills 16
-###Similar occupations:
+# Occupation blogger
+## Number skills 16
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match blogger |   percentage match with blogger |   skills not in blogger |
 |:--------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [vlogger](vlogger.md)                                                     |                          20 |                          13 |                          0.8125 |                       7 |

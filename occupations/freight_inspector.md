@@ -1,6 +1,6 @@
-#Occupation freight inspector
-##Number skills 20
-###Similar occupations:
+# Occupation freight inspector
+## Number skills 20
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match freight inspector |   percentage match with freight inspector |   skills not in freight inspector |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [marine cargo inspector](marine_cargo_inspector.md)                           |                          16 |                                     8 |                                      0.4  |                                 8 |

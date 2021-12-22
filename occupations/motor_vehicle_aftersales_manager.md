@@ -1,6 +1,6 @@
-#Occupation motor vehicle aftersales manager
-##Number skills 19
-###Similar occupations:
+# Occupation motor vehicle aftersales manager
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match motor vehicle aftersales manager |   percentage match with motor vehicle aftersales manager |   skills not in motor vehicle aftersales manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [retail entrepreneur](retail_entrepreneur.md)                                                                                                                     |                          25 |                                                    8 |                                                 0.421053 |                                               17 |

@@ -1,6 +1,6 @@
-#Occupation energy manager
-##Number skills 34
-###Similar occupations:
+# Occupation energy manager
+## Number skills 34
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match energy manager |   percentage match with energy manager |   skills not in energy manager |
 |:------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [power plant manager](power_plant_manager.md)                           |                          25 |                                 13 |                               0.382353 |                             12 |

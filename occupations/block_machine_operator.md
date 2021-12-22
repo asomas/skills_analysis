@@ -1,6 +1,6 @@
-#Occupation block machine operator
-##Number skills 9
-###Similar occupations:
+# Occupation block machine operator
+## Number skills 9
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match block machine operator |   percentage match with block machine operator |   skills not in block machine operator |
 |:----------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [concrete products machine operator](concrete_products_machine_operator.md) |                          11 |                                          3 |                                       0.333333 |                                      8 |

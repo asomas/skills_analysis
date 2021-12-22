@@ -1,6 +1,6 @@
-#Occupation drugstore manager
-##Number skills 20
-###Similar occupations:
+# Occupation drugstore manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match drugstore manager |   percentage match with drugstore manager |   skills not in drugstore manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [medical goods shop manager](medical_goods_shop_manager.md)                                       |                          31 |                                    19 |                                      0.95 |                                12 |

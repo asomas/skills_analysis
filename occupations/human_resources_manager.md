@@ -1,6 +1,6 @@
-#Occupation human resources manager
-##Number skills 23
-###Similar occupations:
+# Occupation human resources manager
+## Number skills 23
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match human resources manager |   percentage match with human resources manager |   skills not in human resources manager |
 |:--------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [equality and inclusion manager](equality_and_inclusion_manager.md)       |                          31 |                                          19 |                                        0.826087 |                                      12 |

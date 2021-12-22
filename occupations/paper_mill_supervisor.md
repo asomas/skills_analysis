@@ -1,6 +1,6 @@
-#Occupation paper mill supervisor
-##Number skills 17
-###Similar occupations:
+# Occupation paper mill supervisor
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match paper mill supervisor |   percentage match with paper mill supervisor |   skills not in paper mill supervisor |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [wood production supervisor](wood_production_supervisor.md)                                           |                          16 |                                        13 |                                      0.764706 |                                     3 |

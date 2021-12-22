@@ -1,6 +1,6 @@
-#Occupation train attendant
-##Number skills 6
-###Similar occupations:
+# Occupation train attendant
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match train attendant |   percentage match with train attendant |   skills not in train attendant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [ship steward/ship stewardess](ship_steward-ship_stewardess.md)                                                                                                   |                          21 |                                   6 |                                1        |                              15 |

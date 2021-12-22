@@ -1,6 +1,6 @@
-#Occupation drop forging hammer worker
-##Number skills 18
-###Similar occupations:
+# Occupation drop forging hammer worker
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match drop forging hammer worker |   percentage match with drop forging hammer worker |   skills not in drop forging hammer worker |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [hydraulic forging press worker](hydraulic_forging_press_worker.md)                                             |                          18 |                                             14 |                                           0.777778 |                                          4 |

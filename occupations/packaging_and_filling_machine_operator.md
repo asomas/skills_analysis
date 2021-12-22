@@ -1,6 +1,6 @@
-#Occupation packaging and filling machine operator
-##Number skills 17
-###Similar occupations:
+# Occupation packaging and filling machine operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match packaging and filling machine operator |   percentage match with packaging and filling machine operator |   skills not in packaging and filling machine operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [pasta operator](pasta_operator.md)                                                     |                          27 |                                                          9 |                                                       0.529412 |                                                     18 |

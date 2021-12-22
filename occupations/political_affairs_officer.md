@@ -1,6 +1,6 @@
-#Occupation political affairs officer
-##Number skills 10
-###Similar occupations:
+# Occupation political affairs officer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match political affairs officer |   percentage match with political affairs officer |   skills not in political affairs officer |
 |:------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [embassy counsellor](embassy_counsellor.md)                                   |                          15 |                                             6 |                                               0.6 |                                         9 |

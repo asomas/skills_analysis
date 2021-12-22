@@ -1,6 +1,6 @@
-#Occupation animal massage therapist
-##Number skills 22
-###Similar occupations:
+# Occupation animal massage therapist
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match animal massage therapist |   percentage match with animal massage therapist |   skills not in animal massage therapist |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [animal chiropractor](animal_chiropractor.md)                                             |                          22 |                                           21 |                                         0.954545 |                                        1 |

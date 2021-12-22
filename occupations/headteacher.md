@@ -1,6 +1,6 @@
-#Occupation headteacher
-##Number skills 25
-###Similar occupations:
+# Occupation headteacher
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match headteacher |   percentage match with headteacher |   skills not in headteacher |
 |:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [primary school head teacher](primary_school_head_teacher.md)                                 |                          24 |                              11 |                                0.44 |                          13 |

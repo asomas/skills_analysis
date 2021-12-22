@@ -1,6 +1,6 @@
-#Occupation cooper
-##Number skills 14
-###Similar occupations:
+# Occupation cooper
+## Number skills 14
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match cooper |   percentage match with cooper |   skills not in cooper |
 |:------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [woodcarver](woodcarver.md)                                                         |                          17 |                          6 |                       0.428571 |                     11 |

@@ -1,6 +1,6 @@
-#Occupation electron beam welder
-##Number skills 25
-###Similar occupations:
+# Occupation electron beam welder
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match electron beam welder |   percentage match with electron beam welder |   skills not in electron beam welder |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [laser beam welder](laser_beam_welder.md)                                                             |                          25 |                                       21 |                                         0.84 |                                    4 |

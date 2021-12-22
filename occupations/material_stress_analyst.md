@@ -1,6 +1,6 @@
-#Occupation material stress analyst
-##Number skills 21
-###Similar occupations:
+# Occupation material stress analyst
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match material stress analyst |   percentage match with material stress analyst |   skills not in material stress analyst |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [automotive engineering technician](automotive_engineering_technician.md)                                                                   |                          19 |                                          14 |                                        0.666667 |                                       5 |

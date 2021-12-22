@@ -1,6 +1,6 @@
-#Occupation programme manager
-##Number skills 23
-###Similar occupations:
+# Occupation programme manager
+## Number skills 23
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match programme manager |   percentage match with programme manager |   skills not in programme manager |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [project manager](project_manager.md)                                               |                          28 |                                    17 |                                  0.73913  |                                11 |

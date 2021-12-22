@@ -1,6 +1,6 @@
-#Occupation freight transport dispatcher
-##Number skills 16
-###Similar occupations:
+# Occupation freight transport dispatcher
+## Number skills 16
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match freight transport dispatcher |   percentage match with freight transport dispatcher |   skills not in freight transport dispatcher |
 |:----------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [ship captain](ship_captain.md)                                             |                          32 |                                                4 |                                               0.25   |                                           28 |

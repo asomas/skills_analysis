@@ -1,6 +1,6 @@
-#Occupation toilet attendant
-##Number skills 11
-###Similar occupations:
+# Occupation toilet attendant
+## Number skills 11
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match toilet attendant |   percentage match with toilet attendant |   skills not in toilet attendant |
 |:------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [building cleaner](building_cleaner.md)                     |                          22 |                                    7 |                                 0.636364 |                               15 |

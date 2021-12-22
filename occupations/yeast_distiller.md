@@ -1,6 +1,6 @@
-#Occupation yeast distiller
-##Number skills 14
-###Similar occupations:
+# Occupation yeast distiller
+## Number skills 14
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match yeast distiller |   percentage match with yeast distiller |   skills not in yeast distiller |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [distillery worker](distillery_worker.md)                                               |                          17 |                                  12 |                                0.857143 |                               5 |

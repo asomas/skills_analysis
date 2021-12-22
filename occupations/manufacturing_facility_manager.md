@@ -1,6 +1,6 @@
-#Occupation manufacturing facility manager
-##Number skills 15
-###Similar occupations:
+# Occupation manufacturing facility manager
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match manufacturing facility manager |   percentage match with manufacturing facility manager |   skills not in manufacturing facility manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [facilities manager](facilities_manager.md)                                                                                                                 |                          33 |                                                 10 |                                               0.666667 |                                             23 |

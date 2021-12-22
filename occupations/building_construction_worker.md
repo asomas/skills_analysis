@@ -1,6 +1,6 @@
-#Occupation building construction worker
-##Number skills 19
-###Similar occupations:
+# Occupation building construction worker
+## Number skills 19
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match building construction worker |   percentage match with building construction worker |   skills not in building construction worker |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [concrete finisher](concrete_finisher.md)                                               |                          18 |                                                6 |                                             0.315789 |                                           12 |

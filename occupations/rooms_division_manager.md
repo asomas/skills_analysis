@@ -1,6 +1,6 @@
-#Occupation rooms division manager
-##Number skills 20
-###Similar occupations:
+# Occupation rooms division manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match rooms division manager |   percentage match with rooms division manager |   skills not in rooms division manager |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [housekeeping supervisor](housekeeping_supervisor.md)                                       |                          19 |                                         13 |                                           0.65 |                                      6 |

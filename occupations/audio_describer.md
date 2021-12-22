@@ -1,6 +1,6 @@
-#Occupation audio describer
-##Number skills 19
-###Similar occupations:
+# Occupation audio describer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match audio describer |   percentage match with audio describer |   skills not in audio describer |
 |:--------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [news anchor](news_anchor.md)                                             |                          17 |                                   3 |                                0.157895 |                              14 |

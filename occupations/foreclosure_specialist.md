@@ -1,6 +1,6 @@
-#Occupation foreclosure specialist
-##Number skills 15
-###Similar occupations:
+# Occupation foreclosure specialist
+## Number skills 15
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match foreclosure specialist |   percentage match with foreclosure specialist |   skills not in foreclosure specialist |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [mortgage loan underwriter](mortgage_loan_underwriter.md)                         |                          12 |                                          7 |                                       0.466667 |                                      5 |

@@ -1,6 +1,6 @@
-#Occupation battery test technician
-##Number skills 18
-###Similar occupations:
+# Occupation battery test technician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match battery test technician |   percentage match with battery test technician |   skills not in battery test technician |
 |:--------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [electrical equipment inspector](electrical_equipment_inspector.md)                         |                          24 |                                          10 |                                        0.555556 |                                      14 |

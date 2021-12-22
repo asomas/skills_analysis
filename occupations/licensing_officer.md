@@ -1,6 +1,6 @@
-#Occupation licensing officer
-##Number skills 12
-###Similar occupations:
+# Occupation licensing officer
+## Number skills 12
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match licensing officer |   percentage match with licensing officer |   skills not in licensing officer |
 |:------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [immigration adviser](immigration_adviser.md)               |                          11 |                                     4 |                                  0.333333 |                                 7 |

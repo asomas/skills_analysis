@@ -1,6 +1,6 @@
-#Occupation import export specialist in electronic and telecommunications equipment
-##Number skills 22
-###Similar occupations:
+# Occupation import export specialist in electronic and telecommunications equipment
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in electronic and telecommunications equipment |   percentage match with import export specialist in electronic and telecommunications equipment |   skills not in import export specialist in electronic and telecommunications equipment |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------:|
 | [import export specialist in mining, construction, civil engineering machinery](import_export_specialist_in_mining,_construction,_civil_engineering_machinery.md)       |                          22 |                                                                                          21 |                                                                                        0.954545 |                                                                                       1 |

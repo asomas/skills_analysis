@@ -1,6 +1,6 @@
-#Occupation raw materials warehouse specialist
-##Number skills 18
-###Similar occupations:
+# Occupation raw materials warehouse specialist
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match raw materials warehouse specialist |   percentage match with raw materials warehouse specialist |   skills not in raw materials warehouse specialist |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [leather wet processing department manager](leather_wet_processing_department_manager.md)                                                                   |                          29 |                                                     11 |                                                   0.611111 |                                                 18 |

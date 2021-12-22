@@ -1,6 +1,6 @@
-#Occupation import export specialist in textile industry machinery
-##Number skills 23
-###Similar occupations:
+# Occupation import export specialist in textile industry machinery
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in textile industry machinery |   percentage match with import export specialist in textile industry machinery |   skills not in import export specialist in textile industry machinery |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------:|-------------------------------------------------------------------------------:|-----------------------------------------------------------------------:|
 | [import export specialist in chemical products](import_export_specialist_in_chemical_products.md)                                                                       |                          24 |                                                                         22 |                                                                       0.956522 |                                                                      2 |

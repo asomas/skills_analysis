@@ -1,6 +1,6 @@
-#Occupation machinery assembly coordinator
-##Number skills 11
-###Similar occupations:
+# Occupation machinery assembly coordinator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match machinery assembly coordinator |   percentage match with machinery assembly coordinator |   skills not in machinery assembly coordinator |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [industrial assembly supervisor](industrial_assembly_supervisor.md)                     |                          35 |                                                  8 |                                               0.727273 |                                             27 |

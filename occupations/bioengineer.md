@@ -1,6 +1,6 @@
-#Occupation bioengineer
-##Number skills 8
-###Similar occupations:
+# Occupation bioengineer
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match bioengineer |   percentage match with bioengineer |   skills not in bioengineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [biochemical engineer](biochemical_engineer.md)                                                                                             |                          31 |                               8 |                               1     |                          23 |

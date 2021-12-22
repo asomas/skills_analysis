@@ -1,6 +1,6 @@
-#Occupation precision engineer
-##Number skills 11
-###Similar occupations:
+# Occupation precision engineer
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match precision engineer |   percentage match with precision engineer |   skills not in precision engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [design engineer](design_engineer.md)                                                                                                       |                          16 |                                      9 |                                   0.818182 |                                  7 |

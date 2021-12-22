@@ -1,6 +1,6 @@
-#Occupation printmaker
-##Number skills 22
-###Similar occupations:
+# Occupation printmaker
+## Number skills 22
+### Similar occupations:
 | occupation                                  |   skills in this occupation |   skills that match printmaker |   percentage match with printmaker |   skills not in printmaker |
 |:--------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [jewellery engraver](jewellery_engraver.md) |                          13 |                             12 |                           0.545455 |                          1 |

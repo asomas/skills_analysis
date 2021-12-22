@@ -1,6 +1,6 @@
-#Occupation aviation safety officer
-##Number skills 17
-###Similar occupations:
+# Occupation aviation safety officer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match aviation safety officer |   percentage match with aviation safety officer |   skills not in aviation safety officer |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [commercial pilot](commercial_pilot.md)                                                                                     |                          41 |                                           5 |                                        0.294118 |                                      36 |

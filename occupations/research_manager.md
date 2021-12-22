@@ -1,6 +1,6 @@
-#Occupation research manager
-##Number skills 16
-###Similar occupations:
+# Occupation research manager
+## Number skills 16
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match research manager |   percentage match with research manager |   skills not in research manager |
 |:------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [artistic director](artistic_director.md)                                           |                          36 |                                    5 |                                   0.3125 |                               31 |

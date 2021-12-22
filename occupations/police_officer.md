@@ -1,6 +1,6 @@
-#Occupation police officer
-##Number skills 15
-###Similar occupations:
+# Occupation police officer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match police officer |   percentage match with police officer |   skills not in police officer |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [police trainer](police_trainer.md)                                                         |                          19 |                                 11 |                               0.733333 |                              8 |

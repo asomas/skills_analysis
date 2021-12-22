@@ -1,6 +1,6 @@
-#Occupation early years teacher
-##Number skills 27
-###Similar occupations:
+# Occupation early years teacher
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match early years teacher |   percentage match with early years teacher |   skills not in early years teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [Freinet school teacher](Freinet_school_teacher.md)                                                                   |                          32 |                                      26 |                                    0.962963 |                                   6 |

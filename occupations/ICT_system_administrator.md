@@ -1,6 +1,6 @@
-#Occupation ICT system administrator
-##Number skills 23
-###Similar occupations:
+# Occupation ICT system administrator
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match ICT system administrator |   percentage match with ICT system administrator |   skills not in ICT system administrator |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [telecommunications engineering technician](telecommunications_engineering_technician.md) |                          23 |                                           11 |                                         0.478261 |                                       12 |

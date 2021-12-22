@@ -1,6 +1,6 @@
-#Occupation defence administration officer
-##Number skills 12
-###Similar occupations:
+# Occupation defence administration officer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match defence administration officer |   percentage match with defence administration officer |   skills not in defence administration officer |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [youth centre manager](youth_centre_manager.md)                                                   |                          71 |                                                  5 |                                               0.416667 |                                             66 |

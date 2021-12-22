@@ -1,6 +1,6 @@
-#Occupation industrial quality manager
-##Number skills 29
-###Similar occupations:
+# Occupation industrial quality manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match industrial quality manager |   percentage match with industrial quality manager |   skills not in industrial quality manager |
 |:--------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [product quality inspector](product_quality_inspector.md)                             |                          22 |                                             10 |                                           0.344828 |                                         12 |

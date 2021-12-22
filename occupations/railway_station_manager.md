@@ -1,6 +1,6 @@
-#Occupation railway station manager
-##Number skills 21
-###Similar occupations:
+# Occupation railway station manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match railway station manager |   percentage match with railway station manager |   skills not in railway station manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [rail project engineer](rail_project_engineer.md)                                                 |                          30 |                                           7 |                                        0.333333 |                                      23 |

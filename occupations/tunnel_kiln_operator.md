@@ -1,6 +1,6 @@
-#Occupation tunnel kiln operator
-##Number skills 6
-###Similar occupations:
+# Occupation tunnel kiln operator
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match tunnel kiln operator |   percentage match with tunnel kiln operator |   skills not in tunnel kiln operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [clay products dry kiln operator](clay_products_dry_kiln_operator.md)                                           |                           8 |                                        2 |                                     0.333333 |                                    6 |

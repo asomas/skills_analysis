@@ -1,6 +1,6 @@
-#Occupation import export specialist in computers, peripheral equipment and software
-##Number skills 23
-###Similar occupations:
+# Occupation import export specialist in computers, peripheral equipment and software
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in computers, peripheral equipment and software |   percentage match with import export specialist in computers, peripheral equipment and software |   skills not in import export specialist in computers, peripheral equipment and software |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
 | [import export specialist in hides, skins and leather products](import_export_specialist_in_hides,_skins_and_leather_products.md)                                       |                          22 |                                                                                           20 |                                                                                         0.869565 |                                                                                        2 |

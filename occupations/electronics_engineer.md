@@ -1,6 +1,6 @@
-#Occupation electronics engineer
-##Number skills 25
-###Similar occupations:
+# Occupation electronics engineer
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match electronics engineer |   percentage match with electronics engineer |   skills not in electronics engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [microelectronics engineer](microelectronics_engineer.md)                                                                                   |                          36 |                                       15 |                                         0.6  |                                   21 |

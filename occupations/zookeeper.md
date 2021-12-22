@@ -1,6 +1,6 @@
-#Occupation zookeeper
-##Number skills 27
-###Similar occupations:
+# Occupation zookeeper
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match zookeeper |   percentage match with zookeeper |   skills not in zookeeper |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [zoo section leader](zoo_section_leader.md)                                               |                          34 |                            25 |                          0.925926 |                         9 |

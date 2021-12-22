@@ -1,6 +1,6 @@
-#Occupation animal osteopath
-##Number skills 22
-###Similar occupations:
+# Occupation animal osteopath
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match animal osteopath |   percentage match with animal osteopath |   skills not in animal osteopath |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [animal hydrotherapist](animal_hydrotherapist.md)                                         |                          22 |                                   21 |                                 0.954545 |                                1 |

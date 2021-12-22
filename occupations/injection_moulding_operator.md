@@ -1,6 +1,6 @@
-#Occupation injection moulding operator
-##Number skills 14
-###Similar occupations:
+# Occupation injection moulding operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match injection moulding operator |   percentage match with injection moulding operator |   skills not in injection moulding operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [blow moulding machine operator](blow_moulding_machine_operator.md)                                             |                          13 |                                               9 |                                            0.642857 |                                           4 |

@@ -1,6 +1,6 @@
-#Occupation ICT disaster recovery analyst
-##Number skills 20
-###Similar occupations:
+# Occupation ICT disaster recovery analyst
+## Number skills 20
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match ICT disaster recovery analyst |   percentage match with ICT disaster recovery analyst |   skills not in ICT disaster recovery analyst |
 |:------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [ICT resilience manager](ICT_resilience_manager.md)         |                          19 |                                                 8 |                                                  0.4  |                                            11 |

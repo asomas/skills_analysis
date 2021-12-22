@@ -1,6 +1,6 @@
-#Occupation football coach
-##Number skills 15
-###Similar occupations:
+# Occupation football coach
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match football coach |   percentage match with football coach |   skills not in football coach |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [sports coach](sports_coach.md)                                                                                       |                          26 |                                 10 |                               0.666667 |                             16 |

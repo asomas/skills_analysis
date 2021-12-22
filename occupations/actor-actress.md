@@ -1,6 +1,6 @@
-#Occupation actor/actress
-##Number skills 23
-###Similar occupations:
+# Occupation actor/actress
+## Number skills 23
+### Similar occupations:
 | occupation                                |   skills in this occupation |   skills that match actor/actress |   percentage match with actor/actress |   skills not in actor/actress |
 |:------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [prompter](prompter.md)                   |                          16 |                                12 |                              0.521739 |                             4 |

@@ -1,6 +1,6 @@
-#Occupation aquaculture production manager
-##Number skills 38
-###Similar occupations:
+# Occupation aquaculture production manager
+## Number skills 38
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match aquaculture production manager |   percentage match with aquaculture production manager |   skills not in aquaculture production manager |
 |:--------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [aquaculture husbandry manager](aquaculture_husbandry_manager.md)               |                          39 |                                                 19 |                                               0.5      |                                             20 |

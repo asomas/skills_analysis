@@ -1,6 +1,6 @@
-#Occupation contact centre manager
-##Number skills 20
-###Similar occupations:
+# Occupation contact centre manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match contact centre manager |   percentage match with contact centre manager |   skills not in contact centre manager |
 |:--------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [call centre manager](call_centre_manager.md)                                         |                          29 |                                         13 |                                           0.65 |                                     16 |

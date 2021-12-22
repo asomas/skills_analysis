@@ -1,6 +1,6 @@
-#Occupation specialised seller
-##Number skills 26
-###Similar occupations:
+# Occupation specialised seller
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match specialised seller |   percentage match with specialised seller |   skills not in specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [music and video shop specialised seller](music_and_video_shop_specialised_seller.md)                                                                             |                          31 |                                     26 |                                   1        |                                  5 |

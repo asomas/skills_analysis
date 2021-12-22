@@ -1,6 +1,6 @@
-#Occupation sauce production operator
-##Number skills 7
-###Similar occupations:
+# Occupation sauce production operator
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match sauce production operator |   percentage match with sauce production operator |   skills not in sauce production operator |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [milk reception operator](milk_reception_operator.md)                                       |                          22 |                                             7 |                                          1        |                                        15 |

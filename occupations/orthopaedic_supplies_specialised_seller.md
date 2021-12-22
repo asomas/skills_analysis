@@ -1,6 +1,6 @@
-#Occupation orthopaedic supplies specialised seller
-##Number skills 33
-###Similar occupations:
+# Occupation orthopaedic supplies specialised seller
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match orthopaedic supplies specialised seller |   percentage match with orthopaedic supplies specialised seller |   skills not in orthopaedic supplies specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [medical goods specialised seller](medical_goods_specialised_seller.md)                                                                                           |                          31 |                                                          27 |                                                        0.818182 |                                                       4 |

@@ -1,6 +1,6 @@
-#Occupation medical laboratory assistant
-##Number skills 27
-###Similar occupations:
+# Occupation medical laboratory assistant
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match medical laboratory assistant |   percentage match with medical laboratory assistant |   skills not in medical laboratory assistant |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [scientific laboratory technician](scientific_laboratory_technician.md)                   |                          14 |                                               14 |                                             0.518519 |                                            0 |

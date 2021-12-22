@@ -1,6 +1,6 @@
-#Occupation resilient floor layer
-##Number skills 15
-###Similar occupations:
+# Occupation resilient floor layer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match resilient floor layer |   percentage match with resilient floor layer |   skills not in resilient floor layer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [carpet fitter](carpet_fitter.md)                                                                                                                                     |                          15 |                                        10 |                                      0.666667 |                                     5 |

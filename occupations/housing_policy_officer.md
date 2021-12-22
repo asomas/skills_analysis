@@ -1,6 +1,6 @@
-#Occupation housing policy officer
-##Number skills 8
-###Similar occupations:
+# Occupation housing policy officer
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match housing policy officer |   percentage match with housing policy officer |   skills not in housing policy officer |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [agricultural policy officer](agricultural_policy_officer.md)                                                                                                           |                          13 |                                          4 |                                          0.5   |                                      9 |

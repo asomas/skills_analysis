@@ -1,6 +1,6 @@
-#Occupation land planner
-##Number skills 18
-###Similar occupations:
+# Occupation land planner
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match land planner |   percentage match with land planner |   skills not in land planner |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [surveying technician](surveying_technician.md)                                                                                             |                          23 |                                7 |                             0.388889 |                           16 |

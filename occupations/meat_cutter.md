@@ -1,6 +1,6 @@
-#Occupation meat cutter
-##Number skills 29
-###Similar occupations:
+# Occupation meat cutter
+## Number skills 29
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match meat cutter |   percentage match with meat cutter |   skills not in meat cutter |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [prepared meat operator](prepared_meat_operator.md)                                     |                          41 |                              20 |                            0.689655 |                          21 |

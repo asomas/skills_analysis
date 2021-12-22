@@ -1,6 +1,6 @@
-#Occupation import export manager in pharmaceutical goods
-##Number skills 27
-###Similar occupations:
+# Occupation import export manager in pharmaceutical goods
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in pharmaceutical goods |   percentage match with import export manager in pharmaceutical goods |   skills not in import export manager in pharmaceutical goods |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------:|----------------------------------------------------------------------:|--------------------------------------------------------------:|
 | [import export manager in perfume and cosmetics](import_export_manager_in_perfume_and_cosmetics.md)                                                                     |                          27 |                                                                26 |                                                              0.962963 |                                                             1 |

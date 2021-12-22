@@ -1,6 +1,6 @@
-#Occupation kiln firer
-##Number skills 7
-###Similar occupations:
+# Occupation kiln firer
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match kiln firer |   percentage match with kiln firer |   skills not in kiln firer |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [clay kiln burner](clay_kiln_burner.md)                                                                         |                           9 |                              5 |                           0.714286 |                          4 |

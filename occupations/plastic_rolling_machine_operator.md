@@ -1,6 +1,6 @@
-#Occupation plastic rolling machine operator
-##Number skills 10
-###Similar occupations:
+# Occupation plastic rolling machine operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match plastic rolling machine operator |   percentage match with plastic rolling machine operator |   skills not in plastic rolling machine operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [lathe and turning machine operator](lathe_and_turning_machine_operator.md)                                     |                          28 |                                                    7 |                                                      0.7 |                                               21 |

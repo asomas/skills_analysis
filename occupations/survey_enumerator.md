@@ -1,6 +1,6 @@
-#Occupation survey enumerator
-##Number skills 13
-###Similar occupations:
+# Occupation survey enumerator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match survey enumerator |   percentage match with survey enumerator |   skills not in survey enumerator |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [market research interviewer](market_research_interviewer.md)                                           |                          17 |                                    10 |                                  0.769231 |                                 7 |

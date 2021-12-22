@@ -1,6 +1,6 @@
-#Occupation marine firefighter
-##Number skills 22
-###Similar occupations:
+# Occupation marine firefighter
+## Number skills 22
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match marine firefighter |   percentage match with marine firefighter |   skills not in marine firefighter |
 |:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [industrial firefighter](industrial_firefighter.md)                                   |                          29 |                                     16 |                                   0.727273 |                                 13 |

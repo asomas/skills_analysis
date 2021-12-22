@@ -1,6 +1,6 @@
-#Occupation army corporal
-##Number skills 11
-###Similar occupations:
+# Occupation army corporal
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match army corporal |   percentage match with army corporal |   skills not in army corporal |
 |:----------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [armed forces officer](armed_forces_officer.md)                                               |                          21 |                                 9 |                              0.818182 |                            12 |

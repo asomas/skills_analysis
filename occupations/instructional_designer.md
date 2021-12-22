@@ -1,6 +1,6 @@
-#Occupation instructional designer
-##Number skills 34
-###Similar occupations:
+# Occupation instructional designer
+## Number skills 34
+### Similar occupations:
 | occupation                                              |   skills in this occupation |   skills that match instructional designer |   percentage match with instructional designer |   skills not in instructional designer |
 |:--------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [e-learning developer](e-learning_developer.md)         |                          23 |                                         18 |                                       0.529412 |                                      5 |

@@ -1,6 +1,6 @@
-#Occupation investment adviser
-##Number skills 22
-###Similar occupations:
+# Occupation investment adviser
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match investment adviser |   percentage match with investment adviser |   skills not in investment adviser |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [investment manager](investment_manager.md)                                                   |                          28 |                                     12 |                                   0.545455 |                                 16 |

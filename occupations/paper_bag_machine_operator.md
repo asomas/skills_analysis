@@ -1,6 +1,6 @@
-#Occupation paper bag machine operator
-##Number skills 13
-###Similar occupations:
+# Occupation paper bag machine operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match paper bag machine operator |   percentage match with paper bag machine operator |   skills not in paper bag machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [wood pallet maker](wood_pallet_maker.md)                                                             |                          16 |                                              9 |                                           0.692308 |                                          7 |

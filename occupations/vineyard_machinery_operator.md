@@ -1,6 +1,6 @@
-#Occupation vineyard machinery operator
-##Number skills 12
-###Similar occupations:
+# Occupation vineyard machinery operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match vineyard machinery operator |   percentage match with vineyard machinery operator |   skills not in vineyard machinery operator |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [agronomic crop production team leader](agronomic_crop_production_team_leader.md) |                          33 |                                               6 |                                            0.5      |                                          27 |

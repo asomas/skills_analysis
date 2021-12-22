@@ -1,6 +1,6 @@
-#Occupation tourism contract negotiator
-##Number skills 21
-###Similar occupations:
+# Occupation tourism contract negotiator
+## Number skills 21
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match tourism contract negotiator |   percentage match with tourism contract negotiator |   skills not in tourism contract negotiator |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [tourism product manager](tourism_product_manager.md)                       |                          29 |                                               7 |                                            0.333333 |                                          22 |

@@ -1,6 +1,6 @@
-#Occupation hazardous waste technician
-##Number skills 17
-###Similar occupations:
+# Occupation hazardous waste technician
+## Number skills 17
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match hazardous waste technician |   percentage match with hazardous waste technician |   skills not in hazardous waste technician |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [decontamination worker](decontamination_worker.md)                               |                          15 |                                              7 |                                           0.411765 |                                          8 |

@@ -1,6 +1,6 @@
-#Occupation foreign language correspondence clerk
-##Number skills 10
-###Similar occupations:
+# Occupation foreign language correspondence clerk
+## Number skills 10
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match foreign language correspondence clerk |   percentage match with foreign language correspondence clerk |   skills not in foreign language correspondence clerk |
 |:------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [interpretation agency manager](interpretation_agency_manager.md) |                          25 |                                                         6 |                                                           0.6 |                                                    19 |

@@ -1,6 +1,6 @@
-#Occupation communication infrastructure maintainer
-##Number skills 14
-###Similar occupations:
+# Occupation communication infrastructure maintainer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match communication infrastructure maintainer |   percentage match with communication infrastructure maintainer |   skills not in communication infrastructure maintainer |
 |:--------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [telecommunications technician](telecommunications_technician.md)                     |                          25 |                                                           7 |                                                        0.5      |                                                      18 |

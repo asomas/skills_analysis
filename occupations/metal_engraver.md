@@ -1,6 +1,6 @@
-#Occupation metal engraver
-##Number skills 13
-###Similar occupations:
+# Occupation metal engraver
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match metal engraver |   percentage match with metal engraver |   skills not in metal engraver |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [laser marking machine operator](laser_marking_machine_operator.md)                               |                          18 |                                  7 |                               0.538462 |                             11 |

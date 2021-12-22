@@ -1,6 +1,6 @@
-#Occupation restaurant manager
-##Number skills 29
-###Similar occupations:
+# Occupation restaurant manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match restaurant manager |   percentage match with restaurant manager |   skills not in restaurant manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [venue director](venue_director.md)                                                               |                          29 |                                     20 |                                   0.689655 |                                  9 |

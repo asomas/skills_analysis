@@ -1,6 +1,6 @@
-#Occupation sewerage systems manager
-##Number skills 21
-###Similar occupations:
+# Occupation sewerage systems manager
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match sewerage systems manager |   percentage match with sewerage systems manager |   skills not in sewerage systems manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [water treatment plant manager](water_treatment_plant_manager.md)                                 |                          21 |                                           17 |                                         0.809524 |                                        4 |

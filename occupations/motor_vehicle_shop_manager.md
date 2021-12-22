@@ -1,6 +1,6 @@
-#Occupation motor vehicle shop manager
-##Number skills 39
-###Similar occupations:
+# Occupation motor vehicle shop manager
+## Number skills 39
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match motor vehicle shop manager |   percentage match with motor vehicle shop manager |   skills not in motor vehicle shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [photography shop manager](photography_shop_manager.md)                                           |                          30 |                                             27 |                                           0.692308 |                                          3 |

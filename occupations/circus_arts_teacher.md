@@ -1,6 +1,6 @@
-#Occupation circus arts teacher
-##Number skills 33
-###Similar occupations:
+# Occupation circus arts teacher
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match circus arts teacher |   percentage match with circus arts teacher |   skills not in circus arts teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [dance teacher](dance_teacher.md)                                                                                     |                          25 |                                      17 |                                    0.515152 |                                   8 |

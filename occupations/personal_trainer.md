@@ -1,6 +1,6 @@
-#Occupation personal trainer
-##Number skills 14
-###Similar occupations:
+# Occupation personal trainer
+## Number skills 14
+### Similar occupations:
 | occupation                                  |   skills in this occupation |   skills that match personal trainer |   percentage match with personal trainer |   skills not in personal trainer |
 |:--------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [sport therapist](sport_therapist.md)       |                          16 |                                   11 |                                 0.785714 |                                5 |

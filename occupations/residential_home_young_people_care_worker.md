@@ -1,6 +1,6 @@
-#Occupation residential home young people care worker
-##Number skills 66
-###Similar occupations:
+# Occupation residential home young people care worker
+## Number skills 66
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match residential home young people care worker |   percentage match with residential home young people care worker |   skills not in residential home young people care worker |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [foster care support worker](foster_care_support_worker.md)                             |                          72 |                                                            66 |                                                          1        |                                                         6 |

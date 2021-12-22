@@ -1,6 +1,6 @@
-#Occupation soap drier operator
-##Number skills 10
-###Similar occupations:
+# Occupation soap drier operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match soap drier operator |   percentage match with soap drier operator |   skills not in soap drier operator |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [soap tower operator](soap_tower_operator.md)                                             |                           8 |                                       3 |                                         0.3 |                                   5 |

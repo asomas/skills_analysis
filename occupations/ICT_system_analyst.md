@@ -1,6 +1,6 @@
-#Occupation ICT system analyst
-##Number skills 25
-###Similar occupations:
+# Occupation ICT system analyst
+## Number skills 25
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match ICT system analyst |   percentage match with ICT system analyst |   skills not in ICT system analyst |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [software analyst](software_analyst.md)                                           |                          19 |                                      8 |                                       0.32 |                                 11 |

@@ -1,6 +1,6 @@
-#Occupation ordinary seaman
-##Number skills 25
-###Similar occupations:
+# Occupation ordinary seaman
+## Number skills 25
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match ordinary seaman |   percentage match with ordinary seaman |   skills not in ordinary seaman |
 |:----------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [matrose](matrose.md)                                                 |                          60 |                                  10 |                                    0.4  |                              50 |

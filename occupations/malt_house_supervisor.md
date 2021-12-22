@@ -1,6 +1,6 @@
-#Occupation malt house supervisor
-##Number skills 20
-###Similar occupations:
+# Occupation malt house supervisor
+## Number skills 20
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match malt house supervisor |   percentage match with malt house supervisor |   skills not in malt house supervisor |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [malt master](malt_master.md)                                                           |                          27 |                                        11 |                                          0.55 |                                    16 |

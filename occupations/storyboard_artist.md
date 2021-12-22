@@ -1,6 +1,6 @@
-#Occupation storyboard artist
-##Number skills 15
-###Similar occupations:
+# Occupation storyboard artist
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match storyboard artist |   percentage match with storyboard artist |   skills not in storyboard artist |
 |:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [cartoonist](cartoonist.md)                                                                   |                          17 |                                     7 |                                  0.466667 |                                10 |

@@ -1,6 +1,6 @@
-#Occupation anodising machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation anodising machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match anodising machine operator |   percentage match with anodising machine operator |   skills not in anodising machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [electroplating machine operator](electroplating_machine_operator.md)                                 |                          15 |                                              9 |                                           0.642857 |                                          6 |

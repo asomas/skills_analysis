@@ -1,6 +1,6 @@
-#Occupation performing arts school dance instructor
-##Number skills 25
-###Similar occupations:
+# Occupation performing arts school dance instructor
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match performing arts school dance instructor |   percentage match with performing arts school dance instructor |   skills not in performing arts school dance instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [performing arts theatre instructor](performing_arts_theatre_instructor.md)                                           |                          30 |                                                          18 |                                                            0.72 |                                                      12 |

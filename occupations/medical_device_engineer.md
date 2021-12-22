@@ -1,6 +1,6 @@
-#Occupation medical device engineer
-##Number skills 33
-###Similar occupations:
+# Occupation medical device engineer
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match medical device engineer |   percentage match with medical device engineer |   skills not in medical device engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [mechatronics engineer](mechatronics_engineer.md)                                                                                           |                          35 |                                          17 |                                        0.515152 |                                      18 |

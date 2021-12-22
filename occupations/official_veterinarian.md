@@ -1,6 +1,6 @@
-#Occupation official veterinarian
-##Number skills 35
-###Similar occupations:
+# Occupation official veterinarian
+## Number skills 35
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match official veterinarian |   percentage match with official veterinarian |   skills not in official veterinarian |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [general veterinarian](general_veterinarian.md)                                           |                          53 |                                        25 |                                      0.714286 |                                    28 |

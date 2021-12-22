@@ -1,6 +1,6 @@
-#Occupation title closer
-##Number skills 15
-###Similar occupations:
+# Occupation title closer
+## Number skills 15
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match title closer |   percentage match with title closer |   skills not in title closer |
 |:--------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [foreclosure specialist](foreclosure_specialist.md)                 |                          15 |                                6 |                             0.4      |                            9 |

@@ -1,6 +1,6 @@
-#Occupation embedded systems software developer
-##Number skills 16
-###Similar occupations:
+# Occupation embedded systems software developer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                      |   skills in this occupation |   skills that match embedded systems software developer |   percentage match with embedded systems software developer |   skills not in embedded systems software developer |
 |:------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [industrial mobile devices software developer](industrial_mobile_devices_software_developer.md) |                          19 |                                                      15 |                                                      0.9375 |                                                   4 |

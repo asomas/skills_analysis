@@ -1,6 +1,6 @@
-#Occupation plate glass installer
-##Number skills 21
-###Similar occupations:
+# Occupation plate glass installer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match plate glass installer |   percentage match with plate glass installer |   skills not in plate glass installer |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [bricklayer](bricklayer.md)                                                             |                          18 |                                         9 |                                      0.428571 |                                     9 |

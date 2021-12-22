@@ -1,6 +1,6 @@
-#Occupation crane crew supervisor
-##Number skills 22
-###Similar occupations:
+# Occupation crane crew supervisor
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match crane crew supervisor |   percentage match with crane crew supervisor |   skills not in crane crew supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [bridge construction supervisor](bridge_construction_supervisor.md)                                             |                          26 |                                        19 |                                      0.863636 |                                     7 |

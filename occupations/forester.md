@@ -1,6 +1,6 @@
-#Occupation forester
-##Number skills 17
-###Similar occupations:
+# Occupation forester
+## Number skills 17
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match forester |   percentage match with forester |   skills not in forester |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [forestry adviser](forestry_adviser.md)                                           |                          22 |                            5 |                         0.294118 |                       17 |

@@ -1,6 +1,6 @@
-#Occupation correctional services manager
-##Number skills 13
-###Similar occupations:
+# Occupation correctional services manager
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match correctional services manager |   percentage match with correctional services manager |   skills not in correctional services manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [police commissioner](police_commissioner.md)                                                     |                          18 |                                                 7 |                                              0.538462 |                                            11 |

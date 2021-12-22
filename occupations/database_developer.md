@@ -1,6 +1,6 @@
-#Occupation database developer
-##Number skills 18
-###Similar occupations:
+# Occupation database developer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match database developer |   percentage match with database developer |   skills not in database developer |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [database administrator](database_administrator.md)                               |                          25 |                                     10 |                                   0.555556 |                                 15 |

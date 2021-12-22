@@ -1,6 +1,6 @@
-#Occupation medical transcriptionist
-##Number skills 14
-###Similar occupations:
+# Occupation medical transcriptionist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match medical transcriptionist |   percentage match with medical transcriptionist |   skills not in medical transcriptionist |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [medical records clerk](medical_records_clerk.md)                                                                         |                          30 |                                            8 |                                         0.571429 |                                       22 |

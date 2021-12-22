@@ -1,6 +1,6 @@
-#Occupation head of higher education institutions
-##Number skills 19
-###Similar occupations:
+# Occupation head of higher education institutions
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match head of higher education institutions |   percentage match with head of higher education institutions |   skills not in head of higher education institutions |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [further education principal](further_education_principal.md)                                                         |                          20 |                                                        18 |                                                      0.947368 |                                                     2 |

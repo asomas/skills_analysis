@@ -1,6 +1,6 @@
-#Occupation beauty vocational teacher
-##Number skills 26
-###Similar occupations:
+# Occupation beauty vocational teacher
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match beauty vocational teacher |   percentage match with beauty vocational teacher |   skills not in beauty vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [hairdressing vocational teacher](hairdressing_vocational_teacher.md)                                                 |                          27 |                                            23 |                                          0.884615 |                                         4 |

@@ -1,6 +1,6 @@
-#Occupation building electrician
-##Number skills 18
-###Similar occupations:
+# Occupation building electrician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match building electrician |   percentage match with building electrician |   skills not in building electrician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [industrial electrician](industrial_electrician.md)                                                                                                           |                          17 |                                       17 |                                     0.944444 |                                    0 |

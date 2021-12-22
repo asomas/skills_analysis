@@ -1,6 +1,6 @@
-#Occupation lifeguard instructor
-##Number skills 21
-###Similar occupations:
+# Occupation lifeguard instructor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match lifeguard instructor |   percentage match with lifeguard instructor |   skills not in lifeguard instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [Montessori school teacher](Montessori_school_teacher.md)                                                             |                          33 |                                       11 |                                     0.52381  |                                   22 |

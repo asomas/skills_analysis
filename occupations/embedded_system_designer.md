@@ -1,6 +1,6 @@
-#Occupation embedded system designer
-##Number skills 15
-###Similar occupations:
+# Occupation embedded system designer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                      |   skills in this occupation |   skills that match embedded system designer |   percentage match with embedded system designer |   skills not in embedded system designer |
 |:------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [software architect](software_architect.md)                                                     |                          18 |                                            6 |                                         0.4      |                                       12 |

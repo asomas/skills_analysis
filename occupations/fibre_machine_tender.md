@@ -1,6 +1,6 @@
-#Occupation fibre machine tender
-##Number skills 13
-###Similar occupations:
+# Occupation fibre machine tender
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match fibre machine tender |   percentage match with fibre machine tender |   skills not in fibre machine tender |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [injection moulding operator](injection_moulding_operator.md)                                                   |                          14 |                                        9 |                                     0.692308 |                                    5 |

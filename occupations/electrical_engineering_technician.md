@@ -1,6 +1,6 @@
-#Occupation electrical engineering technician
-##Number skills 28
-###Similar occupations:
+# Occupation electrical engineering technician
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match electrical engineering technician |   percentage match with electrical engineering technician |   skills not in electrical engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [electromechanical engineering technician](electromechanical_engineering_technician.md)                                                                       |                          26 |                                                    18 |                                                  0.642857 |                                                 8 |

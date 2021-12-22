@@ -1,6 +1,6 @@
-#Occupation underground miner
-##Number skills 9
-###Similar occupations:
+# Occupation underground miner
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match underground miner |   percentage match with underground miner |   skills not in underground miner |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [surface miner](surface_miner.md)                                                                                                                             |                           9 |                                     7 |                                  0.777778 |                                 2 |

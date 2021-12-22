@@ -1,6 +1,6 @@
-#Occupation chief conductor
-##Number skills 25
-###Similar occupations:
+# Occupation chief conductor
+## Number skills 25
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match chief conductor |   percentage match with chief conductor |   skills not in chief conductor |
 |:----------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [train conductor](train_conductor.md)                                 |                          23 |                                  16 |                                    0.64 |                               7 |

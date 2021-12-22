@@ -1,6 +1,6 @@
-#Occupation leather goods production supervisor
-##Number skills 21
-###Similar occupations:
+# Occupation leather goods production supervisor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods production supervisor |   percentage match with leather goods production supervisor |   skills not in leather goods production supervisor |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [leather goods production manager](leather_goods_production_manager.md)                                       |                          20 |                                                      12 |                                                    0.571429 |                                                   8 |

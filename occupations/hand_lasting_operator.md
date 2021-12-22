@@ -1,6 +1,6 @@
-#Occupation hand lasting operator
-##Number skills 8
-###Similar occupations:
+# Occupation hand lasting operator
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match hand lasting operator |   percentage match with hand lasting operator |   skills not in hand lasting operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [pre-lasting operator](pre-lasting_operator.md)                                                       |                          14 |                                         8 |                                         1     |                                     6 |

@@ -1,6 +1,6 @@
-#Occupation pottery and porcelain caster
-##Number skills 12
-###Similar occupations:
+# Occupation pottery and porcelain caster
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match pottery and porcelain caster |   percentage match with pottery and porcelain caster |   skills not in pottery and porcelain caster |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [cake press operator](cake_press_operator.md)                                                         |                          19 |                                                5 |                                             0.416667 |                                           14 |

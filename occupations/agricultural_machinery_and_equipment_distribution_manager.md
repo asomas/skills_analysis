@@ -1,6 +1,6 @@
-#Occupation agricultural machinery and equipment distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation agricultural machinery and equipment distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match agricultural machinery and equipment distribution manager |   percentage match with agricultural machinery and equipment distribution manager |   skills not in agricultural machinery and equipment distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------------------:|----------------------------------------------------------------------------------:|--------------------------------------------------------------------------:|
 | [clothing and footwear distribution manager](clothing_and_footwear_distribution_manager.md)                                                                             |                          26 |                                                                            25 |                                                                          0.961538 |                                                                         1 |

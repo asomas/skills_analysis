@@ -1,6 +1,6 @@
-#Occupation raw material reception operator
-##Number skills 29
-###Similar occupations:
+# Occupation raw material reception operator
+## Number skills 29
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match raw material reception operator |   percentage match with raw material reception operator |   skills not in raw material reception operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [milk reception operator](milk_reception_operator.md)                                   |                          22 |                                                  14 |                                                0.482759 |                                               8 |

@@ -1,6 +1,6 @@
-#Occupation hearse driver
-##Number skills 9
-###Similar occupations:
+# Occupation hearse driver
+## Number skills 9
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match hearse driver |   percentage match with hearse driver |   skills not in hearse driver |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [private chauffeur](private_chauffeur.md)                                           |                          26 |                                 8 |                              0.888889 |                            18 |

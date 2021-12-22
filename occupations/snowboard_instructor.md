@@ -1,6 +1,6 @@
-#Occupation snowboard instructor
-##Number skills 8
-###Similar occupations:
+# Occupation snowboard instructor
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match snowboard instructor |   percentage match with snowboard instructor |   skills not in snowboard instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [boxing instructor](boxing_instructor.md)                                                                             |                           9 |                                        7 |                                        0.875 |                                    2 |

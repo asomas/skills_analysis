@@ -1,6 +1,6 @@
-#Occupation police detective
-##Number skills 14
-###Similar occupations:
+# Occupation police detective
+## Number skills 14
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match police detective |   percentage match with police detective |   skills not in police detective |
 |:------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [police inspector](police_inspector.md)                           |                          12 |                                   11 |                                 0.785714 |                                1 |

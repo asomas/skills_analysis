@@ -1,6 +1,6 @@
-#Occupation shipping agent
-##Number skills 12
-###Similar occupations:
+# Occupation shipping agent
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match shipping agent |   percentage match with shipping agent |   skills not in shipping agent |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [non-vessel operating common carrier](non-vessel_operating_common_carrier.md)                                                                                       |                          24 |                                  5 |                               0.416667 |                             19 |

@@ -1,6 +1,6 @@
-#Occupation prosthetic-orthotics technician
-##Number skills 17
-###Similar occupations:
+# Occupation prosthetic-orthotics technician
+## Number skills 17
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match prosthetic-orthotics technician |   percentage match with prosthetic-orthotics technician |   skills not in prosthetic-orthotics technician |
 |:--------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [orthopaedic supply shop manager](orthopaedic_supply_shop_manager.md)                 |                          32 |                                                   2 |                                                0.117647 |                                              30 |

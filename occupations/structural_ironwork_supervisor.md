@@ -1,6 +1,6 @@
-#Occupation structural ironwork supervisor
-##Number skills 25
-###Similar occupations:
+# Occupation structural ironwork supervisor
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match structural ironwork supervisor |   percentage match with structural ironwork supervisor |   skills not in structural ironwork supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [construction scaffolding supervisor](construction_scaffolding_supervisor.md)                                   |                          25 |                                                 17 |                                                   0.68 |                                              8 |

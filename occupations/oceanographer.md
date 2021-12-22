@@ -1,6 +1,6 @@
-#Occupation oceanographer
-##Number skills 15
-###Similar occupations:
+# Occupation oceanographer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match oceanographer |   percentage match with oceanographer |   skills not in oceanographer |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [physicist](physicist.md)                                                                 |                          14 |                                11 |                              0.733333 |                             3 |

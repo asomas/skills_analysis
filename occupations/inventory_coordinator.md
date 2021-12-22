@@ -1,6 +1,6 @@
-#Occupation inventory coordinator
-##Number skills 10
-###Similar occupations:
+# Occupation inventory coordinator
+## Number skills 10
+### Similar occupations:
 | occupation                                |   skills in this occupation |   skills that match inventory coordinator |   percentage match with inventory coordinator |   skills not in inventory coordinator |
 |:------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [warehouse worker](warehouse_worker.md)   |                          39 |                                         4 |                                           0.4 |                                    35 |

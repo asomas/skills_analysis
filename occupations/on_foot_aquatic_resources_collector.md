@@ -1,6 +1,6 @@
-#Occupation on foot aquatic resources collector
-##Number skills 10
-###Similar occupations:
+# Occupation on foot aquatic resources collector
+## Number skills 10
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match on foot aquatic resources collector |   percentage match with on foot aquatic resources collector |   skills not in on foot aquatic resources collector |
 |:----------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [harvest diver](harvest_diver.md)                                     |                           7 |                                                       4 |                                                         0.4 |                                                   3 |

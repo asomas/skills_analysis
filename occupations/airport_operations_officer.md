@@ -1,6 +1,6 @@
-#Occupation airport operations officer
-##Number skills 37
-###Similar occupations:
+# Occupation airport operations officer
+## Number skills 37
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match airport operations officer |   percentage match with airport operations officer |   skills not in airport operations officer |
 |:--------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [airport chief executive](airport_chief_executive.md)               |                          27 |                                              7 |                                           0.189189 |                                         20 |

@@ -1,6 +1,6 @@
-#Occupation craft shop manager
-##Number skills 28
-###Similar occupations:
+# Occupation craft shop manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match craft shop manager |   percentage match with craft shop manager |   skills not in craft shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [music and video shop manager](music_and_video_shop_manager.md)                                   |                          30 |                                     27 |                                   0.964286 |                                  3 |

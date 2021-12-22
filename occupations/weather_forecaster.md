@@ -1,6 +1,6 @@
-#Occupation weather forecaster
-##Number skills 11
-###Similar occupations:
+# Occupation weather forecaster
+## Number skills 11
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match weather forecaster |   percentage match with weather forecaster |   skills not in weather forecaster |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [news anchor](news_anchor.md)                                               |                          17 |                                      6 |                                   0.545455 |                                 11 |

@@ -1,6 +1,6 @@
-#Occupation furniture upholsterer
-##Number skills 16
-###Similar occupations:
+# Occupation furniture upholsterer
+## Number skills 16
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match furniture upholsterer |   percentage match with furniture upholsterer |   skills not in furniture upholsterer |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [upholsterer](upholsterer.md)                                           |                          12 |                                        10 |                                        0.625  |                                     2 |

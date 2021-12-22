@@ -1,6 +1,6 @@
-#Occupation meat and meat products specialised seller
-##Number skills 35
-###Similar occupations:
+# Occupation meat and meat products specialised seller
+## Number skills 35
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match meat and meat products specialised seller |   percentage match with meat and meat products specialised seller |   skills not in meat and meat products specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [delicatessen specialised seller](delicatessen_specialised_seller.md)                                                                                             |                          31 |                                                            29 |                                                          0.828571 |                                                         2 |

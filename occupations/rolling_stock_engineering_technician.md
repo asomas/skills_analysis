@@ -1,6 +1,6 @@
-#Occupation rolling stock engineering technician
-##Number skills 16
-###Similar occupations:
+# Occupation rolling stock engineering technician
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match rolling stock engineering technician |   percentage match with rolling stock engineering technician |   skills not in rolling stock engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [aerospace engineering technician](aerospace_engineering_technician.md)                                                                                 |                          19 |                                                       15 |                                                       0.9375 |                                                    4 |

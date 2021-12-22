@@ -1,6 +1,6 @@
-#Occupation tyre vulcaniser
-##Number skills 13
-###Similar occupations:
+# Occupation tyre vulcaniser
+## Number skills 13
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match tyre vulcaniser |   percentage match with tyre vulcaniser |   skills not in tyre vulcaniser |
 |:--------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [tyre fitter](tyre_fitter.md)                                             |                           9 |                                   5 |                                0.384615 |                               4 |

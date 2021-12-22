@@ -1,6 +1,6 @@
-#Occupation foreign affairs officer
-##Number skills 12
-###Similar occupations:
+# Occupation foreign affairs officer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match foreign affairs officer |   percentage match with foreign affairs officer |   skills not in foreign affairs officer |
 |:------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [embassy counsellor](embassy_counsellor.md)                                   |                          15 |                                           6 |                                        0.5      |                                       9 |

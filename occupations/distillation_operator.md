@@ -1,6 +1,6 @@
-#Occupation distillation operator
-##Number skills 14
-###Similar occupations:
+# Occupation distillation operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match distillation operator |   percentage match with distillation operator |   skills not in distillation operator |
 |:--------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [refinery shift manager](refinery_shift_manager.md)                 |                          15 |                                         7 |                                      0.5      |                                     8 |

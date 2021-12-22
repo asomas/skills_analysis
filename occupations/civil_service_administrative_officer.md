@@ -1,6 +1,6 @@
-#Occupation civil service administrative officer
-##Number skills 11
-###Similar occupations:
+# Occupation civil service administrative officer
+## Number skills 11
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match civil service administrative officer |   percentage match with civil service administrative officer |   skills not in civil service administrative officer |
 |:--------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [verger](verger.md)                                                 |                           9 |                                                        3 |                                                     0.272727 |                                                    6 |

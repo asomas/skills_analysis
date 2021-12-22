@@ -1,6 +1,6 @@
-#Occupation puppet designer
-##Number skills 28
-###Similar occupations:
+# Occupation puppet designer
+## Number skills 28
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match puppet designer |   percentage match with puppet designer |   skills not in puppet designer |
 |:------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [costume designer](costume_designer.md)                     |                          41 |                                  24 |                                0.857143 |                              17 |

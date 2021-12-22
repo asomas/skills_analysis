@@ -1,6 +1,6 @@
-#Occupation secretary of state
-##Number skills 12
-###Similar occupations:
+# Occupation secretary of state
+## Number skills 12
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match secretary of state |   percentage match with secretary of state |   skills not in secretary of state |
 |:------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [member of parliament](member_of_parliament.md)                               |                          12 |                                      5 |                                   0.416667 |                                  7 |

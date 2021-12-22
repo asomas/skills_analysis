@@ -1,6 +1,6 @@
-#Occupation container equipment design engineer
-##Number skills 23
-###Similar occupations:
+# Occupation container equipment design engineer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match container equipment design engineer |   percentage match with container equipment design engineer |   skills not in container equipment design engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [agricultural equipment design engineer](agricultural_equipment_design_engineer.md)                                                         |                          26 |                                                      21 |                                                    0.913043 |                                                   5 |

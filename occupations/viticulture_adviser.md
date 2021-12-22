@@ -1,6 +1,6 @@
-#Occupation viticulture adviser
-##Number skills 16
-###Similar occupations:
+# Occupation viticulture adviser
+## Number skills 16
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match viticulture adviser |   percentage match with viticulture adviser |   skills not in viticulture adviser |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [agronomist](agronomist.md)                                                       |                          31 |                                       4 |                                      0.25   |                                  27 |

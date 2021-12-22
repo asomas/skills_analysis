@@ -1,6 +1,6 @@
-#Occupation ICT research manager
-##Number skills 18
-###Similar occupations:
+# Occupation ICT research manager
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match ICT research manager |   percentage match with ICT research manager |   skills not in ICT research manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [ICT research consultant](ICT_research_consultant.md)                                     |                          21 |                                        9 |                                     0.5      |                                   12 |

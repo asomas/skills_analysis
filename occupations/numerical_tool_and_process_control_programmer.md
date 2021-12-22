@@ -1,6 +1,6 @@
-#Occupation numerical tool and process control programmer
-##Number skills 52
-###Similar occupations:
+# Occupation numerical tool and process control programmer
+## Number skills 52
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match numerical tool and process control programmer |   percentage match with numerical tool and process control programmer |   skills not in numerical tool and process control programmer |
 |:----------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------:|----------------------------------------------------------------------:|--------------------------------------------------------------:|
 | [computer-aided design operator](computer-aided_design_operator.md)                           |                          49 |                                                                40 |                                                              0.769231 |                                                             9 |

@@ -1,6 +1,6 @@
-#Occupation insulation worker
-##Number skills 18
-###Similar occupations:
+# Occupation insulation worker
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match insulation worker |   percentage match with insulation worker |   skills not in insulation worker |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [bricklayer](bricklayer.md)                                                                                                                                           |                          18 |                                    10 |                                  0.555556 |                                 8 |

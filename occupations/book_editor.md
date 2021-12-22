@@ -1,6 +1,6 @@
-#Occupation book editor
-##Number skills 15
-###Similar occupations:
+# Occupation book editor
+## Number skills 15
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match book editor |   percentage match with book editor |   skills not in book editor |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [book publisher](book_publisher.md)                                                 |                          15 |                               8 |                            0.533333 |                           7 |

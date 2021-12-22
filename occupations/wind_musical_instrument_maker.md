@@ -1,6 +1,6 @@
-#Occupation wind musical instrument maker
-##Number skills 12
-###Similar occupations:
+# Occupation wind musical instrument maker
+## Number skills 12
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match wind musical instrument maker |   percentage match with wind musical instrument maker |   skills not in wind musical instrument maker |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [keyboard musical instrument maker](keyboard_musical_instrument_maker.md)             |                          13 |                                                10 |                                              0.833333 |                                             3 |

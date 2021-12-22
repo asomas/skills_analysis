@@ -1,6 +1,6 @@
-#Occupation clothing process control technician
-##Number skills 14
-###Similar occupations:
+# Occupation clothing process control technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match clothing process control technician |   percentage match with clothing process control technician |   skills not in clothing process control technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [clothing technologist](clothing_technologist.md)                                         |                          21 |                                                      13 |                                                    0.928571 |                                                   8 |

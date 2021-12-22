@@ -1,6 +1,6 @@
-#Occupation refuse vehicle driver
-##Number skills 9
-###Similar occupations:
+# Occupation refuse vehicle driver
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match refuse vehicle driver |   percentage match with refuse vehicle driver |   skills not in refuse vehicle driver |
 |:----------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [waste broker](waste_broker.md)                                                               |                          11 |                                         4 |                                      0.444444 |                                     7 |

@@ -1,6 +1,6 @@
-#Occupation colour sampling technician
-##Number skills 25
-###Similar occupations:
+# Occupation colour sampling technician
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match colour sampling technician |   percentage match with colour sampling technician |   skills not in colour sampling technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [leather finishing operations manager](leather_finishing_operations_manager.md)           |                          30 |                                             20 |                                               0.8  |                                         10 |

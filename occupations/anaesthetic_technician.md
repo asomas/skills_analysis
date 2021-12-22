@@ -1,6 +1,6 @@
-#Occupation anaesthetic technician
-##Number skills 36
-###Similar occupations:
+# Occupation anaesthetic technician
+## Number skills 36
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match anaesthetic technician |   percentage match with anaesthetic technician |   skills not in anaesthetic technician |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [physiotherapist](physiotherapist.md)                                                                       |                          90 |                                         16 |                                       0.444444 |                                     74 |

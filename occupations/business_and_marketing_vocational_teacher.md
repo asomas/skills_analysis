@@ -1,6 +1,6 @@
-#Occupation business and marketing vocational teacher
-##Number skills 27
-###Similar occupations:
+# Occupation business and marketing vocational teacher
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match business and marketing vocational teacher |   percentage match with business and marketing vocational teacher |   skills not in business and marketing vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [hairdressing vocational teacher](hairdressing_vocational_teacher.md)                                                 |                          27 |                                                            24 |                                                          0.888889 |                                                         3 |

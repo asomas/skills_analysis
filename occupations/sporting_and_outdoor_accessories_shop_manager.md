@@ -1,6 +1,6 @@
-#Occupation sporting and outdoor accessories shop manager
-##Number skills 28
-###Similar occupations:
+# Occupation sporting and outdoor accessories shop manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match sporting and outdoor accessories shop manager |   percentage match with sporting and outdoor accessories shop manager |   skills not in sporting and outdoor accessories shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------:|----------------------------------------------------------------------:|--------------------------------------------------------------:|
 | [fruit and vegetables shop manager](fruit_and_vegetables_shop_manager.md)                         |                          33 |                                                                24 |                                                              0.857143 |                                                             9 |

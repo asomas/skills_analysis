@@ -1,6 +1,6 @@
-#Occupation occupational therapy assistant
-##Number skills 23
-###Similar occupations:
+# Occupation occupational therapy assistant
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match occupational therapy assistant |   percentage match with occupational therapy assistant |   skills not in occupational therapy assistant |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [occupational therapist](occupational_therapist.md)                                                                       |                          73 |                                                 22 |                                               0.956522 |                                             51 |

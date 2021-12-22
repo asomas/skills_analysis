@@ -1,6 +1,6 @@
-#Occupation emergency response worker
-##Number skills 14
-###Similar occupations:
+# Occupation emergency response worker
+## Number skills 14
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match emergency response worker |   percentage match with emergency response worker |   skills not in emergency response worker |
 |:------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [paramedic in emergency responses](paramedic_in_emergency_responses.md) |                          74 |                                             2 |                                          0.142857 |                                        72 |

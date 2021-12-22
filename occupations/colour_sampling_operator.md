@@ -1,6 +1,6 @@
-#Occupation colour sampling operator
-##Number skills 14
-###Similar occupations:
+# Occupation colour sampling operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                          |   skills in this occupation |   skills that match colour sampling operator |   percentage match with colour sampling operator |   skills not in colour sampling operator |
 |:----------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [colour sampling technician](colour_sampling_technician.md)                                         |                          25 |                                           12 |                                         0.857143 |                                       13 |

@@ -1,6 +1,6 @@
-#Occupation video and motion picture producer
-##Number skills 18
-###Similar occupations:
+# Occupation video and motion picture producer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match video and motion picture producer |   percentage match with video and motion picture producer |   skills not in video and motion picture producer |
 |:----------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [music producer](music_producer.md)                                                           |                          14 |                                                     7 |                                                  0.388889 |                                                 7 |

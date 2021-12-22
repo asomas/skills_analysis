@@ -1,6 +1,6 @@
-#Occupation presenter
-##Number skills 19
-###Similar occupations:
+# Occupation presenter
+## Number skills 19
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match presenter |   percentage match with presenter |   skills not in presenter |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [news anchor](news_anchor.md)                                                     |                          17 |                            11 |                          0.578947 |                         6 |

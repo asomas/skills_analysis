@@ -1,6 +1,6 @@
-#Occupation aquaculture environmental analyst
-##Number skills 27
-###Similar occupations:
+# Occupation aquaculture environmental analyst
+## Number skills 27
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match aquaculture environmental analyst |   percentage match with aquaculture environmental analyst |   skills not in aquaculture environmental analyst |
 |:------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [environmental expert](environmental_expert.md)                                     |                          21 |                                                    10 |                                                  0.37037  |                                                11 |

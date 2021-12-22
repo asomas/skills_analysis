@@ -1,6 +1,6 @@
-#Occupation animal care attendant
-##Number skills 27
-###Similar occupations:
+# Occupation animal care attendant
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match animal care attendant |   percentage match with animal care attendant |   skills not in animal care attendant |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [animal handler](animal_handler.md)                                                       |                          25 |                                        22 |                                      0.814815 |                                     3 |

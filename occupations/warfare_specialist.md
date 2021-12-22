@@ -1,6 +1,6 @@
-#Occupation warfare specialist
-##Number skills 14
-###Similar occupations:
+# Occupation warfare specialist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match warfare specialist |   percentage match with warfare specialist |   skills not in warfare specialist |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [special forces officer](special_forces_officer.md)                                                                         |                          22 |                                     10 |                                   0.714286 |                                 12 |

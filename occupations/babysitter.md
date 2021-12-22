@@ -1,6 +1,6 @@
-#Occupation babysitter
-##Number skills 10
-###Similar occupations:
+# Occupation babysitter
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match babysitter |   percentage match with babysitter |   skills not in babysitter |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [au pair](au_pair.md)                                                                             |                          13 |                              8 |                                0.8 |                          5 |

@@ -1,6 +1,6 @@
-#Occupation residential home older adult care worker
-##Number skills 63
-###Similar occupations:
+# Occupation residential home older adult care worker
+## Number skills 63
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match residential home older adult care worker |   percentage match with residential home older adult care worker |   skills not in residential home older adult care worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [care at home worker](care_at_home_worker.md)                                             |                          64 |                                                           63 |                                                         1        |                                                        1 |

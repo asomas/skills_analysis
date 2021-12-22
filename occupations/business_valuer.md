@@ -1,6 +1,6 @@
-#Occupation business valuer
-##Number skills 17
-###Similar occupations:
+# Occupation business valuer
+## Number skills 17
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match business valuer |   percentage match with business valuer |   skills not in business valuer |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [investment fund manager](investment_fund_manager.md)                   |                          30 |                                   5 |                                0.294118 |                              25 |

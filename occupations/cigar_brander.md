@@ -1,6 +1,6 @@
-#Occupation cigar brander
-##Number skills 18
-###Similar occupations:
+# Occupation cigar brander
+## Number skills 18
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match cigar brander |   percentage match with cigar brander |   skills not in cigar brander |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [cigarette making machine operator](cigarette_making_machine_operator.md)               |                          47 |                                11 |                              0.611111 |                            36 |

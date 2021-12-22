@@ -1,6 +1,6 @@
-#Occupation legal guardian
-##Number skills 12
-###Similar occupations:
+# Occupation legal guardian
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match legal guardian |   percentage match with legal guardian |   skills not in legal guardian |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [family support worker](family_support_worker.md)                                                       |                          64 |                                  7 |                               0.583333 |                             57 |

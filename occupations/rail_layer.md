@@ -1,6 +1,6 @@
-#Occupation rail layer
-##Number skills 18
-###Similar occupations:
+# Occupation rail layer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match rail layer |   percentage match with rail layer |   skills not in rail layer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [sewer construction worker](sewer_construction_worker.md)                                                                                                     |                          22 |                             10 |                           0.555556 |                         12 |

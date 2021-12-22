@@ -1,6 +1,6 @@
-#Occupation armed forces training and education officer
-##Number skills 20
-###Similar occupations:
+# Occupation armed forces training and education officer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match armed forces training and education officer |   percentage match with armed forces training and education officer |   skills not in armed forces training and education officer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------:|
 | [armed forces officer](armed_forces_officer.md)                                                                       |                          21 |                                                              10 |                                                                0.5  |                                                          11 |

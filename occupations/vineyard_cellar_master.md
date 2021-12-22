@@ -1,6 +1,6 @@
-#Occupation vineyard cellar master
-##Number skills 16
-###Similar occupations:
+# Occupation vineyard cellar master
+## Number skills 16
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match vineyard cellar master |   percentage match with vineyard cellar master |   skills not in vineyard cellar master |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [vineyard manager](vineyard_manager.md)                                           |                          20 |                                          6 |                                         0.375  |                                     14 |

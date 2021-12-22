@@ -1,6 +1,6 @@
-#Occupation construction manager
-##Number skills 24
-###Similar occupations:
+# Occupation construction manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match construction manager |   percentage match with construction manager |   skills not in construction manager |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [quantity surveyor](quantity_surveyor.md)                                         |                          18 |                                        8 |                                     0.333333 |                                   10 |

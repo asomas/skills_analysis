@@ -1,6 +1,6 @@
-#Occupation countryside officer
-##Number skills 31
-###Similar occupations:
+# Occupation countryside officer
+## Number skills 31
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match countryside officer |   percentage match with countryside officer |   skills not in countryside officer |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [landscape gardener](landscape_gardener.md)                                       |                          33 |                                      11 |                                    0.354839 |                                  22 |

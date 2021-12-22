@@ -1,6 +1,6 @@
-#Occupation coastguard watch officer
-##Number skills 13
-###Similar occupations:
+# Occupation coastguard watch officer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match coastguard watch officer |   percentage match with coastguard watch officer |   skills not in coastguard watch officer |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [police officer](police_officer.md)                                                                           |                          15 |                                            4 |                                         0.307692 |                                       11 |

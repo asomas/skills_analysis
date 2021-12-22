@@ -1,6 +1,6 @@
-#Occupation blacksmith
-##Number skills 19
-###Similar occupations:
+# Occupation blacksmith
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match blacksmith |   percentage match with blacksmith |   skills not in blacksmith |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [ornamental metal worker](ornamental_metal_worker.md)                                     |                          18 |                              5 |                           0.263158 |                         13 |

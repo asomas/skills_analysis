@@ -1,6 +1,6 @@
-#Occupation mail clerk
-##Number skills 20
-###Similar occupations:
+# Occupation mail clerk
+## Number skills 20
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match mail clerk |   percentage match with mail clerk |   skills not in mail clerk |
 |:----------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [postman/postwoman](postman-postwoman.md)                                   |                          16 |                              9 |                               0.45 |                          7 |

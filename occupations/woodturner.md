@@ -1,6 +1,6 @@
-#Occupation woodturner
-##Number skills 17
-###Similar occupations:
+# Occupation woodturner
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match woodturner |   percentage match with woodturner |   skills not in woodturner |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [woodcarver](woodcarver.md)                                                                           |                          17 |                              7 |                           0.411765 |                         10 |

@@ -1,6 +1,6 @@
-#Occupation wood caulker
-##Number skills 10
-###Similar occupations:
+# Occupation wood caulker
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match wood caulker |   percentage match with wood caulker |   skills not in wood caulker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [fiberglass laminator](fiberglass_laminator.md)                                                       |                          16 |                                4 |                                  0.4 |                           12 |

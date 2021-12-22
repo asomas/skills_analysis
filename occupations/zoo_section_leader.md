@@ -1,6 +1,6 @@
-#Occupation zoo section leader
-##Number skills 34
-###Similar occupations:
+# Occupation zoo section leader
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match zoo section leader |   percentage match with zoo section leader |   skills not in zoo section leader |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [zookeeper](zookeeper.md)                                                                 |                          27 |                                     25 |                                   0.735294 |                                  2 |

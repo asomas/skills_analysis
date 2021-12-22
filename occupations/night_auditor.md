@@ -1,6 +1,6 @@
-#Occupation night auditor
-##Number skills 10
-###Similar occupations:
+# Occupation night auditor
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match night auditor |   percentage match with night auditor |   skills not in night auditor |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [hospitality establishment receptionist](hospitality_establishment_receptionist.md)         |                          17 |                                 7 |                                   0.7 |                            10 |

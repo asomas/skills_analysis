@@ -1,6 +1,6 @@
-#Occupation international relations officer
-##Number skills 10
-###Similar occupations:
+# Occupation international relations officer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match international relations officer |   percentage match with international relations officer |   skills not in international relations officer |
 |:--------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [diplomat](diplomat.md)                                                   |                          18 |                                                   5 |                                                     0.5 |                                              13 |

@@ -1,6 +1,6 @@
-#Occupation nailing machine operator
-##Number skills 11
-###Similar occupations:
+# Occupation nailing machine operator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match nailing machine operator |   percentage match with nailing machine operator |   skills not in nailing machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [wood pallet maker](wood_pallet_maker.md)                                                             |                          16 |                                           10 |                                         0.909091 |                                        6 |

@@ -1,6 +1,6 @@
-#Occupation file clerk
-##Number skills 12
-###Similar occupations:
+# Occupation file clerk
+## Number skills 12
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match file clerk |   percentage match with file clerk |   skills not in file clerk |
 |:--------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [administrative assistant](administrative_assistant.md)                         |                          17 |                              6 |                           0.5      |                         11 |

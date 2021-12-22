@@ -1,6 +1,6 @@
-#Occupation landscape gardener
-##Number skills 33
-###Similar occupations:
+# Occupation landscape gardener
+## Number skills 33
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match landscape gardener |   percentage match with landscape gardener |   skills not in landscape gardener |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [groundsman/groundswoman](groundsman-groundswoman.md)                             |                          32 |                                     16 |                                   0.484848 |                                 16 |

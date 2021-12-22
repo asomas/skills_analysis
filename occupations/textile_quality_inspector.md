@@ -1,6 +1,6 @@
-#Occupation textile quality inspector
-##Number skills 19
-###Similar occupations:
+# Occupation textile quality inspector
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match textile quality inspector |   percentage match with textile quality inspector |   skills not in textile quality inspector |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [textile quality technician](textile_quality_technician.md)                               |                          14 |                                            10 |                                          0.526316 |                                         4 |

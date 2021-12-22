@@ -1,6 +1,6 @@
-#Occupation 3D printing technician
-##Number skills 18
-###Similar occupations:
+# Occupation 3D printing technician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match 3D printing technician |   percentage match with 3D printing technician |   skills not in 3D printing technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [industrial tool design engineer](industrial_tool_design_engineer.md)                                                                                   |                          24 |                                          6 |                                       0.333333 |                                     18 |

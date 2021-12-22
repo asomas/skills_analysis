@@ -1,6 +1,6 @@
-#Occupation child care social worker
-##Number skills 70
-###Similar occupations:
+# Occupation child care social worker
+## Number skills 70
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match child care social worker |   percentage match with child care social worker |   skills not in child care social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [family social worker](family_social_worker.md)                                           |                          74 |                                           69 |                                         0.985714 |                                        5 |

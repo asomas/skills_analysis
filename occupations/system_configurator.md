@@ -1,6 +1,6 @@
-#Occupation system configurator
-##Number skills 14
-###Similar occupations:
+# Occupation system configurator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                      |   skills in this occupation |   skills that match system configurator |   percentage match with system configurator |   skills not in system configurator |
 |:------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [ICT system developer](ICT_system_developer.md)                                                 |                          19 |                                       6 |                                    0.428571 |                                  13 |

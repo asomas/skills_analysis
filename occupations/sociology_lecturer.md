@@ -1,6 +1,6 @@
-#Occupation sociology lecturer
-##Number skills 18
-###Similar occupations:
+# Occupation sociology lecturer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match sociology lecturer |   percentage match with sociology lecturer |   skills not in sociology lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [computer science lecturer](computer_science_lecturer.md)                                                             |                          62 |                                     14 |                                   0.777778 |                                 48 |

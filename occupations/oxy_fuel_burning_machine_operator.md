@@ -1,6 +1,6 @@
-#Occupation oxy fuel burning machine operator
-##Number skills 19
-###Similar occupations:
+# Occupation oxy fuel burning machine operator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match oxy fuel burning machine operator |   percentage match with oxy fuel burning machine operator |   skills not in oxy fuel burning machine operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [plasma cutting machine operator](plasma_cutting_machine_operator.md)                                                                                         |                          17 |                                                    15 |                                                  0.789474 |                                                 2 |

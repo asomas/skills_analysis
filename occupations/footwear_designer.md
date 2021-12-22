@@ -1,6 +1,6 @@
-#Occupation footwear designer
-##Number skills 23
-###Similar occupations:
+# Occupation footwear designer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match footwear designer |   percentage match with footwear designer |   skills not in footwear designer |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [footwear product developer](footwear_product_developer.md)                                                   |                          32 |                                    23 |                                  1        |                                 9 |

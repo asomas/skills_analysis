@@ -1,6 +1,6 @@
-#Occupation oil refinery control room operator
-##Number skills 10
-###Similar occupations:
+# Occupation oil refinery control room operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match oil refinery control room operator |   percentage match with oil refinery control room operator |   skills not in oil refinery control room operator |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [gas processing plant control room operator](gas_processing_plant_control_room_operator.md)       |                          10 |                                                      9 |                                                        0.9 |                                                  1 |

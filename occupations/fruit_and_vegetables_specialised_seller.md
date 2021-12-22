@@ -1,6 +1,6 @@
-#Occupation fruit and vegetables specialised seller
-##Number skills 35
-###Similar occupations:
+# Occupation fruit and vegetables specialised seller
+## Number skills 35
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match fruit and vegetables specialised seller |   percentage match with fruit and vegetables specialised seller |   skills not in fruit and vegetables specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [confectionery specialised seller](confectionery_specialised_seller.md)                                                                                           |                          33 |                                                          29 |                                                        0.828571 |                                                       4 |

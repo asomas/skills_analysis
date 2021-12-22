@@ -1,6 +1,6 @@
-#Occupation soil scientist
-##Number skills 13
-###Similar occupations:
+# Occupation soil scientist
+## Number skills 13
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match soil scientist |   percentage match with soil scientist |   skills not in soil scientist |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [soil surveying technician](soil_surveying_technician.md)                         |                          18 |                                 10 |                               0.769231 |                              8 |

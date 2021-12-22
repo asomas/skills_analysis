@@ -1,6 +1,6 @@
-#Occupation wearing apparel patternmaker
-##Number skills 21
-###Similar occupations:
+# Occupation wearing apparel patternmaker
+## Number skills 21
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match wearing apparel patternmaker |   percentage match with wearing apparel patternmaker |   skills not in wearing apparel patternmaker |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [clothing product grader](clothing_product_grader.md)                                   |                          18 |                                               16 |                                             0.761905 |                                            2 |

@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in fish, crustaceans and molluscs
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in fish, crustaceans and molluscs
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in fish, crustaceans and molluscs |   percentage match with wholesale merchant in fish, crustaceans and molluscs |   skills not in wholesale merchant in fish, crustaceans and molluscs |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------------------:|---------------------------------------------------------------------:|
 | [wholesale merchant in dairy products and edible oils](wholesale_merchant_in_dairy_products_and_edible_oils.md)                                                     |                          20 |                                                                       19 |                                                                         0.95 |                                                                    1 |

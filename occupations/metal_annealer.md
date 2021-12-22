@@ -1,6 +1,6 @@
-#Occupation metal annealer
-##Number skills 17
-###Similar occupations:
+# Occupation metal annealer
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match metal annealer |   percentage match with metal annealer |   skills not in metal annealer |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [glass annealer](glass_annealer.md)                                                                             |                          16 |                                 12 |                               0.705882 |                              4 |

@@ -1,6 +1,6 @@
-#Occupation security consultant
-##Number skills 19
-###Similar occupations:
+# Occupation security consultant
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match security consultant |   percentage match with security consultant |   skills not in security consultant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [security guard supervisor](security_guard_supervisor.md)                                                                                                         |                          19 |                                       6 |                                    0.315789 |                                  13 |

@@ -1,6 +1,6 @@
-#Occupation immunologist
-##Number skills 14
-###Similar occupations:
+# Occupation immunologist
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match immunologist |   percentage match with immunologist |   skills not in immunologist |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [bacteriology technician](bacteriology_technician.md)                                     |                          19 |                                9 |                             0.642857 |                           10 |

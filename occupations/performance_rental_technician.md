@@ -1,6 +1,6 @@
-#Occupation performance rental technician
-##Number skills 19
-###Similar occupations:
+# Occupation performance rental technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match performance rental technician |   percentage match with performance rental technician |   skills not in performance rental technician |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [door to door seller](door_to_door_seller.md)                                                                                                                     |                          20 |                                                 5 |                                              0.263158 |                                            15 |

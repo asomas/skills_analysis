@@ -1,6 +1,6 @@
-#Occupation manufacturing engineer
-##Number skills 15
-###Similar occupations:
+# Occupation manufacturing engineer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match manufacturing engineer |   percentage match with manufacturing engineer |   skills not in manufacturing engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [rolling stock engineer](rolling_stock_engineer.md)                                                                                         |                          16 |                                         11 |                                       0.733333 |                                      5 |

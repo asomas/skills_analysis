@@ -1,6 +1,6 @@
-#Occupation forge equipment technician
-##Number skills 14
-###Similar occupations:
+# Occupation forge equipment technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match forge equipment technician |   percentage match with forge equipment technician |   skills not in forge equipment technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [textile machinery technician](textile_machinery_technician.md)                                                                                                       |                          25 |                                             12 |                                           0.857143 |                                         13 |

@@ -1,6 +1,6 @@
-#Occupation mine health and safety engineer
-##Number skills 14
-###Similar occupations:
+# Occupation mine health and safety engineer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match mine health and safety engineer |   percentage match with mine health and safety engineer |   skills not in mine health and safety engineer |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [mine mechanical engineer](mine_mechanical_engineer.md)                                     |                          20 |                                                   9 |                                                0.642857 |                                              11 |

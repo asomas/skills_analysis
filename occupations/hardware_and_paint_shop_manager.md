@@ -1,6 +1,6 @@
-#Occupation hardware and paint shop manager
-##Number skills 28
-###Similar occupations:
+# Occupation hardware and paint shop manager
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match hardware and paint shop manager |   percentage match with hardware and paint shop manager |   skills not in hardware and paint shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [kitchen and bathroom shop manager](kitchen_and_bathroom_shop_manager.md)                         |                          27 |                                                  27 |                                                0.964286 |                                               0 |

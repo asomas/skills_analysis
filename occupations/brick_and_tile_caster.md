@@ -1,6 +1,6 @@
-#Occupation brick and tile caster
-##Number skills 14
-###Similar occupations:
+# Occupation brick and tile caster
+## Number skills 14
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match brick and tile caster |   percentage match with brick and tile caster |   skills not in brick and tile caster |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [moulding machine operator](moulding_machine_operator.md)                   |                          12 |                                         4 |                                      0.285714 |                                     8 |

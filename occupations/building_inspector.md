@@ -1,6 +1,6 @@
-#Occupation building inspector
-##Number skills 16
-###Similar occupations:
+# Occupation building inspector
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match building inspector |   percentage match with building inspector |   skills not in building inspector |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [utilities inspector](utilities_inspector.md)                                           |                          22 |                                      5 |                                     0.3125 |                                 17 |

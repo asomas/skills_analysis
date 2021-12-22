@@ -1,6 +1,6 @@
-#Occupation environmental protection manager
-##Number skills 24
-###Similar occupations:
+# Occupation environmental protection manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match environmental protection manager |   percentage match with environmental protection manager |   skills not in environmental protection manager |
 |:--------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [strategic planning manager](strategic_planning_manager.md)                           |                          25 |                                                   11 |                                                 0.458333 |                                               14 |

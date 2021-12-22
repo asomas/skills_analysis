@@ -1,6 +1,6 @@
-#Occupation yarn spinner
-##Number skills 11
-###Similar occupations:
+# Occupation yarn spinner
+## Number skills 11
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match yarn spinner |   percentage match with yarn spinner |   skills not in yarn spinner |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [textile technologist](textile_technologist.md)                                         |                          29 |                                8 |                             0.727273 |                           21 |

@@ -1,6 +1,6 @@
-#Occupation video and motion picture editor
-##Number skills 19
-###Similar occupations:
+# Occupation video and motion picture editor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match video and motion picture editor |   percentage match with video and motion picture editor |   skills not in video and motion picture editor |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [animation layout artist](animation_layout_artist.md)                                                                                                   |                          17 |                                                   8 |                                                0.421053 |                                               9 |

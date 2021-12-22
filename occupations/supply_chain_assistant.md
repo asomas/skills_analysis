@@ -1,6 +1,6 @@
-#Occupation supply chain assistant
-##Number skills 8
-###Similar occupations:
+# Occupation supply chain assistant
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match supply chain assistant |   percentage match with supply chain assistant |   skills not in supply chain assistant |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [administrative assistant](administrative_assistant.md)                                                                     |                          17 |                                          4 |                                          0.5   |                                     13 |

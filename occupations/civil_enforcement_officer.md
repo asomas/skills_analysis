@@ -1,6 +1,6 @@
-#Occupation civil enforcement officer
-##Number skills 14
-###Similar occupations:
+# Occupation civil enforcement officer
+## Number skills 14
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match civil enforcement officer |   percentage match with civil enforcement officer |   skills not in civil enforcement officer |
 |:----------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [police officer](police_officer.md)                                   |                          15 |                                             6 |                                          0.428571 |                                         9 |

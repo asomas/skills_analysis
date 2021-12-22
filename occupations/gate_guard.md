@@ -1,6 +1,6 @@
-#Occupation gate guard
-##Number skills 15
-###Similar occupations:
+# Occupation gate guard
+## Number skills 15
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match gate guard |   percentage match with gate guard |   skills not in gate guard |
 |:------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [hand luggage inspector](hand_luggage_inspector.md)               |                          15 |                              7 |                           0.466667 |                          8 |

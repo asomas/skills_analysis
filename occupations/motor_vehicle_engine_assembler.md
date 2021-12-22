@@ -1,6 +1,6 @@
-#Occupation motor vehicle engine assembler
-##Number skills 18
-###Similar occupations:
+# Occupation motor vehicle engine assembler
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match motor vehicle engine assembler |   percentage match with motor vehicle engine assembler |   skills not in motor vehicle engine assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [aircraft engine assembler](aircraft_engine_assembler.md)                                             |                          20 |                                                 17 |                                               0.944444 |                                              3 |

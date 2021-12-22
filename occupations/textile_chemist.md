@@ -1,6 +1,6 @@
-#Occupation textile chemist
-##Number skills 16
-###Similar occupations:
+# Occupation textile chemist
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match textile chemist |   percentage match with textile chemist |   skills not in textile chemist |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [textile product developer](textile_product_developer.md)                               |                          24 |                                  10 |                                  0.625  |                              14 |

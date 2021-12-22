@@ -1,6 +1,6 @@
-#Occupation weights and measures inspector
-##Number skills 14
-###Similar occupations:
+# Occupation weights and measures inspector
+## Number skills 14
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match weights and measures inspector |   percentage match with weights and measures inspector |   skills not in weights and measures inspector |
 |:------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [health and safety inspector](health_and_safety_inspector.md)           |                          14 |                                                  5 |                                               0.357143 |                                              9 |

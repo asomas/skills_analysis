@@ -1,6 +1,6 @@
-#Occupation fight director
-##Number skills 16
-###Similar occupations:
+# Occupation fight director
+## Number skills 16
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match fight director |   percentage match with fight director |   skills not in fight director |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [choreographer](choreographer.md)                                 |                          19 |                                  7 |                                 0.4375 |                             12 |

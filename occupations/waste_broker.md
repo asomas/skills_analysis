@@ -1,6 +1,6 @@
-#Occupation waste broker
-##Number skills 11
-###Similar occupations:
+# Occupation waste broker
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match waste broker |   percentage match with waste broker |   skills not in waste broker |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [refuse vehicle driver](refuse_vehicle_driver.md)                                                                                                                 |                           9 |                                4 |                             0.363636 |                            5 |

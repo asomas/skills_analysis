@@ -1,6 +1,6 @@
-#Occupation idiophone musical instruments maker
-##Number skills 12
-###Similar occupations:
+# Occupation idiophone musical instruments maker
+## Number skills 12
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match idiophone musical instruments maker |   percentage match with idiophone musical instruments maker |   skills not in idiophone musical instruments maker |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [harpsichord maker](harpsichord_maker.md)                                             |                          18 |                                                      11 |                                                    0.916667 |                                                   7 |

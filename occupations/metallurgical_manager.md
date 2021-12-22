@@ -1,6 +1,6 @@
-#Occupation metallurgical manager
-##Number skills 13
-###Similar occupations:
+# Occupation metallurgical manager
+## Number skills 13
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match metallurgical manager |   percentage match with metallurgical manager |   skills not in metallurgical manager |
 |:----------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [foundry manager](foundry_manager.md)                                 |                          11 |                                        11 |                                      0.846154 |                                     0 |

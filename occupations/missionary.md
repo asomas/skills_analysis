@@ -1,6 +1,6 @@
-#Occupation missionary
-##Number skills 14
-###Similar occupations:
+# Occupation missionary
+## Number skills 14
+### Similar occupations:
 | occupation                                      |   skills in this occupation |   skills that match missionary |   percentage match with missionary |   skills not in missionary |
 |:------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [minister of religion](minister_of_religion.md) |                          19 |                              4 |                           0.285714 |                         15 |

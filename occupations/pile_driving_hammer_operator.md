@@ -1,6 +1,6 @@
-#Occupation pile driving hammer operator
-##Number skills 15
-###Similar occupations:
+# Occupation pile driving hammer operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match pile driving hammer operator |   percentage match with pile driving hammer operator |   skills not in pile driving hammer operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [tower crane operator](tower_crane_operator.md)                                         |                          15 |                                               10 |                                             0.666667 |                                            5 |

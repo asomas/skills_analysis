@@ -1,6 +1,6 @@
-#Occupation electricity distribution worker
-##Number skills 12
-###Similar occupations:
+# Occupation electricity distribution worker
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match electricity distribution worker |   percentage match with electricity distribution worker |   skills not in electricity distribution worker |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [cable jointer](cable_jointer.md)                                                                                                                             |                          12 |                                                  12 |                                                1        |                                               0 |

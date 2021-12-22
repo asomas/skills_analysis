@@ -1,6 +1,6 @@
-#Occupation government planning inspector
-##Number skills 10
-###Similar occupations:
+# Occupation government planning inspector
+## Number skills 10
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match government planning inspector |   percentage match with government planning inspector |   skills not in government planning inspector |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [health and safety inspector](health_and_safety_inspector.md)                           |                          14 |                                                 6 |                                                   0.6 |                                             8 |

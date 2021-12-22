@@ -1,6 +1,6 @@
-#Occupation wooden furniture machine operator
-##Number skills 13
-###Similar occupations:
+# Occupation wooden furniture machine operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match wooden furniture machine operator |   percentage match with wooden furniture machine operator |   skills not in wooden furniture machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [metal planer operator](metal_planer_operator.md)                                                     |                          18 |                                                     9 |                                                  0.692308 |                                                 9 |

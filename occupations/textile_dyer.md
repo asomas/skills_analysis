@@ -1,6 +1,6 @@
-#Occupation textile dyer
-##Number skills 8
-###Similar occupations:
+# Occupation textile dyer
+## Number skills 8
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match textile dyer |   percentage match with textile dyer |   skills not in textile dyer |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [textile finishing machine operator](textile_finishing_machine_operator.md)             |                          10 |                                5 |                                0.625 |                            5 |

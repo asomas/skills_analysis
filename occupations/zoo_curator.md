@@ -1,6 +1,6 @@
-#Occupation zoo curator
-##Number skills 47
-###Similar occupations:
+# Occupation zoo curator
+## Number skills 47
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match zoo curator |   percentage match with zoo curator |   skills not in zoo curator |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [beauty salon manager](beauty_salon_manager.md)                         |                          44 |                              18 |                            0.382979 |                          26 |

@@ -1,6 +1,6 @@
-#Occupation product quality inspector
-##Number skills 22
-###Similar occupations:
+# Occupation product quality inspector
+## Number skills 22
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match product quality inspector |   percentage match with product quality inspector |   skills not in product quality inspector |
 |:--------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [product quality controller](product_quality_controller.md)                           |                          15 |                                            11 |                                          0.5      |                                         4 |

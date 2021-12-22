@@ -1,6 +1,6 @@
-#Occupation diagnostic radiographer
-##Number skills 51
-###Similar occupations:
+# Occupation diagnostic radiographer
+## Number skills 51
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match diagnostic radiographer |   percentage match with diagnostic radiographer |   skills not in diagnostic radiographer |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [nuclear medicine radiographer](nuclear_medicine_radiographer.md)                                           |                          51 |                                          45 |                                        0.882353 |                                       6 |

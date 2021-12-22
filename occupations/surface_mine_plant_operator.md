@@ -1,6 +1,6 @@
-#Occupation surface mine plant operator
-##Number skills 13
-###Similar occupations:
+# Occupation surface mine plant operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match surface mine plant operator |   percentage match with surface mine plant operator |   skills not in surface mine plant operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [underground heavy equipment operator](underground_heavy_equipment_operator.md)                       |                          14 |                                              11 |                                            0.846154 |                                           3 |

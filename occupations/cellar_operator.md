@@ -1,6 +1,6 @@
-#Occupation cellar operator
-##Number skills 24
-###Similar occupations:
+# Occupation cellar operator
+## Number skills 24
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match cellar operator |   percentage match with cellar operator |   skills not in cellar operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [pasta operator](pasta_operator.md)                                                     |                          27 |                                  12 |                                0.5      |                              15 |

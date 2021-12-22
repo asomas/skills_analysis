@@ -1,6 +1,6 @@
-#Occupation tracer powder blender
-##Number skills 7
-###Similar occupations:
+# Occupation tracer powder blender
+## Number skills 7
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match tracer powder blender |   percentage match with tracer powder blender |   skills not in tracer powder blender |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [glass beveller](glass_beveller.md)                                               |                          15 |                                         1 |                                      0.142857 |                                    14 |

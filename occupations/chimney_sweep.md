@@ -1,6 +1,6 @@
-#Occupation chimney sweep
-##Number skills 18
-###Similar occupations:
+# Occupation chimney sweep
+## Number skills 18
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match chimney sweep |   percentage match with chimney sweep |   skills not in chimney sweep |
 |:----------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [chimney sweep supervisor](chimney_sweep_supervisor.md)               |                          15 |                                 7 |                              0.388889 |                             8 |

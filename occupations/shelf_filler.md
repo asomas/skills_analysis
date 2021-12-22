@@ -1,6 +1,6 @@
-#Occupation shelf filler
-##Number skills 8
-###Similar occupations:
+# Occupation shelf filler
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match shelf filler |   percentage match with shelf filler |   skills not in shelf filler |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [sales assistant](sales_assistant.md)                                                                                       |                          27 |                                4 |                                0.5   |                           23 |

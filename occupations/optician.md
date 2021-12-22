@@ -1,6 +1,6 @@
-#Occupation optician
-##Number skills 47
-###Similar occupations:
+# Occupation optician
+## Number skills 47
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match optician |   percentage match with optician |   skills not in optician |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [optometrist](optometrist.md)                                                               |                          43 |                           30 |                         0.638298 |                       13 |

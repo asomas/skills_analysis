@@ -1,6 +1,6 @@
-#Occupation aircraft assembly supervisor
-##Number skills 19
-###Similar occupations:
+# Occupation aircraft assembly supervisor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match aircraft assembly supervisor |   percentage match with aircraft assembly supervisor |   skills not in aircraft assembly supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [vessel assembly supervisor](vessel_assembly_supervisor.md)                                                     |                          19 |                                               17 |                                             0.894737 |                                            2 |

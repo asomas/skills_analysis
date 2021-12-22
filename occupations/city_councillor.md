@@ -1,6 +1,6 @@
-#Occupation city councillor
-##Number skills 9
-###Similar occupations:
+# Occupation city councillor
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match city councillor |   percentage match with city councillor |   skills not in city councillor |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [cultural policy officer](cultural_policy_officer.md)                                                   |                          15 |                                   5 |                                0.555556 |                              10 |

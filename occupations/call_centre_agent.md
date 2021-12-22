@@ -1,6 +1,6 @@
-#Occupation call centre agent
-##Number skills 18
-###Similar occupations:
+# Occupation call centre agent
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match call centre agent |   percentage match with call centre agent |   skills not in call centre agent |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [live chat operator](live_chat_operator.md)                                                                                                                             |                          17 |                                    10 |                                  0.555556 |                                 7 |

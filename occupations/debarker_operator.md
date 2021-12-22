@@ -1,6 +1,6 @@
-#Occupation debarker operator
-##Number skills 14
-###Similar occupations:
+# Occupation debarker operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match debarker operator |   percentage match with debarker operator |   skills not in debarker operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [table saw operator](table_saw_operator.md)                                                                     |                          22 |                                     9 |                                  0.642857 |                                13 |

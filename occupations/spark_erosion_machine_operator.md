@@ -1,6 +1,6 @@
-#Occupation spark erosion machine operator
-##Number skills 15
-###Similar occupations:
+# Occupation spark erosion machine operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match spark erosion machine operator |   percentage match with spark erosion machine operator |   skills not in spark erosion machine operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [oxy fuel burning machine operator](oxy_fuel_burning_machine_operator.md)                                       |                          19 |                                                 12 |                                               0.8      |                                              7 |

@@ -1,6 +1,6 @@
-#Occupation government minister
-##Number skills 13
-###Similar occupations:
+# Occupation government minister
+## Number skills 13
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match government minister |   percentage match with government minister |   skills not in government minister |
 |:------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [member of parliament](member_of_parliament.md)                               |                          12 |                                      10 |                                    0.769231 |                                   2 |

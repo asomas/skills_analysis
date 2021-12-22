@@ -1,6 +1,6 @@
-#Occupation botanicals specialist
-##Number skills 12
-###Similar occupations:
+# Occupation botanicals specialist
+## Number skills 12
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match botanicals specialist |   percentage match with botanicals specialist |   skills not in botanicals specialist |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [food analyst](food_analyst.md)                                                         |                          35 |                                         6 |                                      0.5      |                                    29 |

@@ -1,6 +1,6 @@
-#Occupation wood painter
-##Number skills 14
-###Similar occupations:
+# Occupation wood painter
+## Number skills 14
+### Similar occupations:
 | occupation                                    |   skills in this occupation |   skills that match wood painter |   percentage match with wood painter |   skills not in wood painter |
 |:----------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [decorative painter](decorative_painter.md)   |                          20 |                               14 |                             1        |                            6 |

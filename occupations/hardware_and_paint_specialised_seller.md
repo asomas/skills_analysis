@@ -1,6 +1,6 @@
-#Occupation hardware and paint specialised seller
-##Number skills 32
-###Similar occupations:
+# Occupation hardware and paint specialised seller
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match hardware and paint specialised seller |   percentage match with hardware and paint specialised seller |   skills not in hardware and paint specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [fuel station specialised seller](fuel_station_specialised_seller.md)                                                                                             |                          32 |                                                        28 |                                                       0.875   |                                                     4 |

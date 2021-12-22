@@ -1,6 +1,6 @@
-#Occupation chemical engineer
-##Number skills 13
-###Similar occupations:
+# Occupation chemical engineer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match chemical engineer |   percentage match with chemical engineer |   skills not in chemical engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [nanoengineer](nanoengineer.md)                                                                                                             |                          17 |                                    13 |                                  1        |                                 4 |

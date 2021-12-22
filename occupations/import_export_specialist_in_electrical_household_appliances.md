@@ -1,6 +1,6 @@
-#Occupation import export specialist in electrical household appliances
-##Number skills 21
-###Similar occupations:
+# Occupation import export specialist in electrical household appliances
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in electrical household appliances |   percentage match with import export specialist in electrical household appliances |   skills not in import export specialist in electrical household appliances |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------------:|------------------------------------------------------------------------------------:|----------------------------------------------------------------------------:|
 | [import export specialist in agricultural machinery and equipment](import_export_specialist_in_agricultural_machinery_and_equipment.md)                                 |                          22 |                                                                              20 |                                                                            0.952381 |                                                                           2 |

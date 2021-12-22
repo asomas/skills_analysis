@@ -1,6 +1,6 @@
-#Occupation import export specialist in wood and construction materials
-##Number skills 24
-###Similar occupations:
+# Occupation import export specialist in wood and construction materials
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in wood and construction materials |   percentage match with import export specialist in wood and construction materials |   skills not in import export specialist in wood and construction materials |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------------:|------------------------------------------------------------------------------------:|----------------------------------------------------------------------------:|
 | [import export specialist in textiles and textile semi-finished and raw materials](import_export_specialist_in_textiles_and_textile_semi-finished_and_raw_materials.md) |                          23 |                                                                              22 |                                                                            0.916667 |                                                                           1 |

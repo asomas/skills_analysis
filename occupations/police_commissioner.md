@@ -1,6 +1,6 @@
-#Occupation police commissioner
-##Number skills 18
-###Similar occupations:
+# Occupation police commissioner
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match police commissioner |   percentage match with police commissioner |   skills not in police commissioner |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [police inspector](police_inspector.md)                                                           |                          12 |                                       7 |                                    0.388889 |                                   5 |

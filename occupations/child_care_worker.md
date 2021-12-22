@@ -1,6 +1,6 @@
-#Occupation child care worker
-##Number skills 8
-###Similar occupations:
+# Occupation child care worker
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match child care worker |   percentage match with child care worker |   skills not in child care worker |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [nanny](nanny.md)                                                                                           |                          16 |                                     8 |                                     1     |                                 8 |

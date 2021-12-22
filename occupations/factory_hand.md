@@ -1,6 +1,6 @@
-#Occupation factory hand
-##Number skills 10
-###Similar occupations:
+# Occupation factory hand
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match factory hand |   percentage match with factory hand |   skills not in factory hand |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [water jet cutter operator](water_jet_cutter_operator.md)                                             |                          21 |                                3 |                                  0.3 |                           18 |

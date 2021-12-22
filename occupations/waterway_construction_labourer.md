@@ -1,6 +1,6 @@
-#Occupation waterway construction labourer
-##Number skills 23
-###Similar occupations:
+# Occupation waterway construction labourer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match waterway construction labourer |   percentage match with waterway construction labourer |   skills not in waterway construction labourer |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [civil engineering worker](civil_engineering_worker.md)                     |                          27 |                                                  7 |                                               0.304348 |                                             20 |

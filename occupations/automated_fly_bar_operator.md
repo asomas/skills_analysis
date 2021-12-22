@@ -1,6 +1,6 @@
-#Occupation automated fly bar operator
-##Number skills 33
-###Similar occupations:
+# Occupation automated fly bar operator
+## Number skills 33
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match automated fly bar operator |   percentage match with automated fly bar operator |   skills not in automated fly bar operator |
 |:------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [stage machinist](stage_machinist.md)                             |                          32 |                                             27 |                                           0.818182 |                                          5 |

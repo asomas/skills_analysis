@@ -1,6 +1,6 @@
-#Occupation further education principal
-##Number skills 20
-###Similar occupations:
+# Occupation further education principal
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match further education principal |   percentage match with further education principal |   skills not in further education principal |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [head of higher education institutions](head_of_higher_education_institutions.md)                                     |                          19 |                                              18 |                                                0.9  |                                           1 |

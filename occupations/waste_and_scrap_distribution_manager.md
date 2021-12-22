@@ -1,6 +1,6 @@
-#Occupation waste and scrap distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation waste and scrap distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match waste and scrap distribution manager |   percentage match with waste and scrap distribution manager |   skills not in waste and scrap distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [clothing and footwear distribution manager](clothing_and_footwear_distribution_manager.md)                                                                             |                          26 |                                                       25 |                                                     0.961538 |                                                    1 |

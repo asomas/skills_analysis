@@ -1,6 +1,6 @@
-#Occupation photographer
-##Number skills 15
-###Similar occupations:
+# Occupation photographer
+## Number skills 15
+### Similar occupations:
 | occupation                                    |   skills in this occupation |   skills that match photographer |   percentage match with photographer |   skills not in photographer |
 |:----------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [photography teacher](photography_teacher.md) |                          23 |                                5 |                             0.333333 |                           18 |

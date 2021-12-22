@@ -1,6 +1,6 @@
-#Occupation ice-skating coach
-##Number skills 10
-###Similar occupations:
+# Occupation ice-skating coach
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match ice-skating coach |   percentage match with ice-skating coach |   skills not in ice-skating coach |
 |:----------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [physical education teacher secondary school](physical_education_teacher_secondary_school.md) |                          33 |                                     6 |                                       0.6 |                                27 |

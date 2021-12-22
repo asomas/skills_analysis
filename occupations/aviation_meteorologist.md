@@ -1,6 +1,6 @@
-#Occupation aviation meteorologist
-##Number skills 23
-###Similar occupations:
+# Occupation aviation meteorologist
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match aviation meteorologist |   percentage match with aviation meteorologist |   skills not in aviation meteorologist |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [meteorology technician](meteorology_technician.md)                                                                         |                          23 |                                          5 |                                       0.217391 |                                     18 |

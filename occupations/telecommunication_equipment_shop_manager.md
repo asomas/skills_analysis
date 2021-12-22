@@ -1,6 +1,6 @@
-#Occupation telecommunication equipment shop manager
-##Number skills 30
-###Similar occupations:
+# Occupation telecommunication equipment shop manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match telecommunication equipment shop manager |   percentage match with telecommunication equipment shop manager |   skills not in telecommunication equipment shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [jewellery and watches shop manager](jewellery_and_watches_shop_manager.md)                       |                          37 |                                                           27 |                                                         0.9      |                                                       10 |

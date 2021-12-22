@@ -1,6 +1,6 @@
-#Occupation aviation inspector
-##Number skills 23
-###Similar occupations:
+# Occupation aviation inspector
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match aviation inspector |   percentage match with aviation inspector |   skills not in aviation inspector |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [rail project engineer](rail_project_engineer.md)                                                             |                          30 |                                      4 |                                   0.173913 |                                 26 |

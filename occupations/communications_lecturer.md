@@ -1,6 +1,6 @@
-#Occupation communications lecturer
-##Number skills 21
-###Similar occupations:
+# Occupation communications lecturer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match communications lecturer |   percentage match with communications lecturer |   skills not in communications lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [journalism lecturer](journalism_lecturer.md)                                                                         |                          21 |                                          17 |                                        0.809524 |                                       4 |

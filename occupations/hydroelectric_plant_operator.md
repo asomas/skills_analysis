@@ -1,6 +1,6 @@
-#Occupation hydroelectric plant operator
-##Number skills 13
-###Similar occupations:
+# Occupation hydroelectric plant operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match hydroelectric plant operator |   percentage match with hydroelectric plant operator |   skills not in hydroelectric plant operator |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [fossil-fuel power plant operator](fossil-fuel_power_plant_operator.md)                                                                                               |                          17 |                                                8 |                                             0.615385 |                                            9 |

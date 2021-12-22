@@ -1,6 +1,6 @@
-#Occupation quantity surveyor
-##Number skills 18
-###Similar occupations:
+# Occupation quantity surveyor
+## Number skills 18
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match quantity surveyor |   percentage match with quantity surveyor |   skills not in quantity surveyor |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [construction manager](construction_manager.md)                                         |                          24 |                                     8 |                                  0.444444 |                                16 |

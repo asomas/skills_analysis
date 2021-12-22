@@ -1,6 +1,6 @@
-#Occupation ship assistant engineer
-##Number skills 26
-###Similar occupations:
+# Occupation ship assistant engineer
+## Number skills 26
+### Similar occupations:
 | occupation                                          |   skills in this occupation |   skills that match ship assistant engineer |   percentage match with ship assistant engineer |   skills not in ship assistant engineer |
 |:----------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [ship duty engineer](ship_duty_engineer.md)         |                          25 |                                          14 |                                        0.538462 |                                      11 |

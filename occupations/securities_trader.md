@@ -1,6 +1,6 @@
-#Occupation securities trader
-##Number skills 16
-###Similar occupations:
+# Occupation securities trader
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match securities trader |   percentage match with securities trader |   skills not in securities trader |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [stock trader](stock_trader.md)                                                                                                                                   |                          14 |                                    11 |                                    0.6875 |                                 3 |

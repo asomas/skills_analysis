@@ -1,6 +1,6 @@
-#Occupation sports equipment repair technician
-##Number skills 17
-###Similar occupations:
+# Occupation sports equipment repair technician
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match sports equipment repair technician |   percentage match with sports equipment repair technician |   skills not in sports equipment repair technician |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [power tool repair technician](power_tool_repair_technician.md)                                                                                                   |                          20 |                                                      9 |                                                   0.529412 |                                                 11 |

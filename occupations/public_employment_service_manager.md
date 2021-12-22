@@ -1,6 +1,6 @@
-#Occupation public employment service manager
-##Number skills 17
-###Similar occupations:
+# Occupation public employment service manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match public employment service manager |   percentage match with public employment service manager |   skills not in public employment service manager |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [corporate training manager](corporate_training_manager.md)                                             |                          34 |                                                    11 |                                                  0.647059 |                                                23 |

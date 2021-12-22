@@ -1,6 +1,6 @@
-#Occupation tax compliance officer
-##Number skills 17
-###Similar occupations:
+# Occupation tax compliance officer
+## Number skills 17
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match tax compliance officer |   percentage match with tax compliance officer |   skills not in tax compliance officer |
 |:------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [tax advisor](tax_advisor.md)                                     |                          17 |                                          6 |                                       0.352941 |                                     11 |

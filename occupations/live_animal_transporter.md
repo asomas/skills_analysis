@@ -1,6 +1,6 @@
-#Occupation live animal transporter
-##Number skills 25
-###Similar occupations:
+# Occupation live animal transporter
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match live animal transporter |   percentage match with live animal transporter |   skills not in live animal transporter |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [animal handler](animal_handler.md)                                                       |                          25 |                                          18 |                                            0.72 |                                       7 |

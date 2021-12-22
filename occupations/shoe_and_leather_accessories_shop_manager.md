@@ -1,6 +1,6 @@
-#Occupation shoe and leather accessories shop manager
-##Number skills 29
-###Similar occupations:
+# Occupation shoe and leather accessories shop manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match shoe and leather accessories shop manager |   percentage match with shoe and leather accessories shop manager |   skills not in shoe and leather accessories shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [clothing shop manager](clothing_shop_manager.md)                                                 |                          32 |                                                            28 |                                                          0.965517 |                                                         4 |

@@ -1,6 +1,6 @@
-#Occupation plastic furniture machine operator
-##Number skills 18
-###Similar occupations:
+# Occupation plastic furniture machine operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match plastic furniture machine operator |   percentage match with plastic furniture machine operator |   skills not in plastic furniture machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [cake press operator](cake_press_operator.md)                                                         |                          19 |                                                      6 |                                                   0.333333 |                                                 13 |

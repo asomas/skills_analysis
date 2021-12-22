@@ -1,6 +1,6 @@
-#Occupation physiotherapy assistant
-##Number skills 41
-###Similar occupations:
+# Occupation physiotherapy assistant
+## Number skills 41
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match physiotherapy assistant |   percentage match with physiotherapy assistant |   skills not in physiotherapy assistant |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [physiotherapist](physiotherapist.md)                                                     |                          90 |                                          38 |                                        0.926829 |                                      52 |

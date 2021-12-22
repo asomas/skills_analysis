@@ -1,6 +1,6 @@
-#Occupation conservator
-##Number skills 14
-###Similar occupations:
+# Occupation conservator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match conservator |   percentage match with conservator |   skills not in conservator |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [exhibition curator](exhibition_curator.md)                                                                                                                             |                          31 |                               8 |                            0.571429 |                          23 |

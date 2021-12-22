@@ -1,6 +1,6 @@
-#Occupation packaging production manager
-##Number skills 20
-###Similar occupations:
+# Occupation packaging production manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match packaging production manager |   percentage match with packaging production manager |   skills not in packaging production manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [rail project engineer](rail_project_engineer.md)                                                 |                          30 |                                                5 |                                                 0.25 |                                           25 |

@@ -1,6 +1,6 @@
-#Occupation ornamental metal worker
-##Number skills 18
-###Similar occupations:
+# Occupation ornamental metal worker
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match ornamental metal worker |   percentage match with ornamental metal worker |   skills not in ornamental metal worker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [welder](welder.md)                                                                                   |                          31 |                                           9 |                                        0.5      |                                      22 |

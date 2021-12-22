@@ -1,6 +1,6 @@
-#Occupation pneumatic systems technician
-##Number skills 13
-###Similar occupations:
+# Occupation pneumatic systems technician
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match pneumatic systems technician |   percentage match with pneumatic systems technician |   skills not in pneumatic systems technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [lift engineer](lift_engineer.md)                                                                                                                             |                          31 |                                               10 |                                             0.769231 |                                           21 |

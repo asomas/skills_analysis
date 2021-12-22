@@ -1,6 +1,6 @@
-#Occupation bulldozer operator
-##Number skills 17
-###Similar occupations:
+# Occupation bulldozer operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match bulldozer operator |   percentage match with bulldozer operator |   skills not in bulldozer operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [scraper operator](scraper_operator.md)                                                 |                          16 |                                     15 |                                   0.882353 |                                  1 |

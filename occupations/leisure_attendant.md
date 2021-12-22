@@ -1,6 +1,6 @@
-#Occupation leisure attendant
-##Number skills 7
-###Similar occupations:
+# Occupation leisure attendant
+## Number skills 7
+### Similar occupations:
 | occupation                                  |   skills in this occupation |   skills that match leisure attendant |   percentage match with leisure attendant |   skills not in leisure attendant |
 |:--------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [fitness instructor](fitness_instructor.md) |                          12 |                                     6 |                                  0.857143 |                                 6 |

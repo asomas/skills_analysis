@@ -1,6 +1,6 @@
-#Occupation aquaculture husbandry worker
-##Number skills 37
-###Similar occupations:
+# Occupation aquaculture husbandry worker
+## Number skills 37
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match aquaculture husbandry worker |   percentage match with aquaculture husbandry worker |   skills not in aquaculture husbandry worker |
 |:----------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [aquaculture harvesting worker](aquaculture_harvesting_worker.md)           |                          23 |                                               13 |                                             0.351351 |                                           10 |

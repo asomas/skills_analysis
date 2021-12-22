@@ -1,6 +1,6 @@
-#Occupation ICT system architect
-##Number skills 19
-###Similar occupations:
+# Occupation ICT system architect
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match ICT system architect |   percentage match with ICT system architect |   skills not in ICT system architect |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [database designer](database_designer.md)                                                 |                          27 |                                       11 |                                     0.578947 |                                   16 |

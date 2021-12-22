@@ -1,6 +1,6 @@
-#Occupation mask maker
-##Number skills 14
-###Similar occupations:
+# Occupation mask maker
+## Number skills 14
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match mask maker |   percentage match with mask maker |   skills not in mask maker |
 |:--------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [costume maker](costume_maker.md)                                         |                          28 |                             14 |                           1        |                         14 |

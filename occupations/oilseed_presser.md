@@ -1,6 +1,6 @@
-#Occupation oilseed presser
-##Number skills 21
-###Similar occupations:
+# Occupation oilseed presser
+## Number skills 21
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match oilseed presser |   percentage match with oilseed presser |   skills not in oilseed presser |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [blending plant operator](blending_plant_operator.md)                                   |                          22 |                                  10 |                                0.47619  |                              12 |

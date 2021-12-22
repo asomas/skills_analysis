@@ -1,6 +1,6 @@
-#Occupation import export specialist in tobacco products
-##Number skills 23
-###Similar occupations:
+# Occupation import export specialist in tobacco products
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in tobacco products |   percentage match with import export specialist in tobacco products |   skills not in import export specialist in tobacco products |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------:|
 | [import export specialist in dairy products and edible oils](import_export_specialist_in_dairy_products_and_edible_oils.md)                                             |                          25 |                                                               22 |                                                             0.956522 |                                                            3 |

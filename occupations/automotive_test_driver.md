@@ -1,6 +1,6 @@
-#Occupation automotive test driver
-##Number skills 12
-###Similar occupations:
+# Occupation automotive test driver
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match automotive test driver |   percentage match with automotive test driver |   skills not in automotive test driver |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [automotive electrician](automotive_electrician.md)                                                                                                           |                          25 |                                          6 |                                       0.5      |                                     19 |

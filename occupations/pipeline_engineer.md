@@ -1,6 +1,6 @@
-#Occupation pipeline engineer
-##Number skills 19
-###Similar occupations:
+# Occupation pipeline engineer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match pipeline engineer |   percentage match with pipeline engineer |   skills not in pipeline engineer |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [pipe welder](pipe_welder.md)                                                                                                                                         |                          20 |                                     7 |                                  0.368421 |                                13 |

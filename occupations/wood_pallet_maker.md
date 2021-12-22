@@ -1,6 +1,6 @@
-#Occupation wood pallet maker
-##Number skills 16
-###Similar occupations:
+# Occupation wood pallet maker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match wood pallet maker |   percentage match with wood pallet maker |   skills not in wood pallet maker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [wood boring machine operator](wood_boring_machine_operator.md)                                       |                          18 |                                    11 |                                    0.6875 |                                 7 |

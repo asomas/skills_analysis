@@ -1,6 +1,6 @@
-#Occupation search engine optimisation expert
-##Number skills 13
-###Similar occupations:
+# Occupation search engine optimisation expert
+## Number skills 13
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match search engine optimisation expert |   percentage match with search engine optimisation expert |   skills not in search engine optimisation expert |
 |:----------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [online community manager](online_community_manager.md)               |                          47 |                                                     7 |                                                  0.538462 |                                                40 |

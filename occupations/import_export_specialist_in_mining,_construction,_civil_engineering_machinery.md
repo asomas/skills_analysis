@@ -1,6 +1,6 @@
-#Occupation import export specialist in mining, construction, civil engineering machinery
-##Number skills 22
-###Similar occupations:
+# Occupation import export specialist in mining, construction, civil engineering machinery
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in mining, construction, civil engineering machinery |   percentage match with import export specialist in mining, construction, civil engineering machinery |   skills not in import export specialist in mining, construction, civil engineering machinery |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------:|
 | [import export specialist in electronic and telecommunications equipment](import_export_specialist_in_electronic_and_telecommunications_equipment.md)                   |                          22 |                                                                                                21 |                                                                                              0.954545 |                                                                                             1 |

@@ -1,6 +1,6 @@
-#Occupation clothing specialised seller
-##Number skills 34
-###Similar occupations:
+# Occupation clothing specialised seller
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match clothing specialised seller |   percentage match with clothing specialised seller |   skills not in clothing specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [textile specialised seller](textile_specialised_seller.md)                                                                                                       |                          33 |                                              28 |                                            0.823529 |                                           5 |

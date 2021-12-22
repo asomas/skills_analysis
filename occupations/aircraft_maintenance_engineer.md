@@ -1,6 +1,6 @@
-#Occupation aircraft maintenance engineer
-##Number skills 31
-###Similar occupations:
+# Occupation aircraft maintenance engineer
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match aircraft maintenance engineer |   percentage match with aircraft maintenance engineer |   skills not in aircraft maintenance engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [aircraft maintenance technician](aircraft_maintenance_technician.md)                                                                                         |                          29 |                                                25 |                                              0.806452 |                                             4 |

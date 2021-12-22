@@ -1,6 +1,6 @@
-#Occupation domestic housekeeper
-##Number skills 22
-###Similar occupations:
+# Occupation domestic housekeeper
+## Number skills 22
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match domestic housekeeper |   percentage match with domestic housekeeper |   skills not in domestic housekeeper |
 |:------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [domestic cleaner](domestic_cleaner.md)                     |                          19 |                                       12 |                                     0.545455 |                                    7 |

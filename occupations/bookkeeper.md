@@ -1,6 +1,6 @@
-#Occupation bookkeeper
-##Number skills 18
-###Similar occupations:
+# Occupation bookkeeper
+## Number skills 18
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match bookkeeper |   percentage match with bookkeeper |   skills not in bookkeeper |
 |:------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [accountant](accountant.md)                                 |                          26 |                             14 |                           0.777778 |                         12 |

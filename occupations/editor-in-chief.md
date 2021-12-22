@@ -1,6 +1,6 @@
-#Occupation editor-in-chief
-##Number skills 20
-###Similar occupations:
+# Occupation editor-in-chief
+## Number skills 20
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match editor-in-chief |   percentage match with editor-in-chief |   skills not in editor-in-chief |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [newspaper editor](newspaper_editor.md)                                         |                          20 |                                  16 |                                    0.8  |                               4 |

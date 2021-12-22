@@ -1,6 +1,6 @@
-#Occupation membership administrator
-##Number skills 11
-###Similar occupations:
+# Occupation membership administrator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match membership administrator |   percentage match with membership administrator |   skills not in membership administrator |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [membership manager](membership_manager.md)                                                             |                          24 |                                            6 |                                         0.545455 |                                       18 |

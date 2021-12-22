@@ -1,6 +1,6 @@
-#Occupation modern languages lecturer
-##Number skills 19
-###Similar occupations:
+# Occupation modern languages lecturer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match modern languages lecturer |   percentage match with modern languages lecturer |   skills not in modern languages lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [classical languages lecturer](classical_languages_lecturer.md)                                                       |                          20 |                                            18 |                                          0.947368 |                                         2 |

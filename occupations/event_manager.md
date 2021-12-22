@@ -1,6 +1,6 @@
-#Occupation event manager
-##Number skills 15
-###Similar occupations:
+# Occupation event manager
+## Number skills 15
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match event manager |   percentage match with event manager |   skills not in event manager |
 |:--------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [event assistant](event_assistant.md)                                     |                          16 |                                 6 |                              0.4      |                            10 |

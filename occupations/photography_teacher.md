@@ -1,6 +1,6 @@
-#Occupation photography teacher
-##Number skills 23
-###Similar occupations:
+# Occupation photography teacher
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match photography teacher |   percentage match with photography teacher |   skills not in photography teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [visual arts teacher](visual_arts_teacher.md)                                                                         |                          23 |                                      14 |                                    0.608696 |                                   9 |

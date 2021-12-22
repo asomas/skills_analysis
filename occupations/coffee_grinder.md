@@ -1,6 +1,6 @@
-#Occupation coffee grinder
-##Number skills 16
-###Similar occupations:
+# Occupation coffee grinder
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match coffee grinder |   percentage match with coffee grinder |   skills not in coffee grinder |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [miller](miller.md)                                                                     |                          24 |                                 10 |                                 0.625  |                             14 |

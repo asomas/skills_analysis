@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in electrical household appliances
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in electrical household appliances
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in electrical household appliances |   percentage match with wholesale merchant in electrical household appliances |   skills not in wholesale merchant in electrical household appliances |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------------:|------------------------------------------------------------------------------:|----------------------------------------------------------------------:|
 | [wholesale merchant in agricultural machinery and equipment](wholesale_merchant_in_agricultural_machinery_and_equipment.md)                                         |                          20 |                                                                        19 |                                                                          0.95 |                                                                     1 |

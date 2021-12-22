@@ -1,6 +1,6 @@
-#Occupation recruitment consultant
-##Number skills 20
-###Similar occupations:
+# Occupation recruitment consultant
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match recruitment consultant |   percentage match with recruitment consultant |   skills not in recruitment consultant |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [employment and vocational integration consultant](employment_and_vocational_integration_consultant.md) |                          19 |                                         14 |                                           0.7  |                                      5 |

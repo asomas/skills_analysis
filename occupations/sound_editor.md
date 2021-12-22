@@ -1,6 +1,6 @@
-#Occupation sound editor
-##Number skills 17
-###Similar occupations:
+# Occupation sound editor
+## Number skills 17
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match sound editor |   percentage match with sound editor |   skills not in sound editor |
 |:--------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [video and motion picture editor](video_and_motion_picture_editor.md)     |                          19 |                                8 |                             0.470588 |                           11 |

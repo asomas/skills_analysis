@@ -1,6 +1,6 @@
-#Occupation dog breeder
-##Number skills 21
-###Similar occupations:
+# Occupation dog breeder
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match dog breeder |   percentage match with dog breeder |   skills not in dog breeder |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [horse breeder](horse_breeder.md)                                                         |                          32 |                              20 |                            0.952381 |                          12 |

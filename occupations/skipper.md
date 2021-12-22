@@ -1,6 +1,6 @@
-#Occupation skipper
-##Number skills 51
-###Similar occupations:
+# Occupation skipper
+## Number skills 51
+### Similar occupations:
 | occupation                                      |   skills in this occupation |   skills that match skipper |   percentage match with skipper |   skills not in skipper |
 |:------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [helmsman](helmsman.md)                         |                          51 |                          24 |                        0.470588 |                      27 |

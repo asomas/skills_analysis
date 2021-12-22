@@ -1,6 +1,6 @@
-#Occupation knitting machine supervisor
-##Number skills 7
-###Similar occupations:
+# Occupation knitting machine supervisor
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match knitting machine supervisor |   percentage match with knitting machine supervisor |   skills not in knitting machine supervisor |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [knitting machine operator](knitting_machine_operator.md)                                         |                          20 |                                               6 |                                            0.857143 |                                          14 |

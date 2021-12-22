@@ -1,6 +1,6 @@
-#Occupation cabinet maker
-##Number skills 20
-###Similar occupations:
+# Occupation cabinet maker
+## Number skills 20
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match cabinet maker |   percentage match with cabinet maker |   skills not in cabinet maker |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [antique furniture reproducer](antique_furniture_reproducer.md)                     |                          16 |                                10 |                                  0.5  |                             6 |

@@ -1,6 +1,6 @@
-#Occupation marine upholsterer
-##Number skills 13
-###Similar occupations:
+# Occupation marine upholsterer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match marine upholsterer |   percentage match with marine upholsterer |   skills not in marine upholsterer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [aircraft interior technician](aircraft_interior_technician.md)                                       |                          14 |                                     13 |                                   1        |                                  1 |

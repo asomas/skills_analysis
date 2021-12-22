@@ -1,6 +1,6 @@
-#Occupation spring maker
-##Number skills 16
-###Similar occupations:
+# Occupation spring maker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match spring maker |   percentage match with spring maker |   skills not in spring maker |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [wire weaving machine operator](wire_weaving_machine_operator.md)                                     |                          16 |                               12 |                               0.75   |                            4 |

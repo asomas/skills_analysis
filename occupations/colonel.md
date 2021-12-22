@@ -1,6 +1,6 @@
-#Occupation colonel
-##Number skills 10
-###Similar occupations:
+# Occupation colonel
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match colonel |   percentage match with colonel |   skills not in colonel |
 |:----------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [special forces officer](special_forces_officer.md)                                           |                          22 |                           6 |                             0.6 |                      16 |

@@ -1,6 +1,6 @@
-#Occupation renewable energy consultant
-##Number skills 17
-###Similar occupations:
+# Occupation renewable energy consultant
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match renewable energy consultant |   percentage match with renewable energy consultant |   skills not in renewable energy consultant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [renewable energy sales representative](renewable_energy_sales_representative.md)                                                                                 |                          19 |                                              12 |                                            0.705882 |                                           7 |

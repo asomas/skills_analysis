@@ -1,6 +1,6 @@
-#Occupation stage director
-##Number skills 10
-###Similar occupations:
+# Occupation stage director
+## Number skills 10
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match stage director |   percentage match with stage director |   skills not in stage director |
 |:--------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [art director](art_director.md)                                           |                          23 |                                  6 |                                    0.6 |                             17 |

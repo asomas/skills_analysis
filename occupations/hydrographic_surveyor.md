@@ -1,6 +1,6 @@
-#Occupation hydrographic surveyor
-##Number skills 19
-###Similar occupations:
+# Occupation hydrographic surveyor
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match hydrographic surveyor |   percentage match with hydrographic surveyor |   skills not in hydrographic surveyor |
 |:------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [hydrographic surveying technician](hydrographic_surveying_technician.md)                 |                          21 |                                        17 |                                      0.894737 |                                     4 |

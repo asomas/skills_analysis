@@ -1,6 +1,6 @@
-#Occupation anatomical pathology technician
-##Number skills 32
-###Similar occupations:
+# Occupation anatomical pathology technician
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match anatomical pathology technician |   percentage match with anatomical pathology technician |   skills not in anatomical pathology technician |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [biomedical scientist](biomedical_scientist.md)                                                             |                          90 |                                                  17 |                                                 0.53125 |                                              73 |

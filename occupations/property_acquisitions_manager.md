@@ -1,6 +1,6 @@
-#Occupation property acquisitions manager
-##Number skills 25
-###Similar occupations:
+# Occupation property acquisitions manager
+## Number skills 25
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match property acquisitions manager |   percentage match with property acquisitions manager |   skills not in property acquisitions manager |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [real estate manager](real_estate_manager.md)                           |                          32 |                                                15 |                                                  0.6  |                                            17 |

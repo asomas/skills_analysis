@@ -1,6 +1,6 @@
-#Occupation import export manager in fruit and vegetables
-##Number skills 28
-###Similar occupations:
+# Occupation import export manager in fruit and vegetables
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in fruit and vegetables |   percentage match with import export manager in fruit and vegetables |   skills not in import export manager in fruit and vegetables |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------:|----------------------------------------------------------------------:|--------------------------------------------------------------:|
 | [import export manager in meat and meat products](import_export_manager_in_meat_and_meat_products.md)                                                                   |                          29 |                                                                27 |                                                              0.964286 |                                                             2 |

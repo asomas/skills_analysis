@@ -1,6 +1,6 @@
-#Occupation equality and inclusion manager
-##Number skills 31
-###Similar occupations:
+# Occupation equality and inclusion manager
+## Number skills 31
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match equality and inclusion manager |   percentage match with equality and inclusion manager |   skills not in equality and inclusion manager |
 |:--------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [corporate training manager](corporate_training_manager.md)               |                          34 |                                                 19 |                                               0.612903 |                                             15 |

@@ -1,6 +1,6 @@
-#Occupation management assistant
-##Number skills 17
-###Similar occupations:
+# Occupation management assistant
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match management assistant |   percentage match with management assistant |   skills not in management assistant |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [executive assistant](executive_assistant.md)                                                                               |                          20 |                                       12 |                                     0.705882 |                                    8 |

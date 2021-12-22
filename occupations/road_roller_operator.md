@@ -1,6 +1,6 @@
-#Occupation road roller operator
-##Number skills 15
-###Similar occupations:
+# Occupation road roller operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match road roller operator |   percentage match with road roller operator |   skills not in road roller operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [bulldozer operator](bulldozer_operator.md)                                             |                          17 |                                       13 |                                     0.866667 |                                    4 |

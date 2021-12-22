@@ -1,6 +1,6 @@
-#Occupation airport planning engineer
-##Number skills 19
-###Similar occupations:
+# Occupation airport planning engineer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match airport planning engineer |   percentage match with airport planning engineer |   skills not in airport planning engineer |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [airport director](airport_director.md)                                                                                     |                          23 |                                             7 |                                          0.368421 |                                        16 |

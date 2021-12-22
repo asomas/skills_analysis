@@ -1,6 +1,6 @@
-#Occupation electronics engineering technician
-##Number skills 29
-###Similar occupations:
+# Occupation electronics engineering technician
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match electronics engineering technician |   percentage match with electronics engineering technician |   skills not in electronics engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [microelectronics engineering technician](microelectronics_engineering_technician.md)                                                       |                          25 |                                                     18 |                                                   0.62069  |                                                  7 |

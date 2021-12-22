@@ -1,6 +1,6 @@
-#Occupation rubber cutting machine tender
-##Number skills 9
-###Similar occupations:
+# Occupation rubber cutting machine tender
+## Number skills 9
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match rubber cutting machine tender |   percentage match with rubber cutting machine tender |   skills not in rubber cutting machine tender |
 |:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [rubber goods assembler](rubber_goods_assembler.md)                               |                           9 |                                                 2 |                                              0.222222 |                                             7 |

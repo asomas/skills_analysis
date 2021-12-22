@@ -1,6 +1,6 @@
-#Occupation tourist animator
-##Number skills 13
-###Similar occupations:
+# Occupation tourist animator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match tourist animator |   percentage match with tourist animator |   skills not in tourist animator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [hospitality entertainment manager](hospitality_entertainment_manager.md)                                                                                     |                          17 |                                    5 |                                 0.384615 |                               12 |

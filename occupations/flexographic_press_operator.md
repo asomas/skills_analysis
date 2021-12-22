@@ -1,6 +1,6 @@
-#Occupation flexographic press operator
-##Number skills 18
-###Similar occupations:
+# Occupation flexographic press operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match flexographic press operator |   percentage match with flexographic press operator |   skills not in flexographic press operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [offset printer](offset_printer.md)                                                                   |                          18 |                                              14 |                                            0.777778 |                                           4 |

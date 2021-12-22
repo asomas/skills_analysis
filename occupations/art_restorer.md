@@ -1,6 +1,6 @@
-#Occupation art restorer
-##Number skills 11
-###Similar occupations:
+# Occupation art restorer
+## Number skills 11
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match art restorer |   percentage match with art restorer |   skills not in art restorer |
 |:--------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [book restorer](book_restorer.md)                                   |                          12 |                               11 |                             1        |                            1 |

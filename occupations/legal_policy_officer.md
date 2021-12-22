@@ -1,6 +1,6 @@
-#Occupation legal policy officer
-##Number skills 10
-###Similar occupations:
+# Occupation legal policy officer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match legal policy officer |   percentage match with legal policy officer |   skills not in legal policy officer |
 |:------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [corporate lawyer](corporate_lawyer.md)                                       |                          20 |                                        5 |                                          0.5 |                                   15 |

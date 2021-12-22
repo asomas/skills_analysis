@@ -1,6 +1,6 @@
-#Occupation coking furnace operator
-##Number skills 13
-###Similar occupations:
+# Occupation coking furnace operator
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match coking furnace operator |   percentage match with coking furnace operator |   skills not in coking furnace operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [plastic heat treatment equipment operator](plastic_heat_treatment_equipment_operator.md)                       |                          17 |                                           7 |                                        0.538462 |                                      10 |

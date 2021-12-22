@@ -1,6 +1,6 @@
-#Occupation leather measuring operator
-##Number skills 6
-###Similar occupations:
+# Occupation leather measuring operator
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                          |   skills in this occupation |   skills that match leather measuring operator |   percentage match with leather measuring operator |   skills not in leather measuring operator |
 |:----------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [leather finishing operator](leather_finishing_operator.md)                                         |                          11 |                                              6 |                                           1        |                                          5 |

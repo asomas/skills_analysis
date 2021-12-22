@@ -1,6 +1,6 @@
-#Occupation stand-in
-##Number skills 12
-###Similar occupations:
+# Occupation stand-in
+## Number skills 12
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match stand-in |   percentage match with stand-in |   skills not in stand-in |
 |:--------------------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [voice-over artist](voice-over_artist.md)                                 |                          15 |                            9 |                         0.75     |                        6 |

@@ -1,6 +1,6 @@
-#Occupation publishing rights manager
-##Number skills 9
-###Similar occupations:
+# Occupation publishing rights manager
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                  |   skills in this occupation |   skills that match publishing rights manager |   percentage match with publishing rights manager |   skills not in publishing rights manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [music producer](music_producer.md)                                                                                                                         |                          14 |                                             6 |                                          0.666667 |                                         8 |

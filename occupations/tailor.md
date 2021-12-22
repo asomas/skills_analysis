@@ -1,6 +1,6 @@
-#Occupation tailor
-##Number skills 28
-###Similar occupations:
+# Occupation tailor
+## Number skills 28
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match tailor |   percentage match with tailor |   skills not in tailor |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [clothing alteration machinist](clothing_alteration_machinist.md)                       |                          26 |                         20 |                       0.714286 |                      6 |

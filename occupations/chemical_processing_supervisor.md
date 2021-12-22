@@ -1,6 +1,6 @@
-#Occupation chemical processing supervisor
-##Number skills 21
-###Similar occupations:
+# Occupation chemical processing supervisor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match chemical processing supervisor |   percentage match with chemical processing supervisor |   skills not in chemical processing supervisor |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [chromatographer](chromatographer.md)                                                     |                          31 |                                                  8 |                                               0.380952 |                                             23 |

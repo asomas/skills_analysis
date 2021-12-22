@@ -1,6 +1,6 @@
-#Occupation venue programmer
-##Number skills 13
-###Similar occupations:
+# Occupation venue programmer
+## Number skills 13
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match venue programmer |   percentage match with venue programmer |   skills not in venue programmer |
 |:------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [exhibition curator](exhibition_curator.md)                 |                          31 |                                    2 |                                 0.153846 |                               29 |

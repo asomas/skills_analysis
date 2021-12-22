@@ -1,6 +1,6 @@
-#Occupation instrumentation engineering technician
-##Number skills 31
-###Similar occupations:
+# Occupation instrumentation engineering technician
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match instrumentation engineering technician |   percentage match with instrumentation engineering technician |   skills not in instrumentation engineering technician |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [electrical engineering technician](electrical_engineering_technician.md)                             |                          28 |                                                         15 |                                                       0.483871 |                                                     13 |

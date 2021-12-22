@@ -1,6 +1,6 @@
-#Occupation legal assistant
-##Number skills 13
-###Similar occupations:
+# Occupation legal assistant
+## Number skills 13
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match legal assistant |   percentage match with legal assistant |   skills not in legal assistant |
 |:--------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [conveyance clerk](conveyance_clerk.md)                             |                           7 |                                   5 |                                0.384615 |                               2 |

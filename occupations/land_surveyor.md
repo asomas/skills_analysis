@@ -1,6 +1,6 @@
-#Occupation land surveyor
-##Number skills 27
-###Similar occupations:
+# Occupation land surveyor
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match land surveyor |   percentage match with land surveyor |   skills not in land surveyor |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [surveying technician](surveying_technician.md)                                                                                             |                          23 |                                18 |                              0.666667 |                             5 |

@@ -1,6 +1,6 @@
-#Occupation delivery driver
-##Number skills 11
-###Similar occupations:
+# Occupation delivery driver
+## Number skills 11
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match delivery driver |   percentage match with delivery driver |   skills not in delivery driver |
 |:--------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [motorcycle delivery person](motorcycle_delivery_person.md)                     |                          13 |                                   9 |                                0.818182 |                               4 |

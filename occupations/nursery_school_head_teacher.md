@@ -1,6 +1,6 @@
-#Occupation nursery school head teacher
-##Number skills 23
-###Similar occupations:
+# Occupation nursery school head teacher
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match nursery school head teacher |   percentage match with nursery school head teacher |   skills not in nursery school head teacher |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [special educational needs head teacher](special_educational_needs_head_teacher.md)                         |                          26 |                                              18 |                                            0.782609 |                                           8 |

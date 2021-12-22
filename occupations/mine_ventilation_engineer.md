@@ -1,6 +1,6 @@
-#Occupation mine ventilation engineer
-##Number skills 13
-###Similar occupations:
+# Occupation mine ventilation engineer
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match mine ventilation engineer |   percentage match with mine ventilation engineer |   skills not in mine ventilation engineer |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [mine development engineer](mine_development_engineer.md)                                         |                          25 |                                             9 |                                          0.692308 |                                        16 |

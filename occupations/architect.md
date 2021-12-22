@@ -1,6 +1,6 @@
-#Occupation architect
-##Number skills 32
-###Similar occupations:
+# Occupation architect
+## Number skills 32
+### Similar occupations:
 | occupation                                        |   skills in this occupation |   skills that match architect |   percentage match with architect |   skills not in architect |
 |:--------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [interior architect](interior_architect.md)       |                          27 |                             9 |                           0.28125 |                        18 |

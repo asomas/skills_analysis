@@ -1,6 +1,6 @@
-#Occupation recycling specialist
-##Number skills 22
-###Similar occupations:
+# Occupation recycling specialist
+## Number skills 22
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match recycling specialist |   percentage match with recycling specialist |   skills not in recycling specialist |
 |:------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [waste management officer](waste_management_officer.md)                       |                          17 |                                        7 |                                     0.318182 |                                   10 |

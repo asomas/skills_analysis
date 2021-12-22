@@ -1,6 +1,6 @@
-#Occupation metalworking lathe operator
-##Number skills 19
-###Similar occupations:
+# Occupation metalworking lathe operator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match metalworking lathe operator |   percentage match with metalworking lathe operator |   skills not in metalworking lathe operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [engraving machine operator](engraving_machine_operator.md)                                           |                          29 |                                              11 |                                            0.578947 |                                          18 |

@@ -1,6 +1,6 @@
-#Occupation coppersmith
-##Number skills 25
-###Similar occupations:
+# Occupation coppersmith
+## Number skills 25
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match coppersmith |   percentage match with coppersmith |   skills not in coppersmith |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [metallurgist](metallurgist.md)                                                       |                          14 |                               6 |                                0.24 |                           8 |

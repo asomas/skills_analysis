@@ -1,6 +1,6 @@
-#Occupation forest worker
-##Number skills 23
-###Similar occupations:
+# Occupation forest worker
+## Number skills 23
+### Similar occupations:
 | occupation                                            |   skills in this occupation |   skills that match forest worker |   percentage match with forest worker |   skills not in forest worker |
 |:------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [arboriculturist](arboriculturist.md)                 |                          25 |                                 9 |                              0.391304 |                            16 |

@@ -1,6 +1,6 @@
-#Occupation prosthetist-orthotist
-##Number skills 24
-###Similar occupations:
+# Occupation prosthetist-orthotist
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match prosthetist-orthotist |   percentage match with prosthetist-orthotist |   skills not in prosthetist-orthotist |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [chiropractor](chiropractor.md)                                                                                           |                         136 |                                        17 |                                      0.708333 |                                   119 |

@@ -1,6 +1,6 @@
-#Occupation educational psychologist
-##Number skills 20
-###Similar occupations:
+# Occupation educational psychologist
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match educational psychologist |   percentage match with educational psychologist |   skills not in educational psychologist |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [educational counsellor](educational_counsellor.md)                                                                   |                          19 |                                            9 |                                             0.45 |                                       10 |

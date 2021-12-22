@@ -1,6 +1,6 @@
-#Occupation software analyst
-##Number skills 19
-###Similar occupations:
+# Occupation software analyst
+## Number skills 19
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match software analyst |   percentage match with software analyst |   skills not in software analyst |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [ICT system analyst](ICT_system_analyst.md)                                       |                          25 |                                    8 |                                 0.421053 |                               17 |

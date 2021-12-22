@@ -1,6 +1,6 @@
-#Occupation zoo educator
-##Number skills 17
-###Similar occupations:
+# Occupation zoo educator
+## Number skills 17
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match zoo educator |   percentage match with zoo educator |   skills not in zoo educator |
 |:----------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [zoo curator](zoo_curator.md)                                         |                          47 |                                4 |                             0.235294 |                           43 |

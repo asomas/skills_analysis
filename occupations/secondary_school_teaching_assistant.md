@@ -1,6 +1,6 @@
-#Occupation secondary school teaching assistant
-##Number skills 20
-###Similar occupations:
+# Occupation secondary school teaching assistant
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match secondary school teaching assistant |   percentage match with secondary school teaching assistant |   skills not in secondary school teaching assistant |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [Montessori school teacher](Montessori_school_teacher.md)                                                             |                          33 |                                                      14 |                                                        0.7  |                                                  19 |

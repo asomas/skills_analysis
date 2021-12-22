@@ -1,6 +1,6 @@
-#Occupation crane technician
-##Number skills 14
-###Similar occupations:
+# Occupation crane technician
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match crane technician |   percentage match with crane technician |   skills not in crane technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [solar energy technician](solar_energy_technician.md)                                                                                                                 |                          19 |                                    5 |                                 0.357143 |                               14 |

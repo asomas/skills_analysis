@@ -1,6 +1,6 @@
-#Occupation horticulture worker
-##Number skills 16
-###Similar occupations:
+# Occupation horticulture worker
+## Number skills 16
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match horticulture worker |   percentage match with horticulture worker |   skills not in horticulture worker |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [horticulture production team leader](horticulture_production_team_leader.md)     |                          42 |                                      13 |                                      0.8125 |                                  29 |

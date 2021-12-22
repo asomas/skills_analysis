@@ -1,6 +1,6 @@
-#Occupation pulp grader
-##Number skills 29
-###Similar occupations:
+# Occupation pulp grader
+## Number skills 29
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match pulp grader |   percentage match with pulp grader |   skills not in pulp grader |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [lumber grader](lumber_grader.md)                                                         |                          34 |                              21 |                            0.724138 |                          13 |

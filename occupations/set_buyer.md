@@ -1,6 +1,6 @@
-#Occupation set buyer
-##Number skills 9
-###Similar occupations:
+# Occupation set buyer
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match set buyer |   percentage match with set buyer |   skills not in set buyer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [costume buyer](costume_buyer.md)                                                                                                                             |                           7 |                             4 |                          0.444444 |                         3 |

@@ -1,6 +1,6 @@
-#Occupation footwear quality controller
-##Number skills 11
-###Similar occupations:
+# Occupation footwear quality controller
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match footwear quality controller |   percentage match with footwear quality controller |   skills not in footwear quality controller |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [footwear quality manager](footwear_quality_manager.md)                                                       |                          16 |                                              11 |                                            1        |                                           5 |

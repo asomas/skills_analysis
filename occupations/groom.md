@@ -1,6 +1,6 @@
-#Occupation groom
-##Number skills 26
-###Similar occupations:
+# Occupation groom
+## Number skills 26
+### Similar occupations:
 | occupation                                            |   skills in this occupation |   skills that match groom |   percentage match with groom |   skills not in groom |
 |:------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
 | [equine worker](equine_worker.md)                     |                          14 |                        11 |                      0.423077 |                     3 |

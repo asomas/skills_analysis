@@ -1,6 +1,6 @@
-#Occupation automation engineering technician
-##Number skills 24
-###Similar occupations:
+# Occupation automation engineering technician
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match automation engineering technician |   percentage match with automation engineering technician |   skills not in automation engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [mechatronics engineering technician](mechatronics_engineering_technician.md)                                                               |                          28 |                                                    19 |                                                  0.791667 |                                                 9 |

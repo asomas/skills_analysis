@@ -1,6 +1,6 @@
-#Occupation garage manager
-##Number skills 26
-###Similar occupations:
+# Occupation garage manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match garage manager |   percentage match with garage manager |   skills not in garage manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [beauty salon manager](beauty_salon_manager.md)                                                                                                                   |                          44 |                                 14 |                               0.538462 |                             30 |

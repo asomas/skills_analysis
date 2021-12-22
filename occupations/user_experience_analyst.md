@@ -1,6 +1,6 @@
-#Occupation user experience analyst
-##Number skills 17
-###Similar occupations:
+# Occupation user experience analyst
+## Number skills 17
+### Similar occupations:
 | occupation                                              |   skills in this occupation |   skills that match user experience analyst |   percentage match with user experience analyst |   skills not in user experience analyst |
 |:--------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [ICT usability tester](ICT_usability_tester.md)         |                          17 |                                           8 |                                        0.470588 |                                       9 |

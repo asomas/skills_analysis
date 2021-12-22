@@ -1,6 +1,6 @@
-#Occupation bridge construction supervisor
-##Number skills 26
-###Similar occupations:
+# Occupation bridge construction supervisor
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match bridge construction supervisor |   percentage match with bridge construction supervisor |   skills not in bridge construction supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [road construction supervisor](road_construction_supervisor.md)                                                 |                          25 |                                                 20 |                                               0.769231 |                                              5 |

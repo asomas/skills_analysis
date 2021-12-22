@@ -1,6 +1,6 @@
-#Occupation edge bander operator
-##Number skills 10
-###Similar occupations:
+# Occupation edge bander operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match edge bander operator |   percentage match with edge bander operator |   skills not in edge bander operator |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [router operator](router_operator.md)                                                     |                          13 |                                        5 |                                          0.5 |                                    8 |

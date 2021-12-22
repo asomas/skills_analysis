@@ -1,6 +1,6 @@
-#Occupation mine production manager
-##Number skills 23
-###Similar occupations:
+# Occupation mine production manager
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match mine production manager |   percentage match with mine production manager |   skills not in mine production manager |
 |:--------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [mine manager](mine_manager.md)                                                             |                          28 |                                          15 |                                        0.652174 |                                      13 |

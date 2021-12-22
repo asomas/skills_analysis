@@ -1,6 +1,6 @@
-#Occupation foundry operative
-##Number skills 13
-###Similar occupations:
+# Occupation foundry operative
+## Number skills 13
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match foundry operative |   percentage match with foundry operative |   skills not in foundry operative |
 |:----------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [mouldmaker](mouldmaker.md)                                                 |                          11 |                                     7 |                                  0.538462 |                                 4 |

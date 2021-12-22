@@ -1,6 +1,6 @@
-#Occupation vineyard worker
-##Number skills 8
-###Similar occupations:
+# Occupation vineyard worker
+## Number skills 8
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match vineyard worker |   percentage match with vineyard worker |   skills not in vineyard worker |
 |:----------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [vineyard machinery operator](vineyard_machinery_operator.md)                     |                          12 |                                   6 |                                   0.75  |                               6 |

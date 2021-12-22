@@ -1,6 +1,6 @@
-#Occupation fruit and vegetable preserver
-##Number skills 16
-###Similar occupations:
+# Occupation fruit and vegetable preserver
+## Number skills 16
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match fruit and vegetable preserver |   percentage match with fruit and vegetable preserver |   skills not in fruit and vegetable preserver |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [fruit and vegetable canner](fruit_and_vegetable_canner.md)                             |                          19 |                                                11 |                                                0.6875 |                                             8 |

@@ -1,6 +1,6 @@
-#Occupation plastic and rubber products manufacturing supervisor
-##Number skills 15
-###Similar occupations:
+# Occupation plastic and rubber products manufacturing supervisor
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match plastic and rubber products manufacturing supervisor |   percentage match with plastic and rubber products manufacturing supervisor |   skills not in plastic and rubber products manufacturing supervisor |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------------------:|---------------------------------------------------------------------:|
 | [vacuum forming machine operator](vacuum_forming_machine_operator.md)                         |                          14 |                                                                        6 |                                                                     0.4      |                                                                    8 |

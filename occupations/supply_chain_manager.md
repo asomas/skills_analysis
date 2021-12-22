@@ -1,6 +1,6 @@
-#Occupation supply chain manager
-##Number skills 17
-###Similar occupations:
+# Occupation supply chain manager
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match supply chain manager |   percentage match with supply chain manager |   skills not in supply chain manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [forecast manager](forecast_manager.md)                                                           |                          24 |                                       17 |                                     1        |                                    7 |

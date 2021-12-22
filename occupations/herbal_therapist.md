@@ -1,6 +1,6 @@
-#Occupation herbal therapist
-##Number skills 26
-###Similar occupations:
+# Occupation herbal therapist
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match herbal therapist |   percentage match with herbal therapist |   skills not in herbal therapist |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [acupuncturist](acupuncturist.md)                                                                                         |                          33 |                                   16 |                                 0.615385 |                               17 |

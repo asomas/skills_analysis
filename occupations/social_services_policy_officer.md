@@ -1,6 +1,6 @@
-#Occupation social services policy officer
-##Number skills 11
-###Similar occupations:
+# Occupation social services policy officer
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match social services policy officer |   percentage match with social services policy officer |   skills not in social services policy officer |
 |:------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [benefits advice worker](benefits_advice_worker.md)                                       |                          69 |                                                  5 |                                               0.454545 |                                             64 |

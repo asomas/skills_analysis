@@ -1,6 +1,6 @@
-#Occupation fish and seafood specialised seller
-##Number skills 37
-###Similar occupations:
+# Occupation fish and seafood specialised seller
+## Number skills 37
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match fish and seafood specialised seller |   percentage match with fish and seafood specialised seller |   skills not in fish and seafood specialised seller |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [delicatessen specialised seller](delicatessen_specialised_seller.md)                                                                                             |                          31 |                                                      29 |                                                    0.783784 |                                                   2 |

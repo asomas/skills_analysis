@@ -1,6 +1,6 @@
-#Occupation mineral processing operator
-##Number skills 9
-###Similar occupations:
+# Occupation mineral processing operator
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match mineral processing operator |   percentage match with mineral processing operator |   skills not in mineral processing operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [mining assistant](mining_assistant.md)                                                                                                                       |                          10 |                                               3 |                                            0.333333 |                                           7 |

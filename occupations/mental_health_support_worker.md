@@ -1,6 +1,6 @@
-#Occupation mental health support worker
-##Number skills 66
-###Similar occupations:
+# Occupation mental health support worker
+## Number skills 66
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match mental health support worker |   percentage match with mental health support worker |   skills not in mental health support worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [foster care support worker](foster_care_support_worker.md)                               |                          72 |                                               66 |                                             1        |                                            6 |

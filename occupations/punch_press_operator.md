@@ -1,6 +1,6 @@
-#Occupation punch press operator
-##Number skills 19
-###Similar occupations:
+# Occupation punch press operator
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match punch press operator |   percentage match with punch press operator |   skills not in punch press operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [engraving machine operator](engraving_machine_operator.md)                                           |                          29 |                                       18 |                                     0.947368 |                                   11 |

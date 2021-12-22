@@ -1,6 +1,6 @@
-#Occupation industrial tool design engineer
-##Number skills 24
-###Similar occupations:
+# Occupation industrial tool design engineer
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match industrial tool design engineer |   percentage match with industrial tool design engineer |   skills not in industrial tool design engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [container equipment design engineer](container_equipment_design_engineer.md)                                                               |                          23 |                                                  18 |                                                0.75     |                                               5 |

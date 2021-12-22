@@ -1,6 +1,6 @@
-#Occupation consumer rights advisor
-##Number skills 13
-###Similar occupations:
+# Occupation consumer rights advisor
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match consumer rights advisor |   percentage match with consumer rights advisor |   skills not in consumer rights advisor |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [customer service representative](customer_service_representative.md)                                                                                             |                          22 |                                           4 |                                        0.307692 |                                      18 |

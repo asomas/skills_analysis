@@ -1,6 +1,6 @@
-#Occupation community health worker
-##Number skills 14
-###Similar occupations:
+# Occupation community health worker
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match community health worker |   percentage match with community health worker |   skills not in community health worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [criminal justice social worker](criminal_justice_social_worker.md)                       |                          69 |                                          12 |                                        0.857143 |                                      57 |

@@ -1,6 +1,6 @@
-#Occupation medical laboratory manager
-##Number skills 20
-###Similar occupations:
+# Occupation medical laboratory manager
+## Number skills 20
+### Similar occupations:
 | occupation                                              |   skills in this occupation |   skills that match medical laboratory manager |   percentage match with medical laboratory manager |   skills not in medical laboratory manager |
 |:--------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [biomedical scientist](biomedical_scientist.md)         |                          90 |                                              4 |                                               0.2  |                                         86 |

@@ -1,6 +1,6 @@
-#Occupation archive manager
-##Number skills 19
-###Similar occupations:
+# Occupation archive manager
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match archive manager |   percentage match with archive manager |   skills not in archive manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [collection manager](collection_manager.md)                                                       |                          20 |                                  11 |                                0.578947 |                               9 |

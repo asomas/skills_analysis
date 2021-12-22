@@ -1,6 +1,6 @@
-#Occupation ICT usability tester
-##Number skills 17
-###Similar occupations:
+# Occupation ICT usability tester
+## Number skills 17
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match ICT usability tester |   percentage match with ICT usability tester |   skills not in ICT usability tester |
 |:------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [ICT accessibility tester](ICT_accessibility_tester.md)                 |                          19 |                                       16 |                                     0.941176 |                                    3 |

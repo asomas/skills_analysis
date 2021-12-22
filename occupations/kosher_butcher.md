@@ -1,6 +1,6 @@
-#Occupation kosher butcher
-##Number skills 26
-###Similar occupations:
+# Occupation kosher butcher
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match kosher butcher |   percentage match with kosher butcher |   skills not in kosher butcher |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [butcher](butcher.md)                                                                     |                          36 |                                 25 |                               0.961538 |                             11 |

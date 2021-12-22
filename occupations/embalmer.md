@@ -1,6 +1,6 @@
-#Occupation embalmer
-##Number skills 11
-###Similar occupations:
+# Occupation embalmer
+## Number skills 11
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match embalmer |   percentage match with embalmer |   skills not in embalmer |
 |:------------------------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [funeral services director](funeral_services_director.md)   |                          19 |                            3 |                         0.272727 |                       16 |

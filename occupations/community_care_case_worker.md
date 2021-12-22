@@ -1,6 +1,6 @@
-#Occupation community care case worker
-##Number skills 66
-###Similar occupations:
+# Occupation community care case worker
+## Number skills 66
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match community care case worker |   percentage match with community care case worker |   skills not in community care case worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [palliative care social worker](palliative_care_social_worker.md)                         |                          74 |                                             65 |                                           0.984848 |                                          9 |

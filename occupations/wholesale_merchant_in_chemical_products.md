@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in chemical products
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in chemical products
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in chemical products |   percentage match with wholesale merchant in chemical products |   skills not in wholesale merchant in chemical products |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [wholesale merchant in mining, construction and civil engineering machinery](wholesale_merchant_in_mining,_construction_and_civil_engineering_machinery.md)         |                          20 |                                                          19 |                                                            0.95 |                                                       1 |

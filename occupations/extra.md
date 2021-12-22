@@ -1,6 +1,6 @@
-#Occupation extra
-##Number skills 6
-###Similar occupations:
+# Occupation extra
+## Number skills 6
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match extra |   percentage match with extra |   skills not in extra |
 |:--------------------------------------------------------------------------------------|----------------------------:|--------------------------:|------------------------------:|----------------------:|
 | [stunt performer](stunt_performer.md)                                                 |                          12 |                         3 |                      0.5      |                     9 |

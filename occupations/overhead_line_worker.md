@@ -1,6 +1,6 @@
-#Occupation overhead line worker
-##Number skills 13
-###Similar occupations:
+# Occupation overhead line worker
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match overhead line worker |   percentage match with overhead line worker |   skills not in overhead line worker |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [cable jointer](cable_jointer.md)                                                                                                                             |                          12 |                                       12 |                                     0.923077 |                                    0 |

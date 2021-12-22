@@ -1,6 +1,6 @@
-#Occupation footwear finishing and packing operator
-##Number skills 10
-###Similar occupations:
+# Occupation footwear finishing and packing operator
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match footwear finishing and packing operator |   percentage match with footwear finishing and packing operator |   skills not in footwear finishing and packing operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [shoemaker](shoemaker.md)                                                                             |                          17 |                                                           8 |                                                             0.8 |                                                       9 |

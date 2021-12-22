@@ -1,6 +1,6 @@
-#Occupation carbonation operator
-##Number skills 12
-###Similar occupations:
+# Occupation carbonation operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match carbonation operator |   percentage match with carbonation operator |   skills not in carbonation operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [water treatment systems operator](water_treatment_systems_operator.md)                 |                          29 |                                        9 |                                     0.75     |                                   20 |

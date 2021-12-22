@@ -1,6 +1,6 @@
-#Occupation criminal investigator
-##Number skills 8
-###Similar occupations:
+# Occupation criminal investigator
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                  |   skills in this occupation |   skills that match criminal investigator |   percentage match with criminal investigator |   skills not in criminal investigator |
 |:----------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [private detective](private_detective.md)                                                                                   |                          18 |                                         2 |                                         0.25  |                                    16 |

@@ -1,6 +1,6 @@
-#Occupation textile dyeing technician
-##Number skills 7
-###Similar occupations:
+# Occupation textile dyeing technician
+## Number skills 7
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match textile dyeing technician |   percentage match with textile dyeing technician |   skills not in textile dyeing technician |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [textile chemist](textile_chemist.md)                                                   |                          16 |                                             7 |                                          1        |                                         9 |

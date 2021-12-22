@@ -1,6 +1,6 @@
-#Occupation mine surveyor
-##Number skills 17
-###Similar occupations:
+# Occupation mine surveyor
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match mine surveyor |   percentage match with mine surveyor |   skills not in mine surveyor |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [geographic information systems specialist](geographic_information_systems_specialist.md)                     |                          18 |                                 6 |                              0.352941 |                            12 |

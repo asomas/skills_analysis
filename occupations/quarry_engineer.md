@@ -1,6 +1,6 @@
-#Occupation quarry engineer
-##Number skills 15
-###Similar occupations:
+# Occupation quarry engineer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match quarry engineer |   percentage match with quarry engineer |   skills not in quarry engineer |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [mine mechanical engineer](mine_mechanical_engineer.md)                                               |                          20 |                                   9 |                                0.6      |                              11 |

@@ -1,6 +1,6 @@
-#Occupation textile machine operator
-##Number skills 17
-###Similar occupations:
+# Occupation textile machine operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match textile machine operator |   percentage match with textile machine operator |   skills not in textile machine operator |
 |:------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [textile technologist](textile_technologist.md)                               |                          29 |                                            8 |                                         0.470588 |                                       21 |

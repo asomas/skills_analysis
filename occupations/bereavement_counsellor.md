@@ -1,6 +1,6 @@
-#Occupation bereavement counsellor
-##Number skills 46
-###Similar occupations:
+# Occupation bereavement counsellor
+## Number skills 46
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match bereavement counsellor |   percentage match with bereavement counsellor |   skills not in bereavement counsellor |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [sexual violence counsellor](sexual_violence_counsellor.md)                               |                          52 |                                         44 |                                       0.956522 |                                      8 |

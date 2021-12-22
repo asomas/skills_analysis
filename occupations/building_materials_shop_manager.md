@@ -1,6 +1,6 @@
-#Occupation building materials shop manager
-##Number skills 30
-###Similar occupations:
+# Occupation building materials shop manager
+## Number skills 30
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match building materials shop manager |   percentage match with building materials shop manager |   skills not in building materials shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [music and video shop manager](music_and_video_shop_manager.md)                                   |                          30 |                                                  27 |                                                0.9      |                                               3 |

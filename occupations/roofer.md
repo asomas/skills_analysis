@@ -1,6 +1,6 @@
-#Occupation roofer
-##Number skills 23
-###Similar occupations:
+# Occupation roofer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match roofer |   percentage match with roofer |   skills not in roofer |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [bricklayer](bricklayer.md)                                                             |                          18 |                         11 |                       0.478261 |                      7 |

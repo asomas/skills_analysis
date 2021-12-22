@@ -1,6 +1,6 @@
-#Occupation bricklaying supervisor
-##Number skills 24
-###Similar occupations:
+# Occupation bricklaying supervisor
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match bricklaying supervisor |   percentage match with bricklaying supervisor |   skills not in bricklaying supervisor |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [carpenter supervisor](carpenter_supervisor.md)                                                                 |                          26 |                                         22 |                                       0.916667 |                                      4 |

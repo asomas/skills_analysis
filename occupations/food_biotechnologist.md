@@ -1,6 +1,6 @@
-#Occupation food biotechnologist
-##Number skills 39
-###Similar occupations:
+# Occupation food biotechnologist
+## Number skills 39
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match food biotechnologist |   percentage match with food biotechnologist |   skills not in food biotechnologist |
 |:----------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [food technologist](food_technologist.md)                                               |                          60 |                                       35 |                                     0.897436 |                                   25 |

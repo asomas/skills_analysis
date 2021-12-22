@@ -1,6 +1,6 @@
-#Occupation microsystem engineer
-##Number skills 32
-###Similar occupations:
+# Occupation microsystem engineer
+## Number skills 32
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match microsystem engineer |   percentage match with microsystem engineer |   skills not in microsystem engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [microelectronics engineer](microelectronics_engineer.md)                                                                                   |                          36 |                                       25 |                                      0.78125 |                                   11 |

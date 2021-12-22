@@ -1,6 +1,6 @@
-#Occupation wholesale merchant in flowers and plants
-##Number skills 20
-###Similar occupations:
+# Occupation wholesale merchant in flowers and plants
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                          |   skills in this occupation |   skills that match wholesale merchant in flowers and plants |   percentage match with wholesale merchant in flowers and plants |   skills not in wholesale merchant in flowers and plants |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------:|-----------------------------------------------------------------:|---------------------------------------------------------:|
 | [wholesale merchant in beverages](wholesale_merchant_in_beverages.md)                                                                                               |                          20 |                                                           19 |                                                             0.95 |                                                        1 |

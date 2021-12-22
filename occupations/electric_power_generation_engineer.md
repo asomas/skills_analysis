@@ -1,6 +1,6 @@
-#Occupation electric power generation engineer
-##Number skills 21
-###Similar occupations:
+# Occupation electric power generation engineer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match electric power generation engineer |   percentage match with electric power generation engineer |   skills not in electric power generation engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [substation engineer](substation_engineer.md)                                                                                               |                          25 |                                                     12 |                                                   0.571429 |                                                 13 |

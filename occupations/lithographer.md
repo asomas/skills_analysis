@@ -1,6 +1,6 @@
-#Occupation lithographer
-##Number skills 21
-###Similar occupations:
+# Occupation lithographer
+## Number skills 21
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match lithographer |   percentage match with lithographer |   skills not in lithographer |
 |:------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [prepress technician](prepress_technician.md)                     |                          28 |                                7 |                             0.333333 |                           21 |

@@ -1,6 +1,6 @@
-#Occupation web content manager
-##Number skills 29
-###Similar occupations:
+# Occupation web content manager
+## Number skills 29
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match web content manager |   percentage match with web content manager |   skills not in web content manager |
 |:--------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [instructional designer](instructional_designer.md)                       |                          34 |                                      14 |                                    0.482759 |                                  20 |

@@ -1,6 +1,6 @@
-#Occupation engineering lecturer
-##Number skills 23
-###Similar occupations:
+# Occupation engineering lecturer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match engineering lecturer |   percentage match with engineering lecturer |   skills not in engineering lecturer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [architecture lecturer](architecture_lecturer.md)                                                                                           |                          23 |                                       16 |                                     0.695652 |                                    7 |

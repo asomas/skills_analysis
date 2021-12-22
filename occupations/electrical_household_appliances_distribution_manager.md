@@ -1,6 +1,6 @@
-#Occupation electrical household appliances distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation electrical household appliances distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match electrical household appliances distribution manager |   percentage match with electrical household appliances distribution manager |   skills not in electrical household appliances distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------------------:|---------------------------------------------------------------------:|
 | [mining, construction and civil engineering machinery distribution manager](mining,_construction_and_civil_engineering_machinery_distribution_manager.md)               |                          26 |                                                                       25 |                                                                     0.961538 |                                                                    1 |

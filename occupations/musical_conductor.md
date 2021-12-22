@@ -1,6 +1,6 @@
-#Occupation musical conductor
-##Number skills 25
-###Similar occupations:
+# Occupation musical conductor
+## Number skills 25
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match musical conductor |   percentage match with musical conductor |   skills not in musical conductor |
 |:----------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [choirmaster/choirmistress](choirmaster-choirmistress.md) |                          22 |                                    16 |                                      0.64 |                                 6 |

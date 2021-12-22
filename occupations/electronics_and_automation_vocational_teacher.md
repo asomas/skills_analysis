@@ -1,6 +1,6 @@
-#Occupation electronics and automation vocational teacher
-##Number skills 26
-###Similar occupations:
+# Occupation electronics and automation vocational teacher
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match electronics and automation vocational teacher |   percentage match with electronics and automation vocational teacher |   skills not in electronics and automation vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------------:|----------------------------------------------------------------------:|--------------------------------------------------------------:|
 | [industrial arts vocational teacher](industrial_arts_vocational_teacher.md)                                           |                          26 |                                                                23 |                                                              0.884615 |                                                             3 |

@@ -1,6 +1,6 @@
-#Occupation flour purifier operator
-##Number skills 15
-###Similar occupations:
+# Occupation flour purifier operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match flour purifier operator |   percentage match with flour purifier operator |   skills not in flour purifier operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [dryer attendant](dryer_attendant.md)                                                   |                          30 |                                          12 |                                        0.8      |                                      18 |

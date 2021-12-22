@@ -1,6 +1,6 @@
-#Occupation funeral services director
-##Number skills 19
-###Similar occupations:
+# Occupation funeral services director
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match funeral services director |   percentage match with funeral services director |   skills not in funeral services director |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [funeral attendant](funeral_attendant.md)                                                         |                           8 |                                             6 |                                          0.315789 |                                         2 |

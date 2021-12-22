@@ -1,6 +1,6 @@
-#Occupation astronomer
-##Number skills 12
-###Similar occupations:
+# Occupation astronomer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match astronomer |   percentage match with astronomer |   skills not in astronomer |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [cosmologist](cosmologist.md)                                                             |                          20 |                             10 |                           0.833333 |                         10 |

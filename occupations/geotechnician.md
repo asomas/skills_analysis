@@ -1,6 +1,6 @@
-#Occupation geotechnician
-##Number skills 10
-###Similar occupations:
+# Occupation geotechnician
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match geotechnician |   percentage match with geotechnician |   skills not in geotechnician |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [geochemist](geochemist.md)                                                                       |                          14 |                                 5 |                                   0.5 |                             9 |

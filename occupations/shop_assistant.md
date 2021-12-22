@@ -1,6 +1,6 @@
-#Occupation shop assistant
-##Number skills 22
-###Similar occupations:
+# Occupation shop assistant
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match shop assistant |   percentage match with shop assistant |   skills not in shop assistant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [sales assistant](sales_assistant.md)                                                                                                                             |                          27 |                                 12 |                               0.545455 |                             15 |

@@ -1,6 +1,6 @@
-#Occupation activism officer
-##Number skills 5
-###Similar occupations:
+# Occupation activism officer
+## Number skills 5
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match activism officer |   percentage match with activism officer |   skills not in activism officer |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [election observer](election_observer.md)                                                               |                          13 |                                    1 |                                      0.2 |                               12 |

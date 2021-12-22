@@ -1,6 +1,6 @@
-#Occupation jewellery and watches shop manager
-##Number skills 37
-###Similar occupations:
+# Occupation jewellery and watches shop manager
+## Number skills 37
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match jewellery and watches shop manager |   percentage match with jewellery and watches shop manager |   skills not in jewellery and watches shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------:|-----------------------------------------------------------:|---------------------------------------------------:|
 | [bakery shop manager](bakery_shop_manager.md)                                                     |                          32 |                                                     28 |                                                   0.756757 |                                                  4 |

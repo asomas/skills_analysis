@@ -1,6 +1,6 @@
-#Occupation criminologist
-##Number skills 15
-###Similar occupations:
+# Occupation criminologist
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match criminologist |   percentage match with criminologist |   skills not in criminologist |
 |:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [behavioural scientist](behavioural_scientist.md)                                         |                          14 |                                 7 |                              0.466667 |                             7 |

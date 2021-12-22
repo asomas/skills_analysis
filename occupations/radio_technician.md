@@ -1,6 +1,6 @@
-#Occupation radio technician
-##Number skills 18
-###Similar occupations:
+# Occupation radio technician
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match radio technician |   percentage match with radio technician |   skills not in radio technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [telecommunications analyst](telecommunications_analyst.md)                               |                          24 |                                    7 |                                 0.388889 |                               17 |

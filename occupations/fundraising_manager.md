@@ -1,6 +1,6 @@
-#Occupation fundraising manager
-##Number skills 24
-###Similar occupations:
+# Occupation fundraising manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match fundraising manager |   percentage match with fundraising manager |   skills not in fundraising manager |
 |:--------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [insurance agency manager](insurance_agency_manager.md)                         |                          37 |                                      14 |                                    0.583333 |                                  23 |

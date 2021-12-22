@@ -1,6 +1,6 @@
-#Occupation botanical technician
-##Number skills 19
-###Similar occupations:
+# Occupation botanical technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match botanical technician |   percentage match with botanical technician |   skills not in botanical technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [zoology technician](zoology_technician.md)                                               |                          19 |                                       16 |                                     0.842105 |                                    3 |

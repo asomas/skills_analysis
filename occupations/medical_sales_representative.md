@@ -1,6 +1,6 @@
-#Occupation medical sales representative
-##Number skills 20
-###Similar occupations:
+# Occupation medical sales representative
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match medical sales representative |   percentage match with medical sales representative |   skills not in medical sales representative |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [commercial sales representative](commercial_sales_representative.md)                                                                                             |                          30 |                                                4 |                                                 0.2  |                                           26 |

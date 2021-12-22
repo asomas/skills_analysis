@@ -1,6 +1,6 @@
-#Occupation fact checker
-##Number skills 10
-###Similar occupations:
+# Occupation fact checker
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match fact checker |   percentage match with fact checker |   skills not in fact checker |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [literary scholar](literary_scholar.md)                                                                 |                          17 |                                3 |                                  0.3 |                           14 |

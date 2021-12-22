@@ -1,6 +1,6 @@
-#Occupation textile sourcing merchandiser
-##Number skills 9
-###Similar occupations:
+# Occupation textile sourcing merchandiser
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match textile sourcing merchandiser |   percentage match with textile sourcing merchandiser |   skills not in textile sourcing merchandiser |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [textile product developer](textile_product_developer.md)                                 |                          24 |                                                 9 |                                              1        |                                            15 |

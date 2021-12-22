@@ -1,6 +1,6 @@
-#Occupation hotel porter
-##Number skills 6
-###Similar occupations:
+# Occupation hotel porter
+## Number skills 6
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match hotel porter |   percentage match with hotel porter |   skills not in hotel porter |
 |:--------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [hotel concierge](hotel_concierge.md)                                                       |                           8 |                                4 |                             0.666667 |                            4 |

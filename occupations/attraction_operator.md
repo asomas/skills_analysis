@@ -1,6 +1,6 @@
-#Occupation attraction operator
-##Number skills 9
-###Similar occupations:
+# Occupation attraction operator
+## Number skills 9
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match attraction operator |   percentage match with attraction operator |   skills not in attraction operator |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [ride technician](ride_technician.md)                                       |                          14 |                                       6 |                                    0.666667 |                                   8 |

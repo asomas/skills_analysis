@@ -1,6 +1,6 @@
-#Occupation rental service representative in water transport equipment
-##Number skills 26
-###Similar occupations:
+# Occupation rental service representative in water transport equipment
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match rental service representative in water transport equipment |   percentage match with rental service representative in water transport equipment |   skills not in rental service representative in water transport equipment |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------:|---------------------------------------------------------------------------:|
 | [rental service representative in air transport equipment](rental_service_representative_in_air_transport_equipment.md)                                               |                          26 |                                                                             26 |                                                                           1        |                                                                          0 |

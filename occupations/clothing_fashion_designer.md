@@ -1,6 +1,6 @@
-#Occupation clothing fashion designer
-##Number skills 8
-###Similar occupations:
+# Occupation clothing fashion designer
+## Number skills 8
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match clothing fashion designer |   percentage match with clothing fashion designer |   skills not in clothing fashion designer |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [tailor](tailor.md)                                                                     |                          28 |                                             5 |                                             0.625 |                                        23 |

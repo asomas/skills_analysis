@@ -1,6 +1,6 @@
-#Occupation agricultural machinery technician
-##Number skills 13
-###Similar occupations:
+# Occupation agricultural machinery technician
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match agricultural machinery technician |   percentage match with agricultural machinery technician |   skills not in agricultural machinery technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [forge equipment technician](forge_equipment_technician.md)                                                                                                           |                          14 |                                                    11 |                                                  0.846154 |                                                 3 |

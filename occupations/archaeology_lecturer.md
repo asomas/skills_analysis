@@ -1,6 +1,6 @@
-#Occupation archaeology lecturer
-##Number skills 21
-###Similar occupations:
+# Occupation archaeology lecturer
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match archaeology lecturer |   percentage match with archaeology lecturer |   skills not in archaeology lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [food science lecturer](food_science_lecturer.md)                                                                     |                          23 |                                       16 |                                     0.761905 |                                    7 |

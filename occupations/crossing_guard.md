@@ -1,6 +1,6 @@
-#Occupation crossing guard
-##Number skills 10
-###Similar occupations:
+# Occupation crossing guard
+## Number skills 10
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match crossing guard |   percentage match with crossing guard |   skills not in crossing guard |
 |:----------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [civil enforcement officer](civil_enforcement_officer.md)             |                          14 |                                  6 |                                    0.6 |                              8 |

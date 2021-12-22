@@ -1,6 +1,6 @@
-#Occupation army major
-##Number skills 11
-###Similar occupations:
+# Occupation army major
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match army major |   percentage match with army major |   skills not in army major |
 |:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [sergeant](sergeant.md)                                                                       |                          13 |                              9 |                           0.818182 |                          4 |

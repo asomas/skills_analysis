@@ -1,6 +1,6 @@
-#Occupation milk heat treatment process operator
-##Number skills 18
-###Similar occupations:
+# Occupation milk heat treatment process operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match milk heat treatment process operator |   percentage match with milk heat treatment process operator |   skills not in milk heat treatment process operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [dairy products manufacturing worker](dairy_products_manufacturing_worker.md)           |                          27 |                                                       12 |                                                     0.666667 |                                                   15 |

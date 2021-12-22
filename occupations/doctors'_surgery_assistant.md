@@ -1,6 +1,6 @@
-#Occupation doctors' surgery assistant
-##Number skills 45
-###Similar occupations:
+# Occupation doctors' surgery assistant
+## Number skills 45
+### Similar occupations:
 | occupation                                                                                                                |   skills in this occupation |   skills that match doctors' surgery assistant |   percentage match with doctors' surgery assistant |   skills not in doctors' surgery assistant |
 |:--------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [orthoptist](orthoptist.md)                                                                                               |                          63 |                                             31 |                                           0.688889 |                                         32 |

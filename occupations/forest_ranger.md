@@ -1,6 +1,6 @@
-#Occupation forest ranger
-##Number skills 15
-###Similar occupations:
+# Occupation forest ranger
+## Number skills 15
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match forest ranger |   percentage match with forest ranger |   skills not in forest ranger |
 |:------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [hunter](hunter.md)                                                           |                          26 |                                 5 |                              0.333333 |                            21 |

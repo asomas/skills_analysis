@@ -1,6 +1,6 @@
-#Occupation regulatory affairs manager
-##Number skills 23
-###Similar occupations:
+# Occupation regulatory affairs manager
+## Number skills 23
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match regulatory affairs manager |   percentage match with regulatory affairs manager |   skills not in regulatory affairs manager |
 |:------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [strategic planning manager](strategic_planning_manager.md)             |                          25 |                                             11 |                                           0.478261 |                                         14 |

@@ -1,6 +1,6 @@
-#Occupation wax bleacher
-##Number skills 12
-###Similar occupations:
+# Occupation wax bleacher
+## Number skills 12
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match wax bleacher |   percentage match with wax bleacher |   skills not in wax bleacher |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [compression moulding machine operator](compression_moulding_machine_operator.md) |                          15 |                                3 |                             0.25     |                           12 |

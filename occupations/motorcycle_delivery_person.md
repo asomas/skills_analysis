@@ -1,6 +1,6 @@
-#Occupation motorcycle delivery person
-##Number skills 13
-###Similar occupations:
+# Occupation motorcycle delivery person
+## Number skills 13
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match motorcycle delivery person |   percentage match with motorcycle delivery person |   skills not in motorcycle delivery person |
 |:------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [postman/postwoman](postman-postwoman.md)                                     |                          16 |                                             10 |                                           0.769231 |                                          6 |

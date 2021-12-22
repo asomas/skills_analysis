@@ -1,6 +1,6 @@
-#Occupation aircraft groomer
-##Number skills 10
-###Similar occupations:
+# Occupation aircraft groomer
+## Number skills 10
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match aircraft groomer |   percentage match with aircraft groomer |   skills not in aircraft groomer |
 |:------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [dairy products manufacturing worker](dairy_products_manufacturing_worker.md) |                          27 |                                    3 |                                      0.3 |                               24 |

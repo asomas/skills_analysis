@@ -1,6 +1,6 @@
-#Occupation electrical mechanic
-##Number skills 22
-###Similar occupations:
+# Occupation electrical mechanic
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match electrical mechanic |   percentage match with electrical mechanic |   skills not in electrical mechanic |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [industrial electrician](industrial_electrician.md)                                                                                                           |                          17 |                                       9 |                                    0.409091 |                                   8 |

@@ -1,6 +1,6 @@
-#Occupation leather goods industrial engineer
-##Number skills 12
-###Similar occupations:
+# Occupation leather goods industrial engineer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods industrial engineer |   percentage match with leather goods industrial engineer |   skills not in leather goods industrial engineer |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [leather goods production manager](leather_goods_production_manager.md)                                       |                          20 |                                                    12 |                                                  1        |                                                 8 |

@@ -1,6 +1,6 @@
-#Occupation cabin crew manager
-##Number skills 24
-###Similar occupations:
+# Occupation cabin crew manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match cabin crew manager |   percentage match with cabin crew manager |   skills not in cabin crew manager |
 |:----------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [flight attendant](flight_attendant.md)                                     |                          30 |                                     24 |                                   1        |                                  6 |

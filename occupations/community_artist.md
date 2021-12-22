@@ -1,6 +1,6 @@
-#Occupation community artist
-##Number skills 25
-###Similar occupations:
+# Occupation community artist
+## Number skills 25
+### Similar occupations:
 | occupation                                  |   skills in this occupation |   skills that match community artist |   percentage match with community artist |   skills not in community artist |
 |:--------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [conceptual artist](conceptual_artist.md)   |                          15 |                                    6 |                                     0.24 |                                9 |

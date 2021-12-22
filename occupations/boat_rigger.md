@@ -1,6 +1,6 @@
-#Occupation boat rigger
-##Number skills 15
-###Similar occupations:
+# Occupation boat rigger
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match boat rigger |   percentage match with boat rigger |   skills not in boat rigger |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [vessel engine assembler](vessel_engine_assembler.md)                                                 |                          18 |                              14 |                            0.933333 |                           4 |

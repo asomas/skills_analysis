@@ -1,6 +1,6 @@
-#Occupation solid waste operator
-##Number skills 14
-###Similar occupations:
+# Occupation solid waste operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match solid waste operator |   percentage match with solid waste operator |   skills not in solid waste operator |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [recycling worker](recycling_worker.md)                                                           |                          13 |                                        6 |                                     0.428571 |                                    7 |

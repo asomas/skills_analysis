@@ -1,6 +1,6 @@
-#Occupation marketing assistant
-##Number skills 20
-###Similar occupations:
+# Occupation marketing assistant
+## Number skills 20
+### Similar occupations:
 | occupation                                              |   skills in this occupation |   skills that match marketing assistant |   percentage match with marketing assistant |   skills not in marketing assistant |
 |:--------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [executive assistant](executive_assistant.md)           |                          20 |                                       7 |                                        0.35 |                                  13 |

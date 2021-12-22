@@ -1,6 +1,6 @@
-#Occupation scenery technician
-##Number skills 20
-###Similar occupations:
+# Occupation scenery technician
+## Number skills 20
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match scenery technician |   percentage match with scenery technician |   skills not in scenery technician |
 |:------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [stage technician](stage_technician.md)                           |                          43 |                                     20 |                                       1    |                                 23 |

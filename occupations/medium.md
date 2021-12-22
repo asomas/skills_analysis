@@ -1,6 +1,6 @@
-#Occupation medium
-##Number skills 12
-###Similar occupations:
+# Occupation medium
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match medium |   percentage match with medium |   skills not in medium |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------:|-------------------------------:|-----------------------:|
 | [fortune teller](fortune_teller.md)                                                                     |                          11 |                          8 |                       0.666667 |                      3 |

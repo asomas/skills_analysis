@@ -1,6 +1,6 @@
-#Occupation record press operator
-##Number skills 11
-###Similar occupations:
+# Occupation record press operator
+## Number skills 11
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match record press operator |   percentage match with record press operator |   skills not in record press operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [optical disc moulding machine operator](optical_disc_moulding_machine_operator.md)                   |                          11 |                                         7 |                                      0.636364 |                                     4 |

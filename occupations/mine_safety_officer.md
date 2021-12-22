@@ -1,6 +1,6 @@
-#Occupation mine safety officer
-##Number skills 15
-###Similar occupations:
+# Occupation mine safety officer
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match mine safety officer |   percentage match with mine safety officer |   skills not in mine safety officer |
 |:--------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [mine shift manager](mine_shift_manager.md)                                                 |                          14 |                                       7 |                                    0.466667 |                                   7 |

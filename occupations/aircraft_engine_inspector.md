@@ -1,6 +1,6 @@
-#Occupation aircraft engine inspector
-##Number skills 20
-###Similar occupations:
+# Occupation aircraft engine inspector
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match aircraft engine inspector |   percentage match with aircraft engine inspector |   skills not in aircraft engine inspector |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [motor vehicle engine inspector](motor_vehicle_engine_inspector.md)                                   |                          20 |                                            17 |                                              0.85 |                                         3 |

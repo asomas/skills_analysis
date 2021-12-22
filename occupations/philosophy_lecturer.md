@@ -1,6 +1,6 @@
-#Occupation philosophy lecturer
-##Number skills 20
-###Similar occupations:
+# Occupation philosophy lecturer
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match philosophy lecturer |   percentage match with philosophy lecturer |   skills not in philosophy lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [philosophy teacher secondary school](philosophy_teacher_secondary_school.md)                                         |                          29 |                                      19 |                                        0.95 |                                  10 |

@@ -1,6 +1,6 @@
-#Occupation medical goods shop manager
-##Number skills 31
-###Similar occupations:
+# Occupation medical goods shop manager
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match medical goods shop manager |   percentage match with medical goods shop manager |   skills not in medical goods shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [audiology equipment shop manager](audiology_equipment_shop_manager.md)                           |                          32 |                                             28 |                                           0.903226 |                                          4 |

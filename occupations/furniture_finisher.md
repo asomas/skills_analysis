@@ -1,6 +1,6 @@
-#Occupation furniture finisher
-##Number skills 16
-###Similar occupations:
+# Occupation furniture finisher
+## Number skills 16
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match furniture finisher |   percentage match with furniture finisher |   skills not in furniture finisher |
 |:------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [transport equipment painter](transport_equipment_painter.md)     |                          31 |                                      6 |                                     0.375  |                                 25 |

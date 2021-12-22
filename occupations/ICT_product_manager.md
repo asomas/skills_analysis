@@ -1,6 +1,6 @@
-#Occupation ICT product manager
-##Number skills 22
-###Similar occupations:
+# Occupation ICT product manager
+## Number skills 22
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match ICT product manager |   percentage match with ICT product manager |   skills not in ICT product manager |
 |:------------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [category manager](category_manager.md)                                             |                          47 |                                       5 |                                    0.227273 |                                  42 |

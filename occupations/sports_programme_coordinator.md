@@ -1,6 +1,6 @@
-#Occupation sports programme coordinator
-##Number skills 14
-###Similar occupations:
+# Occupation sports programme coordinator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                    |   skills in this occupation |   skills that match sports programme coordinator |   percentage match with sports programme coordinator |   skills not in sports programme coordinator |
 |:------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [spa manager](spa_manager.md)                                                 |                          47 |                                                4 |                                             0.285714 |                                           43 |

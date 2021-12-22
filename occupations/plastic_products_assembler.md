@@ -1,6 +1,6 @@
-#Occupation plastic products assembler
-##Number skills 13
-###Similar occupations:
+# Occupation plastic products assembler
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match plastic products assembler |   percentage match with plastic products assembler |   skills not in plastic products assembler |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [metal products assembler](metal_products_assembler.md)                                               |                          13 |                                              6 |                                           0.461538 |                                          7 |

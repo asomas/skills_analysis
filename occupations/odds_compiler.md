@@ -1,6 +1,6 @@
-#Occupation odds compiler
-##Number skills 8
-###Similar occupations:
+# Occupation odds compiler
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match odds compiler |   percentage match with odds compiler |   skills not in odds compiler |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [gaming inspector](gaming_inspector.md)                                                                                                     |                          21 |                                 4 |                                 0.5   |                            17 |

@@ -1,6 +1,6 @@
-#Occupation import export specialist in hides, skins and leather products
-##Number skills 22
-###Similar occupations:
+# Occupation import export specialist in hides, skins and leather products
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export specialist in hides, skins and leather products |   percentage match with import export specialist in hides, skins and leather products |   skills not in import export specialist in hides, skins and leather products |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------:|------------------------------------------------------------------------------:|
 | [import export specialist in wood and construction materials](import_export_specialist_in_wood_and_construction_materials.md)                                           |                          24 |                                                                                21 |                                                                              0.954545 |                                                                             3 |

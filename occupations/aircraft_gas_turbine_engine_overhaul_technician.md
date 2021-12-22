@@ -1,6 +1,6 @@
-#Occupation aircraft gas turbine engine overhaul technician
-##Number skills 20
-###Similar occupations:
+# Occupation aircraft gas turbine engine overhaul technician
+## Number skills 20
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match aircraft gas turbine engine overhaul technician |   percentage match with aircraft gas turbine engine overhaul technician |   skills not in aircraft gas turbine engine overhaul technician |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------:|
 | [aircraft engine assembler](aircraft_engine_assembler.md)                                             |                          20 |                                                                  16 |                                                                    0.8  |                                                               4 |

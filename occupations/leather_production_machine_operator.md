@@ -1,6 +1,6 @@
-#Occupation leather production machine operator
-##Number skills 5
-###Similar occupations:
+# Occupation leather production machine operator
+## Number skills 5
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match leather production machine operator |   percentage match with leather production machine operator |   skills not in leather production machine operator |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------:|------------------------------------------------------------:|----------------------------------------------------:|
 | [leather finishing operations manager](leather_finishing_operations_manager.md)                         |                          30 |                                                       5 |                                                         1   |                                                  25 |

@@ -1,6 +1,6 @@
-#Occupation taxidermist
-##Number skills 10
-###Similar occupations:
+# Occupation taxidermist
+## Number skills 10
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match taxidermist |   percentage match with taxidermist |   skills not in taxidermist |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [animal groomer](animal_groomer.md)                                                       |                          25 |                               4 |                                 0.4 |                          21 |

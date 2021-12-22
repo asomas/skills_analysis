@@ -1,6 +1,6 @@
-#Occupation electricity and energy vocational teacher
-##Number skills 28
-###Similar occupations:
+# Occupation electricity and energy vocational teacher
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match electricity and energy vocational teacher |   percentage match with electricity and energy vocational teacher |   skills not in electricity and energy vocational teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------:|------------------------------------------------------------------:|----------------------------------------------------------:|
 | [industrial arts vocational teacher](industrial_arts_vocational_teacher.md)                                           |                          26 |                                                            24 |                                                          0.857143 |                                                         2 |

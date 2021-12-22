@@ -1,6 +1,6 @@
-#Occupation occupational analyst
-##Number skills 15
-###Similar occupations:
+# Occupation occupational analyst
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match occupational analyst |   percentage match with occupational analyst |   skills not in occupational analyst |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [recruitment consultant](recruitment_consultant.md)                                                     |                          20 |                                        5 |                                     0.333333 |                                   15 |

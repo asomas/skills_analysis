@@ -1,6 +1,6 @@
-#Occupation electroplating machine operator
-##Number skills 15
-###Similar occupations:
+# Occupation electroplating machine operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match electroplating machine operator |   percentage match with electroplating machine operator |   skills not in electroplating machine operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [spot welder](spot_welder.md)                                                                         |                          18 |                                                   9 |                                                0.6      |                                               9 |

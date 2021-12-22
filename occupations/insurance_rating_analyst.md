@@ -1,6 +1,6 @@
-#Occupation insurance rating analyst
-##Number skills 13
-###Similar occupations:
+# Occupation insurance rating analyst
+## Number skills 13
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match insurance rating analyst |   percentage match with insurance rating analyst |   skills not in insurance rating analyst |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [loan officer](loan_officer.md)                                                   |                          14 |                                            6 |                                         0.461538 |                                        8 |

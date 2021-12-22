@@ -1,6 +1,6 @@
-#Occupation kennel supervisor
-##Number skills 21
-###Similar occupations:
+# Occupation kennel supervisor
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match kennel supervisor |   percentage match with kennel supervisor |   skills not in kennel supervisor |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [animal shelter worker](animal_shelter_worker.md)                                                 |                          19 |                                    10 |                                  0.47619  |                                 9 |

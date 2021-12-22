@@ -1,6 +1,6 @@
-#Occupation wholesale merchant
-##Number skills 19
-###Similar occupations:
+# Occupation wholesale merchant
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match wholesale merchant |   percentage match with wholesale merchant |   skills not in wholesale merchant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [wholesale merchant in perfume and cosmetics](wholesale_merchant_in_perfume_and_cosmetics.md)                                                                           |                          20 |                                     19 |                                   1        |                                  1 |

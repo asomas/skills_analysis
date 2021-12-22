@@ -1,6 +1,6 @@
-#Occupation waste treatment engineer
-##Number skills 19
-###Similar occupations:
+# Occupation waste treatment engineer
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match waste treatment engineer |   percentage match with waste treatment engineer |   skills not in waste treatment engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [gas distribution engineer](gas_distribution_engineer.md)                                                                                   |                          21 |                                           10 |                                         0.526316 |                                       11 |

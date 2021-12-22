@@ -1,6 +1,6 @@
-#Occupation chipper operator
-##Number skills 12
-###Similar occupations:
+# Occupation chipper operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match chipper operator |   percentage match with chipper operator |   skills not in chipper operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [debarker operator](debarker_operator.md)                                                                       |                          14 |                                    8 |                                 0.666667 |                                6 |

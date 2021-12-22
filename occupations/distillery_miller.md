@@ -1,6 +1,6 @@
-#Occupation distillery miller
-##Number skills 28
-###Similar occupations:
+# Occupation distillery miller
+## Number skills 28
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match distillery miller |   percentage match with distillery miller |   skills not in distillery miller |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [miller](miller.md)                                                                     |                          24 |                                    12 |                                  0.428571 |                                12 |

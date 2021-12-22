@@ -1,6 +1,6 @@
-#Occupation media scientist
-##Number skills 12
-###Similar occupations:
+# Occupation media scientist
+## Number skills 12
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match media scientist |   percentage match with media scientist |   skills not in media scientist |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [literary scholar](literary_scholar.md)                                     |                          17 |                                   8 |                                0.666667 |                               9 |

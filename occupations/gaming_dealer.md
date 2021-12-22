@@ -1,6 +1,6 @@
-#Occupation gaming dealer
-##Number skills 21
-###Similar occupations:
+# Occupation gaming dealer
+## Number skills 21
+### Similar occupations:
 | occupation                                        |   skills in this occupation |   skills that match gaming dealer |   percentage match with gaming dealer |   skills not in gaming dealer |
 |:--------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [gaming inspector](gaming_inspector.md)           |                          21 |                                 8 |                              0.380952 |                            13 |

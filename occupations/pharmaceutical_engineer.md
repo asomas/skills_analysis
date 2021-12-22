@@ -1,6 +1,6 @@
-#Occupation pharmaceutical engineer
-##Number skills 28
-###Similar occupations:
+# Occupation pharmaceutical engineer
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match pharmaceutical engineer |   percentage match with pharmaceutical engineer |   skills not in pharmaceutical engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [nanoengineer](nanoengineer.md)                                                                                                             |                          17 |                                          12 |                                        0.428571 |                                       5 |

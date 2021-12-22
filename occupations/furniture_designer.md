@@ -1,6 +1,6 @@
-#Occupation furniture designer
-##Number skills 13
-###Similar occupations:
+# Occupation furniture designer
+## Number skills 13
+### Similar occupations:
 | occupation                                                |   skills in this occupation |   skills that match furniture designer |   percentage match with furniture designer |   skills not in furniture designer |
 |:----------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [interior designer](interior_designer.md)                 |                          20 |                                      5 |                                   0.384615 |                                 15 |

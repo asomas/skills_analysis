@@ -1,6 +1,6 @@
-#Occupation cemetery attendant
-##Number skills 9
-###Similar occupations:
+# Occupation cemetery attendant
+## Number skills 9
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match cemetery attendant |   percentage match with cemetery attendant |   skills not in cemetery attendant |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [funeral services director](funeral_services_director.md)                         |                          19 |                                      3 |                                   0.333333 |                                 16 |

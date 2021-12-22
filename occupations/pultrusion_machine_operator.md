@@ -1,6 +1,6 @@
-#Occupation pultrusion machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation pultrusion machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match pultrusion machine operator |   percentage match with pultrusion machine operator |   skills not in pultrusion machine operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [filament winding operator](filament_winding_operator.md)                                                       |                          14 |                                              11 |                                            0.785714 |                                           3 |

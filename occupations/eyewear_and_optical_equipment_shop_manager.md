@@ -1,6 +1,6 @@
-#Occupation eyewear and optical equipment shop manager
-##Number skills 31
-###Similar occupations:
+# Occupation eyewear and optical equipment shop manager
+## Number skills 31
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match eyewear and optical equipment shop manager |   percentage match with eyewear and optical equipment shop manager |   skills not in eyewear and optical equipment shop manager |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------:|-------------------------------------------------------------------:|-----------------------------------------------------------:|
 | [audiology equipment shop manager](audiology_equipment_shop_manager.md)                           |                          32 |                                                             28 |                                                           0.903226 |                                                          4 |

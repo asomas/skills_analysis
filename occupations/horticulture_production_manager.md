@@ -1,6 +1,6 @@
-#Occupation horticulture production manager
-##Number skills 43
-###Similar occupations:
+# Occupation horticulture production manager
+## Number skills 43
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match horticulture production manager |   percentage match with horticulture production manager |   skills not in horticulture production manager |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [horticulture production team leader](horticulture_production_team_leader.md)     |                          42 |                                                  37 |                                                0.860465 |                                               5 |

@@ -1,6 +1,6 @@
-#Occupation import export manager
-##Number skills 22
-###Similar occupations:
+# Occupation import export manager
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager |   percentage match with import export manager |   skills not in import export manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [import export manager in wood and construction materials](import_export_manager_in_wood_and_construction_materials.md)                                                 |                          27 |                                        22 |                                      1        |                                     5 |

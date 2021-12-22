@@ -1,6 +1,6 @@
-#Occupation steeplejack
-##Number skills 13
-###Similar occupations:
+# Occupation steeplejack
+## Number skills 13
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match steeplejack |   percentage match with steeplejack |   skills not in steeplejack |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [construction scaffolder](construction_scaffolder.md)                                   |                          18 |                               8 |                            0.615385 |                          10 |

@@ -1,6 +1,6 @@
-#Occupation ICT network engineer
-##Number skills 18
-###Similar occupations:
+# Occupation ICT network engineer
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                      |   skills in this occupation |   skills that match ICT network engineer |   percentage match with ICT network engineer |   skills not in ICT network engineer |
 |:------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [mobile application developer](mobile_application_developer.md)                                 |                          17 |                                        9 |                                     0.5      |                                    8 |

@@ -1,6 +1,6 @@
-#Occupation leather goods quality manager
-##Number skills 14
-###Similar occupations:
+# Occupation leather goods quality manager
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                    |   skills in this occupation |   skills that match leather goods quality manager |   percentage match with leather goods quality manager |   skills not in leather goods quality manager |
 |:--------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [leather goods quality technician](leather_goods_quality_technician.md)                                       |                          11 |                                                11 |                                              0.785714 |                                             0 |

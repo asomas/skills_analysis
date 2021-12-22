@@ -1,6 +1,6 @@
-#Occupation air traffic controller
-##Number skills 33
-###Similar occupations:
+# Occupation air traffic controller
+## Number skills 33
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match air traffic controller |   percentage match with air traffic controller |   skills not in air traffic controller |
 |:------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [co-pilot](co-pilot.md)                                           |                          43 |                                         15 |                                       0.454545 |                                     28 |

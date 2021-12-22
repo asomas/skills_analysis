@@ -1,6 +1,6 @@
-#Occupation drafter
-##Number skills 9
-###Similar occupations:
+# Occupation drafter
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match drafter |   percentage match with drafter |   skills not in drafter |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------:|--------------------------------:|------------------------:|
 | [product development engineering drafter](product_development_engineering_drafter.md)                                                       |                          13 |                           9 |                        1        |                       4 |

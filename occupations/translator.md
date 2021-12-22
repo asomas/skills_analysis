@@ -1,6 +1,6 @@
-#Occupation translator
-##Number skills 24
-###Similar occupations:
+# Occupation translator
+## Number skills 24
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match translator |   percentage match with translator |   skills not in translator |
 |:----------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [translation agency manager](translation_agency_manager.md)                       |                          31 |                             18 |                           0.75     |                         13 |

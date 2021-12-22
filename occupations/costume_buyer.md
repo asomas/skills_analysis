@@ -1,6 +1,6 @@
-#Occupation costume buyer
-##Number skills 7
-###Similar occupations:
+# Occupation costume buyer
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match costume buyer |   percentage match with costume buyer |   skills not in costume buyer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [set buyer](set_buyer.md)                                                                                                                                     |                           9 |                                 4 |                              0.571429 |                             5 |

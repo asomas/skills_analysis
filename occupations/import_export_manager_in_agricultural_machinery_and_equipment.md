@@ -1,6 +1,6 @@
-#Occupation import export manager in agricultural machinery and equipment
-##Number skills 25
-###Similar occupations:
+# Occupation import export manager in agricultural machinery and equipment
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in agricultural machinery and equipment |   percentage match with import export manager in agricultural machinery and equipment |   skills not in import export manager in agricultural machinery and equipment |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------:|------------------------------------------------------------------------------:|
 | [import export manager in machinery, industrial equipment, ships and aircraft](import_export_manager_in_machinery,_industrial_equipment,_ships_and_aircraft.md)         |                          29 |                                                                                24 |                                                                                  0.96 |                                                                             5 |

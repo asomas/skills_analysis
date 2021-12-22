@@ -1,6 +1,6 @@
-#Occupation extrusion machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation extrusion machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match extrusion machine operator |   percentage match with extrusion machine operator |   skills not in extrusion machine operator |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [metal drawing machine operator](metal_drawing_machine_operator.md)                                                                                           |                          15 |                                             11 |                                           0.785714 |                                          4 |

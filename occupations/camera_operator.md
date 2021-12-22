@@ -1,6 +1,6 @@
-#Occupation camera operator
-##Number skills 23
-###Similar occupations:
+# Occupation camera operator
+## Number skills 23
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match camera operator |   percentage match with camera operator |   skills not in camera operator |
 |:--------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [video and motion picture director](video_and_motion_picture_director.md) |                          20 |                                  10 |                                0.434783 |                              10 |

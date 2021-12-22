@@ -1,6 +1,6 @@
-#Occupation prepress operator
-##Number skills 23
-###Similar occupations:
+# Occupation prepress operator
+## Number skills 23
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match prepress operator |   percentage match with prepress operator |   skills not in prepress operator |
 |:------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [imagesetter](imagesetter.md)                                     |                          28 |                                    15 |                                  0.652174 |                                13 |

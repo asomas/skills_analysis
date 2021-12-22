@@ -1,6 +1,6 @@
-#Occupation diesel engine mechanic
-##Number skills 21
-###Similar occupations:
+# Occupation diesel engine mechanic
+## Number skills 21
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match diesel engine mechanic |   percentage match with diesel engine mechanic |   skills not in diesel engine mechanic |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [aircraft gas turbine engine overhaul technician](aircraft_gas_turbine_engine_overhaul_technician.md) |                          20 |                                          8 |                                       0.380952 |                                     12 |

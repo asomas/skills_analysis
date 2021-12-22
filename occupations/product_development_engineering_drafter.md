@@ -1,6 +1,6 @@
-#Occupation product development engineering drafter
-##Number skills 13
-###Similar occupations:
+# Occupation product development engineering drafter
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match product development engineering drafter |   percentage match with product development engineering drafter |   skills not in product development engineering drafter |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------------:|----------------------------------------------------------------:|--------------------------------------------------------:|
 | [civil drafter](civil_drafter.md)                                                                                                           |                          14 |                                                          13 |                                                        1        |                                                       1 |

@@ -1,6 +1,6 @@
-#Occupation social services manager
-##Number skills 63
-###Similar occupations:
+# Occupation social services manager
+## Number skills 63
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match social services manager |   percentage match with social services manager |   skills not in social services manager |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [child day care centre manager](child_day_care_centre_manager.md)                         |                          74 |                                          62 |                                        0.984127 |                                      12 |

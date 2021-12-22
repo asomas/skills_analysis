@@ -1,6 +1,6 @@
-#Occupation assistant stage director
-##Number skills 11
-###Similar occupations:
+# Occupation assistant stage director
+## Number skills 11
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match assistant stage director |   percentage match with assistant stage director |   skills not in assistant stage director |
 |:------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [lighting designer](lighting_designer.md)                         |                          30 |                                            3 |                                         0.272727 |                                       27 |

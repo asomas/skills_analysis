@@ -1,6 +1,6 @@
-#Occupation cook
-##Number skills 16
-###Similar occupations:
+# Occupation cook
+## Number skills 16
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match cook |   percentage match with cook |   skills not in cook |
 |:--------------------------------------------------------------------------------|----------------------------:|-------------------------:|-----------------------------:|---------------------:|
 | [grill cook](grill_cook.md)                                                     |                          15 |                       15 |                       0.9375 |                    0 |

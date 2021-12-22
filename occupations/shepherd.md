@@ -1,6 +1,6 @@
-#Occupation shepherd
-##Number skills 12
-###Similar occupations:
+# Occupation shepherd
+## Number skills 12
+### Similar occupations:
 | occupation                                    |   skills in this occupation |   skills that match shepherd |   percentage match with shepherd |   skills not in shepherd |
 |:----------------------------------------------|----------------------------:|-----------------------------:|---------------------------------:|-------------------------:|
 | [groom](groom.md)                             |                          26 |                            3 |                         0.25     |                       23 |

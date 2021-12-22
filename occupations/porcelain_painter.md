@@ -1,6 +1,6 @@
-#Occupation porcelain painter
-##Number skills 15
-###Similar occupations:
+# Occupation porcelain painter
+## Number skills 15
+### Similar occupations:
 | occupation                                    |   skills in this occupation |   skills that match porcelain painter |   percentage match with porcelain painter |   skills not in porcelain painter |
 |:----------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [decorative painter](decorative_painter.md)   |                          20 |                                    15 |                                  1        |                                 5 |

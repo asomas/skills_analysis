@@ -1,6 +1,6 @@
-#Occupation sport facility manager
-##Number skills 20
-###Similar occupations:
+# Occupation sport facility manager
+## Number skills 20
+### Similar occupations:
 | occupation                                                  |   skills in this occupation |   skills that match sport facility manager |   percentage match with sport facility manager |   skills not in sport facility manager |
 |:------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [sport administrator](sport_administrator.md)               |                          20 |                                         12 |                                           0.6  |                                      8 |

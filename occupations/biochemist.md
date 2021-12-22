@@ -1,6 +1,6 @@
-#Occupation biochemist
-##Number skills 19
-###Similar occupations:
+# Occupation biochemist
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match biochemist |   percentage match with biochemist |   skills not in biochemist |
 |:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [biochemistry technician](biochemistry_technician.md)                                     |                          19 |                             12 |                           0.631579 |                          7 |

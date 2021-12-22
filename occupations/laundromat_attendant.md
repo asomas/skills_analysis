@@ -1,6 +1,6 @@
-#Occupation laundromat attendant
-##Number skills 18
-###Similar occupations:
+# Occupation laundromat attendant
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match laundromat attendant |   percentage match with laundromat attendant |   skills not in laundromat attendant |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [drapery and carpet cleaner](drapery_and_carpet_cleaner.md)                                                                                                       |                          18 |                                        7 |                                     0.388889 |                                   11 |

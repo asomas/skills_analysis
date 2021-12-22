@@ -1,6 +1,6 @@
-#Occupation sales engineer
-##Number skills 23
-###Similar occupations:
+# Occupation sales engineer
+## Number skills 23
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match sales engineer |   percentage match with sales engineer |   skills not in sales engineer |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [motor vehicle aftersales manager](motor_vehicle_aftersales_manager.md)                                                                                           |                          19 |                                  5 |                               0.217391 |                             14 |

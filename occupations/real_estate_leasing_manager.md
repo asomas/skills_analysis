@@ -1,6 +1,6 @@
-#Occupation real estate leasing manager
-##Number skills 24
-###Similar occupations:
+# Occupation real estate leasing manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match real estate leasing manager |   percentage match with real estate leasing manager |   skills not in real estate leasing manager |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [real estate manager](real_estate_manager.md)                           |                          32 |                                              15 |                                            0.625    |                                          17 |

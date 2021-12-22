@@ -1,6 +1,6 @@
-#Occupation credit adviser
-##Number skills 18
-###Similar occupations:
+# Occupation credit adviser
+## Number skills 18
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match credit adviser |   percentage match with credit adviser |   skills not in credit adviser |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [financial planner](financial_planner.md)                                         |                          23 |                                  7 |                               0.388889 |                             16 |

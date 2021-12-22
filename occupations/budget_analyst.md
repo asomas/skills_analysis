@@ -1,6 +1,6 @@
-#Occupation budget analyst
-##Number skills 10
-###Similar occupations:
+# Occupation budget analyst
+## Number skills 10
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match budget analyst |   percentage match with budget analyst |   skills not in budget analyst |
 |:------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [budget manager](budget_manager.md)                                                 |                          29 |                                  6 |                                    0.6 |                             23 |

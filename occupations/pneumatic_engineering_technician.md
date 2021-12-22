@@ -1,6 +1,6 @@
-#Occupation pneumatic engineering technician
-##Number skills 12
-###Similar occupations:
+# Occupation pneumatic engineering technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match pneumatic engineering technician |   percentage match with pneumatic engineering technician |   skills not in pneumatic engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [production engineering technician](production_engineering_technician.md)                                                                                     |                          15 |                                                   10 |                                                 0.833333 |                                                5 |

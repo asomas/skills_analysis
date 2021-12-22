@@ -1,6 +1,6 @@
-#Occupation automotive engineering technician
-##Number skills 19
-###Similar occupations:
+# Occupation automotive engineering technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                                                                              |   skills in this occupation |   skills that match automotive engineering technician |   percentage match with automotive engineering technician |   skills not in automotive engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [marine engineering technician](marine_engineering_technician.md)                                                                                       |                          17 |                                                    15 |                                                  0.789474 |                                                 2 |

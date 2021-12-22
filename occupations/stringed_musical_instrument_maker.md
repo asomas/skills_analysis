@@ -1,6 +1,6 @@
-#Occupation stringed musical instrument maker
-##Number skills 13
-###Similar occupations:
+# Occupation stringed musical instrument maker
+## Number skills 13
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match stringed musical instrument maker |   percentage match with stringed musical instrument maker |   skills not in stringed musical instrument maker |
 |:--------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------------:|----------------------------------------------------------:|--------------------------------------------------:|
 | [keyboard musical instrument maker](keyboard_musical_instrument_maker.md)             |                          13 |                                                    12 |                                                  0.923077 |                                                 1 |

@@ -1,6 +1,6 @@
-#Occupation vehicle cleaner
-##Number skills 15
-###Similar occupations:
+# Occupation vehicle cleaner
+## Number skills 15
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match vehicle cleaner |   percentage match with vehicle cleaner |   skills not in vehicle cleaner |
 |:--------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [vehicle maintenance attendant](vehicle_maintenance_attendant.md)         |                          13 |                                   6 |                                0.4      |                               7 |

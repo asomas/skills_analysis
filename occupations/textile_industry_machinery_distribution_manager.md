@@ -1,6 +1,6 @@
-#Occupation textile industry machinery distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation textile industry machinery distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match textile industry machinery distribution manager |   percentage match with textile industry machinery distribution manager |   skills not in textile industry machinery distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------------------------:|------------------------------------------------------------------------:|----------------------------------------------------------------:|
 | [sugar, chocolate and sugar confectionery distribution manager](sugar,_chocolate_and_sugar_confectionery_distribution_manager.md)                                       |                          26 |                                                                  25 |                                                                0.961538 |                                                               1 |

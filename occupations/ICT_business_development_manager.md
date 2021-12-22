@@ -1,6 +1,6 @@
-#Occupation ICT business development manager
-##Number skills 16
-###Similar occupations:
+# Occupation ICT business development manager
+## Number skills 16
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match ICT business development manager |   percentage match with ICT business development manager |   skills not in ICT business development manager |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [eBusiness manager](eBusiness_manager.md)                                                                                                                     |                          20 |                                                    4 |                                                   0.25   |                                               16 |

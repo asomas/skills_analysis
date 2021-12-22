@@ -1,6 +1,6 @@
-#Occupation printing textile technician
-##Number skills 9
-###Similar occupations:
+# Occupation printing textile technician
+## Number skills 9
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match printing textile technician |   percentage match with printing textile technician |   skills not in printing textile technician |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [textile chemist](textile_chemist.md)                                                   |                          16 |                                               8 |                                            0.888889 |                                           8 |

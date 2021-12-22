@@ -1,6 +1,6 @@
-#Occupation vending machine operator
-##Number skills 9
-###Similar occupations:
+# Occupation vending machine operator
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match vending machine operator |   percentage match with vending machine operator |   skills not in vending machine operator |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [secretary](secretary.md)                                                                                                                                         |                          18 |                                            2 |                                         0.222222 |                                       16 |

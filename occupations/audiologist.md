@@ -1,6 +1,6 @@
-#Occupation audiologist
-##Number skills 59
-###Similar occupations:
+# Occupation audiologist
+## Number skills 59
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match audiologist |   percentage match with audiologist |   skills not in audiologist |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [speech and language therapist](speech_and_language_therapist.md)                                           |                          73 |                              35 |                            0.59322  |                          38 |

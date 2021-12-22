@@ -1,6 +1,6 @@
-#Occupation optomechanical engineer
-##Number skills 33
-###Similar occupations:
+# Occupation optomechanical engineer
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match optomechanical engineer |   percentage match with optomechanical engineer |   skills not in optomechanical engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [optoelectronic engineer](optoelectronic_engineer.md)                                                                                       |                          36 |                                          30 |                                        0.909091 |                                       6 |

@@ -1,6 +1,6 @@
-#Occupation community social worker
-##Number skills 71
-###Similar occupations:
+# Occupation community social worker
+## Number skills 71
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match community social worker |   percentage match with community social worker |   skills not in community social worker |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [homelessness worker](homelessness_worker.md)                                             |                          68 |                                          66 |                                        0.929577 |                                       2 |

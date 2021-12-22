@@ -1,6 +1,6 @@
-#Occupation golf instructor
-##Number skills 9
-###Similar occupations:
+# Occupation golf instructor
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match golf instructor |   percentage match with golf instructor |   skills not in golf instructor |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [horse riding instructor](horse_riding_instructor.md)                                                                 |                          13 |                                   6 |                                0.666667 |                               7 |

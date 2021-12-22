@@ -1,6 +1,6 @@
-#Occupation second officer
-##Number skills 28
-###Similar occupations:
+# Occupation second officer
+## Number skills 28
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match second officer |   percentage match with second officer |   skills not in second officer |
 |:----------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [co-pilot](co-pilot.md)                                               |                          43 |                                 20 |                               0.714286 |                             23 |

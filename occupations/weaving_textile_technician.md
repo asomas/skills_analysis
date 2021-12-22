@@ -1,6 +1,6 @@
-#Occupation weaving textile technician
-##Number skills 8
-###Similar occupations:
+# Occupation weaving textile technician
+## Number skills 8
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match weaving textile technician |   percentage match with weaving textile technician |   skills not in weaving textile technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------:|---------------------------------------------------:|-------------------------------------------:|
 | [knitting textile technician](knitting_textile_technician.md)                             |                          11 |                                              6 |                                              0.75  |                                          5 |

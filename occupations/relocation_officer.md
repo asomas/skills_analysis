@@ -1,6 +1,6 @@
-#Occupation relocation officer
-##Number skills 14
-###Similar occupations:
+# Occupation relocation officer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                              |   skills in this occupation |   skills that match relocation officer |   percentage match with relocation officer |   skills not in relocation officer |
 |:--------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [real estate agent](real_estate_agent.md)                                                               |                          20 |                                      4 |                                   0.285714 |                                 16 |

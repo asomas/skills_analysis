@@ -1,6 +1,6 @@
-#Occupation bacteriology technician
-##Number skills 19
-###Similar occupations:
+# Occupation bacteriology technician
+## Number skills 19
+### Similar occupations:
 | occupation                                                                                |   skills in this occupation |   skills that match bacteriology technician |   percentage match with bacteriology technician |   skills not in bacteriology technician |
 |:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [biology technician](biology_technician.md)                                               |                          17 |                                          17 |                                        0.894737 |                                       0 |

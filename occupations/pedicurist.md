@@ -1,6 +1,6 @@
-#Occupation pedicurist
-##Number skills 18
-###Similar occupations:
+# Occupation pedicurist
+## Number skills 18
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match pedicurist |   percentage match with pedicurist |   skills not in pedicurist |
 |:----------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [manicurist](manicurist.md)                                                             |                          16 |                             15 |                           0.833333 |                          1 |

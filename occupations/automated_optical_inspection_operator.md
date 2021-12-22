@@ -1,6 +1,6 @@
-#Occupation automated optical inspection operator
-##Number skills 17
-###Similar occupations:
+# Occupation automated optical inspection operator
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match automated optical inspection operator |   percentage match with automated optical inspection operator |   skills not in automated optical inspection operator |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [printed circuit board test technician](printed_circuit_board_test_technician.md)                 |                          26 |                                                        12 |                                                      0.705882 |                                                    14 |

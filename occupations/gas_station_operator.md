@@ -1,6 +1,6 @@
-#Occupation gas station operator
-##Number skills 12
-###Similar occupations:
+# Occupation gas station operator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match gas station operator |   percentage match with gas station operator |   skills not in gas station operator |
 |:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [gas processing plant supervisor](gas_processing_plant_supervisor.md)             |                          15 |                                        6 |                                     0.5      |                                    9 |

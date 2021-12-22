@@ -1,6 +1,6 @@
-#Occupation relationship banking manager
-##Number skills 25
-###Similar occupations:
+# Occupation relationship banking manager
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match relationship banking manager |   percentage match with relationship banking manager |   skills not in relationship banking manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------------:|-----------------------------------------------------:|---------------------------------------------:|
 | [real estate manager](real_estate_manager.md)                                                                                                                     |                          32 |                                               13 |                                                 0.52 |                                           19 |

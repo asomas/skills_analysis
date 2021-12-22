@@ -1,6 +1,6 @@
-#Occupation fish canning operator
-##Number skills 24
-###Similar occupations:
+# Occupation fish canning operator
+## Number skills 24
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match fish canning operator |   percentage match with fish canning operator |   skills not in fish canning operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [fish production operator](fish_production_operator.md)                                 |                          23 |                                        14 |                                      0.583333 |                                     9 |

@@ -1,6 +1,6 @@
-#Occupation engineered wood board machine operator
-##Number skills 14
-###Similar occupations:
+# Occupation engineered wood board machine operator
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match engineered wood board machine operator |   percentage match with engineered wood board machine operator |   skills not in engineered wood board machine operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------------:|---------------------------------------------------------------:|-------------------------------------------------------:|
 | [veneer slicer operator](veneer_slicer_operator.md)                                                             |                          17 |                                                         12 |                                                       0.857143 |                                                      5 |

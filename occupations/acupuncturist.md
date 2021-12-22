@@ -1,6 +1,6 @@
-#Occupation acupuncturist
-##Number skills 33
-###Similar occupations:
+# Occupation acupuncturist
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                  |   skills in this occupation |   skills that match acupuncturist |   percentage match with acupuncturist |   skills not in acupuncturist |
 |:------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [occupational therapist](occupational_therapist.md)                                                         |                          73 |                                18 |                              0.545455 |                            55 |

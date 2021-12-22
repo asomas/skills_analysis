@@ -1,6 +1,6 @@
-#Occupation fisheries boatman
-##Number skills 44
-###Similar occupations:
+# Occupation fisheries boatman
+## Number skills 44
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match fisheries boatman |   percentage match with fisheries boatman |   skills not in fisheries boatman |
 |:------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [fisheries boatmaster](fisheries_boatmaster.md)                         |                          45 |                                    40 |                                  0.909091 |                                 5 |

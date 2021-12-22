@@ -1,6 +1,6 @@
-#Occupation mortgage loan underwriter
-##Number skills 12
-###Similar occupations:
+# Occupation mortgage loan underwriter
+## Number skills 12
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match mortgage loan underwriter |   percentage match with mortgage loan underwriter |   skills not in mortgage loan underwriter |
 |:--------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [mortgage broker](mortgage_broker.md)                                           |                          22 |                                             8 |                                          0.666667 |                                        14 |

@@ -1,6 +1,6 @@
-#Occupation roadside vehicle technician
-##Number skills 12
-###Similar occupations:
+# Occupation roadside vehicle technician
+## Number skills 12
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match roadside vehicle technician |   percentage match with roadside vehicle technician |   skills not in roadside vehicle technician |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [vehicle technician](vehicle_technician.md)                                                                                                                       |                          34 |                                               8 |                                            0.666667 |                                          26 |

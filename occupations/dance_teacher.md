@@ -1,6 +1,6 @@
-#Occupation dance teacher
-##Number skills 25
-###Similar occupations:
+# Occupation dance teacher
+## Number skills 25
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match dance teacher |   percentage match with dance teacher |   skills not in dance teacher |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [circus arts teacher](circus_arts_teacher.md)                                                                         |                          33 |                                17 |                                  0.68 |                            16 |

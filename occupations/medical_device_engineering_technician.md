@@ -1,6 +1,6 @@
-#Occupation medical device engineering technician
-##Number skills 34
-###Similar occupations:
+# Occupation medical device engineering technician
+## Number skills 34
+### Similar occupations:
 | occupation                                                                                                                                                    |   skills in this occupation |   skills that match medical device engineering technician |   percentage match with medical device engineering technician |   skills not in medical device engineering technician |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------------:|--------------------------------------------------------------:|------------------------------------------------------:|
 | [medical device engineer](medical_device_engineer.md)                                                                                                         |                          33 |                                                        13 |                                                      0.382353 |                                                    20 |

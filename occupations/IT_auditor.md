@@ -1,6 +1,6 @@
-#Occupation IT auditor
-##Number skills 19
-###Similar occupations:
+# Occupation IT auditor
+## Number skills 19
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match IT auditor |   percentage match with IT auditor |   skills not in IT auditor |
 |:------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [ICT auditor manager](ICT_auditor_manager.md)                           |                          18 |                              6 |                           0.315789 |                         12 |

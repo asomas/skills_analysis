@@ -1,6 +1,6 @@
-#Occupation commercial art gallery manager
-##Number skills 24
-###Similar occupations:
+# Occupation commercial art gallery manager
+## Number skills 24
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match commercial art gallery manager |   percentage match with commercial art gallery manager |   skills not in commercial art gallery manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
 | [technical sales representative in office machinery and equipment](technical_sales_representative_in_office_machinery_and_equipment.md)                           |                          29 |                                                  4 |                                               0.166667 |                                             25 |

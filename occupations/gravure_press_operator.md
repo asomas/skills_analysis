@@ -1,6 +1,6 @@
-#Occupation gravure press operator
-##Number skills 18
-###Similar occupations:
+# Occupation gravure press operator
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match gravure press operator |   percentage match with gravure press operator |   skills not in gravure press operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
 | [flexographic press operator](flexographic_press_operator.md)                                         |                          18 |                                         14 |                                       0.777778 |                                      4 |

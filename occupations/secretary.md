@@ -1,6 +1,6 @@
-#Occupation secretary
-##Number skills 18
-###Similar occupations:
+# Occupation secretary
+## Number skills 18
+### Similar occupations:
 | occupation                                                              |   skills in this occupation |   skills that match secretary |   percentage match with secretary |   skills not in secretary |
 |:------------------------------------------------------------------------|----------------------------:|------------------------------:|----------------------------------:|--------------------------:|
 | [administrative assistant](administrative_assistant.md)                 |                          17 |                            12 |                          0.666667 |                         5 |

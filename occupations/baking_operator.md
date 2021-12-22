@@ -1,6 +1,6 @@
-#Occupation baking operator
-##Number skills 24
-###Similar occupations:
+# Occupation baking operator
+## Number skills 24
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match baking operator |   percentage match with baking operator |   skills not in baking operator |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [baker](baker.md)                                                                       |                          35 |                                  16 |                                0.666667 |                              19 |

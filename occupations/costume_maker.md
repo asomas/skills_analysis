@@ -1,6 +1,6 @@
-#Occupation costume maker
-##Number skills 28
-###Similar occupations:
+# Occupation costume maker
+## Number skills 28
+### Similar occupations:
 | occupation                                                        |   skills in this occupation |   skills that match costume maker |   percentage match with costume maker |   skills not in costume maker |
 |:------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
 | [set builder](set_builder.md)                                     |                          22 |                                15 |                              0.535714 |                             7 |

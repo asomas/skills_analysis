@@ -1,6 +1,6 @@
-#Occupation contact centre supervisor
-##Number skills 18
-###Similar occupations:
+# Occupation contact centre supervisor
+## Number skills 18
+### Similar occupations:
 | occupation                                                                                                                                                        |   skills in this occupation |   skills that match contact centre supervisor |   percentage match with contact centre supervisor |   skills not in contact centre supervisor |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [contact centre manager](contact_centre_manager.md)                                                                                                               |                          20 |                                            11 |                                          0.611111 |                                         9 |

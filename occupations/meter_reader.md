@@ -1,6 +1,6 @@
-#Occupation meter reader
-##Number skills 11
-###Similar occupations:
+# Occupation meter reader
+## Number skills 11
+### Similar occupations:
 | occupation                                                            |   skills in this occupation |   skills that match meter reader |   percentage match with meter reader |   skills not in meter reader |
 |:----------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
 | [road sign installer](road_sign_installer.md)                         |                          13 |                                3 |                             0.272727 |                           10 |

@@ -1,6 +1,6 @@
-#Occupation biology lecturer
-##Number skills 22
-###Similar occupations:
+# Occupation biology lecturer
+## Number skills 22
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match biology lecturer |   percentage match with biology lecturer |   skills not in biology lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
 | [biology teacher secondary school](biology_teacher_secondary_school.md)                                               |                          28 |                                   18 |                                 0.818182 |                               10 |

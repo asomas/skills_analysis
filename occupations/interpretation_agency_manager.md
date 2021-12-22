@@ -1,6 +1,6 @@
-#Occupation interpretation agency manager
-##Number skills 25
-###Similar occupations:
+# Occupation interpretation agency manager
+## Number skills 25
+### Similar occupations:
 | occupation                                                                          |   skills in this occupation |   skills that match interpretation agency manager |   percentage match with interpretation agency manager |   skills not in interpretation agency manager |
 |:------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [translation agency manager](translation_agency_manager.md)                         |                          31 |                                                17 |                                                  0.68 |                                            14 |

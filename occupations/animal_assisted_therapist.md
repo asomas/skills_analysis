@@ -1,6 +1,6 @@
-#Occupation animal assisted therapist
-##Number skills 10
-###Similar occupations:
+# Occupation animal assisted therapist
+## Number skills 10
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match animal assisted therapist |   percentage match with animal assisted therapist |   skills not in animal assisted therapist |
 |:----------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [music therapist](music_therapist.md)                                       |                          98 |                                             6 |                                               0.6 |                                        92 |

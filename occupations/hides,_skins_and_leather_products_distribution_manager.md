@@ -1,6 +1,6 @@
-#Occupation hides, skins and leather products distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation hides, skins and leather products distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match hides, skins and leather products distribution manager |   percentage match with hides, skins and leather products distribution manager |   skills not in hides, skins and leather products distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------:|-------------------------------------------------------------------------------:|-----------------------------------------------------------------------:|
 | [metals and metal ores distribution manager](metals_and_metal_ores_distribution_manager.md)                                                                             |                          26 |                                                                         25 |                                                                       0.961538 |                                                                      1 |

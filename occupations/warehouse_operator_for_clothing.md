@@ -1,6 +1,6 @@
-#Occupation warehouse operator for clothing
-##Number skills 4
-###Similar occupations:
+# Occupation warehouse operator for clothing
+## Number skills 4
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match warehouse operator for clothing |   percentage match with warehouse operator for clothing |   skills not in warehouse operator for clothing |
 |:----------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
 | [clothing finisher](clothing_finisher.md)                                               |                           7 |                                                   3 |                                                    0.75 |                                               4 |

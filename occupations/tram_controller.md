@@ -1,6 +1,6 @@
-#Occupation tram controller
-##Number skills 21
-###Similar occupations:
+# Occupation tram controller
+## Number skills 21
+### Similar occupations:
 | occupation                                                                  |   skills in this occupation |   skills that match tram controller |   percentage match with tram controller |   skills not in tram controller |
 |:----------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [tram driver](tram_driver.md)                                               |                          34 |                                   8 |                                0.380952 |                              26 |

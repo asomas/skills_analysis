@@ -1,6 +1,6 @@
-#Occupation import export manager in coffee, tea, cocoa and spices
-##Number skills 28
-###Similar occupations:
+# Occupation import export manager in coffee, tea, cocoa and spices
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match import export manager in coffee, tea, cocoa and spices |   percentage match with import export manager in coffee, tea, cocoa and spices |   skills not in import export manager in coffee, tea, cocoa and spices |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------:|-------------------------------------------------------------------------------:|-----------------------------------------------------------------------:|
 | [import export manager in sugar, chocolate and sugar confectionery](import_export_manager_in_sugar,_chocolate_and_sugar_confectionery.md)                               |                          28 |                                                                         27 |                                                                       0.964286 |                                                                      1 |

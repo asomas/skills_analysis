@@ -1,6 +1,6 @@
-#Occupation music director
-##Number skills 21
-###Similar occupations:
+# Occupation music director
+## Number skills 21
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match music director |   percentage match with music director |   skills not in music director |
 |:--------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [choirmaster/choirmistress](choirmaster-choirmistress.md)           |                          22 |                                 10 |                               0.47619  |                             12 |

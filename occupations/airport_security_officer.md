@@ -1,6 +1,6 @@
-#Occupation airport security officer
-##Number skills 16
-###Similar occupations:
+# Occupation airport security officer
+## Number skills 16
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match airport security officer |   percentage match with airport security officer |   skills not in airport security officer |
 |:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [gate guard](gate_guard.md)                                                       |                          15 |                                            4 |                                           0.25   |                                       11 |

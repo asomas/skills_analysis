@@ -1,6 +1,6 @@
-#Occupation embroiderer
-##Number skills 8
-###Similar occupations:
+# Occupation embroiderer
+## Number skills 8
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match embroiderer |   percentage match with embroiderer |   skills not in embroiderer |
 |:----------------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
 | [tailor](tailor.md)                                                                     |                          28 |                               6 |                               0.75  |                          22 |

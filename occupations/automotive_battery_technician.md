@@ -1,6 +1,6 @@
-#Occupation automotive battery technician
-##Number skills 9
-###Similar occupations:
+# Occupation automotive battery technician
+## Number skills 9
+### Similar occupations:
 | occupation                                                                                                                                                            |   skills in this occupation |   skills that match automotive battery technician |   percentage match with automotive battery technician |   skills not in automotive battery technician |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
 | [aircraft engine assembler](aircraft_engine_assembler.md)                                                                                                             |                          20 |                                                 4 |                                              0.444444 |                                            16 |

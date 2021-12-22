@@ -1,6 +1,6 @@
-#Occupation energy systems engineer
-##Number skills 28
-###Similar occupations:
+# Occupation energy systems engineer
+## Number skills 28
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match energy systems engineer |   percentage match with energy systems engineer |   skills not in energy systems engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [hydropower engineer](hydropower_engineer.md)                                                                                               |                          25 |                                          14 |                                        0.5      |                                      11 |

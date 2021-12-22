@@ -1,6 +1,6 @@
-#Occupation investment fund management assistant
-##Number skills 17
-###Similar occupations:
+# Occupation investment fund management assistant
+## Number skills 17
+### Similar occupations:
 | occupation                                                                                    |   skills in this occupation |   skills that match investment fund management assistant |   percentage match with investment fund management assistant |   skills not in investment fund management assistant |
 |:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [financial trader](financial_trader.md)                                                       |                          16 |                                                        8 |                                                     0.470588 |                                                    8 |

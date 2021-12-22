@@ -1,6 +1,6 @@
-#Occupation drawing kiln operator
-##Number skills 15
-###Similar occupations:
+# Occupation drawing kiln operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match drawing kiln operator |   percentage match with drawing kiln operator |   skills not in drawing kiln operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
 | [glass forming machine operator](glass_forming_machine_operator.md)                                             |                          17 |                                         7 |                                      0.466667 |                                    10 |

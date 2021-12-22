@@ -1,6 +1,6 @@
-#Occupation patent engineer
-##Number skills 14
-###Similar occupations:
+# Occupation patent engineer
+## Number skills 14
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match patent engineer |   percentage match with patent engineer |   skills not in patent engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [intellectual property consultant](intellectual_property_consultant.md)                                                                     |                          10 |                                   6 |                                0.428571 |                               4 |

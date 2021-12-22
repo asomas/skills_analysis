@@ -1,6 +1,6 @@
-#Occupation fire inspector
-##Number skills 13
-###Similar occupations:
+# Occupation fire inspector
+## Number skills 13
+### Similar occupations:
 | occupation                                                                                  |   skills in this occupation |   skills that match fire inspector |   percentage match with fire inspector |   skills not in fire inspector |
 |:--------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
 | [fire commissioner](fire_commissioner.md)                                                   |                          15 |                                  6 |                               0.461538 |                              9 |

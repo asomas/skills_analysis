@@ -1,6 +1,6 @@
-#Occupation special educational needs teacher primary school
-##Number skills 33
-###Similar occupations:
+# Occupation special educational needs teacher primary school
+## Number skills 33
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match special educational needs teacher primary school |   percentage match with special educational needs teacher primary school |   skills not in special educational needs teacher primary school |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------:|-------------------------------------------------------------------------:|-----------------------------------------------------------------:|
 | [teacher of talented and gifted students](teacher_of_talented_and_gifted_students.md)                                 |                          35 |                                                                   26 |                                                                 0.787879 |                                                                9 |

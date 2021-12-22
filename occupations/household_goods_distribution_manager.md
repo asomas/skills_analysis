@@ -1,6 +1,6 @@
-#Occupation household goods distribution manager
-##Number skills 26
-###Similar occupations:
+# Occupation household goods distribution manager
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match household goods distribution manager |   percentage match with household goods distribution manager |   skills not in household goods distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------:|-------------------------------------------------------------:|-----------------------------------------------------:|
 | [metals and metal ores distribution manager](metals_and_metal_ores_distribution_manager.md)                                                                             |                          26 |                                                       25 |                                                     0.961538 |                                                    1 |

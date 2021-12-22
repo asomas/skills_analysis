@@ -1,6 +1,6 @@
-#Occupation screen making technician
-##Number skills 13
-###Similar occupations:
+# Occupation screen making technician
+## Number skills 13
+### Similar occupations:
 | occupation                                                                            |   skills in this occupation |   skills that match screen making technician |   percentage match with screen making technician |   skills not in screen making technician |
 |:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------:|-------------------------------------------------:|-----------------------------------------:|
 | [textile product developer](textile_product_developer.md)                             |                          24 |                                            4 |                                         0.307692 |                                       20 |

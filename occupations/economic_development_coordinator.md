@@ -1,6 +1,6 @@
-#Occupation economic development coordinator
-##Number skills 12
-###Similar occupations:
+# Occupation economic development coordinator
+## Number skills 12
+### Similar occupations:
 | occupation                                                                      |   skills in this occupation |   skills that match economic development coordinator |   percentage match with economic development coordinator |   skills not in economic development coordinator |
 |:--------------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
 | [economic policy officer](economic_policy_officer.md)                           |                          14 |                                                    9 |                                                 0.75     |                                                5 |

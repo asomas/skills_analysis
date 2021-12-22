@@ -1,6 +1,6 @@
-#Occupation spinning textile technician
-##Number skills 5
-###Similar occupations:
+# Occupation spinning textile technician
+## Number skills 5
+### Similar occupations:
 | occupation                                                                              |   skills in this occupation |   skills that match spinning textile technician |   percentage match with spinning textile technician |   skills not in spinning textile technician |
 |:----------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [yarn spinner](yarn_spinner.md)                                                         |                          11 |                                               5 |                                                 1   |                                           6 |

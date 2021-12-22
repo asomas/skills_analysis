@@ -1,6 +1,6 @@
-#Occupation machinery, industrial equipment, ships and aircraft distribution manager
-##Number skills 27
-###Similar occupations:
+# Occupation machinery, industrial equipment, ships and aircraft distribution manager
+## Number skills 27
+### Similar occupations:
 | occupation                                                                                                                                                              |   skills in this occupation |   skills that match machinery, industrial equipment, ships and aircraft distribution manager |   percentage match with machinery, industrial equipment, ships and aircraft distribution manager |   skills not in machinery, industrial equipment, ships and aircraft distribution manager |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
 | [metals and metal ores distribution manager](metals_and_metal_ores_distribution_manager.md)                                                                             |                          26 |                                                                                           25 |                                                                                         0.925926 |                                                                                        1 |

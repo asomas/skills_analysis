@@ -1,6 +1,6 @@
-#Occupation sign language interpreter
-##Number skills 11
-###Similar occupations:
+# Occupation sign language interpreter
+## Number skills 11
+### Similar occupations:
 | occupation                                                                        |   skills in this occupation |   skills that match sign language interpreter |   percentage match with sign language interpreter |   skills not in sign language interpreter |
 |:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
 | [lawyer linguist](lawyer_linguist.md)                                             |                          14 |                                             4 |                                          0.363636 |                                        10 |

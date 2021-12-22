@@ -1,6 +1,6 @@
-#Occupation stunt performer
-##Number skills 12
-###Similar occupations:
+# Occupation stunt performer
+## Number skills 12
+### Similar occupations:
 | occupation                                                                |   skills in this occupation |   skills that match stunt performer |   percentage match with stunt performer |   skills not in stunt performer |
 |:--------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
 | [stand-in](stand-in.md)                                                   |                          12 |                                   8 |                                0.666667 |                               4 |

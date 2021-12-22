@@ -1,6 +1,6 @@
-#Occupation print studio supervisor
-##Number skills 26
-###Similar occupations:
+# Occupation print studio supervisor
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                        |   skills in this occupation |   skills that match print studio supervisor |   percentage match with print studio supervisor |   skills not in print studio supervisor |
 |:--------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
 | [wood factory manager](wood_factory_manager.md)                                                   |                          28 |                                          15 |                                        0.576923 |                                      13 |

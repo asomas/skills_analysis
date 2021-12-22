@@ -1,6 +1,6 @@
-#Occupation rotating equipment engineer
-##Number skills 26
-###Similar occupations:
+# Occupation rotating equipment engineer
+## Number skills 26
+### Similar occupations:
 | occupation                                                                                                                                  |   skills in this occupation |   skills that match rotating equipment engineer |   percentage match with rotating equipment engineer |   skills not in rotating equipment engineer |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
 | [agricultural equipment design engineer](agricultural_equipment_design_engineer.md)                                                         |                          26 |                                              22 |                                            0.846154 |                                           4 |

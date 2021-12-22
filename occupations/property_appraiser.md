@@ -1,6 +1,6 @@
-#Occupation property appraiser
-##Number skills 15
-###Similar occupations:
+# Occupation property appraiser
+## Number skills 15
+### Similar occupations:
 | occupation                                                          |   skills in this occupation |   skills that match property appraiser |   percentage match with property appraiser |   skills not in property appraiser |
 |:--------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [property acquisitions manager](property_acquisitions_manager.md)   |                          25 |                                      9 |                                   0.6      |                                 16 |

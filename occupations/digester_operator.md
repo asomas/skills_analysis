@@ -1,6 +1,6 @@
-#Occupation digester operator
-##Number skills 15
-###Similar occupations:
+# Occupation digester operator
+## Number skills 15
+### Similar occupations:
 | occupation                                                                                            |   skills in this occupation |   skills that match digester operator |   percentage match with digester operator |   skills not in digester operator |
 |:------------------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
 | [paper machine operator](paper_machine_operator.md)                                                   |                          17 |                                    11 |                                  0.733333 |                                 6 |

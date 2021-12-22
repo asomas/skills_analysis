@@ -1,6 +1,6 @@
-#Occupation dry press operator
-##Number skills 7
-###Similar occupations:
+# Occupation dry press operator
+## Number skills 7
+### Similar occupations:
 | occupation                                                                                                      |   skills in this occupation |   skills that match dry press operator |   percentage match with dry press operator |   skills not in dry press operator |
 |:----------------------------------------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
 | [compression moulding machine operator](compression_moulding_machine_operator.md)                               |                          15 |                                      3 |                                   0.428571 |                                 12 |

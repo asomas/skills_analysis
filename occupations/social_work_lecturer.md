@@ -1,6 +1,6 @@
-#Occupation social work lecturer
-##Number skills 82
-###Similar occupations:
+# Occupation social work lecturer
+## Number skills 82
+### Similar occupations:
 | occupation                                                                                                            |   skills in this occupation |   skills that match social work lecturer |   percentage match with social work lecturer |   skills not in social work lecturer |
 |:----------------------------------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
 | [consultant social worker](consultant_social_worker.md)                                                               |                          75 |                                       65 |                                     0.792683 |                                   10 |

@@ -1,6 +1,6 @@
-#Occupation accountant
-##Number skills 26
-###Similar occupations:
+# Occupation accountant
+## Number skills 26
+### Similar occupations:
 | occupation                                              |   skills in this occupation |   skills that match accountant |   percentage match with accountant |   skills not in accountant |
 |:--------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
 | [accounting manager](accounting_manager.md)             |                          33 |                             15 |                           0.576923 |                         18 |

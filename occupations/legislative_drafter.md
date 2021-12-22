@@ -1,6 +1,6 @@
-#Occupation legislative drafter
-##Number skills 10
-###Similar occupations:
+# Occupation legislative drafter
+## Number skills 10
+### Similar occupations:
 | occupation                                          |   skills in this occupation |   skills that match legislative drafter |   percentage match with legislative drafter |   skills not in legislative drafter |
 |:----------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
 | [member of parliament](member_of_parliament.md)     |                          12 |                                       3 |                                         0.3 |                                   9 |
