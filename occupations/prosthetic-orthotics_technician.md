@@ -1,0 +1,11 @@
+#Occupation prosthetic-orthotics technician
+##Number skills 17
+###Similar occupations:
+| occupation                                                                            |   skills in this occupation |   skills that match prosthetic-orthotics technician |   percentage match with prosthetic-orthotics technician |   skills not in prosthetic-orthotics technician |
+|:--------------------------------------------------------------------------------------|----------------------------:|----------------------------------------------------:|--------------------------------------------------------:|------------------------------------------------:|
+| [orthopaedic supply shop manager](orthopaedic_supply_shop_manager.md)                 |                          32 |                                                   2 |                                                0.117647 |                                              30 |
+| [wood technology engineer](wood_technology_engineer.md)                               |                          29 |                                                   2 |                                                0.117647 |                                              27 |
+| [medical device engineer](medical_device_engineer.md)                                 |                          33 |                                                   2 |                                                0.117647 |                                              31 |
+| [brush maker](brush_maker.md)                                                         |                          11 |                                                   2 |                                                0.117647 |                                               9 |
+| [orthopaedic supplies specialised seller](orthopaedic_supplies_specialised_seller.md) |                          33 |                                                   2 |                                                0.117647 |                                              31 |
+| [prosthetist-orthotist](prosthetist-orthotist.md)                                     |                          24 |                                                   2 |                                                0.117647 |                                              22 |

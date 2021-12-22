@@ -1,0 +1,49 @@
+#Occupation audit supervisor
+##Number skills 18
+###Similar occupations:
+| occupation                                                    |   skills in this occupation |   skills that match audit supervisor |   percentage match with audit supervisor |   skills not in audit supervisor |
+|:--------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
+| [financial auditor](financial_auditor.md)                     |                          22 |                                    7 |                                 0.388889 |                               15 |
+| [accounting manager](accounting_manager.md)                   |                          33 |                                    6 |                                 0.333333 |                               27 |
+| [auditing clerk](auditing_clerk.md)                           |                          17 |                                    6 |                                 0.333333 |                               11 |
+| [accounting analyst](accounting_analyst.md)                   |                          17 |                                    5 |                                 0.277778 |                               12 |
+| [risk manager](risk_manager.md)                               |                          28 |                                    4 |                                 0.222222 |                               24 |
+| [accountant](accountant.md)                                   |                          26 |                                    4 |                                 0.222222 |                               22 |
+| [financial controller](financial_controller.md)               |                          17 |                                    4 |                                 0.222222 |                               13 |
+| [IT auditor](IT_auditor.md)                                   |                          19 |                                    3 |                                 0.166667 |                               16 |
+| [ICT auditor manager](ICT_auditor_manager.md)                 |                          18 |                                    3 |                                 0.166667 |                               15 |
+| [tax advisor](tax_advisor.md)                                 |                          17 |                                    3 |                                 0.166667 |                               14 |
+| [insurance agency manager](insurance_agency_manager.md)       |                          37 |                                    3 |                                 0.166667 |                               34 |
+| [business valuer](business_valuer.md)                         |                          17 |                                    3 |                                 0.166667 |                               14 |
+| [corporate treasurer](corporate_treasurer.md)                 |                          15 |                                    3 |                                 0.166667 |                               12 |
+| [financial fraud examiner](financial_fraud_examiner.md)       |                          14 |                                    3 |                                 0.166667 |                               11 |
+| [industrial quality manager](industrial_quality_manager.md)   |                          29 |                                    3 |                                 0.166667 |                               26 |
+| [chief executive officer](chief_executive_officer.md)         |                          30 |                                    3 |                                 0.166667 |                               27 |
+| [real estate leasing manager](real_estate_leasing_manager.md) |                          24 |                                    3 |                                 0.166667 |                               21 |
+| [investment manager](investment_manager.md)                   |                          28 |                                    3 |                                 0.166667 |                               25 |
+| [bank treasurer](bank_treasurer.md)                           |                          25 |                                    3 |                                 0.166667 |                               22 |
+| [financial manager](financial_manager.md)                     |                          12 |                                    2 |                                 0.111111 |                               10 |
+| [investor relations manager](investor_relations_manager.md)   |                          26 |                                    2 |                                 0.111111 |                               24 |
+| [tax policy analyst](tax_policy_analyst.md)                   |                          17 |                                    2 |                                 0.111111 |                               15 |
+| [tax clerk](tax_clerk.md)                                     |                          12 |                                    2 |                                 0.111111 |                               10 |
+| [bookkeeper](bookkeeper.md)                                   |                          18 |                                    2 |                                 0.111111 |                               16 |
+| [bank account manager](bank_account_manager.md)               |                          21 |                                    2 |                                 0.111111 |                               19 |
+| [housing manager](housing_manager.md)                         |                          28 |                                    2 |                                 0.111111 |                               26 |
+| [real estate manager](real_estate_manager.md)                 |                          32 |                                    2 |                                 0.111111 |                               30 |
+| [insurance product manager](insurance_product_manager.md)     |                          27 |                                    2 |                                 0.111111 |                               25 |
+| [credit manager](credit_manager.md)                           |                          28 |                                    2 |                                 0.111111 |                               26 |
+| [budget manager](budget_manager.md)                           |                          29 |                                    2 |                                 0.111111 |                               27 |
+| [credit union manager](credit_union_manager.md)               |                          25 |                                    2 |                                 0.111111 |                               23 |
+| [chief operating officer](chief_operating_officer.md)         |                          22 |                                    2 |                                 0.111111 |                               20 |
+| [bank manager](bank_manager.md)                               |                          33 |                                    2 |                                 0.111111 |                               31 |
+| [credit analyst](credit_analyst.md)                           |                          16 |                                    2 |                                 0.111111 |                               14 |
+| [fundraising manager](fundraising_manager.md)                 |                          24 |                                    2 |                                 0.111111 |                               22 |
+| [banking products manager](banking_products_manager.md)       |                          27 |                                    2 |                                 0.111111 |                               25 |
+| [investment fund manager](investment_fund_manager.md)         |                          30 |                                    2 |                                 0.111111 |                               28 |
+| [aviation inspector](aviation_inspector.md)                   |                          23 |                                    2 |                                 0.111111 |                               21 |
+| [insurance claims manager](insurance_claims_manager.md)       |                          24 |                                    2 |                                 0.111111 |                               22 |
+| [business consultant](business_consultant.md)                 |                          24 |                                    2 |                                 0.111111 |                               22 |
+| [asset manager](asset_manager.md)                             |                          21 |                                    2 |                                 0.111111 |                               19 |
+| [business analyst](business_analyst.md)                       |                          18 |                                    2 |                                 0.111111 |                               16 |
+| [corporate lawyer](corporate_lawyer.md)                       |                          20 |                                    2 |                                 0.111111 |                               18 |
+| [field survey manager](field_survey_manager.md)               |                          15 |                                    2 |                                 0.111111 |                               13 |

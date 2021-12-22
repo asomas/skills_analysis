@@ -1,0 +1,27 @@
+#Occupation fishing net maker
+##Number skills 2
+###Similar occupations:
+| occupation                                                                |   skills in this occupation |   skills that match fishing net maker |   percentage match with fishing net maker |   skills not in fishing net maker |
+|:--------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
+| [fisheries deckhand](fisheries_deckhand.md)                               |                          38 |                                     2 |                                       1   |                                36 |
+| [fisheries master](fisheries_master.md)                                   |                          43 |                                     2 |                                       1   |                                41 |
+| [boatswain](boatswain.md)                                                 |                          28 |                                     2 |                                       1   |                                26 |
+| [fisheries observer](fisheries_observer.md)                               |                          16 |                                     2 |                                       1   |                                14 |
+| [farm manager](farm_manager.md)                                           |                          13 |                                     1 |                                       0.5 |                                12 |
+| [radiation protection officer](radiation_protection_officer.md)           |                          22 |                                     1 |                                       0.5 |                                21 |
+| [agricultural inspector](agricultural_inspector.md)                       |                          18 |                                     1 |                                       0.5 |                                17 |
+| [deep-sea fishery worker](deep-sea_fishery_worker.md)                     |                          26 |                                     1 |                                       0.5 |                                25 |
+| [rescue centre manager](rescue_centre_manager.md)                         |                          76 |                                     1 |                                       0.5 |                                75 |
+| [forest worker](forest_worker.md)                                         |                          23 |                                     1 |                                       0.5 |                                22 |
+| [fisheries boatman](fisheries_boatman.md)                                 |                          44 |                                     1 |                                       0.5 |                                43 |
+| [environmental expert](environmental_expert.md)                           |                          21 |                                     1 |                                       0.5 |                                20 |
+| [fisheries boatmaster](fisheries_boatmaster.md)                           |                          45 |                                     1 |                                       0.5 |                                44 |
+| [forest ranger](forest_ranger.md)                                         |                          15 |                                     1 |                                       0.5 |                                14 |
+| [environmental engineer](environmental_engineer.md)                       |                          28 |                                     1 |                                       0.5 |                                27 |
+| [environmental scientist](environmental_scientist.md)                     |                          26 |                                     1 |                                       0.5 |                                25 |
+| [chimney sweep](chimney_sweep.md)                                         |                          18 |                                     1 |                                       0.5 |                                17 |
+| [aquaculture environmental analyst](aquaculture_environmental_analyst.md) |                          27 |                                     1 |                                       0.5 |                                26 |
+| [hazardous materials inspector](hazardous_materials_inspector.md)         |                          17 |                                     1 |                                       0.5 |                                16 |
+| [aquaculture biologist](aquaculture_biologist.md)                         |                          37 |                                     1 |                                       0.5 |                                36 |
+| [fisheries refrigeration engineer](fisheries_refrigeration_engineer.md)   |                          22 |                                     1 |                                       0.5 |                                21 |
+| [fisheries assistant engineer](fisheries_assistant_engineer.md)           |                          14 |                                     1 |                                       0.5 |                                13 |

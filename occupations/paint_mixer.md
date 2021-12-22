@@ -1,0 +1,35 @@
+#Occupation paint mixer
+##Number skills 5
+###Similar occupations:
+| occupation                                                                        |   skills in this occupation |   skills that match paint mixer |   percentage match with paint mixer |   skills not in paint mixer |
+|:----------------------------------------------------------------------------------|----------------------------:|--------------------------------:|------------------------------------:|----------------------------:|
+| [pesticide mixer](pesticide_mixer.md)                                             |                           6 |                               2 |                                 0.4 |                           4 |
+| [cake press operator](cake_press_operator.md)                                     |                          19 |                               1 |                                 0.2 |                          18 |
+| [compression moulding machine operator](compression_moulding_machine_operator.md) |                          15 |                               1 |                                 0.2 |                          14 |
+| [soap maker](soap_maker.md)                                                       |                           8 |                               1 |                                 0.2 |                           7 |
+| [plodder operator](plodder_operator.md)                                           |                           7 |                               1 |                                 0.2 |                           6 |
+| [injection moulding operator](injection_moulding_operator.md)                     |                          14 |                               1 |                                 0.2 |                          13 |
+| [soap tower operator](soap_tower_operator.md)                                     |                           8 |                               1 |                                 0.2 |                           7 |
+| [clay products dry kiln operator](clay_products_dry_kiln_operator.md)             |                           8 |                               1 |                                 0.2 |                           7 |
+| [chemical mixer](chemical_mixer.md)                                               |                          12 |                               1 |                                 0.2 |                          11 |
+| [fibre machine tender](fibre_machine_tender.md)                                   |                          13 |                               1 |                                 0.2 |                          12 |
+| [chemical plant control room operator](chemical_plant_control_room_operator.md)   |                          10 |                               1 |                                 0.2 |                           9 |
+| [gas processing plant supervisor](gas_processing_plant_supervisor.md)             |                          15 |                               1 |                                 0.2 |                          14 |
+| [gas station operator](gas_station_operator.md)                                   |                          12 |                               1 |                                 0.2 |                          11 |
+| [steam plant operator](steam_plant_operator.md)                                   |                          12 |                               1 |                                 0.2 |                          11 |
+| [pill maker operator](pill_maker_operator.md)                                     |                          12 |                               1 |                                 0.2 |                          11 |
+| [fertiliser mixer](fertiliser_mixer.md)                                           |                           5 |                               1 |                                 0.2 |                           4 |
+| [V-belt builder](V-belt_builder.md)                                               |                          10 |                               1 |                                 0.2 |                           9 |
+| [tunnel kiln operator](tunnel_kiln_operator.md)                                   |                           6 |                               1 |                                 0.2 |                           5 |
+| [coagulation operator](coagulation_operator.md)                                   |                          20 |                               1 |                                 0.2 |                          19 |
+| [soap drier operator](soap_drier_operator.md)                                     |                          10 |                               1 |                                 0.2 |                           9 |
+| [boiler operator](boiler_operator.md)                                             |                          12 |                               1 |                                 0.2 |                          11 |
+| [lacquer maker](lacquer_maker.md)                                                 |                          13 |                               1 |                                 0.2 |                          12 |
+| [wax bleacher](wax_bleacher.md)                                                   |                          12 |                               1 |                                 0.2 |                          11 |
+| [soap chipper](soap_chipper.md)                                                   |                           5 |                               1 |                                 0.2 |                           4 |
+| [varnish maker](varnish_maker.md)                                                 |                          14 |                               1 |                                 0.2 |                          13 |
+| [blow moulding machine operator](blow_moulding_machine_operator.md)               |                          13 |                               1 |                                 0.2 |                          12 |
+| [steam turbine operator](steam_turbine_operator.md)                               |                          11 |                               1 |                                 0.2 |                          10 |
+| [gas processing plant operator](gas_processing_plant_operator.md)                 |                          15 |                               1 |                                 0.2 |                          14 |
+| [fermenter operator](fermenter_operator.md)                                       |                          12 |                               1 |                                 0.2 |                          11 |
+| [geothermal power plant operator](geothermal_power_plant_operator.md)             |                          16 |                               1 |                                 0.2 |                          15 |

@@ -1,0 +1,12 @@
+#Occupation aquaculture hatchery worker
+##Number skills 25
+###Similar occupations:
+| occupation                                                                  |   skills in this occupation |   skills that match aquaculture hatchery worker |   percentage match with aquaculture hatchery worker |   skills not in aquaculture hatchery worker |
+|:----------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
+| [aquaculture rearing technician](aquaculture_rearing_technician.md)         |                          34 |                                              10 |                                                0.4  |                                          24 |
+| [aquaculture husbandry worker](aquaculture_husbandry_worker.md)             |                          37 |                                              10 |                                                0.4  |                                          27 |
+| [aquaculture harvesting worker](aquaculture_harvesting_worker.md)           |                          23 |                                               6 |                                                0.24 |                                          17 |
+| [water-based aquaculture worker](water-based_aquaculture_worker.md)         |                          37 |                                               3 |                                                0.12 |                                          34 |
+| [aquaculture hatchery technician](aquaculture_hatchery_technician.md)       |                          28 |                                               3 |                                                0.12 |                                          25 |
+| [aquatic animal health professional](aquatic_animal_health_professional.md) |                          55 |                                               3 |                                                0.12 |                                          52 |
+| [aquaculture harvesting technician](aquaculture_harvesting_technician.md)   |                          39 |                                               3 |                                                0.12 |                                          36 |

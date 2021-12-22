@@ -1,0 +1,29 @@
+#Occupation furniture finisher
+##Number skills 16
+###Similar occupations:
+| occupation                                                        |   skills in this occupation |   skills that match furniture finisher |   percentage match with furniture finisher |   skills not in furniture finisher |
+|:------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
+| [transport equipment painter](transport_equipment_painter.md)     |                          31 |                                      6 |                                     0.375  |                                 25 |
+| [cabinet maker](cabinet_maker.md)                                 |                          20 |                                      6 |                                     0.375  |                                 14 |
+| [frame maker](frame_maker.md)                                     |                          13 |                                      4 |                                     0.25   |                                  9 |
+| [guitar maker](guitar_maker.md)                                   |                          20 |                                      3 |                                     0.1875 |                                 17 |
+| [carpenter](carpenter.md)                                         |                          24 |                                      3 |                                     0.1875 |                                 21 |
+| [organ builder](organ_builder.md)                                 |                          20 |                                      3 |                                     0.1875 |                                 17 |
+| [harpsichord maker](harpsichord_maker.md)                         |                          18 |                                      3 |                                     0.1875 |                                 15 |
+| [wood sander](wood_sander.md)                                     |                          14 |                                      3 |                                     0.1875 |                                 11 |
+| [antique furniture reproducer](antique_furniture_reproducer.md)   |                          16 |                                      3 |                                     0.1875 |                                 13 |
+| [violin maker](violin_maker.md)                                   |                          20 |                                      3 |                                     0.1875 |                                 17 |
+| [brush maker](brush_maker.md)                                     |                          11 |                                      3 |                                     0.1875 |                                  8 |
+| [harp maker](harp_maker.md)                                       |                          18 |                                      3 |                                     0.1875 |                                 15 |
+| [woodcarver](woodcarver.md)                                       |                          17 |                                      3 |                                     0.1875 |                                 14 |
+| [piano maker](piano_maker.md)                                     |                          16 |                                      3 |                                     0.1875 |                                 13 |
+| [furniture restorer](furniture_restorer.md)                       |                          18 |                                      3 |                                     0.1875 |                                 15 |
+| [furniture assembler](furniture_assembler.md)                     |                          14 |                                      3 |                                     0.1875 |                                 11 |
+| [hardwood floor layer](hardwood_floor_layer.md)                   |                          22 |                                      2 |                                     0.125  |                                 20 |
+| [toymaker](toymaker.md)                                           |                          24 |                                      2 |                                     0.125  |                                 22 |
+| [wicker furniture maker](wicker_furniture_maker.md)               |                          12 |                                      2 |                                     0.125  |                                 10 |
+| [cooper](cooper.md)                                               |                          14 |                                      2 |                                     0.125  |                                 12 |
+| [construction painter](construction_painter.md)                   |                          21 |                                      2 |                                     0.125  |                                 19 |
+| [staircase installer](staircase_installer.md)                     |                          17 |                                      2 |                                     0.125  |                                 15 |
+| [vehicle maintenance attendant](vehicle_maintenance_attendant.md) |                          13 |                                      2 |                                     0.125  |                                 11 |
+| [sewerage cleaner](sewerage_cleaner.md)                           |                          12 |                                      2 |                                     0.125  |                                 10 |

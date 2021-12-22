@@ -1,0 +1,17 @@
+#Occupation gas station operator
+##Number skills 12
+###Similar occupations:
+| occupation                                                                        |   skills in this occupation |   skills that match gas station operator |   percentage match with gas station operator |   skills not in gas station operator |
+|:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
+| [gas processing plant supervisor](gas_processing_plant_supervisor.md)             |                          15 |                                        6 |                                     0.5      |                                    9 |
+| [gas processing plant operator](gas_processing_plant_operator.md)                 |                          15 |                                        3 |                                     0.25     |                                   12 |
+| [air separation plant operator](air_separation_plant_operator.md)                 |                           8 |                                        3 |                                     0.25     |                                    5 |
+| [compression moulding machine operator](compression_moulding_machine_operator.md) |                          15 |                                        2 |                                     0.166667 |                                   13 |
+| [chemical processing plant controller](chemical_processing_plant_controller.md)   |                          15 |                                        2 |                                     0.166667 |                                   13 |
+| [injection moulding operator](injection_moulding_operator.md)                     |                          14 |                                        2 |                                     0.166667 |                                   12 |
+| [plodder operator](plodder_operator.md)                                           |                           7 |                                        2 |                                     0.166667 |                                    5 |
+| [soap maker](soap_maker.md)                                                       |                           8 |                                        2 |                                     0.166667 |                                    6 |
+| [soap chipper](soap_chipper.md)                                                   |                           5 |                                        2 |                                     0.166667 |                                    3 |
+| [cake press operator](cake_press_operator.md)                                     |                          19 |                                        2 |                                     0.166667 |                                   17 |
+| [coagulation operator](coagulation_operator.md)                                   |                          20 |                                        2 |                                     0.166667 |                                   18 |
+| [fibre machine tender](fibre_machine_tender.md)                                   |                          13 |                                        2 |                                     0.166667 |                                   11 |

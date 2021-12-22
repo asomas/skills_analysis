@@ -1,0 +1,13 @@
+#Occupation equality and inclusion manager
+##Number skills 31
+###Similar occupations:
+| occupation                                                                |   skills in this occupation |   skills that match equality and inclusion manager |   percentage match with equality and inclusion manager |   skills not in equality and inclusion manager |
+|:--------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
+| [corporate training manager](corporate_training_manager.md)               |                          34 |                                                 19 |                                               0.612903 |                                             15 |
+| [human resources manager](human_resources_manager.md)                     |                          23 |                                                 19 |                                               0.612903 |                                              4 |
+| [pension scheme manager](pension_scheme_manager.md)                       |                          27 |                                                 16 |                                               0.516129 |                                             11 |
+| [public employment service manager](public_employment_service_manager.md) |                          17 |                                                  9 |                                               0.290323 |                                              8 |
+| [human resources officer](human_resources_officer.md)                     |                          18 |                                                  6 |                                               0.193548 |                                             12 |
+| [travel agency manager](travel_agency_manager.md)                         |                          30 |                                                  4 |                                               0.129032 |                                             26 |
+| [beauty salon manager](beauty_salon_manager.md)                           |                          44 |                                                  4 |                                               0.129032 |                                             40 |
+| [labour relations officer](labour_relations_officer.md)                   |                          13 |                                                  4 |                                               0.129032 |                                              9 |

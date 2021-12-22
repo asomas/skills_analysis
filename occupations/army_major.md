@@ -1,0 +1,26 @@
+#Occupation army major
+##Number skills 11
+###Similar occupations:
+| occupation                                                                                    |   skills in this occupation |   skills that match army major |   percentage match with army major |   skills not in army major |
+|:----------------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
+| [sergeant](sergeant.md)                                                                       |                          13 |                              9 |                           0.818182 |                          4 |
+| [lieutenant](lieutenant.md)                                                                   |                          14 |                              8 |                           0.727273 |                          6 |
+| [armed forces officer](armed_forces_officer.md)                                               |                          21 |                              8 |                           0.727273 |                         13 |
+| [army corporal](army_corporal.md)                                                             |                          11 |                              8 |                           0.727273 |                          3 |
+| [armed forces training and education officer](armed_forces_training_and_education_officer.md) |                          20 |                              7 |                           0.636364 |                         13 |
+| [army captain](army_captain.md)                                                               |                          12 |                              7 |                           0.636364 |                          5 |
+| [special forces officer](special_forces_officer.md)                                           |                          22 |                              5 |                           0.454545 |                         17 |
+| [squadron leader](squadron_leader.md)                                                         |                          10 |                              5 |                           0.454545 |                          5 |
+| [brigadier](brigadier.md)                                                                     |                          14 |                              4 |                           0.363636 |                         10 |
+| [colonel](colonel.md)                                                                         |                          10 |                              4 |                           0.363636 |                          6 |
+| [navy officer](navy_officer.md)                                                               |                          21 |                              4 |                           0.363636 |                         17 |
+| [air force officer](air_force_officer.md)                                                     |                          21 |                              4 |                           0.363636 |                         17 |
+| [artillery officer](artillery_officer.md)                                                     |                          15 |                              3 |                           0.272727 |                         12 |
+| [military engineer](military_engineer.md)                                                     |                          14 |                              3 |                           0.272727 |                         11 |
+| [infantry soldier](infantry_soldier.md)                                                       |                          12 |                              2 |                           0.181818 |                         10 |
+| [court administrator](court_administrator.md)                                                 |                          10 |                              2 |                           0.181818 |                          8 |
+| [army general](army_general.md)                                                               |                          12 |                              2 |                           0.181818 |                         10 |
+| [police commissioner](police_commissioner.md)                                                 |                          18 |                              2 |                           0.181818 |                         16 |
+| [fleet commander](fleet_commander.md)                                                         |                          11 |                              2 |                           0.181818 |                          9 |
+| [warfare specialist](warfare_specialist.md)                                                   |                          14 |                              2 |                           0.181818 |                         12 |
+| [correctional services manager](correctional_services_manager.md)                             |                          13 |                              2 |                           0.181818 |                         11 |

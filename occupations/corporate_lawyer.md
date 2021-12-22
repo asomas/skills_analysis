@@ -1,0 +1,27 @@
+#Occupation corporate lawyer
+##Number skills 20
+###Similar occupations:
+| occupation                                                              |   skills in this occupation |   skills that match corporate lawyer |   percentage match with corporate lawyer |   skills not in corporate lawyer |
+|:------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
+| [lawyer](lawyer.md)                                                     |                          13 |                                   11 |                                     0.55 |                                2 |
+| [prosecutor](prosecutor.md)                                             |                          16 |                                   11 |                                     0.55 |                                5 |
+| [legal consultant](legal_consultant.md)                                 |                          10 |                                    8 |                                     0.4  |                                2 |
+| [court clerk](court_clerk.md)                                           |                          11 |                                    6 |                                     0.3  |                                5 |
+| [court jury coordinator](court_jury_coordinator.md)                     |                          10 |                                    6 |                                     0.3  |                                4 |
+| [case administrator](case_administrator.md)                             |                          12 |                                    5 |                                     0.25 |                                7 |
+| [legal policy officer](legal_policy_officer.md)                         |                          10 |                                    5 |                                     0.25 |                                5 |
+| [lawyer linguist](lawyer_linguist.md)                                   |                          14 |                                    5 |                                     0.25 |                                9 |
+| [legal assistant](legal_assistant.md)                                   |                          13 |                                    5 |                                     0.25 |                                8 |
+| [supreme court judge](supreme_court_judge.md)                           |                          16 |                                    4 |                                     0.2  |                               12 |
+| [justice of the peace](justice_of_the_peace.md)                         |                          12 |                                    4 |                                     0.2  |                                8 |
+| [judge](judge.md)                                                       |                          11 |                                    4 |                                     0.2  |                                7 |
+| [intellectual property consultant](intellectual_property_consultant.md) |                          10 |                                    4 |                                     0.2  |                                6 |
+| [court administrative officer](court_administrative_officer.md)         |                          11 |                                    4 |                                     0.2  |                                7 |
+| [legal service manager](legal_service_manager.md)                       |                          19 |                                    3 |                                     0.15 |                               16 |
+| [legal administrative assistant](legal_administrative_assistant.md)     |                          10 |                                    3 |                                     0.15 |                                7 |
+| [law lecturer](law_lecturer.md)                                         |                          21 |                                    3 |                                     0.15 |                               18 |
+| [court administrator](court_administrator.md)                           |                          10 |                                    3 |                                     0.15 |                                7 |
+| [court reporter](court_reporter.md)                                     |                          16 |                                    3 |                                     0.15 |                               13 |
+| [court enforcement officer](court_enforcement_officer.md)               |                          12 |                                    3 |                                     0.15 |                                9 |
+| [patent engineer](patent_engineer.md)                                   |                          14 |                                    3 |                                     0.15 |                               11 |
+| [conveyance clerk](conveyance_clerk.md)                                 |                           7 |                                    3 |                                     0.15 |                                4 |

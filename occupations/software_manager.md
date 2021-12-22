@@ -1,0 +1,16 @@
+#Occupation software manager
+##Number skills 20
+###Similar occupations:
+| occupation                                                                                |   skills in this occupation |   skills that match software manager |   percentage match with software manager |   skills not in software manager |
+|:------------------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
+| [ICT research manager](ICT_research_manager.md)                                           |                          18 |                                    5 |                                     0.25 |                               13 |
+| [ICT system administrator](ICT_system_administrator.md)                                   |                          23 |                                    4 |                                     0.2  |                               19 |
+| [software architect](software_architect.md)                                               |                          18 |                                    4 |                                     0.2  |                               14 |
+| [telecommunications engineering technician](telecommunications_engineering_technician.md) |                          23 |                                    4 |                                     0.2  |                               19 |
+| [chief information officer](chief_information_officer.md)                                 |                          22 |                                    4 |                                     0.2  |                               18 |
+| [chief technology officer](chief_technology_officer.md)                                   |                          20 |                                    4 |                                     0.2  |                               16 |
+| [ICT auditor manager](ICT_auditor_manager.md)                                             |                          18 |                                    3 |                                     0.15 |                               15 |
+| [webmaster](webmaster.md)                                                                 |                          17 |                                    3 |                                     0.15 |                               14 |
+| [ICT system analyst](ICT_system_analyst.md)                                               |                          25 |                                    3 |                                     0.15 |                               22 |
+| [embedded system designer](embedded_system_designer.md)                                   |                          15 |                                    3 |                                     0.15 |                               12 |
+| [ICT project manager](ICT_project_manager.md)                                             |                          20 |                                    3 |                                     0.15 |                               17 |

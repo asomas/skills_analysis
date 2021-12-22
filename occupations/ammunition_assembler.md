@@ -1,0 +1,16 @@
+#Occupation ammunition assembler
+##Number skills 14
+###Similar occupations:
+| occupation                                                                        |   skills in this occupation |   skills that match ammunition assembler |   percentage match with ammunition assembler |   skills not in ammunition assembler |
+|:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
+| [insulating tube winder](insulating_tube_winder.md)                               |                          11 |                                        2 |                                     0.142857 |                                    9 |
+| [edge bander operator](edge_bander_operator.md)                                   |                          10 |                                        2 |                                     0.142857 |                                    8 |
+| [compression moulding machine operator](compression_moulding_machine_operator.md) |                          15 |                                        2 |                                     0.142857 |                                   13 |
+| [tool and die maker](tool_and_die_maker.md)                                       |                          22 |                                        2 |                                     0.142857 |                                   20 |
+| [vacuum forming machine operator](vacuum_forming_machine_operator.md)             |                          14 |                                        2 |                                     0.142857 |                                   12 |
+| [router operator](router_operator.md)                                             |                          13 |                                        2 |                                     0.142857 |                                   11 |
+| [cake press operator](cake_press_operator.md)                                     |                          19 |                                        2 |                                     0.142857 |                                   17 |
+| [paper engineer](paper_engineer.md)                                               |                          18 |                                        2 |                                     0.142857 |                                   16 |
+| [industrial quality manager](industrial_quality_manager.md)                       |                          29 |                                        2 |                                     0.142857 |                                   27 |
+| [plastic furniture machine operator](plastic_furniture_machine_operator.md)       |                          18 |                                        2 |                                     0.142857 |                                   16 |
+| [hand brick moulder](hand_brick_moulder.md)                                       |                          11 |                                        2 |                                     0.142857 |                                    9 |

@@ -1,0 +1,19 @@
+#Occupation squadron leader
+##Number skills 10
+###Similar occupations:
+| occupation                                                                                    |   skills in this occupation |   skills that match squadron leader |   percentage match with squadron leader |   skills not in squadron leader |
+|:----------------------------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
+| [armed forces officer](armed_forces_officer.md)                                               |                          21 |                                   8 |                                     0.8 |                              13 |
+| [army corporal](army_corporal.md)                                                             |                          11 |                                   7 |                                     0.7 |                               4 |
+| [artillery officer](artillery_officer.md)                                                     |                          15 |                                   5 |                                     0.5 |                              10 |
+| [sergeant](sergeant.md)                                                                       |                          13 |                                   5 |                                     0.5 |                               8 |
+| [army major](army_major.md)                                                                   |                          11 |                                   5 |                                     0.5 |                               6 |
+| [special forces officer](special_forces_officer.md)                                           |                          22 |                                   5 |                                     0.5 |                              17 |
+| [navy officer](navy_officer.md)                                                               |                          21 |                                   4 |                                     0.4 |                              17 |
+| [infantry soldier](infantry_soldier.md)                                                       |                          12 |                                   4 |                                     0.4 |                               8 |
+| [air force officer](air_force_officer.md)                                                     |                          21 |                                   4 |                                     0.4 |                              17 |
+| [lieutenant](lieutenant.md)                                                                   |                          14 |                                   4 |                                     0.4 |                              10 |
+| [armed forces training and education officer](armed_forces_training_and_education_officer.md) |                          20 |                                   4 |                                     0.4 |                              16 |
+| [warfare specialist](warfare_specialist.md)                                                   |                          14 |                                   3 |                                     0.3 |                              11 |
+| [brigadier](brigadier.md)                                                                     |                          14 |                                   2 |                                     0.2 |                              12 |
+| [army captain](army_captain.md)                                                               |                          12 |                                   2 |                                     0.2 |                              10 |

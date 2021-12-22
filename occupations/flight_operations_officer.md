@@ -1,0 +1,20 @@
+#Occupation flight operations officer
+##Number skills 18
+###Similar occupations:
+| occupation                                                  |   skills in this occupation |   skills that match flight operations officer |   percentage match with flight operations officer |   skills not in flight operations officer |
+|:------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
+| [commercial pilot](commercial_pilot.md)                     |                          41 |                                             5 |                                          0.277778 |                                        36 |
+| [private pilot](private_pilot.md)                           |                          32 |                                             5 |                                          0.277778 |                                        27 |
+| [helicopter pilot](helicopter_pilot.md)                     |                          39 |                                             4 |                                          0.222222 |                                        35 |
+| [aircraft pilot](aircraft_pilot.md)                         |                          23 |                                             4 |                                          0.222222 |                                        19 |
+| [co-pilot](co-pilot.md)                                     |                          43 |                                             4 |                                          0.222222 |                                        39 |
+| [airline transport pilot](airline_transport_pilot.md)       |                          36 |                                             4 |                                          0.222222 |                                        32 |
+| [air force pilot](air_force_pilot.md)                       |                          33 |                                             4 |                                          0.222222 |                                        29 |
+| [airport operations officer](airport_operations_officer.md) |                          37 |                                             3 |                                          0.166667 |                                        34 |
+| [airport director](airport_director.md)                     |                          23 |                                             2 |                                          0.111111 |                                        21 |
+| [flight attendant](flight_attendant.md)                     |                          30 |                                             2 |                                          0.111111 |                                        28 |
+| [aircraft dispatcher](aircraft_dispatcher.md)               |                          24 |                                             2 |                                          0.111111 |                                        22 |
+| [air traffic controller](air_traffic_controller.md)         |                          33 |                                             2 |                                          0.111111 |                                        31 |
+| [air traffic instructor](air_traffic_instructor.md)         |                          29 |                                             2 |                                          0.111111 |                                        27 |
+| [cabin crew manager](cabin_crew_manager.md)                 |                          24 |                                             2 |                                          0.111111 |                                        22 |
+| [airspace manager](airspace_manager.md)                     |                          17 |                                             2 |                                          0.111111 |                                        15 |

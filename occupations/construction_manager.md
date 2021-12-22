@@ -1,0 +1,15 @@
+#Occupation construction manager
+##Number skills 24
+###Similar occupations:
+| occupation                                                                        |   skills in this occupation |   skills that match construction manager |   percentage match with construction manager |   skills not in construction manager |
+|:----------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
+| [quantity surveyor](quantity_surveyor.md)                                         |                          18 |                                        8 |                                     0.333333 |                                   10 |
+| [installation engineer](installation_engineer.md)                                 |                          18 |                                        7 |                                     0.291667 |                                   11 |
+| [compliance engineer](compliance_engineer.md)                                     |                          14 |                                        4 |                                     0.166667 |                                   10 |
+| [building materials specialised seller](building_materials_specialised_seller.md) |                          34 |                                        4 |                                     0.166667 |                                   30 |
+| [house builder](house_builder.md)                                                 |                          23 |                                        4 |                                     0.166667 |                                   19 |
+| [construction general supervisor](construction_general_supervisor.md)             |                          19 |                                        3 |                                     0.125    |                                   16 |
+| [construction general contractor](construction_general_contractor.md)             |                          17 |                                        3 |                                     0.125    |                                   14 |
+| [property developer](property_developer.md)                                       |                          20 |                                        3 |                                     0.125    |                                   17 |
+| [construction quality manager](construction_quality_manager.md)                   |                          17 |                                        3 |                                     0.125    |                                   14 |
+| [contract engineer](contract_engineer.md)                                         |                          15 |                                        3 |                                     0.125    |                                   12 |

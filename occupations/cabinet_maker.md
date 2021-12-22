@@ -1,0 +1,29 @@
+#Occupation cabinet maker
+##Number skills 20
+###Similar occupations:
+| occupation                                                                          |   skills in this occupation |   skills that match cabinet maker |   percentage match with cabinet maker |   skills not in cabinet maker |
+|:------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
+| [antique furniture reproducer](antique_furniture_reproducer.md)                     |                          16 |                                10 |                                  0.5  |                             6 |
+| [furniture assembler](furniture_assembler.md)                                       |                          14 |                                 8 |                                  0.4  |                             6 |
+| [furniture restorer](furniture_restorer.md)                                         |                          18 |                                 7 |                                  0.35 |                            11 |
+| [wicker furniture maker](wicker_furniture_maker.md)                                 |                          12 |                                 7 |                                  0.35 |                             5 |
+| [frame maker](frame_maker.md)                                                       |                          13 |                                 6 |                                  0.3  |                             7 |
+| [furniture finisher](furniture_finisher.md)                                         |                          16 |                                 6 |                                  0.3  |                            10 |
+| [woodcarver](woodcarver.md)                                                         |                          17 |                                 6 |                                  0.3  |                            11 |
+| [manufactured wooden building assembler](manufactured_wooden_building_assembler.md) |                          14 |                                 5 |                                  0.25 |                             9 |
+| [guitar maker](guitar_maker.md)                                                     |                          20 |                                 5 |                                  0.25 |                            15 |
+| [violin maker](violin_maker.md)                                                     |                          20 |                                 5 |                                  0.25 |                            15 |
+| [harpsichord maker](harpsichord_maker.md)                                           |                          18 |                                 5 |                                  0.25 |                            13 |
+| [carpenter](carpenter.md)                                                           |                          24 |                                 5 |                                  0.25 |                            19 |
+| [wood technology engineer](wood_technology_engineer.md)                             |                          29 |                                 4 |                                  0.2  |                            25 |
+| [brush maker](brush_maker.md)                                                       |                          11 |                                 4 |                                  0.2  |                             7 |
+| [wood products assembler](wood_products_assembler.md)                               |                          12 |                                 4 |                                  0.2  |                             8 |
+| [wood sander](wood_sander.md)                                                       |                          14 |                                 4 |                                  0.2  |                            10 |
+| [organ builder](organ_builder.md)                                                   |                          20 |                                 4 |                                  0.2  |                            16 |
+| [harp maker](harp_maker.md)                                                         |                          18 |                                 4 |                                  0.2  |                            14 |
+| [piano maker](piano_maker.md)                                                       |                          16 |                                 4 |                                  0.2  |                            12 |
+| [hardwood floor layer](hardwood_floor_layer.md)                                     |                          22 |                                 4 |                                  0.2  |                            18 |
+| [staircase installer](staircase_installer.md)                                       |                          17 |                                 3 |                                  0.15 |                            14 |
+| [cooper](cooper.md)                                                                 |                          14 |                                 3 |                                  0.15 |                            11 |
+| [wood drying kiln operator](wood_drying_kiln_operator.md)                           |                          20 |                                 3 |                                  0.15 |                            17 |
+| [lumber grader](lumber_grader.md)                                                   |                          34 |                                 3 |                                  0.15 |                            31 |

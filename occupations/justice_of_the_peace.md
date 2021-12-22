@@ -1,0 +1,26 @@
+#Occupation justice of the peace
+##Number skills 12
+###Similar occupations:
+| occupation                                                      |   skills in this occupation |   skills that match justice of the peace |   percentage match with justice of the peace |   skills not in justice of the peace |
+|:----------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
+| [supreme court judge](supreme_court_judge.md)                   |                          16 |                                        8 |                                     0.666667 |                                    8 |
+| [judge](judge.md)                                               |                          11 |                                        7 |                                     0.583333 |                                    4 |
+| [prosecutor](prosecutor.md)                                     |                          16 |                                        5 |                                     0.416667 |                                   11 |
+| [lawyer](lawyer.md)                                             |                          13 |                                        4 |                                     0.333333 |                                    9 |
+| [case administrator](case_administrator.md)                     |                          12 |                                        4 |                                     0.333333 |                                    8 |
+| [corporate lawyer](corporate_lawyer.md)                         |                          20 |                                        4 |                                     0.333333 |                                   16 |
+| [court jury coordinator](court_jury_coordinator.md)             |                          10 |                                        3 |                                     0.25     |                                    7 |
+| [court administrative officer](court_administrative_officer.md) |                          11 |                                        3 |                                     0.25     |                                    8 |
+| [law lecturer](law_lecturer.md)                                 |                          21 |                                        3 |                                     0.25     |                                   18 |
+| [court clerk](court_clerk.md)                                   |                          11 |                                        3 |                                     0.25     |                                    8 |
+| [lawyer linguist](lawyer_linguist.md)                           |                          14 |                                        2 |                                     0.166667 |                                   12 |
+| [legal policy officer](legal_policy_officer.md)                 |                          10 |                                        2 |                                     0.166667 |                                    8 |
+| [legal assistant](legal_assistant.md)                           |                          13 |                                        2 |                                     0.166667 |                                   11 |
+| [private detective](private_detective.md)                       |                          18 |                                        2 |                                     0.166667 |                                   16 |
+| [notary](notary.md)                                             |                          13 |                                        2 |                                     0.166667 |                                   11 |
+| [legal consultant](legal_consultant.md)                         |                          10 |                                        2 |                                     0.166667 |                                    8 |
+| [court bailiff](court_bailiff.md)                               |                          11 |                                        2 |                                     0.166667 |                                    9 |
+| [court enforcement officer](court_enforcement_officer.md)       |                          12 |                                        2 |                                     0.166667 |                                   10 |
+| [coroner](coroner.md)                                           |                           9 |                                        2 |                                     0.166667 |                                    7 |
+| [legal service manager](legal_service_manager.md)               |                          19 |                                        2 |                                     0.166667 |                                   17 |
+| [polygraph examiner](polygraph_examiner.md)                     |                          15 |                                        2 |                                     0.166667 |                                   13 |

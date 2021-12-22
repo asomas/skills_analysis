@@ -1,0 +1,15 @@
+#Occupation warehouse order picker
+##Number skills 24
+###Similar occupations:
+| occupation                                                                        |   skills in this occupation |   skills that match warehouse order picker |   percentage match with warehouse order picker |   skills not in warehouse order picker |
+|:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
+| [warehouse worker](warehouse_worker.md)                                           |                          39 |                                          9 |                                       0.375    |                                     30 |
+| [materials handler](materials_handler.md)                                         |                          22 |                                          7 |                                       0.291667 |                                     15 |
+| [forklift operator](forklift_operator.md)                                         |                          32 |                                          5 |                                       0.208333 |                                     27 |
+| [stevedore](stevedore.md)                                                         |                          37 |                                          5 |                                       0.208333 |                                     32 |
+| [warehouse manager](warehouse_manager.md)                                         |                          41 |                                          5 |                                       0.208333 |                                     36 |
+| [hand packer](hand_packer.md)                                                     |                           9 |                                          5 |                                       0.208333 |                                      4 |
+| [logistics and distribution manager](logistics_and_distribution_manager.md)       |                          32 |                                          3 |                                       0.125    |                                     29 |
+| [raw material reception operator](raw_material_reception_operator.md)             |                          29 |                                          3 |                                       0.125    |                                     26 |
+| [aircraft cargo operations coordinator](aircraft_cargo_operations_coordinator.md) |                          24 |                                          3 |                                       0.125    |                                     21 |
+| [centrifuge operator](centrifuge_operator.md)                                     |                          20 |                                          3 |                                       0.125    |                                     17 |

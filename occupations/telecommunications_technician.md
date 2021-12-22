@@ -1,0 +1,11 @@
+#Occupation telecommunications technician
+##Number skills 25
+###Similar occupations:
+| occupation                                                                                |   skills in this occupation |   skills that match telecommunications technician |   percentage match with telecommunications technician |   skills not in telecommunications technician |
+|:------------------------------------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
+| [telecommunications analyst](telecommunications_analyst.md)                               |                          24 |                                                10 |                                                  0.4  |                                            14 |
+| [communication infrastructure maintainer](communication_infrastructure_maintainer.md)     |                          14 |                                                 7 |                                                  0.28 |                                             7 |
+| [radio technician](radio_technician.md)                                                   |                          18 |                                                 5 |                                                  0.2  |                                            13 |
+| [telecommunications engineering technician](telecommunications_engineering_technician.md) |                          23 |                                                 5 |                                                  0.2  |                                            18 |
+| [telecommunications equipment maintainer](telecommunications_equipment_maintainer.md)     |                           9 |                                                 4 |                                                  0.16 |                                             5 |
+| [telecommunications engineer](telecommunications_engineer.md)                             |                          21 |                                                 3 |                                                  0.12 |                                            18 |

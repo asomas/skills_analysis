@@ -1,0 +1,25 @@
+#Occupation farm milk controller
+##Number skills 20
+###Similar occupations:
+| occupation                                                      |   skills in this occupation |   skills that match farm milk controller |   percentage match with farm milk controller |   skills not in farm milk controller |
+|:----------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
+| [livestock advisor](livestock_advisor.md)                       |                          25 |                                        9 |                                         0.45 |                                   16 |
+| [horse breeder](horse_breeder.md)                               |                          32 |                                        5 |                                         0.25 |                                   27 |
+| [pig breeder](pig_breeder.md)                                   |                          30 |                                        5 |                                         0.25 |                                   25 |
+| [sheep breeder](sheep_breeder.md)                               |                          30 |                                        4 |                                         0.2  |                                   26 |
+| [bee breeder](bee_breeder.md)                                   |                          27 |                                        4 |                                         0.2  |                                   23 |
+| [fur animals breeder](fur_animals_breeder.md)                   |                          29 |                                        4 |                                         0.2  |                                   25 |
+| [groom](groom.md)                                               |                          26 |                                        4 |                                         0.2  |                                   22 |
+| [equine yard manager](equine_yard_manager.md)                   |                          16 |                                        4 |                                         0.2  |                                   12 |
+| [cattle breeder](cattle_breeder.md)                             |                          30 |                                        4 |                                         0.2  |                                   26 |
+| [animal physiotherapist](animal_physiotherapist.md)             |                          22 |                                        3 |                                         0.15 |                                   19 |
+| [animal therapist](animal_therapist.md)                         |                          20 |                                        3 |                                         0.15 |                                   17 |
+| [animal osteopath](animal_osteopath.md)                         |                          22 |                                        3 |                                         0.15 |                                   19 |
+| [poultry sexer](poultry_sexer.md)                               |                           8 |                                        3 |                                         0.15 |                                    5 |
+| [animal massage therapist](animal_massage_therapist.md)         |                          22 |                                        3 |                                         0.15 |                                   19 |
+| [animal chiropractor](animal_chiropractor.md)                   |                          22 |                                        3 |                                         0.15 |                                   19 |
+| [veterinary nurse](veterinary_nurse.md)                         |                          46 |                                        3 |                                         0.15 |                                   43 |
+| [animal hydrotherapist](animal_hydrotherapist.md)               |                          22 |                                        3 |                                         0.15 |                                   19 |
+| [dog trainer](dog_trainer.md)                                   |                          20 |                                        3 |                                         0.15 |                                   17 |
+| [alternative animal therapist](alternative_animal_therapist.md) |                          22 |                                        3 |                                         0.15 |                                   19 |
+| [animal groomer](animal_groomer.md)                             |                          25 |                                        3 |                                         0.15 |                                   22 |

@@ -1,0 +1,29 @@
+#Occupation database designer
+##Number skills 27
+###Similar occupations:
+| occupation                                                              |   skills in this occupation |   skills that match database designer |   percentage match with database designer |   skills not in database designer |
+|:------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
+| [data warehouse designer](data_warehouse_designer.md)                   |                          26 |                                    25 |                                  0.925926 |                                 1 |
+| [ICT intelligent systems designer](ICT_intelligent_systems_designer.md) |                          22 |                                    15 |                                  0.555556 |                                 7 |
+| [knowledge engineer](knowledge_engineer.md)                             |                          21 |                                    13 |                                  0.481481 |                                 8 |
+| [ICT system architect](ICT_system_architect.md)                         |                          19 |                                    11 |                                  0.407407 |                                 8 |
+| [database administrator](database_administrator.md)                     |                          25 |                                     8 |                                  0.296296 |                                17 |
+| [big data archive librarian](big_data_archive_librarian.md)             |                          20 |                                     7 |                                  0.259259 |                                13 |
+| [data quality specialist](data_quality_specialist.md)                   |                          18 |                                     7 |                                  0.259259 |                                11 |
+| [digital games designer](digital_games_designer.md)                     |                          17 |                                     6 |                                  0.222222 |                                11 |
+| [database developer](database_developer.md)                             |                          18 |                                     5 |                                  0.185185 |                                13 |
+| [data centre operator](data_centre_operator.md)                         |                          15 |                                     5 |                                  0.185185 |                                10 |
+| [software architect](software_architect.md)                             |                          18 |                                     5 |                                  0.185185 |                                13 |
+| [database integrator](database_integrator.md)                           |                          16 |                                     5 |                                  0.185185 |                                11 |
+| [ICT network architect](ICT_network_architect.md)                       |                          21 |                                     5 |                                  0.185185 |                                16 |
+| [bioinformatics scientist](bioinformatics_scientist.md)                 |                          24 |                                     4 |                                  0.148148 |                                20 |
+| [ICT business analysis manager](ICT_business_analysis_manager.md)       |                          19 |                                     4 |                                  0.148148 |                                15 |
+| [user interface designer](user_interface_designer.md)                   |                          25 |                                     4 |                                  0.148148 |                                21 |
+| [ICT business analyst](ICT_business_analyst.md)                         |                          17 |                                     3 |                                  0.111111 |                                14 |
+| [data analyst](data_analyst.md)                                         |                          28 |                                     3 |                                  0.111111 |                                25 |
+| [data scientist](data_scientist.md)                                     |                          23 |                                     3 |                                  0.111111 |                                20 |
+| [web content manager](web_content_manager.md)                           |                          29 |                                     3 |                                  0.111111 |                                26 |
+| [data entry supervisor](data_entry_supervisor.md)                       |                          22 |                                     3 |                                  0.111111 |                                19 |
+| [data entry clerk](data_entry_clerk.md)                                 |                           9 |                                     3 |                                  0.111111 |                                 6 |
+| [ICT product manager](ICT_product_manager.md)                           |                          22 |                                     3 |                                  0.111111 |                                19 |
+| [embedded system designer](embedded_system_designer.md)                 |                          15 |                                     3 |                                  0.111111 |                                12 |

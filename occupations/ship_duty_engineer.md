@@ -1,0 +1,25 @@
+#Occupation ship duty engineer
+##Number skills 25
+###Similar occupations:
+| occupation                                                          |   skills in this occupation |   skills that match ship duty engineer |   percentage match with ship duty engineer |   skills not in ship duty engineer |
+|:--------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
+| [ship assistant engineer](ship_assistant_engineer.md)               |                          26 |                                     14 |                                       0.56 |                                 12 |
+| [engine minder](engine_minder.md)                                   |                          26 |                                     11 |                                       0.44 |                                 15 |
+| [marine mechanic](marine_mechanic.md)                               |                          37 |                                      8 |                                       0.32 |                                 29 |
+| [matrose](matrose.md)                                               |                          60 |                                      5 |                                       0.2  |                                 55 |
+| [ordinary seaman](ordinary_seaman.md)                               |                          25 |                                      4 |                                       0.16 |                                 21 |
+| [marine chief engineer](marine_chief_engineer.md)                   |                          23 |                                      4 |                                       0.16 |                                 19 |
+| [vessel engine tester](vessel_engine_tester.md)                     |                          19 |                                      4 |                                       0.16 |                                 15 |
+| [diesel engine mechanic](diesel_engine_mechanic.md)                 |                          21 |                                      4 |                                       0.16 |                                 17 |
+| [decksman](decksman.md)                                             |                          41 |                                      4 |                                       0.16 |                                 37 |
+| [sailor](sailor.md)                                                 |                          24 |                                      3 |                                       0.12 |                                 21 |
+| [aircraft engine tester](aircraft_engine_tester.md)                 |                          19 |                                      3 |                                       0.12 |                                 16 |
+| [ship planner](ship_planner.md)                                     |                          51 |                                      3 |                                       0.12 |                                 48 |
+| [aerodynamics engineer](aerodynamics_engineer.md)                   |                          25 |                                      3 |                                       0.12 |                                 22 |
+| [rolling stock engine inspector](rolling_stock_engine_inspector.md) |                          21 |                                      3 |                                       0.12 |                                 18 |
+| [rolling stock engine tester](rolling_stock_engine_tester.md)       |                          19 |                                      3 |                                       0.12 |                                 16 |
+| [aircraft engine inspector](aircraft_engine_inspector.md)           |                          20 |                                      3 |                                       0.12 |                                 17 |
+| [motor vehicle engine tester](motor_vehicle_engine_tester.md)       |                          20 |                                      3 |                                       0.12 |                                 17 |
+| [vessel engine inspector](vessel_engine_inspector.md)               |                          19 |                                      3 |                                       0.12 |                                 16 |
+| [helmsman](helmsman.md)                                             |                          51 |                                      3 |                                       0.12 |                                 48 |
+| [motor vehicle engine inspector](motor_vehicle_engine_inspector.md) |                          20 |                                      3 |                                       0.12 |                                 17 |

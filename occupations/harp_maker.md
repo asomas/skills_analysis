@@ -1,0 +1,32 @@
+#Occupation harp maker
+##Number skills 18
+###Similar occupations:
+| occupation                                                                            |   skills in this occupation |   skills that match harp maker |   percentage match with harp maker |   skills not in harp maker |
+|:--------------------------------------------------------------------------------------|----------------------------:|-------------------------------:|-----------------------------------:|---------------------------:|
+| [guitar maker](guitar_maker.md)                                                       |                          20 |                             16 |                           0.888889 |                          4 |
+| [harpsichord maker](harpsichord_maker.md)                                             |                          18 |                             15 |                           0.833333 |                          3 |
+| [violin maker](violin_maker.md)                                                       |                          20 |                             15 |                           0.833333 |                          5 |
+| [piano maker](piano_maker.md)                                                         |                          16 |                             14 |                           0.777778 |                          2 |
+| [organ builder](organ_builder.md)                                                     |                          20 |                             14 |                           0.777778 |                          6 |
+| [stringed musical instrument maker](stringed_musical_instrument_maker.md)             |                          13 |                             12 |                           0.666667 |                          1 |
+| [keyboard musical instrument maker](keyboard_musical_instrument_maker.md)             |                          13 |                             11 |                           0.611111 |                          2 |
+| [idiophone musical instruments maker](idiophone_musical_instruments_maker.md)         |                          12 |                             10 |                           0.555556 |                          2 |
+| [wind musical instrument maker](wind_musical_instrument_maker.md)                     |                          12 |                              9 |                           0.5      |                          3 |
+| [electronic musical instrument maker](electronic_musical_instrument_maker.md)         |                          12 |                              9 |                           0.5      |                          3 |
+| [membranophone musical instruments maker](membranophone_musical_instruments_maker.md) |                          14 |                              9 |                           0.5      |                          5 |
+| [musical instrument technician](musical_instrument_technician.md)                     |                          12 |                              8 |                           0.444444 |                          4 |
+| [furniture restorer](furniture_restorer.md)                                           |                          18 |                              4 |                           0.222222 |                         14 |
+| [frame maker](frame_maker.md)                                                         |                          13 |                              4 |                           0.222222 |                          9 |
+| [antique furniture reproducer](antique_furniture_reproducer.md)                       |                          16 |                              4 |                           0.222222 |                         12 |
+| [brush maker](brush_maker.md)                                                         |                          11 |                              4 |                           0.222222 |                          7 |
+| [cabinet maker](cabinet_maker.md)                                                     |                          20 |                              4 |                           0.222222 |                         16 |
+| [furniture assembler](furniture_assembler.md)                                         |                          14 |                              3 |                           0.166667 |                         11 |
+| [furniture finisher](furniture_finisher.md)                                           |                          16 |                              3 |                           0.166667 |                         13 |
+| [woodcarver](woodcarver.md)                                                           |                          17 |                              3 |                           0.166667 |                         14 |
+| [wood products assembler](wood_products_assembler.md)                                 |                          12 |                              2 |                           0.111111 |                         10 |
+| [carpenter](carpenter.md)                                                             |                          24 |                              2 |                           0.111111 |                         22 |
+| [cooper](cooper.md)                                                                   |                          14 |                              2 |                           0.111111 |                         12 |
+| [hardwood floor layer](hardwood_floor_layer.md)                                       |                          22 |                              2 |                           0.111111 |                         20 |
+| [manufactured wooden building assembler](manufactured_wooden_building_assembler.md)   |                          14 |                              2 |                           0.111111 |                         12 |
+| [instrument technician](instrument_technician.md)                                     |                          27 |                              2 |                           0.111111 |                         25 |
+| [metal furniture machine operator](metal_furniture_machine_operator.md)               |                          19 |                              2 |                           0.111111 |                         17 |

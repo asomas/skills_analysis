@@ -1,0 +1,14 @@
+#Occupation ground lighting officer
+##Number skills 20
+###Similar occupations:
+| occupation                                                                        |   skills in this occupation |   skills that match ground lighting officer |   percentage match with ground lighting officer |   skills not in ground lighting officer |
+|:----------------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
+| [commercial pilot](commercial_pilot.md)                                           |                          41 |                                           4 |                                            0.2  |                                      37 |
+| [airport director](airport_director.md)                                           |                          23 |                                           4 |                                            0.2  |                                      19 |
+| [aircraft cargo operations coordinator](aircraft_cargo_operations_coordinator.md) |                          24 |                                           4 |                                            0.2  |                                      20 |
+| [aircraft dispatcher](aircraft_dispatcher.md)                                     |                          24 |                                           3 |                                            0.15 |                                      21 |
+| [warehouse manager](warehouse_manager.md)                                         |                          41 |                                           3 |                                            0.15 |                                      38 |
+| [road transport division manager](road_transport_division_manager.md)             |                          26 |                                           3 |                                            0.15 |                                      23 |
+| [leather finishing operations manager](leather_finishing_operations_manager.md)   |                          30 |                                           3 |                                            0.15 |                                      27 |
+| [pipeline superintendent](pipeline superintendent.md)                             |                          21 |                                           3 |                                            0.15 |                                      18 |
+| [leather production manager](leather_production_manager.md)                       |                          35 |                                           3 |                                            0.15 |                                      32 |

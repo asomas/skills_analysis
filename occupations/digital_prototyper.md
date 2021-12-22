@@ -1,0 +1,21 @@
+#Occupation digital prototyper
+##Number skills 14
+###Similar occupations:
+| occupation                                                                    |   skills in this occupation |   skills that match digital prototyper |   percentage match with digital prototyper |   skills not in digital prototyper |
+|:------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
+| [clothing sample machinist](clothing_sample_machinist.md)                     |                          24 |                                      8 |                                   0.571429 |                                 16 |
+| [wearing apparel patternmaker](wearing_apparel_patternmaker.md)               |                          21 |                                      8 |                                   0.571429 |                                 13 |
+| [clothing CAD technician](clothing_CAD_technician.md)                         |                          16 |                                      8 |                                   0.571429 |                                  8 |
+| [clothing alteration machinist](clothing_alteration_machinist.md)             |                          26 |                                      7 |                                   0.5      |                                 19 |
+| [clothing product grader](clothing_product_grader.md)                         |                          18 |                                      7 |                                   0.5      |                                 11 |
+| [tailor](tailor.md)                                                           |                          28 |                                      7 |                                   0.5      |                                 21 |
+| [clothing quality inspector](clothing_quality_inspector.md)                   |                          17 |                                      6 |                                   0.428571 |                                 11 |
+| [clothing technologist](clothing_technologist.md)                             |                          21 |                                      5 |                                   0.357143 |                                 16 |
+| [clothing CAD patternmaker](clothing_CAD_patternmaker.md)                     |                           6 |                                      5 |                                   0.357143 |                                  1 |
+| [clothing cutter](clothing_cutter.md)                                         |                          12 |                                      5 |                                   0.357143 |                                  7 |
+| [clothing process control technician](clothing_process_control_technician.md) |                          14 |                                      2 |                                   0.142857 |                                 12 |
+| [dressmaker](dressmaker.md)                                                   |                          16 |                                      2 |                                   0.142857 |                                 14 |
+| [embroiderer](embroiderer.md)                                                 |                           8 |                                      2 |                                   0.142857 |                                  6 |
+| [clothing development manager](clothing_development_manager.md)               |                          14 |                                      2 |                                   0.142857 |                                 12 |
+| [sewing machine operator](sewing_machine_operator.md)                         |                          14 |                                      2 |                                   0.142857 |                                 12 |
+| [wearing apparel presser](wearing_apparel_presser.md)                         |                          10 |                                      2 |                                   0.142857 |                                  8 |

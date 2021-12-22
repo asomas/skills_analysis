@@ -1,0 +1,40 @@
+#Occupation foundry manager
+##Number skills 11
+###Similar occupations:
+| occupation                                                            |   skills in this occupation |   skills that match foundry manager |   percentage match with foundry manager |   skills not in foundry manager |
+|:----------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
+| [metallurgical manager](metallurgical_manager.md)                     |                          13 |                                  11 |                                1        |                               2 |
+| [metal production manager](metal_production_manager.md)               |                          26 |                                   6 |                                0.545455 |                              20 |
+| [mine manager](mine_manager.md)                                       |                          28 |                                   4 |                                0.363636 |                              24 |
+| [chemical plant manager](chemical_plant_manager.md)                   |                          30 |                                   4 |                                0.363636 |                              26 |
+| [pharmaceutical engineer](pharmaceutical_engineer.md)                 |                          28 |                                   3 |                                0.272727 |                              25 |
+| [IT auditor](IT_auditor.md)                                           |                          19 |                                   3 |                                0.272727 |                              16 |
+| [quarry manager](quarry_manager.md)                                   |                          20 |                                   2 |                                0.181818 |                              18 |
+| [process metallurgist](process_metallurgist.md)                       |                          20 |                                   2 |                                0.181818 |                              18 |
+| [substation engineer](substation_engineer.md)                         |                          25 |                                   2 |                                0.181818 |                              23 |
+| [sewerage systems manager](sewerage_systems_manager.md)               |                          21 |                                   2 |                                0.181818 |                              19 |
+| [nuclear engineer](nuclear_engineer.md)                               |                          30 |                                   2 |                                0.181818 |                              28 |
+| [drainage engineer](drainage_engineer.md)                             |                          21 |                                   2 |                                0.181818 |                              19 |
+| [chemical engineering technician](chemical_engineering_technician.md) |                          22 |                                   2 |                                0.181818 |                              20 |
+| [power distribution engineer](power_distribution_engineer.md)         |                          26 |                                   2 |                                0.181818 |                              24 |
+| [welding inspector](welding_inspector.md)                             |                          31 |                                   2 |                                0.181818 |                              29 |
+| [environmental mining engineer](environmental_mining_engineer.md)     |                          23 |                                   2 |                                0.181818 |                              21 |
+| [chemical engineer](chemical_engineer.md)                             |                          13 |                                   2 |                                0.181818 |                              11 |
+| [nanoengineer](nanoengineer.md)                                       |                          17 |                                   2 |                                0.181818 |                              15 |
+| [chemical production manager](chemical_production_manager.md)         |                          35 |                                   2 |                                0.181818 |                              33 |
+| [installation engineer](installation_engineer.md)                     |                          18 |                                   2 |                                0.181818 |                              16 |
+| [biochemical engineer](biochemical_engineer.md)                       |                          31 |                                   2 |                                0.181818 |                              29 |
+| [water engineer](water_engineer.md)                                   |                          24 |                                   2 |                                0.181818 |                              22 |
+| [branch manager](branch_manager.md)                                   |                          48 |                                   2 |                                0.181818 |                              46 |
+| [metal production supervisor](metal_production_supervisor.md)         |                          22 |                                   2 |                                0.181818 |                              20 |
+| [gas production engineer](gas_production_engineer.md)                 |                          22 |                                   2 |                                0.181818 |                              20 |
+| [geochemist](geochemist.md)                                           |                          14 |                                   2 |                                0.181818 |                              12 |
+| [wastewater engineer](wastewater_engineer.md)                         |                          17 |                                   2 |                                0.181818 |                              15 |
+| [oil and gas production manager](oil_and_gas_production_manager.md)   |                          22 |                                   2 |                                0.181818 |                              20 |
+| [business manager](business_manager.md)                               |                          35 |                                   2 |                                0.181818 |                              33 |
+| [corrosion technician](corrosion_technician.md)                       |                          19 |                                   2 |                                0.181818 |                              17 |
+| [commissioning technician](commissioning_technician.md)               |                          22 |                                   2 |                                0.181818 |                              20 |
+| [budget manager](budget_manager.md)                                   |                          29 |                                   2 |                                0.181818 |                              27 |
+| [materials engineer](materials_engineer.md)                           |                          23 |                                   2 |                                0.181818 |                              21 |
+| [quality services manager](quality_services_manager.md)               |                          18 |                                   2 |                                0.181818 |                              16 |
+| [power plant manager](power_plant_manager.md)                         |                          25 |                                   2 |                                0.181818 |                              23 |

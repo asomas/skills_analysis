@@ -1,0 +1,26 @@
+#Occupation promotion manager
+##Number skills 36
+###Similar occupations:
+| occupation                                                              |   skills in this occupation |   skills that match promotion manager |   percentage match with promotion manager |   skills not in promotion manager |
+|:------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
+| [category manager](category_manager.md)                                 |                          47 |                                    27 |                                  0.75     |                                20 |
+| [online community manager](online_community_manager.md)                 |                          47 |                                    27 |                                  0.75     |                                20 |
+| [marketing manager](marketing_manager.md)                               |                          28 |                                    26 |                                  0.722222 |                                 2 |
+| [sales manager](sales_manager.md)                                       |                          40 |                                    25 |                                  0.694444 |                                15 |
+| [chief marketing officer](chief_marketing_officer.md)                   |                          24 |                                    18 |                                  0.5      |                                 6 |
+| [marketeer](marketeer.md)                                               |                          22 |                                     8 |                                  0.222222 |                                14 |
+| [market research analyst](market_research_analyst.md)                   |                          22 |                                     7 |                                  0.194444 |                                15 |
+| [research and development manager](research_and_development_manager.md) |                          20 |                                     6 |                                  0.166667 |                                14 |
+| [communication manager](communication_manager.md)                       |                          25 |                                     6 |                                  0.166667 |                                19 |
+| [advertising manager](advertising_manager.md)                           |                          33 |                                     6 |                                  0.166667 |                                27 |
+| [public relations manager](public_relations_manager.md)                 |                          26 |                                     5 |                                  0.138889 |                                21 |
+| [branch manager](branch_manager.md)                                     |                          48 |                                     5 |                                  0.138889 |                                43 |
+| [public relations officer](public_relations_officer.md)                 |                          23 |                                     5 |                                  0.138889 |                                18 |
+| [business analyst](business_analyst.md)                                 |                          18 |                                     4 |                                  0.111111 |                                14 |
+| [risk manager](risk_manager.md)                                         |                          28 |                                     4 |                                  0.111111 |                                24 |
+| [banking products manager](banking_products_manager.md)                 |                          27 |                                     4 |                                  0.111111 |                                23 |
+| [client relations manager](client_relations_manager.md)                 |                          24 |                                     4 |                                  0.111111 |                                20 |
+| [product development manager](product_development_manager.md)           |                          17 |                                     4 |                                  0.111111 |                                13 |
+| [beauty salon manager](beauty_salon_manager.md)                         |                          44 |                                     4 |                                  0.111111 |                                40 |
+| [business intelligence manager](business_intelligence_manager.md)       |                          29 |                                     4 |                                  0.111111 |                                25 |
+| [bank manager](bank_manager.md)                                         |                          33 |                                     4 |                                  0.111111 |                                29 |

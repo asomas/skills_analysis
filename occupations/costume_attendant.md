@@ -1,0 +1,23 @@
+#Occupation costume attendant
+##Number skills 11
+###Similar occupations:
+| occupation                                                                |   skills in this occupation |   skills that match costume attendant |   percentage match with costume attendant |   skills not in costume attendant |
+|:--------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
+| [make-up artist](make-up_artist.md)                                       |                          27 |                                     4 |                                  0.363636 |                                23 |
+| [hair stylist](hair_stylist.md)                                           |                          16 |                                     4 |                                  0.363636 |                                12 |
+| [dresser](dresser.md)                                                     |                          14 |                                     3 |                                  0.272727 |                                11 |
+| [voice-over artist](voice-over_artist.md)                                 |                          15 |                                     3 |                                  0.272727 |                                12 |
+| [stand-in](stand-in.md)                                                   |                          12 |                                     3 |                                  0.272727 |                                 9 |
+| [sound editor](sound_editor.md)                                           |                          17 |                                     3 |                                  0.272727 |                                14 |
+| [video and motion picture editor](video_and_motion_picture_editor.md)     |                          19 |                                     3 |                                  0.272727 |                                16 |
+| [boom operator](boom_operator.md)                                         |                          16 |                                     3 |                                  0.272727 |                                13 |
+| [camera operator](camera_operator.md)                                     |                          23 |                                     3 |                                  0.272727 |                                20 |
+| [stop-motion animator](stop-motion_animator.md)                           |                          10 |                                     2 |                                  0.181818 |                                 8 |
+| [animator](animator.md)                                                   |                          16 |                                     2 |                                  0.181818 |                                14 |
+| [stunt performer](stunt_performer.md)                                     |                          12 |                                     2 |                                  0.181818 |                                10 |
+| [director of photography](director_of_photography.md)                     |                          20 |                                     2 |                                  0.181818 |                                18 |
+| [animation layout artist](animation_layout_artist.md)                     |                          17 |                                     2 |                                  0.181818 |                                15 |
+| [video and motion picture director](video_and_motion_picture_director.md) |                          20 |                                     2 |                                  0.181818 |                                18 |
+| [storyboard artist](storyboard_artist.md)                                 |                          15 |                                     2 |                                  0.181818 |                                13 |
+| [costume designer](costume_designer.md)                                   |                          41 |                                     2 |                                  0.181818 |                                39 |
+| [special effects artist](special_effects_artist.md)                       |                          16 |                                     2 |                                  0.181818 |                                14 |

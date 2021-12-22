@@ -1,0 +1,13 @@
+#Occupation aquaculture quality supervisor
+##Number skills 20
+###Similar occupations:
+| occupation                                                              |   skills in this occupation |   skills that match aquaculture quality supervisor |   percentage match with aquaculture quality supervisor |   skills not in aquaculture quality supervisor |
+|:------------------------------------------------------------------------|----------------------------:|---------------------------------------------------:|-------------------------------------------------------:|-----------------------------------------------:|
+| [food technologist](food_technologist.md)                               |                          60 |                                                  4 |                                                   0.2  |                                             56 |
+| [food analyst](food_analyst.md)                                         |                          35 |                                                  3 |                                                   0.15 |                                             32 |
+| [food biotechnologist](food_biotechnologist.md)                         |                          39 |                                                  3 |                                                   0.15 |                                             36 |
+| [food regulatory advisor](food_regulatory_advisor.md)                   |                          35 |                                                  3 |                                                   0.15 |                                             32 |
+| [food production manager](food_production_manager.md)                   |                          26 |                                                  3 |                                                   0.15 |                                             23 |
+| [aquaculture husbandry technician](aquaculture_husbandry_technician.md) |                          35 |                                                  3 |                                                   0.15 |                                             32 |
+| [food safety inspector](food_safety_inspector.md)                       |                          39 |                                                  3 |                                                   0.15 |                                             36 |
+| [water treatment systems operator](water_treatment_systems_operator.md) |                          29 |                                                  3 |                                                   0.15 |                                             26 |

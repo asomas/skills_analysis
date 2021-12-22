@@ -1,0 +1,40 @@
+#Occupation stage technician
+##Number skills 43
+###Similar occupations:
+| occupation                                                        |   skills in this occupation |   skills that match stage technician |   percentage match with stage technician |   skills not in stage technician |
+|:------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
+| [lighting technician](lighting_technician.md)                     |                          27 |                                   21 |                                 0.488372 |                                6 |
+| [scenery technician](scenery_technician.md)                       |                          20 |                                   20 |                                 0.465116 |                                0 |
+| [intelligent lighting engineer](intelligent_lighting_engineer.md) |                          19 |                                   18 |                                 0.418605 |                                1 |
+| [audio production technician](audio_production_technician.md)     |                          25 |                                   18 |                                 0.418605 |                                7 |
+| [stage machinist](stage_machinist.md)                             |                          32 |                                   17 |                                 0.395349 |                               15 |
+| [theatre technician](theatre_technician.md)                       |                          23 |                                   17 |                                 0.395349 |                                6 |
+| [video technician](video_technician.md)                           |                          17 |                                   14 |                                 0.325581 |                                3 |
+| [light board operator](light_board_operator.md)                   |                          29 |                                   14 |                                 0.325581 |                               15 |
+| [stagehand](stagehand.md)                                         |                          13 |                                   13 |                                 0.302326 |                                0 |
+| [set builder](set_builder.md)                                     |                          22 |                                   12 |                                 0.27907  |                               10 |
+| [automated fly bar operator](automated_fly_bar_operator.md)       |                          33 |                                   12 |                                 0.27907  |                               21 |
+| [video operator](video_operator.md)                               |                          30 |                                   11 |                                 0.255814 |                               19 |
+| [prop master/prop mistress](prop_master-prop_mistress.md)         |                          26 |                                   11 |                                 0.255814 |                               15 |
+| [prop maker](prop_maker.md)                                       |                          24 |                                   11 |                                 0.255814 |                               13 |
+| [followspot operator](followspot_operator.md)                     |                          18 |                                   10 |                                 0.232558 |                                8 |
+| [sound operator](sound_operator.md)                               |                          36 |                                   10 |                                 0.232558 |                               26 |
+| [high rigger](high_rigger.md)                                     |                          22 |                                   10 |                                 0.232558 |                               12 |
+| [instrument technician](instrument_technician.md)                 |                          27 |                                   10 |                                 0.232558 |                               17 |
+| [scenic painter](scenic_painter.md)                               |                          22 |                                   10 |                                 0.232558 |                               12 |
+| [costume maker](costume_maker.md)                                 |                          28 |                                    9 |                                 0.209302 |                               19 |
+| [mask maker](mask_maker.md)                                       |                          14 |                                    9 |                                 0.209302 |                                5 |
+| [wig and hairpiece maker](wig_and_hairpiece_maker.md)             |                          17 |                                    8 |                                 0.186047 |                                9 |
+| [tent installer](tent_installer.md)                               |                          13 |                                    8 |                                 0.186047 |                                5 |
+| [head of workshop](head_of_workshop.md)                           |                          28 |                                    8 |                                 0.186047 |                               20 |
+| [dresser](dresser.md)                                             |                          14 |                                    8 |                                 0.186047 |                                6 |
+| [stage manager](stage_manager.md)                                 |                          27 |                                    8 |                                 0.186047 |                               19 |
+| [lighting designer](lighting_designer.md)                         |                          30 |                                    7 |                                 0.162791 |                               23 |
+| [ground rigger](ground_rigger.md)                                 |                          12 |                                    7 |                                 0.162791 |                                5 |
+| [performance hairdresser](performance_hairdresser.md)             |                          14 |                                    6 |                                 0.139535 |                                8 |
+| [make-up artist](make-up_artist.md)                               |                          27 |                                    6 |                                 0.139535 |                               21 |
+| [pyrotechnician](pyrotechnician.md)                               |                          23 |                                    6 |                                 0.139535 |                               17 |
+| [event scaffolder](event_scaffolder.md)                           |                          15 |                                    6 |                                 0.139535 |                                9 |
+| [pyrotechnic designer](pyrotechnic_designer.md)                   |                          26 |                                    5 |                                 0.116279 |                               21 |
+| [set designer](set_designer.md)                                   |                          32 |                                    5 |                                 0.116279 |                               27 |
+| [recording studio technician](recording_studio_technician.md)     |                          21 |                                    5 |                                 0.116279 |                               16 |

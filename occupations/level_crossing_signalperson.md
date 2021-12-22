@@ -1,0 +1,12 @@
+#Occupation level crossing signalperson
+##Number skills 24
+###Similar occupations:
+| occupation                                                                  |   skills in this occupation |   skills that match level crossing signalperson |   percentage match with level crossing signalperson |   skills not in level crossing signalperson |
+|:----------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
+| [rail switchperson](rail_switchperson.md)                                   |                          19 |                                               8 |                                            0.333333 |                                          11 |
+| [shunter](shunter.md)                                                       |                          33 |                                               6 |                                            0.25     |                                          27 |
+| [rail traffic controller](rail_traffic_controller.md)                       |                          19 |                                               5 |                                            0.208333 |                                          14 |
+| [railway electronic technician](railway_electronic_technician.md)           |                          23 |                                               5 |                                            0.208333 |                                          18 |
+| [forklift operator](forklift_operator.md)                                   |                          32 |                                               3 |                                            0.125    |                                          29 |
+| [automated cable vehicle controller](automated_cable_vehicle_controller.md) |                           8 |                                               3 |                                            0.125    |                                           5 |
+| [rail operations manager](rail_operations_manager.md)                       |                          18 |                                               3 |                                            0.125    |                                          15 |

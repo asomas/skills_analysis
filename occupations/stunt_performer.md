@@ -1,0 +1,31 @@
+#Occupation stunt performer
+##Number skills 12
+###Similar occupations:
+| occupation                                                                |   skills in this occupation |   skills that match stunt performer |   percentage match with stunt performer |   skills not in stunt performer |
+|:--------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
+| [stand-in](stand-in.md)                                                   |                          12 |                                   8 |                                0.666667 |                               4 |
+| [voice-over artist](voice-over_artist.md)                                 |                          15 |                                   6 |                                0.5      |                               9 |
+| [camera operator](camera_operator.md)                                     |                          23 |                                   5 |                                0.416667 |                              18 |
+| [boom operator](boom_operator.md)                                         |                          16 |                                   4 |                                0.333333 |                              12 |
+| [director of photography](director_of_photography.md)                     |                          20 |                                   3 |                                0.25     |                              17 |
+| [actor/actress](actor-actress.md)                                         |                          23 |                                   3 |                                0.25     |                              20 |
+| [cartoonist](cartoonist.md)                                               |                          17 |                                   3 |                                0.25     |                              14 |
+| [special effects artist](special_effects_artist.md)                       |                          16 |                                   3 |                                0.25     |                              13 |
+| [animation layout artist](animation_layout_artist.md)                     |                          17 |                                   3 |                                0.25     |                              14 |
+| [video and motion picture director](video_and_motion_picture_director.md) |                          20 |                                   3 |                                0.25     |                              17 |
+| [extra](extra.md)                                                         |                           6 |                                   3 |                                0.25     |                               3 |
+| [storyboard artist](storyboard_artist.md)                                 |                          15 |                                   3 |                                0.25     |                              12 |
+| [animator](animator.md)                                                   |                          16 |                                   3 |                                0.25     |                              13 |
+| [stop-motion animator](stop-motion_animator.md)                           |                          10 |                                   3 |                                0.25     |                               7 |
+| [presenter](presenter.md)                                                 |                          19 |                                   2 |                                0.166667 |                              17 |
+| [desktop publisher](desktop_publisher.md)                                 |                          17 |                                   2 |                                0.166667 |                              15 |
+| [sound editor](sound_editor.md)                                           |                          17 |                                   2 |                                0.166667 |                              15 |
+| [hair stylist](hair_stylist.md)                                           |                          16 |                                   2 |                                0.166667 |                              14 |
+| [video and motion picture editor](video_and_motion_picture_editor.md)     |                          19 |                                   2 |                                0.166667 |                              17 |
+| [make-up artist](make-up_artist.md)                                       |                          27 |                                   2 |                                0.166667 |                              25 |
+| [animation director](animation_director.md)                               |                          15 |                                   2 |                                0.166667 |                              13 |
+| [fashion model](fashion_model.md)                                         |                          11 |                                   2 |                                0.166667 |                               9 |
+| [art model](art_model.md)                                                 |                          14 |                                   2 |                                0.166667 |                              12 |
+| [costume attendant](costume_attendant.md)                                 |                          11 |                                   2 |                                0.166667 |                               9 |
+| [audio describer](audio_describer.md)                                     |                          19 |                                   2 |                                0.166667 |                              17 |
+| [prompter](prompter.md)                                                   |                          16 |                                   2 |                                0.166667 |                              14 |

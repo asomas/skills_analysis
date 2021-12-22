@@ -1,0 +1,14 @@
+#Occupation ICT disaster recovery analyst
+##Number skills 20
+###Similar occupations:
+| occupation                                                  |   skills in this occupation |   skills that match ICT disaster recovery analyst |   percentage match with ICT disaster recovery analyst |   skills not in ICT disaster recovery analyst |
+|:------------------------------------------------------------|----------------------------:|--------------------------------------------------:|------------------------------------------------------:|----------------------------------------------:|
+| [ICT resilience manager](ICT_resilience_manager.md)         |                          19 |                                                 8 |                                                  0.4  |                                            11 |
+| [ICT security consultant](ICT_security_consultant.md)       |                          24 |                                                 5 |                                                  0.25 |                                            19 |
+| [ICT security manager](ICT_security_manager.md)             |                          20 |                                                 5 |                                                  0.25 |                                            15 |
+| [database administrator](database_administrator.md)         |                          25 |                                                 3 |                                                  0.15 |                                            22 |
+| [mobile devices technician](mobile_devices_technician.md)   |                          16 |                                                 3 |                                                  0.15 |                                            13 |
+| [ICT security administrator](ICT_security_administrator.md) |                          19 |                                                 3 |                                                  0.15 |                                            16 |
+| [digital forensics expert](digital_forensics_expert.md)     |                          20 |                                                 3 |                                                  0.15 |                                            17 |
+| [ICT system administrator](ICT_system_administrator.md)     |                          23 |                                                 3 |                                                  0.15 |                                            20 |
+| [chief ICT security officer](chief_ICT_security_officer.md) |                          19 |                                                 3 |                                                  0.15 |                                            16 |

@@ -1,0 +1,17 @@
+#Occupation decontamination worker
+##Number skills 15
+###Similar occupations:
+| occupation                                                            |   skills in this occupation |   skills that match decontamination worker |   percentage match with decontamination worker |   skills not in decontamination worker |
+|:----------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
+| [asbestos abatement worker](asbestos_abatement_worker.md)             |                          11 |                                          9 |                                       0.6      |                                      2 |
+| [hazardous waste technician](hazardous_waste_technician.md)           |                          17 |                                          7 |                                       0.466667 |                                     10 |
+| [nuclear technician](nuclear_technician.md)                           |                          30 |                                          5 |                                       0.333333 |                                     25 |
+| [radiation protection technician](radiation_protection_technician.md) |                          17 |                                          5 |                                       0.333333 |                                     12 |
+| [building exterior cleaner](building_exterior_cleaner.md)             |                          12 |                                          4 |                                       0.266667 |                                      8 |
+| [nuclear reactor operator](nuclear_reactor_operator.md)               |                          24 |                                          4 |                                       0.266667 |                                     20 |
+| [nuclear engineer](nuclear_engineer.md)                               |                          30 |                                          3 |                                       0.2      |                                     27 |
+| [material testing technician](material_testing_technician.md)         |                          10 |                                          2 |                                       0.133333 |                                      8 |
+| [industrial firefighter](industrial_firefighter.md)                   |                          29 |                                          2 |                                       0.133333 |                                     27 |
+| [hazardous materials inspector](hazardous_materials_inspector.md)     |                          17 |                                          2 |                                       0.133333 |                                     15 |
+| [radiation protection officer](radiation_protection_officer.md)       |                          22 |                                          2 |                                       0.133333 |                                     20 |
+| [chemical processing supervisor](chemical_processing_supervisor.md)   |                          21 |                                          2 |                                       0.133333 |                                     19 |

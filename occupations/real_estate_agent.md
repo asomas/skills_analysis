@@ -1,0 +1,29 @@
+#Occupation real estate agent
+##Number skills 20
+###Similar occupations:
+| occupation                                                              |   skills in this occupation |   skills that match real estate agent |   percentage match with real estate agent |   skills not in real estate agent |
+|:------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
+| [letting agent](letting_agent.md)                                       |                          17 |                                     9 |                                      0.45 |                                 8 |
+| [property acquisitions manager](property_acquisitions_manager.md)       |                          25 |                                     8 |                                      0.4  |                                17 |
+| [real estate surveyor](real_estate_surveyor.md)                         |                          11 |                                     7 |                                      0.35 |                                 4 |
+| [property appraiser](property_appraiser.md)                             |                          15 |                                     7 |                                      0.35 |                                 8 |
+| [property assistant](property_assistant.md)                             |                          19 |                                     6 |                                      0.3  |                                13 |
+| [real estate manager](real_estate_manager.md)                           |                          32 |                                     6 |                                      0.3  |                                26 |
+| [real estate leasing manager](real_estate_leasing_manager.md)           |                          24 |                                     6 |                                      0.3  |                                18 |
+| [real estate investor](real_estate_investor.md)                         |                          14 |                                     6 |                                      0.3  |                                 8 |
+| [property developer](property_developer.md)                             |                          20 |                                     5 |                                      0.25 |                                15 |
+| [relationship banking manager](relationship_banking_manager.md)         |                          25 |                                     5 |                                      0.25 |                                20 |
+| [relocation officer](relocation_officer.md)                             |                          14 |                                     4 |                                      0.2  |                                10 |
+| [talent agent](talent_agent.md)                                         |                          13 |                                     4 |                                      0.2  |                                 9 |
+| [title closer](title_closer.md)                                         |                          15 |                                     4 |                                      0.2  |                                11 |
+| [housing manager](housing_manager.md)                                   |                          28 |                                     4 |                                      0.2  |                                24 |
+| [foreclosure specialist](foreclosure_specialist.md)                     |                          15 |                                     4 |                                      0.2  |                                11 |
+| [ICT buyer](ICT_buyer.md)                                               |                          20 |                                     3 |                                      0.15 |                                17 |
+| [laundry and dry cleaning manager](laundry_and_dry_cleaning_manager.md) |                          28 |                                     3 |                                      0.15 |                                25 |
+| [financial planner](financial_planner.md)                               |                          23 |                                     3 |                                      0.15 |                                20 |
+| [garage manager](garage_manager.md)                                     |                          26 |                                     3 |                                      0.15 |                                23 |
+| [construction general contractor](construction_general_contractor.md)   |                          17 |                                     3 |                                      0.15 |                                14 |
+| [sales account manager](sales_account_manager.md)                       |                          21 |                                     3 |                                      0.15 |                                18 |
+| [ICT vendor relationship manager](ICT_vendor_relationship_manager.md)   |                          19 |                                     3 |                                      0.15 |                                16 |
+| [mortgage loan underwriter](mortgage_loan_underwriter.md)               |                          12 |                                     3 |                                      0.15 |                                 9 |
+| [mortgage broker](mortgage_broker.md)                                   |                          22 |                                     3 |                                      0.15 |                                19 |

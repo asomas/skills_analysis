@@ -1,0 +1,30 @@
+#Occupation violin maker
+##Number skills 20
+###Similar occupations:
+| occupation                                                                            |   skills in this occupation |   skills that match violin maker |   percentage match with violin maker |   skills not in violin maker |
+|:--------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
+| [guitar maker](guitar_maker.md)                                                       |                          20 |                               16 |                                 0.8  |                            4 |
+| [harp maker](harp_maker.md)                                                           |                          18 |                               15 |                                 0.75 |                            3 |
+| [harpsichord maker](harpsichord_maker.md)                                             |                          18 |                               14 |                                 0.7  |                            4 |
+| [piano maker](piano_maker.md)                                                         |                          16 |                               13 |                                 0.65 |                            3 |
+| [organ builder](organ_builder.md)                                                     |                          20 |                               13 |                                 0.65 |                            7 |
+| [stringed musical instrument maker](stringed_musical_instrument_maker.md)             |                          13 |                               11 |                                 0.55 |                            2 |
+| [keyboard musical instrument maker](keyboard_musical_instrument_maker.md)             |                          13 |                               10 |                                 0.5  |                            3 |
+| [membranophone musical instruments maker](membranophone_musical_instruments_maker.md) |                          14 |                                9 |                                 0.45 |                            5 |
+| [wind musical instrument maker](wind_musical_instrument_maker.md)                     |                          12 |                                9 |                                 0.45 |                            3 |
+| [electronic musical instrument maker](electronic_musical_instrument_maker.md)         |                          12 |                                9 |                                 0.45 |                            3 |
+| [idiophone musical instruments maker](idiophone_musical_instruments_maker.md)         |                          12 |                                9 |                                 0.45 |                            3 |
+| [musical instrument technician](musical_instrument_technician.md)                     |                          12 |                                7 |                                 0.35 |                            5 |
+| [antique furniture reproducer](antique_furniture_reproducer.md)                       |                          16 |                                5 |                                 0.25 |                           11 |
+| [frame maker](frame_maker.md)                                                         |                          13 |                                5 |                                 0.25 |                            8 |
+| [cabinet maker](cabinet_maker.md)                                                     |                          20 |                                5 |                                 0.25 |                           15 |
+| [furniture restorer](furniture_restorer.md)                                           |                          18 |                                5 |                                 0.25 |                           13 |
+| [brush maker](brush_maker.md)                                                         |                          11 |                                4 |                                 0.2  |                            7 |
+| [woodcarver](woodcarver.md)                                                           |                          17 |                                4 |                                 0.2  |                           13 |
+| [furniture finisher](furniture_finisher.md)                                           |                          16 |                                3 |                                 0.15 |                           13 |
+| [manufactured wooden building assembler](manufactured_wooden_building_assembler.md)   |                          14 |                                3 |                                 0.15 |                           11 |
+| [carpenter](carpenter.md)                                                             |                          24 |                                3 |                                 0.15 |                           21 |
+| [furniture assembler](furniture_assembler.md)                                         |                          14 |                                3 |                                 0.15 |                           11 |
+| [hardwood floor layer](hardwood_floor_layer.md)                                       |                          22 |                                3 |                                 0.15 |                           19 |
+| [cooper](cooper.md)                                                                   |                          14 |                                3 |                                 0.15 |                           11 |
+| [wood products assembler](wood_products_assembler.md)                                 |                          12 |                                3 |                                 0.15 |                            9 |

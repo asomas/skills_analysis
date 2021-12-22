@@ -1,0 +1,29 @@
+#Occupation drilling engineer
+##Number skills 22
+###Similar occupations:
+| occupation                                                            |   skills in this occupation |   skills that match drilling engineer |   percentage match with drilling engineer |   skills not in drilling engineer |
+|:----------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
+| [petroleum engineer](petroleum_engineer.md)                           |                          25 |                                     6 |                                  0.272727 |                                19 |
+| [mineral processing engineer](mineral_processing_engineer.md)         |                          13 |                                     6 |                                  0.272727 |                                 7 |
+| [environmental mining engineer](environmental_mining_engineer.md)     |                          23 |                                     6 |                                  0.272727 |                                17 |
+| [mine planning engineer](mine_planning_engineer.md)                   |                          14 |                                     5 |                                  0.227273 |                                 9 |
+| [geochemist](geochemist.md)                                           |                          14 |                                     5 |                                  0.227273 |                                 9 |
+| [mine development engineer](mine_development_engineer.md)             |                          25 |                                     5 |                                  0.227273 |                                20 |
+| [mine mechanical engineer](mine_mechanical_engineer.md)               |                          20 |                                     5 |                                  0.227273 |                                15 |
+| [mine health and safety engineer](mine_health_and_safety_engineer.md) |                          14 |                                     5 |                                  0.227273 |                                 9 |
+| [mine ventilation engineer](mine_ventilation_engineer.md)             |                          13 |                                     5 |                                  0.227273 |                                 8 |
+| [mine electrical engineer](mine_electrical_engineer.md)               |                          20 |                                     5 |                                  0.227273 |                                15 |
+| [mining geotechnical engineer](mining_geotechnical_engineer.md)       |                          12 |                                     5 |                                  0.227273 |                                 7 |
+| [oil and gas production manager](oil_and_gas_production_manager.md)   |                          22 |                                     4 |                                  0.181818 |                                18 |
+| [hydrogeologist](hydrogeologist.md)                                   |                          14 |                                     4 |                                  0.181818 |                                10 |
+| [mine geologist](mine_geologist.md)                                   |                          14 |                                     4 |                                  0.181818 |                                10 |
+| [liquid fuel engineer](liquid_fuel_engineer.md)                       |                          28 |                                     4 |                                  0.181818 |                                24 |
+| [process metallurgist](process_metallurgist.md)                       |                          20 |                                     4 |                                  0.181818 |                                16 |
+| [geotechnician](geotechnician.md)                                     |                          10 |                                     4 |                                  0.181818 |                                 6 |
+| [explosives engineer](explosives_engineer.md)                         |                          16 |                                     4 |                                  0.181818 |                                12 |
+| [mine surveyor](mine_surveyor.md)                                     |                          17 |                                     3 |                                  0.136364 |                                14 |
+| [refinery shift manager](refinery_shift_manager.md)                   |                          15 |                                     3 |                                  0.136364 |                                12 |
+| [geophysicist](geophysicist.md)                                       |                           9 |                                     3 |                                  0.136364 |                                 6 |
+| [mine manager](mine_manager.md)                                       |                          28 |                                     3 |                                  0.136364 |                                25 |
+| [mine production manager](mine_production_manager.md)                 |                          23 |                                     3 |                                  0.136364 |                                20 |
+| [mine shift manager](mine_shift_manager.md)                           |                          14 |                                     3 |                                  0.136364 |                                11 |

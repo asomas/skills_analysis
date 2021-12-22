@@ -1,0 +1,16 @@
+#Occupation horticulture worker
+##Number skills 16
+###Similar occupations:
+| occupation                                                                        |   skills in this occupation |   skills that match horticulture worker |   percentage match with horticulture worker |   skills not in horticulture worker |
+|:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
+| [horticulture production team leader](horticulture_production_team_leader.md)     |                          42 |                                      13 |                                      0.8125 |                                  29 |
+| [hop farmer](hop_farmer.md)                                                       |                          23 |                                      13 |                                      0.8125 |                                  10 |
+| [agronomic crop production team leader](agronomic_crop_production_team_leader.md) |                          33 |                                      11 |                                      0.6875 |                                  22 |
+| [horticulture production manager](horticulture_production_manager.md)             |                          43 |                                      10 |                                      0.625  |                                  33 |
+| [crop production worker](crop_production_worker.md)                               |                          13 |                                      10 |                                      0.625  |                                   3 |
+| [fruit production team leader](fruit_production_team_leader.md)                   |                          42 |                                       9 |                                      0.5625 |                                  33 |
+| [landscape gardener](landscape_gardener.md)                                       |                          33 |                                       7 |                                      0.4375 |                                  26 |
+| [garden labourer](garden_labourer.md)                                             |                          26 |                                       7 |                                      0.4375 |                                  19 |
+| [crop production manager](crop_production_manager.md)                             |                          26 |                                       5 |                                      0.3125 |                                  21 |
+| [fruit and vegetable picker](fruit_and_vegetable_picker.md)                       |                           7 |                                       3 |                                      0.1875 |                                   4 |
+| [groundsman/groundswoman](groundsman-groundswoman.md)                             |                          32 |                                       2 |                                      0.125  |                                  30 |

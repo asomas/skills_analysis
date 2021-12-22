@@ -1,0 +1,23 @@
+#Occupation aircraft groomer
+##Number skills 10
+###Similar occupations:
+| occupation                                                                    |   skills in this occupation |   skills that match aircraft groomer |   percentage match with aircraft groomer |   skills not in aircraft groomer |
+|:------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
+| [dairy products manufacturing worker](dairy_products_manufacturing_worker.md) |                          27 |                                    3 |                                      0.3 |                               24 |
+| [oilseed presser](oilseed_presser.md)                                         |                          21 |                                    2 |                                      0.2 |                               19 |
+| [refining machine operator](refining_machine_operator.md)                     |                          22 |                                    2 |                                      0.2 |                               20 |
+| [tram controller](tram_controller.md)                                         |                          21 |                                    2 |                                      0.2 |                               19 |
+| [airport baggage handler](airport_baggage_handler.md)                         |                          15 |                                    2 |                                      0.2 |                               13 |
+| [food analyst](food_analyst.md)                                               |                          35 |                                    2 |                                      0.2 |                               33 |
+| [dairy processing operator](dairy_processing_operator.md)                     |                          27 |                                    2 |                                      0.2 |                               25 |
+| [airport director](airport_director.md)                                       |                          23 |                                    2 |                                      0.2 |                               21 |
+| [blanching operator](blanching_operator.md)                                   |                          22 |                                    2 |                                      0.2 |                               20 |
+| [ordinary seaman](ordinary_seaman.md)                                         |                          25 |                                    2 |                                      0.2 |                               23 |
+| [air traffic controller](air_traffic_controller.md)                           |                          33 |                                    2 |                                      0.2 |                               31 |
+| [candy machine operator](candy_machine_operator.md)                           |                          18 |                                    2 |                                      0.2 |                               16 |
+| [second officer](second_officer.md)                                           |                          28 |                                    2 |                                      0.2 |                               26 |
+| [cigarette making machine operator](cigarette_making_machine_operator.md)     |                          47 |                                    2 |                                      0.2 |                               45 |
+| [centrifuge operator](centrifuge_operator.md)                                 |                          20 |                                    2 |                                      0.2 |                               18 |
+| [starch extraction operator](starch_extraction_operator.md)                   |                          25 |                                    2 |                                      0.2 |                               23 |
+| [warehouse worker](warehouse_worker.md)                                       |                          39 |                                    2 |                                      0.2 |                               37 |
+| [dryer attendant](dryer_attendant.md)                                         |                          30 |                                    2 |                                      0.2 |                               28 |

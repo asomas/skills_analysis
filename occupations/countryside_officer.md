@@ -1,0 +1,18 @@
+#Occupation countryside officer
+##Number skills 31
+###Similar occupations:
+| occupation                                                                        |   skills in this occupation |   skills that match countryside officer |   percentage match with countryside officer |   skills not in countryside officer |
+|:----------------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
+| [landscape gardener](landscape_gardener.md)                                       |                          33 |                                      11 |                                    0.354839 |                                  22 |
+| [groundsman/groundswoman](groundsman-groundswoman.md)                             |                          32 |                                       9 |                                    0.290323 |                                  23 |
+| [horticulture production manager](horticulture_production_manager.md)             |                          43 |                                       8 |                                    0.258065 |                                  35 |
+| [horticulture production team leader](horticulture_production_team_leader.md)     |                          42 |                                       7 |                                    0.225806 |                                  35 |
+| [agronomic crop production team leader](agronomic_crop_production_team_leader.md) |                          33 |                                       7 |                                    0.225806 |                                  26 |
+| [crop production manager](crop_production_manager.md)                             |                          26 |                                       7 |                                    0.225806 |                                  19 |
+| [fruit production team leader](fruit_production_team_leader.md)                   |                          42 |                                       6 |                                    0.193548 |                                  36 |
+| [interior landscaper](interior_landscaper.md)                                     |                          19 |                                       5 |                                    0.16129  |                                  14 |
+| [forest worker](forest_worker.md)                                                 |                          23 |                                       5 |                                    0.16129  |                                  18 |
+| [garden labourer](garden_labourer.md)                                             |                          26 |                                       5 |                                    0.16129  |                                  21 |
+| [vineyard machinery operator](vineyard_machinery_operator.md)                     |                          12 |                                       4 |                                    0.129032 |                                   8 |
+| [landscape designer](landscape_designer.md)                                       |                          20 |                                       4 |                                    0.129032 |                                  16 |
+| [arboriculturist](arboriculturist.md)                                             |                          25 |                                       4 |                                    0.129032 |                                  21 |

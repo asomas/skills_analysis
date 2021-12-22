@@ -1,0 +1,18 @@
+#Occupation green ICT consultant
+##Number skills 11
+###Similar occupations:
+| occupation                                                                    |   skills in this occupation |   skills that match green ICT consultant |   percentage match with green ICT consultant |   skills not in green ICT consultant |
+|:------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
+| [ICT consultant](ICT_consultant.md)                                           |                          20 |                                        4 |                                     0.363636 |                                   16 |
+| [ICT system integration consultant](ICT_system_integration_consultant.md)     |                          17 |                                        4 |                                     0.363636 |                                   13 |
+| [environmental protection manager](environmental_protection_manager.md)       |                          24 |                                        3 |                                     0.272727 |                                   21 |
+| [environmental programme coordinator](environmental_programme_coordinator.md) |                          13 |                                        3 |                                     0.272727 |                                   10 |
+| [environmental policy officer](environmental_policy_officer.md)               |                          15 |                                        3 |                                     0.272727 |                                   12 |
+| [embedded system designer](embedded_system_designer.md)                       |                          15 |                                        2 |                                     0.181818 |                                   13 |
+| [ICT product manager](ICT_product_manager.md)                                 |                          22 |                                        2 |                                     0.181818 |                                   20 |
+| [nature conservation officer](nature_conservation_officer.md)                 |                          20 |                                        2 |                                     0.181818 |                                   18 |
+| [hunter](hunter.md)                                                           |                          26 |                                        2 |                                     0.181818 |                                   24 |
+| [ICT security consultant](ICT_security_consultant.md)                         |                          24 |                                        2 |                                     0.181818 |                                   22 |
+| [recycling specialist](recycling_specialist.md)                               |                          22 |                                        2 |                                     0.181818 |                                   20 |
+| [rail project engineer](rail_project_engineer.md)                             |                          30 |                                        2 |                                     0.181818 |                                   28 |
+| [ICT business analysis manager](ICT_business_analysis_manager.md)             |                          19 |                                        2 |                                     0.181818 |                                   17 |

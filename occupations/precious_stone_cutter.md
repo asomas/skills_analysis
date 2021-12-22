@@ -1,0 +1,17 @@
+#Occupation precious stone cutter
+##Number skills 14
+###Similar occupations:
+| occupation                                                                  |   skills in this occupation |   skills that match precious stone cutter |   percentage match with precious stone cutter |   skills not in precious stone cutter |
+|:----------------------------------------------------------------------------|----------------------------:|------------------------------------------:|----------------------------------------------:|--------------------------------------:|
+| [precious stone setter](precious_stone_setter.md)                           |                          13 |                                        10 |                                      0.714286 |                                     3 |
+| [jewellery designer](jewellery_designer.md)                                 |                          26 |                                         6 |                                      0.428571 |                                    20 |
+| [jewellery polisher](jewellery_polisher.md)                                 |                           9 |                                         5 |                                      0.357143 |                                     4 |
+| [filigree maker](filigree_maker.md)                                         |                          19 |                                         4 |                                      0.285714 |                                    15 |
+| [jeweller](jeweller.md)                                                     |                          13 |                                         4 |                                      0.285714 |                                     9 |
+| [gemmologist](gemmologist.md)                                               |                          11 |                                         3 |                                      0.214286 |                                     8 |
+| [jewellery assembler](jewellery_assembler.md)                               |                          12 |                                         3 |                                      0.214286 |                                     9 |
+| [jewellery mounter](jewellery_mounter.md)                                   |                          12 |                                         3 |                                      0.214286 |                                     9 |
+| [silversmith](silversmith.md)                                               |                          16 |                                         2 |                                      0.142857 |                                    14 |
+| [jewellery and watches shop manager](jewellery_and_watches_shop_manager.md) |                          37 |                                         2 |                                      0.142857 |                                    35 |
+| [jewellery repairer](jewellery_repairer.md)                                 |                          15 |                                         2 |                                      0.142857 |                                    13 |
+| [goldsmith](goldsmith.md)                                                   |                          16 |                                         2 |                                      0.142857 |                                    14 |

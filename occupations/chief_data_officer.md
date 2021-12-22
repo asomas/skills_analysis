@@ -1,0 +1,19 @@
+#Occupation chief data officer
+##Number skills 12
+###Similar occupations:
+| occupation                                                                        |   skills in this occupation |   skills that match chief data officer |   percentage match with chief data officer |   skills not in chief data officer |
+|:----------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
+| [ICT information and knowledge manager](ICT_information_and_knowledge_manager.md) |                          24 |                                      6 |                                   0.5      |                                 18 |
+| [data analyst](data_analyst.md)                                                   |                          28 |                                      5 |                                   0.416667 |                                 23 |
+| [chief information officer](chief_information_officer.md)                         |                          22 |                                      3 |                                   0.25     |                                 19 |
+| [data quality specialist](data_quality_specialist.md)                             |                          18 |                                      3 |                                   0.25     |                                 15 |
+| [ICT business analysis manager](ICT_business_analysis_manager.md)                 |                          19 |                                      2 |                                   0.166667 |                                 17 |
+| [chief ICT security officer](chief_ICT_security_officer.md)                       |                          19 |                                      2 |                                   0.166667 |                                 17 |
+| [big data archive librarian](big_data_archive_librarian.md)                       |                          20 |                                      2 |                                   0.166667 |                                 18 |
+| [database administrator](database_administrator.md)                               |                          25 |                                      2 |                                   0.166667 |                                 23 |
+| [data scientist](data_scientist.md)                                               |                          23 |                                      2 |                                   0.166667 |                                 21 |
+| [database integrator](database_integrator.md)                                     |                          16 |                                      2 |                                   0.166667 |                                 14 |
+| [chief technology officer](chief_technology_officer.md)                           |                          20 |                                      2 |                                   0.166667 |                                 18 |
+| [database developer](database_developer.md)                                       |                          18 |                                      2 |                                   0.166667 |                                 16 |
+| [ICT business development manager](ICT_business_development_manager.md)           |                          16 |                                      2 |                                   0.166667 |                                 14 |
+| [software manager](software_manager.md)                                           |                          20 |                                      2 |                                   0.166667 |                                 18 |

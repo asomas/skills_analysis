@@ -1,0 +1,16 @@
+#Occupation asbestos abatement worker
+##Number skills 11
+###Similar occupations:
+| occupation                                                            |   skills in this occupation |   skills that match asbestos abatement worker |   percentage match with asbestos abatement worker |   skills not in asbestos abatement worker |
+|:----------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
+| [decontamination worker](decontamination_worker.md)                   |                          15 |                                             9 |                                          0.818182 |                                         6 |
+| [hazardous waste technician](hazardous_waste_technician.md)           |                          17 |                                             6 |                                          0.545455 |                                        11 |
+| [building exterior cleaner](building_exterior_cleaner.md)             |                          12 |                                             4 |                                          0.363636 |                                         8 |
+| [nuclear technician](nuclear_technician.md)                           |                          30 |                                             4 |                                          0.363636 |                                        26 |
+| [radiation protection technician](radiation_protection_technician.md) |                          17 |                                             2 |                                          0.181818 |                                        15 |
+| [nuclear reactor operator](nuclear_reactor_operator.md)               |                          24 |                                             2 |                                          0.181818 |                                        22 |
+| [recycling worker](recycling_worker.md)                               |                          13 |                                             2 |                                          0.181818 |                                        11 |
+| [coagulation operator](coagulation_operator.md)                       |                          20 |                                             2 |                                          0.181818 |                                        18 |
+| [pesticides sprayer](pesticides_sprayer.md)                           |                          14 |                                             2 |                                          0.181818 |                                        12 |
+| [chemical processing supervisor](chemical_processing_supervisor.md)   |                          21 |                                             2 |                                          0.181818 |                                        19 |
+| [industrial firefighter](industrial_firefighter.md)                   |                          29 |                                             2 |                                          0.181818 |                                        27 |

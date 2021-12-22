@@ -1,0 +1,18 @@
+#Occupation fisheries boatmaster
+##Number skills 45
+###Similar occupations:
+| occupation                                                              |   skills in this occupation |   skills that match fisheries boatmaster |   percentage match with fisheries boatmaster |   skills not in fisheries boatmaster |
+|:------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
+| [fisheries boatman](fisheries_boatman.md)                               |                          44 |                                       40 |                                     0.888889 |                                    4 |
+| [fisheries master](fisheries_master.md)                                 |                          43 |                                       39 |                                     0.866667 |                                    4 |
+| [boatswain](boatswain.md)                                               |                          28 |                                       17 |                                     0.377778 |                                   11 |
+| [fisheries deckhand](fisheries_deckhand.md)                             |                          38 |                                       16 |                                     0.355556 |                                   22 |
+| [fisheries observer](fisheries_observer.md)                             |                          16 |                                       13 |                                     0.288889 |                                    3 |
+| [deep-sea fishery worker](deep-sea_fishery_worker.md)                   |                          26 |                                       13 |                                     0.288889 |                                   13 |
+| [fisheries assistant engineer](fisheries_assistant_engineer.md)         |                          14 |                                       12 |                                     0.266667 |                                    2 |
+| [skipper](skipper.md)                                                   |                          51 |                                       12 |                                     0.266667 |                                   39 |
+| [fisheries refrigeration engineer](fisheries_refrigeration_engineer.md) |                          22 |                                        8 |                                     0.177778 |                                   14 |
+| [matrose](matrose.md)                                                   |                          60 |                                        7 |                                     0.155556 |                                   53 |
+| [deck officer](deck_officer.md)                                         |                          21 |                                        6 |                                     0.133333 |                                   15 |
+| [ship captain](ship_captain.md)                                         |                          32 |                                        6 |                                     0.133333 |                                   26 |
+| [aquaculture cage mooring worker](aquaculture_cage_mooring_worker.md)   |                          41 |                                        6 |                                     0.133333 |                                   35 |

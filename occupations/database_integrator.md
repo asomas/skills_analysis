@@ -1,0 +1,22 @@
+#Occupation database integrator
+##Number skills 16
+###Similar occupations:
+| occupation                                                                |   skills in this occupation |   skills that match database integrator |   percentage match with database integrator |   skills not in database integrator |
+|:--------------------------------------------------------------------------|----------------------------:|----------------------------------------:|--------------------------------------------:|------------------------------------:|
+| [data analyst](data_analyst.md)                                           |                          28 |                                       6 |                                      0.375  |                                  22 |
+| [data warehouse designer](data_warehouse_designer.md)                     |                          26 |                                       5 |                                      0.3125 |                                  21 |
+| [big data archive librarian](big_data_archive_librarian.md)               |                          20 |                                       5 |                                      0.3125 |                                  15 |
+| [data quality specialist](data_quality_specialist.md)                     |                          18 |                                       5 |                                      0.3125 |                                  13 |
+| [database designer](database_designer.md)                                 |                          27 |                                       5 |                                      0.3125 |                                  22 |
+| [database administrator](database_administrator.md)                       |                          25 |                                       5 |                                      0.3125 |                                  20 |
+| [database developer](database_developer.md)                               |                          18 |                                       5 |                                      0.3125 |                                  13 |
+| [data centre operator](data_centre_operator.md)                           |                          15 |                                       4 |                                      0.25   |                                  11 |
+| [data scientist](data_scientist.md)                                       |                          23 |                                       3 |                                      0.1875 |                                  20 |
+| [data entry clerk](data_entry_clerk.md)                                   |                           9 |                                       3 |                                      0.1875 |                                   6 |
+| [chief data officer](chief_data_officer.md)                               |                          12 |                                       2 |                                      0.125  |                                  10 |
+| [ICT application configurator](ICT_application_configurator.md)           |                          17 |                                       2 |                                      0.125  |                                  15 |
+| [ICT intelligent systems designer](ICT_intelligent_systems_designer.md)   |                          22 |                                       2 |                                      0.125  |                                  20 |
+| [knowledge engineer](knowledge_engineer.md)                               |                          21 |                                       2 |                                      0.125  |                                  19 |
+| [ICT system integration consultant](ICT_system_integration_consultant.md) |                          17 |                                       2 |                                      0.125  |                                  15 |
+| [data entry supervisor](data_entry_supervisor.md)                         |                          22 |                                       2 |                                      0.125  |                                  20 |
+| [digital forensics expert](digital_forensics_expert.md)                   |                          20 |                                       2 |                                      0.125  |                                  18 |

@@ -1,0 +1,19 @@
+#Occupation gas service technician
+##Number skills 12
+###Similar occupations:
+| occupation                                                              |   skills in this occupation |   skills that match gas service technician |   percentage match with gas service technician |   skills not in gas service technician |
+|:------------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
+| [biogas technician](biogas_technician.md)                               |                          12 |                                          4 |                                       0.333333 |                                      8 |
+| [water network operative](water_network_operative.md)                   |                          13 |                                          3 |                                       0.25     |                                     10 |
+| [gas distribution engineer](gas_distribution_engineer.md)               |                          21 |                                          3 |                                       0.25     |                                     18 |
+| [corrosion technician](corrosion_technician.md)                         |                          19 |                                          3 |                                       0.25     |                                     16 |
+| [sewerage network operative](sewerage_network_operative.md)             |                          13 |                                          3 |                                       0.25     |                                     10 |
+| [sewerage maintenance technician](sewerage_maintenance_technician.md)   |                          20 |                                          3 |                                       0.25     |                                     17 |
+| [gas processing plant operator](gas_processing_plant_operator.md)       |                          15 |                                          3 |                                       0.25     |                                     12 |
+| [oil and gas production manager](oil_and_gas_production_manager.md)     |                          22 |                                          2 |                                       0.166667 |                                     20 |
+| [plumber](plumber.md)                                                   |                          21 |                                          2 |                                       0.166667 |                                     19 |
+| [gas production engineer](gas_production_engineer.md)                   |                          22 |                                          2 |                                       0.166667 |                                     20 |
+| [gas processing plant supervisor](gas_processing_plant_supervisor.md)   |                          15 |                                          2 |                                       0.166667 |                                     13 |
+| [drainage worker](drainage_worker.md)                                   |                          19 |                                          2 |                                       0.166667 |                                     17 |
+| [heating engineer](heating_engineer.md)                                 |                          17 |                                          2 |                                       0.166667 |                                     15 |
+| [gas transmission system operator](gas_transmission_system_operator.md) |                          12 |                                          2 |                                       0.166667 |                                     10 |

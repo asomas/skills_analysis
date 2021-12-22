@@ -1,0 +1,29 @@
+#Occupation audio describer
+##Number skills 19
+###Similar occupations:
+| occupation                                                                |   skills in this occupation |   skills that match audio describer |   percentage match with audio describer |   skills not in audio describer |
+|:--------------------------------------------------------------------------|----------------------------:|------------------------------------:|----------------------------------------:|--------------------------------:|
+| [news anchor](news_anchor.md)                                             |                          17 |                                   3 |                                0.157895 |                              14 |
+| [voice-over artist](voice-over_artist.md)                                 |                          15 |                                   3 |                                0.157895 |                              12 |
+| [translation agency manager](translation_agency_manager.md)               |                          31 |                                   2 |                                0.105263 |                              29 |
+| [academic support officer](academic_support_officer.md)                   |                          20 |                                   2 |                                0.105263 |                              18 |
+| [boom operator](boom_operator.md)                                         |                          16 |                                   2 |                                0.105263 |                              14 |
+| [presenter](presenter.md)                                                 |                          19 |                                   2 |                                0.105263 |                              17 |
+| [camera operator](camera_operator.md)                                     |                          23 |                                   2 |                                0.105263 |                              21 |
+| [human resources assistant](human_resources_assistant.md)                 |                          16 |                                   2 |                                0.105263 |                              14 |
+| [human resources officer](human_resources_officer.md)                     |                          18 |                                   2 |                                0.105263 |                              16 |
+| [audiologist](audiologist.md)                                             |                          59 |                                   2 |                                0.105263 |                              57 |
+| [stunt performer](stunt_performer.md)                                     |                          12 |                                   2 |                                0.105263 |                              10 |
+| [weather forecaster](weather_forecaster.md)                               |                          11 |                                   2 |                                0.105263 |                               9 |
+| [railway passenger service agent](railway_passenger_service_agent.md)     |                          23 |                                   2 |                                0.105263 |                              21 |
+| [rental manager](rental_manager.md)                                       |                          21 |                                   2 |                                0.105263 |                              19 |
+| [video and motion picture director](video_and_motion_picture_director.md) |                          20 |                                   2 |                                0.105263 |                              18 |
+| [dance therapist](dance_therapist.md)                                     |                          15 |                                   2 |                                0.105263 |                              13 |
+| [dangerous goods safety adviser](dangerous_goods_safety_adviser.md)       |                          18 |                                   2 |                                0.105263 |                              16 |
+| [advertising media planner](advertising_media_planner.md)                 |                          13 |                                   2 |                                0.105263 |                              11 |
+| [director of photography](director_of_photography.md)                     |                          20 |                                   2 |                                0.105263 |                              18 |
+| [audio-visual technician](audio-visual_technician.md)                     |                          11 |                                   2 |                                0.105263 |                               9 |
+| [speechwriter](speechwriter.md)                                           |                          12 |                                   2 |                                0.105263 |                              10 |
+| [social work lecturer](social_work_lecturer.md)                           |                          82 |                                   2 |                                0.105263 |                              80 |
+| [interpretation agency manager](interpretation_agency_manager.md)         |                          25 |                                   2 |                                0.105263 |                              23 |
+| [stand-in](stand-in.md)                                                   |                          12 |                                   2 |                                0.105263 |                              10 |

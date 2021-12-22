@@ -1,0 +1,21 @@
+#Occupation livestock worker
+##Number skills 14
+###Similar occupations:
+| occupation                                                                        |   skills in this occupation |   skills that match livestock worker |   percentage match with livestock worker |   skills not in livestock worker |
+|:----------------------------------------------------------------------------------|----------------------------:|-------------------------------------:|-----------------------------------------:|---------------------------------:|
+| [groom](groom.md)                                                                 |                          26 |                                   10 |                                 0.714286 |                               16 |
+| [horse breeder](horse_breeder.md)                                                 |                          32 |                                    4 |                                 0.285714 |                               28 |
+| [equine yard manager](equine_yard_manager.md)                                     |                          16 |                                    4 |                                 0.285714 |                               12 |
+| [equine worker](equine_worker.md)                                                 |                          14 |                                    4 |                                 0.285714 |                               10 |
+| [pig breeder](pig_breeder.md)                                                     |                          30 |                                    4 |                                 0.285714 |                               26 |
+| [sheep breeder](sheep_breeder.md)                                                 |                          30 |                                    3 |                                 0.214286 |                               27 |
+| [cattle breeder](cattle_breeder.md)                                               |                          30 |                                    3 |                                 0.214286 |                               27 |
+| [fur animals breeder](fur_animals_breeder.md)                                     |                          29 |                                    3 |                                 0.214286 |                               26 |
+| [poultry breeder](poultry_breeder.md)                                             |                          24 |                                    2 |                                 0.142857 |                               22 |
+| [agronomic crop production team leader](agronomic_crop_production_team_leader.md) |                          33 |                                    2 |                                 0.142857 |                               31 |
+| [bee breeder](bee_breeder.md)                                                     |                          27 |                                    2 |                                 0.142857 |                               25 |
+| [crop production manager](crop_production_manager.md)                             |                          26 |                                    2 |                                 0.142857 |                               24 |
+| [shepherd](shepherd.md)                                                           |                          12 |                                    2 |                                 0.142857 |                               10 |
+| [dog breeder](dog_breeder.md)                                                     |                          21 |                                    2 |                                 0.142857 |                               19 |
+| [mixed farmer](mixed_farmer.md)                                                   |                           9 |                                    2 |                                 0.142857 |                                7 |
+| [livestock advisor](livestock_advisor.md)                                         |                          25 |                                    2 |                                 0.142857 |                               23 |

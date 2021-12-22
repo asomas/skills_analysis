@@ -1,0 +1,23 @@
+#Occupation tennis coach
+##Number skills 12
+###Similar occupations:
+| occupation                                                                                    |   skills in this occupation |   skills that match tennis coach |   percentage match with tennis coach |   skills not in tennis coach |
+|:----------------------------------------------------------------------------------------------|----------------------------:|---------------------------------:|-------------------------------------:|-----------------------------:|
+| [sports instructor](sports_instructor.md)                                                     |                          10 |                               10 |                             0.833333 |                            0 |
+| [horse riding instructor](horse_riding_instructor.md)                                         |                          13 |                                6 |                             0.5      |                            7 |
+| [physical education teacher secondary school](physical_education_teacher_secondary_school.md) |                          33 |                                5 |                             0.416667 |                           28 |
+| [sports coach](sports_coach.md)                                                               |                          26 |                                5 |                             0.416667 |                           21 |
+| [ski instructor](ski_instructor.md)                                                           |                           9 |                                4 |                             0.333333 |                            5 |
+| [swimming teacher](swimming_teacher.md)                                                       |                          12 |                                4 |                             0.333333 |                            8 |
+| [ice-skating coach](ice-skating_coach.md)                                                     |                          10 |                                4 |                             0.333333 |                            6 |
+| [physical education vocational teacher](physical_education_vocational_teacher.md)             |                          26 |                                3 |                             0.25     |                           23 |
+| [outdoor activities instructor](outdoor_activities_instructor.md)                             |                          18 |                                3 |                             0.25     |                           15 |
+| [football coach](football_coach.md)                                                           |                          15 |                                3 |                             0.25     |                           12 |
+| [golf instructor](golf_instructor.md)                                                         |                           9 |                                3 |                             0.25     |                            6 |
+| [boxing instructor](boxing_instructor.md)                                                     |                           9 |                                3 |                             0.25     |                            6 |
+| [snowboard instructor](snowboard_instructor.md)                                               |                           8 |                                3 |                             0.25     |                            5 |
+| [tour operator representative](tour_operator_representative.md)                               |                          19 |                                2 |                             0.166667 |                           17 |
+| [travel consultant](travel_consultant.md)                                                     |                          21 |                                2 |                             0.166667 |                           19 |
+| [tour organiser](tour_organiser.md)                                                           |                          20 |                                2 |                             0.166667 |                           18 |
+| [tourist information officer](tourist_information_officer.md)                                 |                          24 |                                2 |                             0.166667 |                           22 |
+| [guide](guide.md)                                                                             |                          20 |                                2 |                             0.166667 |                           18 |

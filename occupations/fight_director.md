@@ -1,0 +1,62 @@
+#Occupation fight director
+##Number skills 16
+###Similar occupations:
+| occupation                                                        |   skills in this occupation |   skills that match fight director |   percentage match with fight director |   skills not in fight director |
+|:------------------------------------------------------------------|----------------------------:|-----------------------------------:|---------------------------------------:|-------------------------------:|
+| [choreographer](choreographer.md)                                 |                          19 |                                  7 |                                 0.4375 |                             12 |
+| [dancer](dancer.md)                                               |                          20 |                                  6 |                                 0.375  |                             14 |
+| [dance répétiteur](dance_répétiteur.md)                           |                          21 |                                  5 |                                 0.3125 |                             16 |
+| [répétiteur](répétiteur.md)                                       |                          23 |                                  5 |                                 0.3125 |                             18 |
+| [choreologist](choreologist.md)                                   |                          15 |                                  5 |                                 0.3125 |                             10 |
+| [performance artist](performance_artist.md)                       |                          15 |                                  4 |                                 0.25   |                             11 |
+| [artistic coach](artistic_coach.md)                               |                          11 |                                  3 |                                 0.1875 |                              8 |
+| [scenic painter](scenic_painter.md)                               |                          22 |                                  3 |                                 0.1875 |                             19 |
+| [dresser](dresser.md)                                             |                          14 |                                  3 |                                 0.1875 |                             11 |
+| [audio production technician](audio_production_technician.md)     |                          25 |                                  3 |                                 0.1875 |                             22 |
+| [set builder](set_builder.md)                                     |                          22 |                                  3 |                                 0.1875 |                             19 |
+| [followspot operator](followspot_operator.md)                     |                          18 |                                  3 |                                 0.1875 |                             15 |
+| [scenery technician](scenery_technician.md)                       |                          20 |                                  3 |                                 0.1875 |                             17 |
+| [artistic painter](artistic_painter.md)                           |                          18 |                                  3 |                                 0.1875 |                             15 |
+| [prop maker](prop_maker.md)                                       |                          24 |                                  3 |                                 0.1875 |                             21 |
+| [event scaffolder](event_scaffolder.md)                           |                          15 |                                  3 |                                 0.1875 |                             12 |
+| [lighting technician](lighting_technician.md)                     |                          27 |                                  3 |                                 0.1875 |                             24 |
+| [video technician](video_technician.md)                           |                          17 |                                  3 |                                 0.1875 |                             14 |
+| [stage technician](stage_technician.md)                           |                          43 |                                  3 |                                 0.1875 |                             40 |
+| [costume maker](costume_maker.md)                                 |                          28 |                                  3 |                                 0.1875 |                             25 |
+| [wig and hairpiece maker](wig_and_hairpiece_maker.md)             |                          17 |                                  3 |                                 0.1875 |                             14 |
+| [prop master/prop mistress](prop_master-prop_mistress.md)         |                          26 |                                  3 |                                 0.1875 |                             23 |
+| [high rigger](high_rigger.md)                                     |                          22 |                                  3 |                                 0.1875 |                             19 |
+| [glass-blower](glass-blower.md)                                   |                          15 |                                  3 |                                 0.1875 |                             12 |
+| [intelligent lighting engineer](intelligent_lighting_engineer.md) |                          19 |                                  3 |                                 0.1875 |                             16 |
+| [sound operator](sound_operator.md)                               |                          36 |                                  3 |                                 0.1875 |                             33 |
+| [stage manager](stage_manager.md)                                 |                          27 |                                  3 |                                 0.1875 |                             24 |
+| [community artist](community_artist.md)                           |                          25 |                                  3 |                                 0.1875 |                             22 |
+| [head of workshop](head_of_workshop.md)                           |                          28 |                                  3 |                                 0.1875 |                             25 |
+| [flying director](flying_director.md)                             |                          17 |                                  3 |                                 0.1875 |                             14 |
+| [video operator](video_operator.md)                               |                          30 |                                  3 |                                 0.1875 |                             27 |
+| [automated fly bar operator](automated_fly_bar_operator.md)       |                          33 |                                  3 |                                 0.1875 |                             30 |
+| [stage machinist](stage_machinist.md)                             |                          32 |                                  3 |                                 0.1875 |                             29 |
+| [ground rigger](ground_rigger.md)                                 |                          12 |                                  3 |                                 0.1875 |                              9 |
+| [light board operator](light_board_operator.md)                   |                          29 |                                  3 |                                 0.1875 |                             26 |
+| [sculptor](sculptor.md)                                           |                          12 |                                  3 |                                 0.1875 |                              9 |
+| [tent installer](tent_installer.md)                               |                          13 |                                  3 |                                 0.1875 |                             10 |
+| [pyrotechnician](pyrotechnician.md)                               |                          23 |                                  3 |                                 0.1875 |                             20 |
+| [actor/actress](actor-actress.md)                                 |                          23 |                                  3 |                                 0.1875 |                             20 |
+| [conceptual artist](conceptual_artist.md)                         |                          15 |                                  3 |                                 0.1875 |                             12 |
+| [mask maker](mask_maker.md)                                       |                          14 |                                  3 |                                 0.1875 |                             11 |
+| [instrument technician](instrument_technician.md)                 |                          27 |                                  3 |                                 0.1875 |                             24 |
+| [stagehand](stagehand.md)                                         |                          13 |                                  3 |                                 0.1875 |                             10 |
+| [event electrician](event_electrician.md)                         |                           9 |                                  3 |                                 0.1875 |                              6 |
+| [handyman](handyman.md)                                           |                          18 |                                  2 |                                 0.125  |                             16 |
+| [barber](barber.md)                                               |                          16 |                                  2 |                                 0.125  |                             14 |
+| [illustrator](illustrator.md)                                     |                          16 |                                  2 |                                 0.125  |                             14 |
+| [video artist](video_artist.md)                                   |                          23 |                                  2 |                                 0.125  |                             21 |
+| [digital artist](digital_artist.md)                               |                          15 |                                  2 |                                 0.125  |                             13 |
+| [drawing artist](drawing_artist.md)                               |                          16 |                                  2 |                                 0.125  |                             14 |
+| [make-up artist](make-up_artist.md)                               |                          27 |                                  2 |                                 0.125  |                             25 |
+| [sound artist](sound_artist.md)                                   |                          21 |                                  2 |                                 0.125  |                             19 |
+| [miniature set designer](miniature_set_designer.md)               |                          17 |                                  2 |                                 0.125  |                             15 |
+| [performance hairdresser](performance_hairdresser.md)             |                          14 |                                  2 |                                 0.125  |                             12 |
+| [ceramicist](ceramicist.md)                                       |                          23 |                                  2 |                                 0.125  |                             21 |
+| [street artist](street_artist.md)                                 |                          18 |                                  2 |                                 0.125  |                             16 |
+| [glass artist](glass_artist.md)                                   |                          16 |                                  2 |                                 0.125  |                             14 |

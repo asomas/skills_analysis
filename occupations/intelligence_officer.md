@@ -1,0 +1,15 @@
+#Occupation intelligence officer
+##Number skills 10
+###Similar occupations:
+| occupation                                                                                    |   skills in this occupation |   skills that match intelligence officer |   percentage match with intelligence officer |   skills not in intelligence officer |
+|:----------------------------------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
+| [police commissioner](police_commissioner.md)                                                 |                          18 |                                        4 |                                          0.4 |                                   14 |
+| [private detective](private_detective.md)                                                     |                          18 |                                        4 |                                          0.4 |                                   14 |
+| [police detective](police_detective.md)                                                       |                          14 |                                        3 |                                          0.3 |                                   11 |
+| [warfare specialist](warfare_specialist.md)                                                   |                          14 |                                        2 |                                          0.2 |                                   12 |
+| [armed forces training and education officer](armed_forces_training_and_education_officer.md) |                          20 |                                        2 |                                          0.2 |                                   18 |
+| [police inspector](police_inspector.md)                                                       |                          12 |                                        2 |                                          0.2 |                                   10 |
+| [genealogist](genealogist.md)                                                                 |                          10 |                                        2 |                                          0.2 |                                    8 |
+| [juvenile correctional officer](juvenile_correctional_officer.md)                             |                          13 |                                        2 |                                          0.2 |                                   11 |
+| [special forces officer](special_forces_officer.md)                                           |                          22 |                                        2 |                                          0.2 |                                   20 |
+| [security guard supervisor](security_guard_supervisor.md)                                     |                          19 |                                        2 |                                          0.2 |                                   17 |

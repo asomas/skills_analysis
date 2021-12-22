@@ -1,0 +1,28 @@
+#Occupation eBusiness manager
+##Number skills 20
+###Similar occupations:
+| occupation                                                              |   skills in this occupation |   skills that match eBusiness manager |   percentage match with eBusiness manager |   skills not in eBusiness manager |
+|:------------------------------------------------------------------------|----------------------------:|--------------------------------------:|------------------------------------------:|----------------------------------:|
+| [travel agency manager](travel_agency_manager.md)                       |                          30 |                                     5 |                                      0.25 |                                25 |
+| [online marketer](online_marketer.md)                                   |                          23 |                                     5 |                                      0.25 |                                18 |
+| [ICT business analysis manager](ICT_business_analysis_manager.md)       |                          19 |                                     5 |                                      0.25 |                                14 |
+| [department store manager](department_store_manager.md)                 |                          17 |                                     4 |                                      0.2  |                                13 |
+| [ICT business development manager](ICT_business_development_manager.md) |                          16 |                                     4 |                                      0.2  |                                12 |
+| [sales manager](sales_manager.md)                                       |                          40 |                                     4 |                                      0.2  |                                36 |
+| [malt master](malt_master.md)                                           |                          27 |                                     3 |                                      0.15 |                                24 |
+| [brand manager](brand_manager.md)                                       |                          29 |                                     3 |                                      0.15 |                                26 |
+| [business intelligence manager](business_intelligence_manager.md)       |                          29 |                                     3 |                                      0.15 |                                26 |
+| [equality and inclusion manager](equality_and_inclusion_manager.md)     |                          31 |                                     3 |                                      0.15 |                                28 |
+| [ICT operations manager](ICT_operations_manager.md)                     |                          16 |                                     3 |                                      0.15 |                                13 |
+| [tourism product manager](tourism_product_manager.md)                   |                          29 |                                     3 |                                      0.15 |                                26 |
+| [accommodation manager](accommodation_manager.md)                       |                          17 |                                     3 |                                      0.15 |                                14 |
+| [trade regional manager](trade_regional_manager.md)                     |                          27 |                                     3 |                                      0.15 |                                24 |
+| [tour operators manager](tour_operators_manager.md)                     |                          29 |                                     3 |                                      0.15 |                                26 |
+| [ICT business analyst](ICT_business_analyst.md)                         |                          17 |                                     3 |                                      0.15 |                                14 |
+| [ICT vendor relationship manager](ICT_vendor_relationship_manager.md)   |                          19 |                                     3 |                                      0.15 |                                16 |
+| [destination manager](destination_manager.md)                           |                          27 |                                     3 |                                      0.15 |                                24 |
+| [camping ground manager](camping_ground_manager.md)                     |                          24 |                                     3 |                                      0.15 |                                21 |
+| [category manager](category_manager.md)                                 |                          47 |                                     3 |                                      0.15 |                                44 |
+| [promotion manager](promotion_manager.md)                               |                          36 |                                     3 |                                      0.15 |                                33 |
+| [ICT account manager](ICT_account_manager.md)                           |                          21 |                                     3 |                                      0.15 |                                18 |
+| [retail department manager](retail_department_manager.md)               |                          17 |                                     3 |                                      0.15 |                                14 |

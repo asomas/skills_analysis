@@ -1,0 +1,15 @@
+#Occupation human resources manager
+##Number skills 23
+###Similar occupations:
+| occupation                                                                |   skills in this occupation |   skills that match human resources manager |   percentage match with human resources manager |   skills not in human resources manager |
+|:--------------------------------------------------------------------------|----------------------------:|--------------------------------------------:|------------------------------------------------:|----------------------------------------:|
+| [equality and inclusion manager](equality_and_inclusion_manager.md)       |                          31 |                                          19 |                                        0.826087 |                                      12 |
+| [corporate training manager](corporate_training_manager.md)               |                          34 |                                          19 |                                        0.826087 |                                      15 |
+| [pension scheme manager](pension_scheme_manager.md)                       |                          27 |                                          15 |                                        0.652174 |                                      12 |
+| [public employment service manager](public_employment_service_manager.md) |                          17 |                                           9 |                                        0.391304 |                                       8 |
+| [human resources officer](human_resources_officer.md)                     |                          18 |                                           6 |                                        0.26087  |                                      12 |
+| [occupational analyst](occupational_analyst.md)                           |                          15 |                                           3 |                                        0.130435 |                                      12 |
+| [back office specialist](back_office_specialist.md)                       |                          16 |                                           3 |                                        0.130435 |                                      13 |
+| [recruitment consultant](recruitment_consultant.md)                       |                          20 |                                           3 |                                        0.130435 |                                      17 |
+| [employment agent](employment_agent.md)                                   |                          13 |                                           3 |                                        0.130435 |                                      10 |
+| [lottery manager](lottery_manager.md)                                     |                          28 |                                           3 |                                        0.130435 |                                      25 |

@@ -1,0 +1,23 @@
+#Occupation carpet weaver
+##Number skills 17
+###Similar occupations:
+| occupation                                                                                |   skills in this occupation |   skills that match carpet weaver |   percentage match with carpet weaver |   skills not in carpet weaver |
+|:------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
+| [knitting machine operator](knitting_machine_operator.md)                                 |                          20 |                                 8 |                              0.470588 |                            12 |
+| [carpet handicraft worker](carpet_handicraft_worker.md)                                   |                          11 |                                 6 |                              0.352941 |                             5 |
+| [weaver](weaver.md)                                                                       |                           9 |                                 5 |                              0.294118 |                             4 |
+| [knitter](knitter.md)                                                                     |                          10 |                                 3 |                              0.176471 |                             7 |
+| [textile shop manager](textile_shop_manager.md)                                           |                          31 |                                 3 |                              0.176471 |                            28 |
+| [fashion designer](fashion_designer.md)                                                   |                          18 |                                 3 |                              0.176471 |                            15 |
+| [weaving machine operator](weaving_machine_operator.md)                                   |                          11 |                                 3 |                              0.176471 |                             8 |
+| [mattress making machine operator](mattress_making_machine_operator.md)                   |                          10 |                                 3 |                              0.176471 |                             7 |
+| [tufting operator](tufting_operator.md)                                                   |                           7 |                                 3 |                              0.176471 |                             4 |
+| [mattress maker](mattress_maker.md)                                                       |                           9 |                                 2 |                              0.117647 |                             7 |
+| [leather laboratory technician](leather_laboratory_technician.md)                         |                          22 |                                 2 |                              0.117647 |                            20 |
+| [textile machine operator](textile_machine_operator.md)                                   |                          17 |                                 2 |                              0.117647 |                            15 |
+| [leather wet processing department manager](leather_wet_processing_department_manager.md) |                          29 |                                 2 |                              0.117647 |                            27 |
+| [furniture upholsterer](furniture_upholsterer.md)                                         |                          16 |                                 2 |                              0.117647 |                            14 |
+| [leather production manager](leather_production_manager.md)                               |                          35 |                                 2 |                              0.117647 |                            33 |
+| [braiding machine operator](braiding_machine_operator.md)                                 |                          12 |                                 2 |                              0.117647 |                            10 |
+| [textile pattern making machine operator](textile_pattern_making_machine_operator.md)     |                           7 |                                 2 |                              0.117647 |                             5 |
+| [leather finishing operations manager](leather_finishing_operations_manager.md)           |                          30 |                                 2 |                              0.117647 |                            28 |

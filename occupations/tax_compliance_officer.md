@@ -1,0 +1,21 @@
+#Occupation tax compliance officer
+##Number skills 17
+###Similar occupations:
+| occupation                                                        |   skills in this occupation |   skills that match tax compliance officer |   percentage match with tax compliance officer |   skills not in tax compliance officer |
+|:------------------------------------------------------------------|----------------------------:|-------------------------------------------:|-----------------------------------------------:|---------------------------------------:|
+| [tax advisor](tax_advisor.md)                                     |                          17 |                                          6 |                                       0.352941 |                                     11 |
+| [tax inspector](tax_inspector.md)                                 |                          12 |                                          6 |                                       0.352941 |                                      6 |
+| [tax clerk](tax_clerk.md)                                         |                          12 |                                          5 |                                       0.294118 |                                      7 |
+| [bankruptcy trustee](bankruptcy_trustee.md)                       |                          13 |                                          4 |                                       0.235294 |                                      9 |
+| [credit manager](credit_manager.md)                               |                          28 |                                          3 |                                       0.176471 |                                     25 |
+| [credit analyst](credit_analyst.md)                               |                          16 |                                          3 |                                       0.176471 |                                     13 |
+| [debt collector](debt_collector.md)                               |                          19 |                                          3 |                                       0.176471 |                                     16 |
+| [insurance collector](insurance_collector.md)                     |                          14 |                                          3 |                                       0.176471 |                                     11 |
+| [credit adviser](credit_adviser.md)                               |                          18 |                                          3 |                                       0.176471 |                                     15 |
+| [pawnbroker](pawnbroker.md)                                       |                          16 |                                          3 |                                       0.176471 |                                     13 |
+| [customs and excise officer](customs_and_excise_officer.md)       |                          11 |                                          2 |                                       0.117647 |                                      9 |
+| [fiscal affairs policy officer](fiscal_affairs_policy_officer.md) |                          15 |                                          2 |                                       0.117647 |                                     13 |
+| [tax policy analyst](tax_policy_analyst.md)                       |                          17 |                                          2 |                                       0.117647 |                                     15 |
+| [risk manager](risk_manager.md)                                   |                          28 |                                          2 |                                       0.117647 |                                     26 |
+| [accountant](accountant.md)                                       |                          26 |                                          2 |                                       0.117647 |                                     24 |
+| [foreclosure specialist](foreclosure_specialist.md)               |                          15 |                                          2 |                                       0.117647 |                                     13 |

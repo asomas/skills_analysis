@@ -1,0 +1,21 @@
+#Occupation army corporal
+##Number skills 11
+###Similar occupations:
+| occupation                                                                                    |   skills in this occupation |   skills that match army corporal |   percentage match with army corporal |   skills not in army corporal |
+|:----------------------------------------------------------------------------------------------|----------------------------:|----------------------------------:|--------------------------------------:|------------------------------:|
+| [armed forces officer](armed_forces_officer.md)                                               |                          21 |                                 9 |                              0.818182 |                            12 |
+| [special forces officer](special_forces_officer.md)                                           |                          22 |                                 8 |                              0.727273 |                            14 |
+| [army major](army_major.md)                                                                   |                          11 |                                 8 |                              0.727273 |                             3 |
+| [sergeant](sergeant.md)                                                                       |                          13 |                                 8 |                              0.727273 |                             5 |
+| [squadron leader](squadron_leader.md)                                                         |                          10 |                                 7 |                              0.636364 |                             3 |
+| [army captain](army_captain.md)                                                               |                          12 |                                 6 |                              0.545455 |                             6 |
+| [navy officer](navy_officer.md)                                                               |                          21 |                                 6 |                              0.545455 |                            15 |
+| [artillery officer](artillery_officer.md)                                                     |                          15 |                                 6 |                              0.545455 |                             9 |
+| [armed forces training and education officer](armed_forces_training_and_education_officer.md) |                          20 |                                 6 |                              0.545455 |                            14 |
+| [lieutenant](lieutenant.md)                                                                   |                          14 |                                 6 |                              0.545455 |                             8 |
+| [air force officer](air_force_officer.md)                                                     |                          21 |                                 6 |                              0.545455 |                            15 |
+| [infantry soldier](infantry_soldier.md)                                                       |                          12 |                                 4 |                              0.363636 |                             8 |
+| [colonel](colonel.md)                                                                         |                          10 |                                 3 |                              0.272727 |                             7 |
+| [warfare specialist](warfare_specialist.md)                                                   |                          14 |                                 3 |                              0.272727 |                            11 |
+| [brigadier](brigadier.md)                                                                     |                          14 |                                 3 |                              0.272727 |                            11 |
+| [military engineer](military_engineer.md)                                                     |                          14 |                                 2 |                              0.181818 |                            12 |

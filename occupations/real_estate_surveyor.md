@@ -1,0 +1,22 @@
+#Occupation real estate surveyor
+##Number skills 11
+###Similar occupations:
+| occupation                                                        |   skills in this occupation |   skills that match real estate surveyor |   percentage match with real estate surveyor |   skills not in real estate surveyor |
+|:------------------------------------------------------------------|----------------------------:|-----------------------------------------:|---------------------------------------------:|-------------------------------------:|
+| [property appraiser](property_appraiser.md)                       |                          15 |                                        8 |                                     0.727273 |                                    7 |
+| [property acquisitions manager](property_acquisitions_manager.md) |                          25 |                                        8 |                                     0.727273 |                                   17 |
+| [real estate investor](real_estate_investor.md)                   |                          14 |                                        7 |                                     0.636364 |                                    7 |
+| [real estate agent](real_estate_agent.md)                         |                          20 |                                        7 |                                     0.636364 |                                   13 |
+| [letting agent](letting_agent.md)                                 |                          17 |                                        6 |                                     0.545455 |                                   11 |
+| [real estate leasing manager](real_estate_leasing_manager.md)     |                          24 |                                        4 |                                     0.363636 |                                   20 |
+| [property assistant](property_assistant.md)                       |                          19 |                                        3 |                                     0.272727 |                                   16 |
+| [foreclosure specialist](foreclosure_specialist.md)               |                          15 |                                        3 |                                     0.272727 |                                   12 |
+| [housing manager](housing_manager.md)                             |                          28 |                                        3 |                                     0.272727 |                                   25 |
+| [mortgage broker](mortgage_broker.md)                             |                          22 |                                        3 |                                     0.272727 |                                   19 |
+| [relocation officer](relocation_officer.md)                       |                          14 |                                        3 |                                     0.272727 |                                   11 |
+| [real estate manager](real_estate_manager.md)                     |                          32 |                                        3 |                                     0.272727 |                                   29 |
+| [business valuer](business_valuer.md)                             |                          17 |                                        2 |                                     0.181818 |                                   15 |
+| [property developer](property_developer.md)                       |                          20 |                                        2 |                                     0.181818 |                                   18 |
+| [insurance underwriter](insurance_underwriter.md)                 |                          20 |                                        2 |                                     0.181818 |                                   18 |
+| [personal trust officer](personal_trust_officer.md)               |                          12 |                                        2 |                                     0.181818 |                                   10 |
+| [title closer](title_closer.md)                                   |                          15 |                                        2 |                                     0.181818 |                                   13 |

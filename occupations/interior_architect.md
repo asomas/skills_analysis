@@ -1,0 +1,21 @@
+#Occupation interior architect
+##Number skills 27
+###Similar occupations:
+| occupation                                                                    |   skills in this occupation |   skills that match interior architect |   percentage match with interior architect |   skills not in interior architect |
+|:------------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
+| [architect](architect.md)                                                     |                          32 |                                      9 |                                   0.333333 |                                 23 |
+| [landscape architect](landscape_architect.md)                                 |                          18 |                                      5 |                                   0.185185 |                                 13 |
+| [interior landscaper](interior_landscaper.md)                                 |                          19 |                                      4 |                                   0.148148 |                                 15 |
+| [architecture lecturer](architecture_lecturer.md)                             |                          23 |                                      4 |                                   0.148148 |                                 19 |
+| [interior planner](interior_planner.md)                                       |                          14 |                                      4 |                                   0.148148 |                                 10 |
+| [contract engineer](contract_engineer.md)                                     |                          15 |                                      3 |                                   0.111111 |                                 12 |
+| [chemical application specialist](chemical_application_specialist.md)         |                          13 |                                      3 |                                   0.111111 |                                 10 |
+| [urban planner](urban_planner.md)                                             |                          14 |                                      3 |                                   0.111111 |                                 11 |
+| [interpretation agency manager](interpretation_agency_manager.md)             |                          25 |                                      3 |                                   0.111111 |                                 22 |
+| [translation agency manager](translation_agency_manager.md)                   |                          31 |                                      3 |                                   0.111111 |                                 28 |
+| [aeronautical information specialist](aeronautical_information_specialist.md) |                          18 |                                      3 |                                   0.111111 |                                 15 |
+| [construction engineer](construction_engineer.md)                             |                          16 |                                      3 |                                   0.111111 |                                 13 |
+| [furniture specialised seller](furniture_specialised_seller.md)               |                          36 |                                      3 |                                   0.111111 |                                 33 |
+| [client relations manager](client_relations_manager.md)                       |                          24 |                                      3 |                                   0.111111 |                                 21 |
+| [hydropower engineer](hydropower_engineer.md)                                 |                          25 |                                      3 |                                   0.111111 |                                 22 |
+| [design engineer](design_engineer.md)                                         |                          16 |                                      3 |                                   0.111111 |                                 13 |

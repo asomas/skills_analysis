@@ -1,0 +1,19 @@
+#Occupation cabin crew manager
+##Number skills 24
+###Similar occupations:
+| occupation                                                                  |   skills in this occupation |   skills that match cabin crew manager |   percentage match with cabin crew manager |   skills not in cabin crew manager |
+|:----------------------------------------------------------------------------|----------------------------:|---------------------------------------:|-------------------------------------------:|-----------------------------------:|
+| [flight attendant](flight_attendant.md)                                     |                          30 |                                     24 |                                   1        |                                  6 |
+| [co-pilot](co-pilot.md)                                                     |                          43 |                                      8 |                                   0.333333 |                                 35 |
+| [second officer](second_officer.md)                                         |                          28 |                                      7 |                                   0.291667 |                                 21 |
+| [ship steward/ship stewardess](ship_steward-ship_stewardess.md)             |                          21 |                                      6 |                                   0.25     |                                 15 |
+| [air traffic controller](air_traffic_controller.md)                         |                          33 |                                      6 |                                   0.25     |                                 27 |
+| [helicopter pilot](helicopter_pilot.md)                                     |                          39 |                                      6 |                                   0.25     |                                 33 |
+| [commercial pilot](commercial_pilot.md)                                     |                          41 |                                      5 |                                   0.208333 |                                 36 |
+| [airline transport pilot](airline_transport_pilot.md)                       |                          36 |                                      5 |                                   0.208333 |                                 31 |
+| [air traffic instructor](air_traffic_instructor.md)                         |                          29 |                                      4 |                                   0.166667 |                                 25 |
+| [cabin crew instructor](cabin_crew_instructor.md)                           |                          17 |                                      4 |                                   0.166667 |                                 13 |
+| [air force pilot](air_force_pilot.md)                                       |                          33 |                                      4 |                                   0.166667 |                                 29 |
+| [logistics and distribution manager](logistics_and_distribution_manager.md) |                          32 |                                      3 |                                   0.125    |                                 29 |
+| [bus route supervisor](bus_route_supervisor.md)                             |                          13 |                                      3 |                                   0.125    |                                 10 |
+| [private pilot](private_pilot.md)                                           |                          32 |                                      3 |                                   0.125    |                                 29 |

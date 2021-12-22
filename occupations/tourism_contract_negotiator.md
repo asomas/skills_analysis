@@ -1,0 +1,14 @@
+#Occupation tourism contract negotiator
+##Number skills 21
+###Similar occupations:
+| occupation                                                                  |   skills in this occupation |   skills that match tourism contract negotiator |   percentage match with tourism contract negotiator |   skills not in tourism contract negotiator |
+|:----------------------------------------------------------------------------|----------------------------:|------------------------------------------------:|----------------------------------------------------:|--------------------------------------------:|
+| [tourism product manager](tourism_product_manager.md)                       |                          29 |                                               7 |                                            0.333333 |                                          22 |
+| [tour operators manager](tour_operators_manager.md)                         |                          29 |                                               4 |                                            0.190476 |                                          25 |
+| [ICT vendor relationship manager](ICT_vendor_relationship_manager.md)       |                          19 |                                               3 |                                            0.142857 |                                          16 |
+| [property developer](property_developer.md)                                 |                          20 |                                               3 |                                            0.142857 |                                          17 |
+| [ICT buyer](ICT_buyer.md)                                                   |                          20 |                                               3 |                                            0.142857 |                                          17 |
+| [tourist information centre manager](tourist_information_centre_manager.md) |                          31 |                                               3 |                                            0.142857 |                                          28 |
+| [park guide](park_guide.md)                                                 |                          30 |                                               3 |                                            0.142857 |                                          27 |
+| [travel agency manager](travel_agency_manager.md)                           |                          30 |                                               3 |                                            0.142857 |                                          27 |
+| [construction general contractor](construction_general_contractor.md)       |                          17 |                                               3 |                                            0.142857 |                                          14 |

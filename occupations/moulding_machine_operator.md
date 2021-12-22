@@ -1,0 +1,15 @@
+#Occupation moulding machine operator
+##Number skills 12
+###Similar occupations:
+| occupation                                                                  |   skills in this occupation |   skills that match moulding machine operator |   percentage match with moulding machine operator |   skills not in moulding machine operator |
+|:----------------------------------------------------------------------------|----------------------------:|----------------------------------------------:|--------------------------------------------------:|------------------------------------------:|
+| [mouldmaker](mouldmaker.md)                                                 |                          11 |                                            10 |                                          0.833333 |                                         1 |
+| [foundry operative](foundry_operative.md)                                   |                          13 |                                             7 |                                          0.583333 |                                         6 |
+| [concrete products machine operator](concrete_products_machine_operator.md) |                          11 |                                             5 |                                          0.416667 |                                         6 |
+| [brick and tile caster](brick_and_tile_caster.md)                           |                          14 |                                             4 |                                          0.333333 |                                        10 |
+| [cake press operator](cake_press_operator.md)                               |                          19 |                                             3 |                                          0.25     |                                        16 |
+| [candle maker](candle_maker.md)                                             |                          16 |                                             2 |                                          0.166667 |                                        14 |
+| [block machine operator](block_machine_operator.md)                         |                           9 |                                             2 |                                          0.166667 |                                         7 |
+| [doll maker](doll_maker.md)                                                 |                          13 |                                             2 |                                          0.166667 |                                        11 |
+| [casting machine operator](casting_machine_operator.md)                     |                          24 |                                             2 |                                          0.166667 |                                        22 |
+| [hand brick moulder](hand_brick_moulder.md)                                 |                          11 |                                             2 |                                          0.166667 |                                         9 |

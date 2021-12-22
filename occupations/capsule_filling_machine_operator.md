@@ -1,0 +1,12 @@
+#Occupation capsule filling machine operator
+##Number skills 14
+###Similar occupations:
+| occupation                                                                |   skills in this occupation |   skills that match capsule filling machine operator |   percentage match with capsule filling machine operator |   skills not in capsule filling machine operator |
+|:--------------------------------------------------------------------------|----------------------------:|-----------------------------------------------------:|---------------------------------------------------------:|-------------------------------------------------:|
+| [animal feed supervisor](animal_feed_supervisor.md)                       |                          29 |                                                    2 |                                                 0.142857 |                                               27 |
+| [fisheries deckhand](fisheries_deckhand.md)                               |                          38 |                                                    2 |                                                 0.142857 |                                               36 |
+| [construction quality inspector](construction_quality_inspector.md)       |                          18 |                                                    2 |                                                 0.142857 |                                               16 |
+| [aquaculture recirculation manager](aquaculture_recirculation_manager.md) |                          33 |                                                    2 |                                                 0.142857 |                                               31 |
+| [aquaculture cage mooring worker](aquaculture_cage_mooring_worker.md)     |                          41 |                                                    2 |                                                 0.142857 |                                               39 |
+| [land-based machinery technician](land-based_machinery_technician.md)     |                          12 |                                                    2 |                                                 0.142857 |                                               10 |
+| [land-based machinery operator](land-based_machinery_operator.md)         |                          15 |                                                    2 |                                                 0.142857 |                                               13 |
